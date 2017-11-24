@@ -2,6 +2,7 @@ package be.unamur.mlvm.test;
 
 import be.unamur.mlvm.evaluator.EvaluationResult;
 import be.unamur.mlvm.evaluator.LearningModelEvaluator;
+import be.unamur.mlvm.reasoner.LearningModel;
 import be.unamur.mlvm.reasoner.weka.BooleanFeatureHandler;
 import be.unamur.mlvm.reasoner.weka.Classifiers;
 import be.unamur.mlvm.reasoner.weka.WekaLearningModel;
@@ -16,19 +17,21 @@ public class Test {
     public static void main(String[] args) {
 
         System.out.println("Generating data");
-        VariabilityModel testModel = createTestModel();
+        // building mock vm
+        VariabilityModel testModel = createTestVariabilityModel();
 
-        LearningModelEvaluator ev = new LearningModelEvaluator(
-                capacity -> new WekaLearningModel(testModel, Classifiers.SVM(), new BooleanFeatureHandler(), capacity),
+        // creating evaluator
+        LearningModelEvaluator ev = new LearningModelEvaluator(capacity -> createLearningModel(capacity, testModel),
                 testModel, testModel);
 
-
+        // generating 100 random samples
         ArrayList<Configuration> samples = new ArrayList<>();
         for (int i = 0; i < 100; i++)
             samples.add(new MockConfiguration(generateRandomValues(testModel.features())));
 
         System.out.println("Evaluation");
-        EvaluationResult res = ev.crossValidateKFold(samples, 2);
+        // 50-fold cross-validation
+        EvaluationResult res = ev.crossValidateKFold(samples, 50);
 
         System.out.println("Results");
         System.out.println(" Precision: " + res.getPrecision());
@@ -36,7 +39,14 @@ public class Test {
         System.out.println(" F-Score: " + res.getFScore());
     }
 
-    private static VariabilityModel createTestModel() {
+    private static LearningModel createLearningModel(int capacity, VariabilityModel testModel) {
+        return new WekaLearningModel(testModel,
+                Classifiers.J48(), // here select the classifier
+                new BooleanFeatureHandler(), // to handle boolean feature
+                capacity);
+    }
+
+    private static VariabilityModel createTestVariabilityModel() {
         FeatureId f1 = new FeatureId("Feature #1");
         FeatureId f2 = new FeatureId("Feature #2");
         FeatureId f3 = new FeatureId("Feature #3");

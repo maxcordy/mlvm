@@ -25,6 +25,13 @@ public class WekaLearningModel implements LearningModel {
     private final Attribute validityAttribute;
     private Classifier classifier;
 
+    /**
+     * Creates a learning model.
+     * @param model the vm
+     * @param factory a factory used to create a Weka classifier to train
+     * @param featureHandler a handler that
+     * @param capacity the amount of elements that will be added to the training set
+     */
     public WekaLearningModel(VariabilityModel model,
                                 ClassifierFactory factory,
                                 FeatureHandler featureHandler,

@@ -17,6 +17,12 @@ public class LearningModelEvaluator {
     private final Oracle trainingOracle;
     private final Oracle validationOracle;
 
+    /**
+     * Create a new evaluator
+     * @param learningModelFactory a factory that creates the learning model (cross-validation will create several times a model)
+     * @param trainingOracle an oracle to validate the training data
+     * @param validationOracle an oracle to validate the evaluation data
+     */
     public LearningModelEvaluator(LearningModelFactory learningModelFactory, Oracle trainingOracle, Oracle validationOracle) {
         Assert.notNull(learningModelFactory);
         Assert.notNull(trainingOracle);
@@ -26,6 +32,12 @@ public class LearningModelEvaluator {
         this.validationOracle = validationOracle;
     }
 
+    /**
+     * Train a model with the training set, then validate it against the testing set
+     * @param trainingSet
+     * @param testingSet
+     * @return
+     */
     public EvaluationResult evaluate(List<Configuration> trainingSet, List<Configuration> testingSet) {
         LearningModel learningModel = learningModelFactory.create(trainingSet.size());
         // training
@@ -38,18 +50,24 @@ public class LearningModelEvaluator {
         return new EvaluationResult(results);
     }
 
-    public EvaluationResult crossValidateKFold(List<Configuration> crossTrainingSet, int k) {
+    /**
+     * Cross-validate the given data set
+     * @param dataSet
+     * @param k numbers of cuts
+     * @return
+     */
+    public EvaluationResult crossValidateKFold(List<Configuration> dataSet, int k) {
 
         Stream<TestResult> results = IntStream.range(0, k).mapToObj(x -> {
-            int from = x * crossTrainingSet.size() / k;
-            int to = (x + 1) * crossTrainingSet.size() / k;
-            List<Configuration> testingSet = crossTrainingSet.subList(from, to);
+            int from = x * dataSet.size() / k;
+            int to = (x + 1) * dataSet.size() / k;
+            List<Configuration> testingSet = dataSet.subList(from, to);
 
             // training
-            LearningModel learningModel = learningModelFactory.create(crossTrainingSet.size() - testingSet.size());
-            crossTrainingSet.subList(0, from)
+            LearningModel learningModel = learningModelFactory.create(dataSet.size() - testingSet.size());
+            dataSet.subList(0, from)
                     .forEach(sample -> learningModel.train(sample, trainingOracle.isValid(sample)));
-            crossTrainingSet.subList(to, crossTrainingSet.size())
+            dataSet.subList(to, dataSet.size())
                     .forEach(sample -> learningModel.train(sample, trainingOracle.isValid(sample)));
 
             // evaluation
