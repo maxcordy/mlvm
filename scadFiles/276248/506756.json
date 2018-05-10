@@ -1,0 +1,1 @@
+{"part":{"values":["first"," second"," both"],"type":"enum"},"text":{"type":"string"},"radius":{"type":"float"},"number_of_rings":{"type":"float"},"spacing":{"type":"float"},"height":{"type":"float"},"extruders":{"values":["1","2"],"type":"enum"}}

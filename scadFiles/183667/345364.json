@@ -1,0 +1,1 @@
+{"draw_end_stop":{"values":["yes"," no"],"type":"enum"},"draw_corner_piece":{"values":["yes"," no"],"type":"enum"},"draw_straight_piece":{"values":["yes"," no"],"type":"enum"}}

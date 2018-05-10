@@ -1,0 +1,1 @@
+{"shell":{"type":"float"},"shelltop":{"type":"float"},"radius":{"type":"float"},"overlap":{"type":"float"},"str_support":{"values":["yes"," no"],"type":"enum"},"str_twohalves":{"values":["yes"," no"],"type":"enum"}}

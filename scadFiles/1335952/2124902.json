@@ -1,0 +1,1 @@
+{"inner_diameter":{"type":"float"},"nib_ratio":{"end":4.0,"step":0.1,"type":"range","start":1.0},"circle_polys":{"end":200.0,"step":1,"type":"range","start":30.0},"height":{"type":"float"},"thick":{"type":"float"},"lip_diameter":{"type":"float"},"clip_space":{"type":"float"},"num_clips":{"end":15.0,"step":1,"type":"range","start":1.0}}

@@ -1,0 +1,1 @@
+{"wallthickness":{"end":5.0,"step":1,"type":"range","start":1.5},"length":{"end":150.0,"step":1,"type":"range","start":50.0},"height":{"end":150.0,"step":1,"type":"range","start":50.0},"resolution":{"end":300.0,"step":1,"type":"range","start":10.0},"width":{"end":150.0,"step":1,"type":"range","start":50.0},"twist":{"end":100.0,"step":1,"type":"range","start":0.0}}

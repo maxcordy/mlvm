@@ -1,0 +1,1 @@
+{"number_of_balls":{"values":["0","1","2"],"type":"enum"},"ball_size":{"type":"float"},"font_size":{"values":["6","8","10"],"type":"enum"}}

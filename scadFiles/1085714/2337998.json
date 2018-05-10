@@ -1,0 +1,1 @@
+{"bearing_tolerance":{"type":"float"},"hole_tolerance":{"type":"float"},"nut_tolerance":{"type":"float"},"pos":{"values":["0","1"],"type":"enum"}}

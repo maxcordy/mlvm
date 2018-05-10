@@ -1,0 +1,1 @@
+{"xySpace":{"type":"float"},"numberOfCards":{"type":"float"},"cardWidth":{"type":"float"},"lidOnly":{"values":["yes","no"],"type":"enum"},"baseEdgeThickness":{"type":"float"},"cardHeight":{"type":"float"},"filletSize":{"type":"float"},"totalCardDepth":{"type":"float"},"topBottomInterlockClearance":{"type":"float"},"zSpace":{"type":"float"},"interlockClearance":{"type":"float"}}

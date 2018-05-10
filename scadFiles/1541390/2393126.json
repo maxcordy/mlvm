@@ -1,0 +1,1 @@
+{"branchLength":{"type":"float"},"branchAngle":{"end":50.0,"step":1,"type":"range","start":0.0},"BaseHeight":{"type":"float"},"numBranches":{"end":10.0,"step":1,"type":"range","start":1.0},"number_of_levels":{"end":7.0,"step":1,"type":"range","start":1.0},"BaseRadius":{"type":"float"}}

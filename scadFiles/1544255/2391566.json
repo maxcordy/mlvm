@@ -1,0 +1,1 @@
+{"Connector1Angle":{"type":"float"},"NutType":{"values":["hexagonal"," pentagonal"," square"," none"],"type":"enum"},"Connector2Angle":{"type":"float"},"NutDiameter":{"type":"float"},"BeamWidth":{"type":"float"}}

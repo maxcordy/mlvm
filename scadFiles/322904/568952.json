@@ -1,0 +1,1 @@
+{"supports":{"values":["0","1"],"type":"enum"},"floor_height":{"type":"float"},"slot_height":{"type":"float"},"snaps":{"type":"float"},"slot_width":{"type":"float"},"female_snap_fit_tolerance":{"type":"float"},"male_snap_fit_tolerance":{"type":"float"},"wall_thickness":{"type":"float"}}

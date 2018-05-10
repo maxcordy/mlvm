@@ -1,0 +1,1 @@
+{"CenterHoleDiameter":{"type":"float"},"Radius":{"type":"float"},"HollowCenter":{"values":["yes","no"],"type":"enum"},"ShowCrossSection":{"values":["yes","no"],"type":"enum"},"Size":{"type":"float"}}

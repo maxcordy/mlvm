@@ -1,0 +1,1 @@
+{"num":{"type":"float"},"length":{"type":"float"},"thickness":{"type":"float"},"assembly":{"values":["model"," tent"," sheet"," struts"],"type":"enum"},"wall_thickness":{"type":"float"},"width":{"type":"float"},"theta":{"type":"float"},"bin_width":{"type":"float"}}

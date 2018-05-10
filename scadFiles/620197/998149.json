@@ -1,0 +1,1 @@
+{"pinOrTail":{"values":["pin","tail","both"],"type":"enum"},"pinHeightFraction":{"type":"float"},"fitTolerance":{"type":"float"},"cornerTrim":{"type":"float"},"overhangDepth":{"type":"float"},"pinDepth":{"type":"float"},"pinWidth":{"type":"float"},"overhangWidth":{"type":"float"},"tailHeight":{"type":"float"},"pinWidthFraction":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"textlocation":{"end":30.0,"step":5.0,"type":"range","start":10.0},"stick_length":{"end":150.0,"step":10.0,"type":"range","start":100.0},"luckyhole":{"values":["Yes","No"],"type":"enum"},"swapper_thickness":{"end":3.0,"step":0.5,"type":"range","start":1.5},"sometext":{"type":"string"},"swaphanger":{"values":["Yes","No"],"type":"enum"}}

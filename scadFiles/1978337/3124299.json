@@ -1,0 +1,1 @@
+{"camHeight":{"end":170.0,"step":1,"type":"range","start":20.0},"boltFromLeftOfCamera":{"end":340.0,"step":1,"type":"range","start":8.0},"camType":{"values":["1"," 2"],"type":"enum"},"camWidth":{"end":350.0,"step":1,"type":"range","start":5.0},"sensorWidth":{"end":18.0,"step":1,"type":"range","start":0.0},"$fn":{"type":"float"}}

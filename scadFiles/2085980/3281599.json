@@ -1,0 +1,1 @@
+{"screw_radius":{"type":"float"},"screw_plate_width":{"type":"float"},"radius":{"type":"float"},"crown_height":{"type":"float"},"screw_head_radius":{"type":"float"},"width":{"type":"float"},"screw_head_height":{"type":"float"},"screw_head_type":{"values":["0","1","2","3","4"],"type":"enum"},"gap":{"type":"float"}}

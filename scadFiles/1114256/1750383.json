@@ -1,0 +1,1 @@
+{"angle":{"end":10.0,"step":1,"type":"range","start":1.0},"depth":{"end":20.0,"step":1,"type":"range","start":5.0},"thickness":{"type":"float"},"wlthk":{"end":5.0,"step":1,"type":"range","start":2.0},"penD":{"type":"float"}}

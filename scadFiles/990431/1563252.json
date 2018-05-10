@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"use_screws":{"values":["0","1"],"type":"enum"},"num_screws":{"type":"float"},"spine_height":{"type":"float"},"tooth_height":{"type":"float"},"tpi":{"type":"float"},"screw_inset":{"type":"float"},"screw_spacing":{"type":"float"},"width":{"type":"float"},"screw_dia":{"type":"float"},"screw_head_dia":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"cell_rim_thiknes":{"type":"float"},"cell_holder_hight":{"type":"float"},"cell_dia":{"type":"float"},"tab_thickness":{"type":"float"},"cell_rim_hight":{"type":"float"},"$fn":{"type":"float"},"pack_y":{"end":20.0,"step":1,"type":"range","start":1.0},"pack_x":{"end":20.0,"step":1,"type":"range","start":1.0},"tab_width":{"type":"float"}}

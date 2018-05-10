@@ -1,0 +1,1 @@
+{"spike_height":{"end":8.0,"step":1,"type":"range","start":5.0},"letter_type":{"values":["fancy","plain"],"type":"enum"},"marker_diameter":{"end":20.0,"step":1,"type":"range","start":10.0},"letter_height":{"values":["9"," 10"," 11"," 12"," 13"],"type":"enum"},"flip_model_to":{"type":"float"},"initials":{"type":"string"}}

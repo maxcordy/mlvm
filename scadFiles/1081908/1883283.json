@@ -1,0 +1,1 @@
+{"part":{"type":"string"},"time_notation":{"type":"float"},"month_notation":{"values":["2"," 3"],"type":"enum"},"font_choice":{"type":"string"},"density":{"end":10.0,"step":1,"type":"range","start":1.0},"style":{"values":["Fill"," Spiral"," Straight"],"type":"enum"}}

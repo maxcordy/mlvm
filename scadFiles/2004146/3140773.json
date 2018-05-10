@@ -1,0 +1,1 @@
+{"distance":{"type":"float"},"depth":{"type":"float"},"form":{"values":["1","2"],"type":"enum"},"size":{"type":"float"},"delta_top":{"type":"float"},"wall":{"values":["1","2","3","4","5"," 6"],"type":"enum"},"type":{"values":["1","2"],"type":"enum"},"delta_bottom":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"floor_length":{"type":"float"},"avoid_extreme_overhangs":{"values":["1","-1"],"type":"enum"},"pillar_height":{"type":"float"},"pillar_style":{"values":["0"," 1"],"type":"enum"},"unit":{"values":["1","10","25.4"],"type":"enum"},"pillars_per_row":{"type":"float"},"pillar_width":{"type":"float"},"floor_width":{"type":"float"}}

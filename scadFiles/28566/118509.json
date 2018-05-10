@@ -1,0 +1,1 @@
+{"SERVO_HEAD_CLEAR":{"values":["0.2","0.3","0.4","0.5"],"type":"enum"},"arm_length":{"type":"float"},"arm_count":{"values":["1","2","3","4","5","6","7","8"],"type":"enum"},"FUTABA_3F_SPLINE":{"type":"float"}}

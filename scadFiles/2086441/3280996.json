@@ -1,0 +1,1 @@
+{"heightDiff":{"end":50.0,"step":1,"type":"range","start":10.0},"numSticks":{"end":10.0,"step":1,"type":"range","start":1.0},"stickWidth":{"end":40.0,"step":1,"type":"range","start":1.0},"drillDiameter":{"end":8.0,"step":1,"type":"range","start":3.0},"stickHeight":{"end":40.0,"step":1,"type":"range","start":1.0},"numberDrills":{"values":["1"," 2"],"type":"enum"}}

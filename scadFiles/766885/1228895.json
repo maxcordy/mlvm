@@ -1,0 +1,1 @@
+{"baseCorners":{"type":"float"},"cubeSize":{"type":"float"},"baseThickness":{"type":"float"},"tube_diameter":{"type":"float"},"ball_diameter":{"type":"float"},"make":{"values":["atom"," atomium"],"type":"enum"},"bottom_elevation":{"type":"float"}}

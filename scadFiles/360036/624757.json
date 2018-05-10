@@ -1,0 +1,1 @@
+{"text_size":{"end":11.0,"step":1,"type":"range","start":8.0},"text_font":{"values":["knewave.dxf"," Letters.dxf"," orbitron.dxf"," BlackRose.dxf"," braille.dxf"],"type":"enum"},"show_text":{"values":["yes","no"],"type":"enum"},"text_allignment":{"values":["embossed","engraved"],"type":"enum"},"text_itself":{"type":"string"}}

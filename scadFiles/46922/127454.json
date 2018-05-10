@@ -1,0 +1,1 @@
+{"whichFoot":{"values":["0","1"],"type":"enum"},"thickness":{"values":["0","0.75","1.5"],"type":"enum"},"heelWidth":{"type":"float"},"archHeight":{"type":"float"},"beginningOfArch":{"type":"float"},"endOfArch":{"type":"float"},"footWidth":{"type":"float"}}

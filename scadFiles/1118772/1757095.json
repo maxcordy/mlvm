@@ -1,0 +1,1 @@
+{"_depth":{"type":"float"},"_cols":{"type":"float"},"_diam":{"type":"float"},"_rows":{"type":"float"},"_rad_rounded_edge":{"type":"float"},"_strShape":{"values":["circle","square","hex"],"type":"enum"},"_add_intersect_holes":{"values":["1","0"],"type":"enum"}}

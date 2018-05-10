@@ -1,0 +1,1 @@
+{"diam_8mm":{"values":["8","10","12"],"type":"enum"},"y_bars_gap":{"end":30.0,"step":1,"type":"range","start":15.0},"part_thickness":{"end":5.0,"step":1,"type":"range","start":2.0},"endstop_dt":{"end":10.0,"step":1,"type":"range","start":5.0},"endstop_ht":{"end":25.0,"step":1,"type":"range","start":10.0},"endstop_wt":{"end":25.0,"step":1,"type":"range","start":15.0}}

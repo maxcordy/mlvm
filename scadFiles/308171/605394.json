@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"numArms":{"end":8.0,"step":1,"type":"range","start":1.0},"hexHoleDepth":{"type":"float"},"headDia":{"type":"float"},"hexBoltSize":{"type":"float"},"armWidth":{"type":"float"},"holeDia":{"type":"float"},"armLength":{"type":"float"}}

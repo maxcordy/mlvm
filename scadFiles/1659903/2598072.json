@@ -1,0 +1,1 @@
+{"TextLabel":{"type":"string"},"phone_thickness":{"end":16.0,"step":0.1,"type":"range","start":2.0},"phone_depth":{"end":7.0,"step":0.1,"type":"range","start":2.0},"phone_width":{"end":150.0,"step":1,"type":"range","start":50.0},"font_size":{"end":29.0,"step":1,"type":"range","start":3.0},"phone_name":{"type":"string"},"font":{"type":"string"}}

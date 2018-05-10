@@ -1,0 +1,1 @@
+{"shadow":{"values":["YES"," NO"],"type":"enum"},"maze_rows":{"type":"float"},"block_width":{"type":"float"},"wall_width":{"type":"float"},"line_steps":{"type":"float"},"wall_height":{"type":"float"}}

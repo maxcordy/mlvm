@@ -1,0 +1,1 @@
+{"holesize":{"end":10.0,"step":1,"type":"range","start":1.0},"button_diameter":{"end":100.0,"step":1,"type":"range","start":5.0},"holes":{"values":["2","3","4","5","6"],"type":"enum"},"rim_height":{"values":["1","2","3","4"],"type":"enum"},"button_style":{"values":["flat","bevel_edge","rim"],"type":"enum"},"button_thickness":{"end":50.0,"step":1,"type":"range","start":2.0}}

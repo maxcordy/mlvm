@@ -1,0 +1,1 @@
+{"layFlat":{"values":["yes","no"],"type":"enum"},"thickness":{"type":"float"},"holeSize":{"type":"float"},"pinFlange":{"type":"float"},"width":{"type":"float"},"height":{"type":"float"},"pinDistance":{"type":"float"},"pinLength":{"type":"float"},"pinWidth":{"type":"float"},"holeDistance":{"type":"float"}}

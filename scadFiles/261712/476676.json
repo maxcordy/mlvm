@@ -1,0 +1,1 @@
+{"count":{"values":["1","2"],"type":"enum"},"holder_cut_angle":{"end":80.0,"step":1,"type":"range","start":35.0},"roll_dia_cm":{"type":"float"},"holder_thickness_mm":{"type":"float"},"holder_height_mm":{"type":"float"}}

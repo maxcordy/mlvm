@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"object":{"values":["0","1","2"],"type":"enum"},"hole_twist":{"values":["0","1"],"type":"enum"},"pin_tolerance":{"type":"float"},"lip_thickness":{"type":"float"},"lip_height":{"type":"float"},"loose":{"type":"float"},"diameter":{"type":"float"},"hole_friction":{"values":["0","1"],"type":"enum"}}

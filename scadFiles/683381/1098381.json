@@ -1,0 +1,1 @@
+{"part":{"values":["right","left","both_for_print","both_for_display"],"type":"enum"},"text":{"type":"string"},"piece_th":{"type":"float"},"fontfilename":{"values":["write\/orbitron.dxf","write\/Letters.dxf","write\/knewave.dxf","write\/BlackRose.dxf","write\/braille.dxf"],"type":"enum"},"tileNumber":{"type":"float"},"piece_h":{"type":"float"},"piece_w":{"type":"float"}}

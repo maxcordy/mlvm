@@ -1,0 +1,1 @@
+{"size_z":{"end":140.0,"step":1,"type":"range","start":30.0},"wall_thickness":{"values":["1.2"," 1.8"," 2.4"," 3.0"],"type":"enum"},"object_to_create":{"values":["1"," 2"," 3"],"type":"enum"},"size_y":{"end":140.0,"step":1,"type":"range","start":30.0},"size_x":{"end":140.0,"step":1,"type":"range","start":30.0}}

@@ -1,0 +1,1 @@
+{"faces":{"type":"float"},"rcount":{"type":"float"},"outer":{"type":"float"},"center":{"values":["1","0"],"type":"enum"},"bearing":{"values":["1","0"],"type":"enum"},"rings":{"values":["1","0"],"type":"enum"},"height":{"type":"float"},"bdiameter":{"type":"float"},"inner":{"type":"float"},"rdiameter":{"type":"float"},"bheight":{"type":"float"}}

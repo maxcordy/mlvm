@@ -1,0 +1,1 @@
+{"make_pendant":{"values":["yes","no"],"type":"enum"},"font_size":{"type":"float"},"y_offset":{"type":"float"},"detail_height":{"type":"float"},"child_name":{"type":"string"}}

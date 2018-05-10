@@ -1,0 +1,1 @@
+{"pattern2_every":{"type":"float"},"angle":{"type":"float"},"spikes_scale":{"type":"float"},"pattern1":{"values":["bulb"," spike"],"type":"enum"},"bulb_type":{"values":["hole"," ball"," flat"],"type":"enum"},"pattern2":{"values":["bulb"," spike"],"type":"enum"}}

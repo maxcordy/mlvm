@@ -1,0 +1,1 @@
+{"layout":{"values":["1","2","3"],"type":"enum"},"headturning":{"end":45.0,"step":1,"type":"range","start":-45.0},"render_quality":{"values":["50","80","100"],"type":"enum"}}

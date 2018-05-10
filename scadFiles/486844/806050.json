@@ -1,0 +1,1 @@
+{"nose_shape":{"type":"string"},"left_eye":{"end":7.0,"step":1,"type":"range","start":0.0},"nose_circle":{"end":4.0,"step":1,"type":"range","start":0.0},"nose_square":{"end":7.0,"step":1,"type":"range","start":0.0},"right_eye":{"end":7.0,"step":1,"type":"range","start":0.0},"mouth":{"end":6.0,"step":1,"type":"range","start":0.0}}

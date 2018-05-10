@@ -1,0 +1,1 @@
+{"sidelength":{"end":100.0,"step":1,"type":"range","start":1.0},"thickness":{"end":20.0,"step":1,"type":"range","start":1.0},"tree_or_hex":{"values":["tree","hex"],"type":"enum"},"height":{"end":100.0,"step":1,"type":"range","start":1.0},"level":{"values":["1","2","3","4"],"type":"enum"},"bottom":{"values":["yes","no"],"type":"enum"}}

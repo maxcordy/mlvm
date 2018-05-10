@@ -1,0 +1,1 @@
+{"PlanterSides":{"type":"float"},"SaucerHeight":{"values":["Small"," Medium"," Large"],"type":"enum"},"WallThickness":{"type":"float"},"Height":{"type":"float"},"RoundPlanter":{"values":["Yes"," No"],"type":"enum"},"Diameter":{"type":"float"}}

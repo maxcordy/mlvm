@@ -1,0 +1,1 @@
+{"Zpos":{"end":4.0,"step":1,"type":"range","start":-16.0},"number":{"type":"float"},"show_logo":{"values":["yes","no"],"type":"enum"},"Xpos":{"end":4.0,"step":1,"type":"range","start":-4.0},"logo_size":{"type":"float"},"show_roof":{"values":["yes","no"],"type":"enum"}}

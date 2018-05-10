@@ -1,0 +1,1 @@
+{"text_size":{"type":"float"},"wall":{"type":"float"},"cylinder_elements":{"type":"float"},"text_rotation":{"type":"float"},"ball_diameter":{"type":"float"},"your_logo":{"type":"string"},"angle":{"values":["30"," 45"," 60"," 90"],"type":"enum"},"side":{"type":"float"}}

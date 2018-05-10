@@ -1,0 +1,1 @@
+{"textstring":{"type":"string"},"direction":{"type":"string"},"baseheight":{"type":"float"},"text_excenter_factor":{"type":"float"},"textsize":{"type":"float"},"RoundBase":{"values":["0","1"],"type":"enum"},"base_radius_add":{"type":"float"},"cutangle":{"type":"float"},"fontname":{"type":"string"}}

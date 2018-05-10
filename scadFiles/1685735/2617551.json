@@ -1,0 +1,1 @@
+{"Separated_Bases":{"type":"string"},"part":{"values":["invader","base","both"],"type":"enum"},"Fleet_Columns":{"end":10.0,"step":1,"type":"range","start":1.0},"seed":{"type":"float"},"Invader_Width":{"end":30.0,"step":1,"type":"range","start":3.0},"Fleet_Rows":{"end":10.0,"step":1,"type":"range","start":1.0},"Invader_Height":{"end":30.0,"step":1,"type":"range","start":3.0}}

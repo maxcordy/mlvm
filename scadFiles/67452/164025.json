@@ -1,0 +1,1 @@
+{"vent":{"type":"float"},"part":{"values":["\"both\""," \"base\""," \"top\""],"type":"enum"},"lipheight":{"type":"float"},"vertical_scale":{"type":"float"},"rad":{"end":200.0,"step":1,"type":"range","start":5.0},"thickshell":{"type":"float"}}

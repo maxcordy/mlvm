@@ -1,0 +1,1 @@
+{"Large_End_Diameter":{"type":"float"},"Small_End_Diameter":{"type":"float"},"Wall_Thickness":{"end":5.0,"step":1,"type":"range","start":1.0},"Funnel_Height":{"type":"float"},"Bottom_Spout_Length":{"type":"float"},"Top_Band":{"type":"float"}}

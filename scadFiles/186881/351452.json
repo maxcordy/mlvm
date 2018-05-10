@@ -1,0 +1,1 @@
+{"radius_out":{"end":15.0,"step":1,"type":"range","start":7.0},"radius_in":{"end":10.0,"step":1,"type":"range","start":7.0},"taper":{"type":"float"},"length":{"end":100.0,"step":1,"type":"range","start":30.0}}

@@ -1,0 +1,1 @@
+{"jetApertureDiameter":{"type":"float"},"headDiameter":{"type":"float"},"jetType":{"values":["0","1","2","3"],"type":"enum"},"jetsPerRow":{"end":30.0,"step":1,"type":"range","start":1.0},"headLength":{"type":"float"},"smoothness":{"values":["13"," 65"," 101"," 151"],"type":"enum"},"concentricCircles":{"end":30.0,"step":1,"type":"range","start":1.0}}

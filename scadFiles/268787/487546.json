@@ -1,0 +1,1 @@
+{"rotate_Offset_double_Helix_only":{"end":20.0,"step":1,"type":"range","start":0.0},"type":{"type":"string"},"height":{"type":"float"},"teeth":{"end":50.0,"step":1,"type":"range","start":18.0},"holeSize":{"type":"float"},"scale":{"type":"float"},"hole":{"values":["Yes","No"],"type":"enum"}}

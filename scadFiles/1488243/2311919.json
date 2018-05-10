@@ -1,0 +1,1 @@
+{"Hole_Distance":{"type":"float"},"Thickness":{"type":"float"},"Height":{"type":"float"},"Fitting_multiplier":{"end":2.0,"step":0.1,"type":"range","start":0.0},"Hole_Diameter":{"type":"float"},"Amount":{"values":["1"," 4"," 9"],"type":"enum"}}

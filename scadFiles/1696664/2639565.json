@@ -1,0 +1,1 @@
+{"Amount":{"end":30.0,"step":1.0,"type":"range","start":5.0},"StackableOnSide":{"values":["Left","Right","Both","None"],"type":"enum"},"Sides":{"values":["Open","Closed","Halfway","Qaurter"],"type":"enum"}}

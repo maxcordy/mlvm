@@ -1,0 +1,1 @@
+{"Length":{"type":"float"},"OffsetRotation":{"type":"float"},"NutDiameter":{"type":"float"},"Conector1Type":{"values":["2"," 3"],"type":"enum"},"Conector2Type":{"values":["2"," 3"],"type":"enum"}}

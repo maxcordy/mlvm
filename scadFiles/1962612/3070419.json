@@ -1,0 +1,1 @@
+{"thickness":{"end":25.0,"step":1,"type":"range","start":1.0},"max_dia":{"end":50.0,"step":1,"type":"range","start":15.0},"bore":{"end":24.0,"step":1,"type":"range","start":3.0},"tolx":{"type":"float"},"spiral":{"end":30.0,"step":1,"type":"range","start":3.0},"dt":{"end":20.0,"step":1,"type":"range","start":1.0}}

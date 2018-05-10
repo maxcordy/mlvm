@@ -1,0 +1,1 @@
+{"part":{"type":"string"},"Offset":{"type":"float"},"wall_thickness":{"end":5.0,"step":1,"type":"range","start":1.0},"collet_size":{"values":["ER8","ER11","ER16","ER20","ER25","ER32","ER40","ER50"],"type":"enum"},"rows":{"type":"float"},"columns":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"FontFace":{"type":"float"},"BlockSize":{"type":"float"},"NumberOfBlocks":{"type":"float"},"FontDepth":{"type":"float"},"DoYouUnderstandYouMustModifyTheGCodeThisMakes":{"values":["123"," 7"],"type":"enum"},"fn_override":{"type":"float"},"Labels":{"type":"string"},"FontFacesInCustomizer":{"type":"string"},"ReverseLabelOrder":{"values":["0"," 1"],"type":"enum"}}

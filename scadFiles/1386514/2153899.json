@@ -1,0 +1,1 @@
+{"PenRadius":{"type":"float"},"pAngleAdjust":{"values":["yes","no"],"type":"enum"},"pClosedEnd":{"values":["yes","no"],"type":"enum"},"pPrintMode":{"values":["yes","no"],"type":"enum"}}

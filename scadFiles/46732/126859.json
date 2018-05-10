@@ -1,0 +1,1 @@
+{"NumberOfElements":{"type":"float"},"SectionOffset":{"type":"float"},"NumberOfTurns":{"type":"float"},"SizeY":{"type":"float"},"SizeX":{"type":"float"},"PipeThickness":{"type":"float"},"Coefficient_a":{"type":"float"},"ConnectionSleeve":{"values":["Yes","No"],"type":"enum"},"HelixFactor":{"type":"float"},"Factor_B":{"type":"float"}}

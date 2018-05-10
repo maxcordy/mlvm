@@ -1,0 +1,1 @@
+{"CustomPipe":{"values":["yes","no"],"type":"enum"},"CustomPipeDia":{"type":"float"},"bend_180":{"values":["yes","no"],"type":"enum"},"tolerance":{"end":1.0,"step":0.05,"type":"range","start":0.0},"rad":{"end":80.0,"step":1,"type":"range","start":15.0},"part":{"values":["Preview","Handle","Bender","Axle","Bracket"],"type":"enum"}}

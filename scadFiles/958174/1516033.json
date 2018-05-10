@@ -1,0 +1,1 @@
+{"number_of_small_cubes_in_one_side":{"end":12.0,"step":1,"type":"range","start":4.0},"slicing_layer_height":{"type":"float"},"color":{"type":"float"},"extrusion_wide":{"type":"float"},"large_bridge_test":{"values":["1","0"],"type":"enum"},"small_bridge_test":{"values":["1","0"],"type":"enum"},"small_cube_size":{"type":"float"}}

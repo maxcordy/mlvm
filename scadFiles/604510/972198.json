@@ -1,0 +1,1 @@
+{"height":{"end":200.0,"step":1,"type":"range","start":10.0},"thickness":{"end":10.0,"step":1,"type":"range","start":1.0},"width":{"end":50.0,"step":1,"type":"range","start":5.0},"TOF":{"values":["0"," 106"," 212"," 318"," 424"," 531"," 637"],"type":"enum"}}

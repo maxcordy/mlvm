@@ -1,0 +1,1 @@
+{"Epaisseur_du_smartphone":{"type":"float"},"Longueur_du_smartphone":{"type":"float"},"Modele_de_smartphone":{"type":"string"},"Trou_pour_alimentation":{"values":["oui","non"],"type":"enum"},"Visualisation":{"values":["paysage","portrait"],"type":"enum"},"Largeur_du_smartphone":{"type":"float"},"Epaisseur_du_support":{"end":15.0,"step":1,"type":"range","start":2.0}}

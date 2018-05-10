@@ -1,0 +1,1 @@
+{"length":{"values":["71"," 109"," 180"],"type":"enum"},"groove_depth":{"type":"float"},"paper":{"type":"float"},"sidewalk_width":{"type":"float"},"slot_height":{"end":5.0,"step":1,"type":"range","start":1.0},"sidewalkHeight":{"type":"float"},"width":{"values":["71"," 109"," 180"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"cross_section":{"type":"float"},"pipe_diameter":{"type":"float"},"coupler_type":{"values":["1"," 2"," 3"," 4"],"type":"enum"},"$fn":{"type":"float"},"screw_diameter":{"type":"float"},"coupler_length":{"type":"float"}}

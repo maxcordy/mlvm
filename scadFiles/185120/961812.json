@@ -1,0 +1,1 @@
+{"numbers":{"values":["Yes","No"],"type":"enum"},"tubes":{"end":30.0,"step":1,"type":"range","start":1.0},"numstart":{"type":"float"}}

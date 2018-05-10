@@ -1,0 +1,1 @@
+{"text_size":{"end":10.0,"step":1,"type":"range","start":1.0},"diameter_bottom":{"type":"float"},"sleeve_type":{"values":["0","1"],"type":"enum"},"sleeve_thinkness":{"end":10.0,"step":1,"type":"range","start":1.0},"cup_height":{"type":"float"},"sleeve_height":{"end":100.0,"step":1,"type":"range","start":20.0},"name":{"type":"string"},"diameter_top":{"type":"float"}}

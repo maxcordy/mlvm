@@ -1,0 +1,1 @@
+{"Spoke_Width":{"type":"float"},"Spoke_Quantity":{"end":18.0,"step":1,"type":"range","start":3.0},"Inner_Width":{"type":"float"},"errorFree":{"type":"mixed"},"Tube_Height":{"type":"float"},"Hole_Diameter":{"type":"float"},"Additional_Rings":{"type":"float"},"Add_Ring_Width":{"type":"float"},"Outer_Diameter":{"type":"float"},"Outer_Width":{"type":"float"}}

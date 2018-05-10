@@ -1,0 +1,1 @@
+{"inner_radius":{"type":"float"},"chars":{"type":"string"},"font_size":{"type":"float"},"spacing":{"type":"float"},"seperated":{"values":["TRUE"," FALSE"],"type":"enum"},"ch_thickness":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"open_bottom":{"values":["yes","no"],"type":"enum"},"select_nose":{"type":"string"},"pumpkin_style":{"values":["8-Bit","Organic"],"type":"enum"},"select_mouth":{"type":"string"},"select_eyes":{"type":"string"}}

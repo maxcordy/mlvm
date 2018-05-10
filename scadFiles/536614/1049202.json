@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"mount_cc_width":{"type":"float"},"mount_cc_dist":{"type":"float"},"screw_dia":{"type":"float"},"$fs":{"type":"float"},"view":{"values":["demo"," both"," snap"," bracket"],"type":"enum"},"gap":{"type":"float"}}

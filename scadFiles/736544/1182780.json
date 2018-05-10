@@ -1,0 +1,1 @@
+{"Base_slot":{"type":"float"},"Motor_center_hole_diameter":{"type":"float"},"Thickness":{"end":10.0,"step":1,"type":"range","start":1.0},"Renforcement":{"values":["yes","no"],"type":"enum"},"Motor_mount_hole_diameter":{"type":"float"},"Motor_mount_hole_spacing":{"type":"float"},"Height_support":{"type":"float"}}

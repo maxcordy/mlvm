@@ -1,0 +1,1 @@
+{"rod_diameter_in":{"type":"float"},"hanger_height_in":{"type":"float"},"create_raft":{"values":["0"," 1"],"type":"enum"},"build_plate_selector":{"values":["0","1","2","3"],"type":"enum"},"hanger_width_in":{"type":"float"},"wall_thickness_in":{"values":["0.125","0.25","0.5"," 0.75"],"type":"enum"},"stem_length_in":{"type":"float"}}

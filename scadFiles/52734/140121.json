@@ -1,0 +1,1 @@
+{"message":{"type":"string"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/braille.dxf\""],"type":"enum"},"flat_bottom":{"values":["1","2"],"type":"enum"},"stick_thickness":{"type":"float"},"font_size":{"type":"float"},"font_thickness":{"type":"float"},"hole_radius":{"type":"float"},"stick_width":{"type":"float"}}

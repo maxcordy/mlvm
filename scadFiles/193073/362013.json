@@ -1,0 +1,1 @@
+{"bottom_thick":{"type":"float"},"hole_punch":{"values":["1"," 0"],"type":"enum"},"spacing":{"type":"float"},"hole_depth":{"type":"float"},"hole_shape":{"values":["1","0"],"type":"enum"},"hole_size":{"type":"float"},"rows":{"type":"float"},"columns":{"type":"float"}}

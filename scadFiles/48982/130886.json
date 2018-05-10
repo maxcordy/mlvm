@@ -1,0 +1,1 @@
+{"base":{"type":"float"},"eps":{"type":"float"},"thickness":{"type":"float"},"letter":{"values":["0","1","2","3","4","5","6"],"type":"enum"},"$fn":{"type":"float"},"height":{"type":"float"},"tetris":{"type":"mixed"},"type":{"values":["1","2","3"],"type":"enum"}}

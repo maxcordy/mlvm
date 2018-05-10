@@ -1,0 +1,1 @@
+{"ahgt":{"end":50.0,"step":1,"type":"range","start":5.0},"part":{"values":["all","t","m","b"],"type":"enum"},"usb":{"values":["0","1"],"type":"enum"},"ver":{"type":"float"},"thgt":{"end":20.0,"step":1,"type":"range","start":2.0},"bhgt":{"end":20.0,"step":1,"type":"range","start":2.0},"sw":{"values":["0","1"],"type":"enum"},"hgt":{"end":50.0,"step":1,"type":"range","start":10.0}}

@@ -1,0 +1,1 @@
+{"Tangential_Studs":{"values":["1","2","3","4","6","9"],"type":"enum"},"Radius":{"values":["6","7","8","9","10"],"type":"enum"},"Brick_Thickness":{"values":["0.3333","1","2"],"type":"enum"},"Bottom":{"values":["Yes"," No"],"type":"enum"},"Radial_Studs":{"values":["1","2","3","4","5","6"],"type":"enum"}}

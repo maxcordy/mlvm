@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"corner_radius":{"end":20.0,"step":1,"type":"range","start":0.0},"text":{"type":"string"},"textSize":{"end":20.0,"step":1,"type":"range","start":4.0},"height":{"end":25.0,"step":1,"type":"range","start":10.0},"width":{"type":"float"},"gap_thickness":{"end":15.0,"step":1,"type":"range","start":5.0}}

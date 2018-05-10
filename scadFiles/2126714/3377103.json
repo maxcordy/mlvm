@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"thickness":{"type":"float"},"customDXF":{"type":"string"},"useDXF":{"type":"mixed"},"height":{"type":"float"},"resolution":{"type":"float"},"customtextsize":{"type":"float"},"customtext":{"type":"string"},"useText":{"type":"mixed"},"bottomthickness":{"type":"float"},"tolerance":{"type":"float"},"width":{"type":"float"}}

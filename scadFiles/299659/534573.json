@@ -1,0 +1,1 @@
+{"fanHoleToEdgeThickness":{"type":"float"},"fanHoleDiameter":{"type":"float"},"outwardsOffset":{"type":"float"},"displayOnHuxley":{"values":["yes","no"],"type":"enum"},"fanSize":{"type":"float"},"fanPinHeight":{"type":"float"},"rodInnerSeparation":{"type":"float"},"fanEdgeSeparation":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"counter_sink":{"type":"float"},"plate_width":{"type":"float"},"plate_length":{"type":"float"},"surround_width":{"type":"float"},"font_size":{"type":"float"},"hole_diameter":{"type":"float"},"f_ont":{"type":"string"},"plate_thickness":{"type":"float"},"letter_depth":{"type":"float"},"text1":{"type":"string"},"letter_space":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"numberOfCoins":{"type":"float"},"coin":{"values":["Pennies","Nickels","Dimes","Quarters","Dollar","Silver Eagles"],"type":"enum"}}

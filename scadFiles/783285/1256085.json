@@ -1,0 +1,1 @@
+{"Fit":{"values":["0","0.25","0.5"],"type":"enum"},"CornerStyle":{"values":["0","1"],"type":"enum"},"Arrow":{"values":["0","1"," 2"],"type":"enum"},"WallThickness":{"type":"float"},"$fn":{"type":"float"},"Tagged":{"values":["0","1"],"type":"enum"},"HeightFactor":{"type":"float"},"Size":{"type":"float"}}

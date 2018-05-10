@@ -1,0 +1,1 @@
+{"sideLength":{"type":"float"},"embed":{"type":"float"},"tileHeight":{"type":"float"},"ridgeNumber":{"values":["2","3"],"type":"enum"},"shape":{"type":"string"},"strapThick":{"type":"float"},"ridgeThick":{"type":"float"},"clearance":{"type":"float"},"mosaicHeight":{"type":"float"},"ridgeHeight":{"type":"float"},"strapHeight":{"type":"float"},"kind":{"type":"string"}}

@@ -1,0 +1,1 @@
+{"tolerance":{"values":["0.0","0.1","0.2","0.3","0.5"],"type":"enum"},"Rod_diam":{"end":8.0,"step":1,"type":"range","start":5.0},"add_len":{"end":40.0,"step":1,"type":"range","start":30.0}}

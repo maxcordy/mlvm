@@ -1,0 +1,1 @@
+{"strapt":{"type":"float"},"part":{"type":"string"},"swivelsc":{"type":"float"},"buckleh":{"type":"float"},"$fn":{"type":"float"},"slots":{"end":5.0,"step":1,"type":"range","start":0.0},"teeth":{"end":3.0,"step":1,"type":"range","start":0.0},"strapw":{"type":"float"},"swivelc":{"type":"float"},"ttaper":{"type":"float"}}

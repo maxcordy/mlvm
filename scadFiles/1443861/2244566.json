@@ -1,0 +1,1 @@
+{"same_side":{"values":["YES","NO"],"type":"enum"},"spacing":{"type":"float"},"piece_side_length":{"type":"float"},"n":{"end":9.0,"step":1,"type":"range","start":1.0}}

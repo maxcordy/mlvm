@@ -1,0 +1,1 @@
+{"myFont":{"type":"string"},"myColor":{"values":["green"," yellow"," blue"," red"," silver"," black"],"type":"enum"},"ySize":{"type":"float"},"myText":{"type":"string"},"holeDia":{"type":"float"},"textSize":{"end":50.0,"step":1,"type":"range","start":1.0},"xSize":{"type":"float"},"textHeight":{"end":10.0,"step":1,"type":"range","start":1.0},"zSize":{"type":"float"}}

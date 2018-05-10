@@ -1,0 +1,1 @@
+{"hole_dimension":{"end":4.5,"step":0.1,"type":"range","start":2.0},"grid_width":{"end":200.0,"step":10.0,"type":"range","start":20.0},"height_stand":{"end":100.0,"step":10.0,"type":"range","start":20.0},"shows_support":{"values":["yes","no"],"type":"enum"},"grid_depth":{"end":100.0,"step":10.0,"type":"range","start":20.0}}

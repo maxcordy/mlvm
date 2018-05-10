@@ -1,0 +1,1 @@
+{"inset_size_x":{"type":"float"},"coaster_height":{"type":"float"},"coaster_size_y":{"type":"float"},"feet_radius":{"type":"float"},"feet_height_div2":{"type":"float"},"inset_size_y":{"type":"float"},"coaster_size_x":{"type":"float"},"inset_height":{"type":"float"},"coaster_corner_r":{"type":"float"},"do_feet":{"values":["0"," 1"],"type":"enum"}}

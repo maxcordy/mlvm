@@ -1,0 +1,1 @@
+{"fanHoleDistance":{"type":"float"},"slots":{"values":["1"," 0"],"type":"enum"},"part":{"values":["Box","Lid","Both"],"type":"enum"},"fan_Mount":{"values":["1"," 0"],"type":"enum"},"boltHoleDiameter":{"type":"float"}}

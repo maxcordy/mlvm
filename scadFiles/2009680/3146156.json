@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"flangethicknes":{"type":"float"},"insidediameter":{"type":"float"},"flange":{"values":["yes","no"],"type":"enum"},"slit_angle":{"values":["0","10","20"],"type":"enum"},"slit":{"values":["yes","no"],"type":"enum"},"flangediameter":{"type":"float"},"slit_width":{"type":"float"},"outsidediameter":{"type":"float"}}

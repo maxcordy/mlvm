@@ -1,0 +1,1 @@
+{"shape":{"parameters":["100x100"],"function":"draw_polygon","type":"custom"},"smooth":{"type":"float"},"shape_file":{"parameters":["100x100"],"function":"image_surface","type":"custom"},"height":{"type":"float"},"source":{"values":["drawing"," image"],"type":"enum"},"scale":{"type":"float"}}

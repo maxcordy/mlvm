@@ -1,0 +1,1 @@
+{"output":{"values":["pin","hemisphere"],"type":"enum"},"clearance":{"type":"float"},"resolution":{"type":"float"},"bevel_height":{"type":"float"},"sphere_radius":{"end":100.0,"step":1,"type":"range","start":2.0},"squish_height":{"type":"float"}}

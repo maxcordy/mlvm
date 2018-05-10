@@ -1,0 +1,1 @@
+{"hat_band_width":{"end":50.0,"step":1,"type":"range","start":20.0},"text_size":{"end":12.0,"step":1,"type":"range","start":5.0},"clip_width":{"end":100.0,"step":1,"type":"range","start":60.0},"text":{"type":"string"},"number_of_feathers":{"type":"float"}}

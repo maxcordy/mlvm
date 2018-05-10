@@ -1,0 +1,1 @@
+{"WallThick":{"type":"float"},"WLip":{"type":"float"},"pThick":{"type":"float"},"BHole":{"values":["1","0"],"type":"enum"},"HHolder":{"type":"float"},"BThick":{"type":"float"},"FHole":{"values":["1","0"],"type":"enum"},"FWidth":{"type":"float"},"HLip":{"type":"float"},"BWidth":{"type":"float"},"pWidth":{"type":"float"}}

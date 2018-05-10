@@ -1,0 +1,1 @@
+{"bracket_bolts_diameter":{"type":"float"},"nema17_bolts":{"type":"float"},"bracket_flaps":{"type":"float"},"nema17_side":{"type":"float"},"nema17_depth":{"type":"float"},"bevel_inner_corners":{"values":["yes","no"],"type":"enum"},"bracket_wall_width":{"type":"float"},"nema17_crown":{"type":"float"},"bracket_depth":{"type":"float"}}

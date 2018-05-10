@@ -1,0 +1,1 @@
+{"height":{"end":150.0,"step":5.0,"type":"range","start":25.0},"part":{"type":"string"},"sides_number":{"values":["4","6","8","12","20"],"type":"enum"},"thickness":{"values":["3","5","7"],"type":"enum"},"radius":{"end":75.0,"step":5.0,"type":"range","start":25.0}}

@@ -1,0 +1,1 @@
+{"fence_post_inner_height":{"type":"float"},"rail_thickness":{"type":"float"},"quality":{"values":["1"," 2"," 3"],"type":"enum"},"fence_post_length":{"type":"float"},"fence_post_outer_height":{"type":"float"},"rail_edge_radius":{"type":"float"},"rail_height":{"type":"float"},"fence_post_thickness":{"type":"float"}}

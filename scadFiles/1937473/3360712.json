@@ -1,0 +1,1 @@
+{"Flush_or_Raised_Hub":{"values":["0","1"],"type":"enum"},"$fs":{"type":"float"},"Number_of_Spokes":{"values":["2","3","4","5","6","7"],"type":"enum"},"coin_list":{"values":["1","2","3","4","5","6","7","8"],"type":"enum"},"brg_z":{"type":"float"},"brg_d":{"type":"float"},"$fa":{"type":"float"},"rim":{"type":"float"},"Edge_finish":{"values":["0","1"],"type":"enum"}}

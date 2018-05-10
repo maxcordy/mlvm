@@ -1,0 +1,1 @@
+{"rocket_num_fins":{"end":6.0,"step":1,"type":"range","start":3.0},"rocket_fin_thick":{"type":"float"},"tool_thick":{"type":"float"},"tool_height":{"type":"float"},"tool_slop":{"type":"float"},"tool_glue_keepout_dia":{"type":"float"},"rocket_od":{"type":"float"},"tool_fin_len":{"type":"float"},"use_inches":{"values":["0","1"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"Hollow":{"values":["0"," 1"],"type":"enum"},"EndType":{"values":["1"," 2"," 3"," 4"," 5"],"type":"enum"},"BladeHeight":{"type":"float"},"BladeLength":{"type":"float"},"BladeRadius":{"type":"float"}}

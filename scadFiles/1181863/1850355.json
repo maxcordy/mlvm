@@ -1,0 +1,1 @@
+{"ring_diameter":{"type":"float"},"thinnest_layer":{"type":"float"},"bearing_intrusion":{"type":"float"},"parts_to_print":{"values":["0"," 1"," 2"],"type":"enum"},"tree_height":{"type":"float"},"bearing_gap":{"type":"float"},"ring_height":{"type":"float"},"ring_size":{"end":16.0,"step":0.25,"type":"range","start":0.0},"number_of_trees":{"type":"float"}}

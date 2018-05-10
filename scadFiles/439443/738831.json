@@ -1,0 +1,1 @@
+{"wall_thickness":{"end":10.0,"step":1,"type":"range","start":1.0},"shaft_diameter":{"end":60.0,"step":1,"type":"range","start":10.0},"nozzle_opening":{"end":20.0,"step":1,"type":"range","start":1.0},"crevice_length":{"end":500.0,"step":1,"type":"range","start":100.0}}

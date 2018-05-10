@@ -1,0 +1,1 @@
+{"spool_radius":{"type":"float"},"clip_depth":{"type":"float"},"clip_cut":{"values":["true"," false"],"type":"enum"},"spool_thickness":{"type":"float"},"clip_thickness":{"type":"float"},"clip_extend":{"type":"float"}}

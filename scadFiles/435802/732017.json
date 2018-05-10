@@ -1,0 +1,1 @@
+{"big_radius":{"end":80.0,"step":1,"type":"range","start":30.0},"part":{"values":["top"," bottom"," both"],"type":"enum"},"small_radius":{"end":30.0,"step":1,"type":"range","start":5.0},"cut_radius":{"end":20.0,"step":1,"type":"range","start":0.0},"flange_thick":{"end":4.0,"step":1,"type":"range","start":1.0},"winding_thick":{"end":50.0,"step":1,"type":"range","start":5.0}}

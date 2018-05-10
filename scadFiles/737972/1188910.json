@@ -1,0 +1,1 @@
+{"length":{"values":["8","12","24","40","56"],"type":"enum"},"thickness":{"end":25.0,"step":1,"type":"range","start":1.0},"holeDia":{"type":"float"}}

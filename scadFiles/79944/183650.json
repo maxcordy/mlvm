@@ -1,0 +1,1 @@
+{"Inside_Diameter":{"type":"float"},"Base_Thickness":{"type":"float"},"Length":{"type":"float"},"Outside_Diameter":{"type":"float"},"PCB_Thickness":{"type":"float"},"Stand_Off_Type":{"values":["plain"," end_nut"," split_base"],"type":"enum"},"Outside_Shape":{"values":["0"," 1"],"type":"enum"},"Clearance":{"type":"float"}}

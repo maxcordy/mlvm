@@ -1,0 +1,1 @@
+{"DeckHeight":{"type":"float"},"DeckWidth":{"type":"float"},"DiamondPattern":{"values":["0","1"],"type":"enum"},"DeckThickness":{"type":"float"},"WallThickness":{"type":"float"}}

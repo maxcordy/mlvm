@@ -1,0 +1,1 @@
+{"timeZone":{"type":"float"},"pmChars":{"type":"string"},"myHome":{"type":"string"},"latitudeRange":{"values":["\"1 to 29 degrees North\"","\"30 to 48 North\"","\"49 to 57 North\"","\"58 to 62 North\"","\"63 to 66 North\""],"type":"enum"},"amChars":{"type":"string"},"charOffset":{"type":"float"},"longitude":{"type":"float"},"latitude":{"type":"float"}}

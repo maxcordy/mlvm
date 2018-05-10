@@ -1,0 +1,1 @@
+{"how_thick":{"type":"float"},"bottom_radius":{"type":"float"},"your_name":{"type":"string"},"font_style":{"values":["Letters.dxf","orbitron.dxf","knewave.dxf","braille.dxf","BlackRose.dxf"],"type":"enum"},"font_height":{"type":"float"},"font_thickness":{"type":"float"},"font_size":{"type":"float"},"top_radius":{"type":"float"},"y_offset":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"hinge_dia":{"end":5000.0,"step":1,"type":"range","start":1.0},"hinge_gap":{"end":2000.0,"step":1,"type":"range","start":1.0}}

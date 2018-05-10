@@ -1,0 +1,1 @@
+{"size":{"end":50.0,"step":1,"type":"range","start":1.0},"demo":{"values":["0","1"],"type":"enum"},"type":{"values":["ABS","PLA","PS","PP","OTHER"],"type":"enum"},"T":{"end":10.0,"step":1,"type":"range","start":1.0}}

@@ -1,0 +1,1 @@
+{"Build_Size":{"values":["[6","8","10","12","13","14"],"type":"enum"},"Build_Platform":{"values":["Yes","No"],"type":"enum"},"fudge":{"type":"float"},"Logo":{"values":["Acura"," Audi"," Chevy"," Dodge"," Ford"," Honda"," Hyundai"," Lexus"," Mazda"," Mercedies"," Mini"," Mitsubishi"," Nissan"," Porsche"," Scion"," Toyota"," VW"," Tesla"],"type":"enum"}}

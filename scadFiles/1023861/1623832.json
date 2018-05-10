@@ -1,0 +1,1 @@
+{"dept":{"type":"float"},"wallthickness":{"type":"float"},"mountingholde":{"type":"float"},"glass_thickness":{"type":"float"},"bolt_size":{"type":"float"},"holdertype":{"values":["corner","side"],"type":"enum"},"width":{"type":"float"},"nutsize":{"type":"float"}}

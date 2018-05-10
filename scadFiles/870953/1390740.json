@@ -1,0 +1,1 @@
+{"uswitch_depth":{"type":"float"},"part":{"values":[" demo"," all"," top"," bottom"," key"," ring "],"type":"enum"},"uswitch_width":{"type":"float"},"key_travel":{"type":"float"},"with_key":{"values":[" 1"," 0"],"type":"enum"},"with_battery":{"values":[" 1"," 0"],"type":"enum"},"uswitch_height":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"fan_dim":{"values":["first","second"],"type":"enum"},"hotend":{"values":["first","second","third"],"type":"enum"}}

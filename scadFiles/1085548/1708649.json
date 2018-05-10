@@ -1,0 +1,1 @@
+{"ballSlop":{"type":"float"},"part":{"values":["makeBall","makeSocket","makeBoth","assembled"],"type":"enum"},"neckLength":{"type":"float"},"flangeThickness":{"type":"float"},"ballSize":{"type":"float"},"flangeDiameter":{"type":"float"},"holeSize":{"type":"float"},"socketThickness":{"type":"float"},"screwHead":{"type":"float"}}

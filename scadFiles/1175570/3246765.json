@@ -1,0 +1,1 @@
+{"Font":{"type":"string"},"Thickness":{"type":"float"},"Line1":{"type":"string"},"Length":{"type":"float"},"Hole_Diameter":{"type":"float"},"Width":{"type":"float"},"Line2":{"type":"string"},"Text_Size":{"end":2.0,"step":0.1,"type":"range","start":0.1}}

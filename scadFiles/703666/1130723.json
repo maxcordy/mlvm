@@ -1,0 +1,1 @@
+{"coinDiameter":{"type":"float"},"coinDistance":{"type":"float"},"dishDiameter":{"values":["37.5","50"," 62.5","75"],"type":"enum"},"dishTolarnce":{"type":"float"},"coinAmount":{"type":"float"}}

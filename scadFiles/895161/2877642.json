@@ -1,0 +1,1 @@
+{"part":{"values":["1","2","3","4","5","6"],"type":"enum"},"tslopeupper":{"type":"float"},"Generate_Random":{"end":1.0,"step":0.0001,"type":"range","start":0.0}}

@@ -1,0 +1,1 @@
+{"baseDeep":{"type":"float"},"standWidth":{"end":20.0,"step":1,"type":"range","start":2.0},"angleDeg":{"end":50.0,"step":1,"type":"range","start":15.0},"$fn":{"type":"float"},"hookSpace":{"end":20.0,"step":1,"type":"range","start":5.0},"wallThick":{"end":8.0,"step":1,"type":"range","start":2.0}}

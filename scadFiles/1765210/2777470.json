@@ -1,0 +1,1 @@
+{"rotate_inner_holes":{"values":["0"," 1"],"type":"enum"},"fan_size":{"values":["40"," 50"," 60"," 70"," 80"," 92"," 120"," 140"],"type":"enum"},"make_gaps":{"values":["0"," 1"," 2"],"type":"enum"},"aperture_size":{"values":["40"," 50"," 60"," 70"," 80"," 92"," 120"," 140"],"type":"enum"}}

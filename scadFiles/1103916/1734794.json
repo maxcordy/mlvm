@@ -1,0 +1,1 @@
+{"tail_breadth":{"type":"float"},"tail_thickness":{"type":"float"},"quality":{"values":["1"," 2"," 3"],"type":"enum"},"earphone_catch_length":{"type":"float"},"tail_length":{"type":"float"},"earphone_base_diameter":{"type":"float"},"earphone_base_length":{"type":"float"}}

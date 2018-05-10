@@ -1,0 +1,1 @@
+{"distance":{"end":200.0,"step":1,"type":"range","start":-30.0},"clockwise":{"values":["-1","1"],"type":"enum"},"resolution":{"end":100.0,"step":1,"type":"range","start":3.0},"turns":{"end":50.0,"step":1,"type":"range","start":1.0},"definition":{"end":100.0,"step":1,"type":"range","start":10.0}}

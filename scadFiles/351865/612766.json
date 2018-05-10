@@ -1,0 +1,1 @@
+{"z":{"type":"float"},"thickness":{"type":"float"},"lip":{"type":"float"},"pixils":{"type":"float"},"x":{"type":"float"},"y":{"type":"float"},"grill_img":{"parameters":["100x100"],"function":"image_surface","type":"custom"}}

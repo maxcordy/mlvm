@@ -1,0 +1,1 @@
+{"hub_type":{"values":["3"," 2"," 1"],"type":"enum"},"FUTABA_2F_SPLINE":{"type":"float"},"arm_length":{"type":"float"},"arm_count":{"type":"float"},"FUTABA_1F_SPLINE":{"type":"float"},"taper_amount":{"values":["3"," 2.5"," 2"],"type":"enum"},"SERVO_HEAD_CLEAR":{"type":"float"},"FUTABA_3F_SPLINE":{"type":"float"}}

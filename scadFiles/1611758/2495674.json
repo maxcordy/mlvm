@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"holerRimOD":{"type":"float"},"flatStat":{"values":["top","bottom","both","none"],"type":"enum"},"OD":{"type":"float"},"holeOD":{"type":"float"},"rimRadius":{"type":"float"},"numHoles":{"type":"float"}}

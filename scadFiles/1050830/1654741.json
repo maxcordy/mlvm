@@ -1,0 +1,1 @@
+{"Axis":{"end":10.0,"step":1,"type":"range","start":0.0},"Axis_Position":{"type":"float"},"Secondary_Function_Active":{"values":["1","0"],"type":"enum"},"Function_Size":{"end":20.0,"step":1,"type":"range","start":2.0},"Cut_Angle":{"values":["90","180","270","360"],"type":"enum"},"Secondary_Function_Size":{"end":90.0,"step":10.0,"type":"range","start":0.0}}

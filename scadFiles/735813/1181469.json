@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"solid_walls":{"values":["Yes","No"],"type":"enum"},"height":{"type":"float"},"wall_thickness":{"type":"float"},"width":{"type":"float"},"cell_size":{"type":"float"}}

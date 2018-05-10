@@ -1,0 +1,1 @@
+{"w":{"type":"float"},"number_of_planets":{"type":"float"},"D":{"type":"float"},"nTwist":{"type":"float"},"P":{"end":60.0,"step":1,"type":"range","start":30.0},"approximate_number_of_teeth_on_sun":{"type":"float"},"number_of_teeth_on_planets":{"type":"float"},"tol":{"type":"float"},"T":{"type":"float"}}

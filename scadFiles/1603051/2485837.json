@@ -1,0 +1,1 @@
+{"length":{"end":100.0,"step":1,"type":"range","start":20.0},"fontsize":{"end":24.0,"step":1,"type":"range","start":6.0},"text":{"type":"string"},"obiscad_drawing_resolution":{"type":"float"},"font":{"values":["BlackRose.dxf"," braille.dxf"," knewave.dxf"," Letters.dxf"," orbitron.dxf"],"type":"enum"}}

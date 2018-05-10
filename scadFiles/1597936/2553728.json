@@ -1,0 +1,1 @@
+{"support_bars":{"values":["0","1"],"type":"enum"},"dice_notation":{"values":["0","1"],"type":"enum"},"number_faces":{"type":"float"},"core_distance":{"type":"float"},"block_distance":{"type":"float"}}

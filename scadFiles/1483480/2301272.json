@@ -1,0 +1,1 @@
+{"Small_Radius":{"end":10.0,"step":1,"type":"range","start":1.0},"$fs":{"type":"float"},"Guide_Tickness":{"end":10.0,"step":1,"type":"range","start":1.0},"$fa":{"type":"float"},"Large_Radius":{"end":50.0,"step":1,"type":"range","start":10.0},"Guide_Width":{"end":6.0,"step":1,"type":"range","start":2.0}}

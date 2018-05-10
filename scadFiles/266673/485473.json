@@ -1,0 +1,1 @@
+{"Play":{"values":["0.0","0.1","0.2","0.3","0.4","0.5"],"type":"enum"},"SleeveOutterDiameter":{"values":["5.00","5.08","6","7","8","9","10"],"type":"enum"},"HeadDiameter":{"end":15.0,"step":1,"type":"range","start":7.0},"$fn":{"type":"float"},"HeadHeight":{"values":["1","1.5","2","2.5","3"],"type":"enum"},"SleeveLength":{"end":100.0,"step":1,"type":"range","start":1.0}}

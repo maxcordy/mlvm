@@ -1,0 +1,1 @@
+{"part":{"values":["fraction","plate"],"type":"enum"},"parts":{"type":"float"},"fine":{"end":200.0,"step":1,"type":"range","start":50.0},"diameter":{"type":"float"},"thickness":{"type":"float"},"tol":{"type":"float"}}

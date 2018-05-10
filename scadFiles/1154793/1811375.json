@@ -1,0 +1,1 @@
+{"lens_diamenter":{"values":["25","37"],"type":"enum"},"glasses_piece":{"values":["1","2","3","4","5","6"],"type":"enum"},"corner_diameter":{"type":"float"},"ribbon_width":{"end":30.0,"step":5.0,"type":"range","start":5.0},"phone_width":{"type":"float"},"phone_depth":{"type":"float"},"phone_height":{"type":"float"}}

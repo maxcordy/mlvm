@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"vial_gap":{"end":100.0,"step":0.1,"type":"range","start":1.0},"number_of_vials":{"end":100.0,"step":1,"type":"range","start":1.0},"vial_diameter":{"end":100.0,"step":0.1,"type":"range","start":1.0},"holder_height":{"end":100.0,"step":1,"type":"range","start":1.0}}

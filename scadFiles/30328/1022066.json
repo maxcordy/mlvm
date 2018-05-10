@@ -1,0 +1,1 @@
+{"rod_dia":{"type":"float"},"screw_separation":{"type":"float"},"wall":{"type":"float"},"smooth":{"values":["1"," 0"],"type":"enum"},"screw_dia":{"type":"float"},"bevel":{"values":["1"," 0"],"type":"enum"},"gap":{"type":"float"}}

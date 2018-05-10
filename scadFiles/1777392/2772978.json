@@ -1,0 +1,1 @@
+{"gap_size":{"values":["0.1","0.2","0.3","0.4"],"type":"enum"},"stick_length":{"end":18.0,"step":1,"type":"range","start":5.0},"chosen_piece":{"type":"float"},"unit_size":{"type":"float"},"piece_number":{"type":"float"},"rounding_radius":{"values":["0","0.8","1.6","2.4"],"type":"enum"},"base_model":{"values":["0","1","2","3"],"type":"enum"},"chosen_set":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"axis_radius":{"type":"float"},"radius":{"type":"float"},"wall_strength":{"type":"float"},"half_model":{"values":["yes","no"],"type":"enum"},"inner_height":{"type":"float"},"groove_radius":{"type":"float"}}

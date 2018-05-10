@@ -1,0 +1,1 @@
+{"wing_span":{"type":"float"},"cockpit_height":{"end":10.0,"step":1,"type":"range","start":3.0},"base_length":{"type":"float"},"base_width":{"end":50.0,"step":1,"type":"range","start":15.0}}

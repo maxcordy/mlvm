@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"tip_radius":{"type":"float"},"hip_radius":{"type":"float"},"tip_height":{"type":"float"},"hole_radius":{"type":"float"},"bevel":{"type":"float"},"height":{"type":"float"},"resolution":{"type":"float"},"width":{"type":"float"},"hole":{"values":["yes","no"],"type":"enum"}}

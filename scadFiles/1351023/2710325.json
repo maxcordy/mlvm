@@ -1,0 +1,1 @@
+{"house_length":{"type":"float"},"air_holes":{"values":["YES"," NO"],"type":"enum"},"door_above_floor":{"type":"float"},"hang_ring_radius":{"type":"float"},"door_ring_radius":{"type":"float"},"wall_thickness":{"type":"float"},"door_radius":{"type":"float"}}

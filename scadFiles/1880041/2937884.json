@@ -1,0 +1,1 @@
+{"Wanted_ball_diameter":{"end":1000.0,"step":1,"type":"range","start":10.0},"$fn":{"type":"float"},"STL_ball_diameter":{"type":"float"},"original_size":{"type":"float"},"STL_ball_position":{"type":"float"}}

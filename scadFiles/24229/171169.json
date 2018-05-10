@@ -1,0 +1,1 @@
+{"part":{"values":["left","right","both"],"type":"enum"},"wall_thickness":{"type":"float"},"axle_clearance":{"type":"float"},"diameter":{"type":"float"},"width":{"type":"float"},"nail_diameter":{"type":"float"},"tolerance":{"type":"float"},"nail_orientation":{"values":["horizontal","angled"],"type":"enum"}}

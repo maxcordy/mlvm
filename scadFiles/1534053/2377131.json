@@ -1,0 +1,1 @@
+{"bracketThickess":{"end":10.0,"step":1,"type":"range","start":1.0},"boltHoleDiameter":{"values":["3.7","5.68"],"type":"enum"},"extrusionWidth":{"values":["15","20"],"type":"enum"},"holeCreationOffset":{"type":"float"}}

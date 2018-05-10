@@ -1,0 +1,1 @@
+{"clampLength":{"end":32.5,"step":0.125,"type":"range","start":18.125},"heatsinkDiameter":{"end":29.0,"step":1,"type":"range","start":15.0},"zProbeScrew":{"values":["1"," 0"],"type":"enum"},"zProbeScrewHeight":{"end":26.0,"step":1,"type":"range","start":0.0},"doubleSideFan":{"values":["1"," 0"],"type":"enum"}}

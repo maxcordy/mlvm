@@ -1,0 +1,1 @@
+{"pins":{"end":100.0,"step":1,"type":"range","start":1.0},"hight":{"end":20.0,"step":1,"type":"range","start":1.0},"wall":{"end":30.0,"step":1,"type":"range","start":1.0},"rows":{"end":100.0,"step":1,"type":"range","start":1.0},"hole":{"end":200.0,"step":1,"type":"range","start":50.0}}

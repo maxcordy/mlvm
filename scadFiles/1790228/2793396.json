@@ -1,0 +1,1 @@
+{"WheelInternalDiameter":{"type":"float"},"NutExternalSize":{"type":"float"},"ScrewDiameter":{"type":"float"},"WheelHeight":{"type":"float"},"Mode":{"values":["Print"," View"],"type":"enum"},"WheelExternalDiameter":{"type":"float"},"EncoderTeeth":{"type":"float"}}

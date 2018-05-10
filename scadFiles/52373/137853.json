@@ -1,0 +1,1 @@
+{"Bearing_Outer_Diameter":{"type":"float"},"Flange_Depth":{"type":"float"},"Belt_Width":{"type":"float"},"Pulley_Thickness":{"type":"float"},"Rim_Thickness":{"type":"float"},"Flange_Thickness":{"type":"float"},"Flange_Shape":{"values":["1"," 2"],"type":"enum"},"Bearing_Width":{"type":"float"},"Rim_Count":{"type":"float"}}

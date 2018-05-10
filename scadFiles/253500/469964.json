@@ -1,0 +1,1 @@
+{"wallSize":{"end":5.0,"step":1,"type":"range","start":2.0},"holeRadius":{"type":"float"},"cutterHeight":{"end":50.0,"step":1,"type":"range","start":20.0},"mainRadius":{"end":50.0,"step":1,"type":"range","start":15.0}}

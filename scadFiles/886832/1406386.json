@@ -1,0 +1,1 @@
+{"diameter":{"type":"float"},"Notice":{"type":"string"},"CenterOption":{"values":["Hole","Ball","Simple (good for meshmixing)","Fluted"],"type":"enum"},"HelperDisk":{"values":["yes","no"],"type":"enum"}}

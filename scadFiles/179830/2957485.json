@@ -1,0 +1,1 @@
+{"which_part":{"values":["All","Nest","Base","Shroud"],"type":"enum"},"nest_holes":{"end":8.0,"step":1,"type":"range","start":2.0},"nest_height":{"end":150.0,"step":1,"type":"range","start":50.0}}

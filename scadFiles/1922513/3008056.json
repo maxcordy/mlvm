@@ -1,0 +1,1 @@
+{"hub_size":{"end":100.0,"step":1,"type":"range","start":30.0},"flange_dia":{"end":220.0,"step":1,"type":"range","start":30.0},"thread_type":{"values":["first","second"],"type":"enum"},"flange_thick":{"end":5.0,"step":0.1,"type":"range","start":0.0},"hub_length":{"end":100.0,"step":1,"type":"range","start":10.0}}

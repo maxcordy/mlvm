@@ -1,0 +1,1 @@
+{"cup_top":{"type":"float"},"cup_height":{"type":"float"},"show_holder":{"values":["yes","no"],"type":"enum"},"cup_bottom":{"type":"float"},"show_antler1":{"values":["yes","no"],"type":"enum"},"show_antler2":{"values":["yes","no"],"type":"enum"}}

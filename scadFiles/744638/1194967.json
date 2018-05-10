@@ -1,0 +1,1 @@
+{"spool_wall_thickness":{"end":12.0,"step":1,"type":"range","start":5.0},"spool_hole_diam":{"end":60.0,"step":1,"type":"range","start":40.0},"threaded_rod_radius":{"end":15.0,"step":1,"type":"range","start":1.0}}

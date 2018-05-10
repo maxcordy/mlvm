@@ -1,0 +1,1 @@
+{"tallest_height":{"type":"float"},"smallest_height":{"type":"float"},"font_spacing":{"type":"float"},"remotes_per_row":{"type":"float"},"compartment_depth":{"type":"float"},"num_rows":{"type":"float"},"wall_thickness":{"type":"float"},"font_size":{"type":"float"},"compartment_width":{"type":"float"},"front_text":{"type":"string"}}

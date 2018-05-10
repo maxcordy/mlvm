@@ -1,0 +1,1 @@
+{"handle_length":{"type":"float"},"cap_dia":{"type":"float"},"interference":{"type":"float"},"spine_angle":{"type":"float"},"outer_dia":{"type":"float"},"fs":{"type":"float"},"spine_thickness":{"type":"float"},"cap_height":{"type":"float"},"num_spines":{"type":"float"},"wall_thickness":{"type":"float"},"fa":{"type":"float"},"handle":{"type":"string"}}

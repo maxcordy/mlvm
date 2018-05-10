@@ -1,0 +1,1 @@
+{"heightbasis":{"end":40.0,"step":1,"type":"range","start":2.0},"Write_Codes":{"values":["\"yes\"","\"no\"","\"maybe\""],"type":"enum"},"printdist":{"type":"float"}}

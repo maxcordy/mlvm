@@ -1,0 +1,1 @@
+{"Chamfer":{"type":"float"},"X_Bullets":{"type":"float"},"Convert":{"values":["mm"," inches"],"type":"enum"},"Case_Diameter":{"type":"float"},"Pad":{"type":"float"},"Bullet_Space":{"type":"float"},"Y_Bullets":{"type":"float"},"Depth":{"type":"float"},"Height":{"type":"float"},"Block_Corner":{"type":"float"},"Block_Chamfer":{"type":"float"},"Hole_Slack":{"type":"float"}}

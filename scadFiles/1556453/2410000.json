@@ -1,0 +1,1 @@
+{"depth":{"type":"float"},"thickness":{"type":"float"},"support":{"values":["1"," 0"],"type":"enum"},"notch_radius":{"type":"float"},"height":{"type":"float"},"width":{"type":"float"},"beam_width":{"type":"float"},"pad_size":{"type":"float"},"empty":{"values":["1"," 0"],"type":"enum"}}

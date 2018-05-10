@@ -1,0 +1,1 @@
+{"have_leds":{"values":[" 1"," 0"],"type":"enum"},"part":{"values":[" top"," bottom"," all"," demo "],"type":"enum"},"have_camera":{"values":[" 1"," 0"],"type":"enum"},"have_plugrow":{"values":[" 1"," 0"],"type":"enum"},"have_open_plugrow":{"values":[" 1"," 0"],"type":"enum"}}

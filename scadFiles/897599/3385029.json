@@ -1,0 +1,1 @@
+{"shape":{"values":["0","1","2","3"],"type":"enum"},"depth_to_corner":{"type":"float"},"outer_thickness":{"type":"float"},"angle":{"type":"float"},"width":{"type":"float"},"thickness":{"type":"float"},"style":{"values":["0","1"],"type":"enum"}}

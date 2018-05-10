@@ -1,0 +1,1 @@
+{"lower_cylinder_diameter":{"end":30.0,"step":1.0,"type":"range","start":10.0},"cylinder_height":{"end":50.0,"step":1.0,"type":"range","start":10.0},"upper_cylinder_diameter":{"end":30.0,"step":1.0,"type":"range","start":10.0},"support_size":{"end":10.0,"step":0.5,"type":"range","start":4.0},"assembly_size":{"end":150.0,"step":5.0,"type":"range","start":50.0}}

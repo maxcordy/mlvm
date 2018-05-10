@@ -1,0 +1,1 @@
+{"MountingDepth":{"type":"float"},"LED_Diameter":{"type":"float"},"WallWidth":{"type":"float"},"MountingGrid":{"type":"float"},"BoxSize_X":{"type":"float"},"LEDs_X":{"end":10.0,"step":1,"type":"range","start":1.0},"Part":{"type":"string"},"LEDs_Y":{"end":10.0,"step":1,"type":"range","start":1.0},"BoxSize_Y":{"type":"float"}}

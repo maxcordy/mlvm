@@ -1,0 +1,1 @@
+{"Text":{"type":"string"},"Show_Build":{"values":["Yes","No"],"type":"enum"},"Key_Ring":{"values":["Yes","No"],"type":"enum"},"Build_Size":{"values":["8","10","12","14"],"type":"enum"},"Size":{"values":["10","20","30","40","50"],"type":"enum"}}

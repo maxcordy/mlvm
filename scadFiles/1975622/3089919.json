@@ -1,0 +1,1 @@
+{"tube_height":{"type":"float"},"hole_dia":{"type":"float"},"fan_hole_y":{"type":"float"},"$fn":{"type":"float"},"fan_offset_x":{"type":"float"},"fan_hole_x":{"type":"float"},"fan_offset_y":{"type":"float"},"wall":{"type":"float"},"fan_hole_depth":{"type":"float"},"beam_size_x":{"type":"float"},"nozzle_size":{"type":"float"},"beam_size_y":{"type":"float"}}

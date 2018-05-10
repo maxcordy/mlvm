@@ -1,0 +1,1 @@
+{"between_centers":{"type":"float"},"depth":{"type":"float"},"thickness":{"end":4.0,"step":0.2,"type":"range","start":1.0},"fixed_side_tightness":{"type":"float"},"thumb_angle2":{"end":100.0,"step":2.0,"type":"range","start":30.0},"thumb_r":{"type":"float"},"spindle_diameter":{"type":"float"},"thumb_angle":{"end":150.0,"step":2.0,"type":"range","start":100.0}}

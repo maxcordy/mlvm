@@ -1,0 +1,1 @@
+{"choice":{"type":"string"},"order":{"values":["0","1","2","3"],"type":"enum"},"side":{"type":"float"},"tol":{"type":"float"}}

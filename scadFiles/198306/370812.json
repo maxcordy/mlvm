@@ -1,0 +1,1 @@
+{"what_part":{"values":["adapter"," stopper"],"type":"enum"},"wall_thickness":{"type":"float"},"screw_diameter":{"type":"float"},"inner_diameter":{"type":"float"},"shaft_length":{"type":"float"}}

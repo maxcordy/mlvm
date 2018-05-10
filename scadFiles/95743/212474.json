@@ -1,0 +1,1 @@
+{"e_height":{"type":"float"},"c_slope":{"type":"float"},"c_base":{"type":"float"},"print_object":{"values":["1","2","3","4"],"type":"enum"},"debug":{"values":["true","false"],"type":"enum"},"cl":{"type":"float"},"sangle":{"type":"float"},"e_radius":{"type":"float"}}

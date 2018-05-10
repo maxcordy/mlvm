@@ -1,0 +1,1 @@
+{"build_plate_manual_y":{"end":400.0,"step":1,"type":"range","start":100.0},"vertical_bar_diameter":{"type":"float"},"crossbar_spacing":{"type":"float"},"build_plate_selector":{"type":"float"},"peg_tolerance":{"type":"float"},"build_plate_manual_x":{"end":400.0,"step":1,"type":"range","start":100.0},"part":{"type":"string"},"crossbar_diameter":{"type":"float"}}

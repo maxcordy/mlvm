@@ -1,0 +1,1 @@
+{"fit":{"type":"float"},"part":{"type":"string"},"lid_text":{"type":"string"},"comp_z":{"end":15.0,"step":1,"type":"range","start":5.0},"lid_th":{"values":["1","1.5","2","2.5"],"type":"enum"},"wall":{"values":["0.5","1","1.5","2"],"type":"enum"},"rows":{"type":"float"},"comp_w":{"end":40.0,"step":1,"type":"range","start":10.0},"columns":{"type":"float"}}

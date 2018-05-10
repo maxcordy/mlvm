@@ -1,0 +1,1 @@
+{"nut_sinks_on_all_sides":{"values":["0"," 1"],"type":"enum"},"cube_size":{"end":50.0,"step":1,"type":"range","start":10.0},"nut_diameter":{"end":20.0,"step":0.1,"type":"range","start":3.0},"nut_size":{"end":20.0,"step":0.1,"type":"range","start":5.0},"epsilon":{"end":0.5,"step":0.05,"type":"range","start":0.0},"nut_height":{"end":15.0,"step":0.1,"type":"range","start":2.0}}

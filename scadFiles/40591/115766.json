@@ -1,0 +1,1 @@
+{"trayDiameter":{"end":300.0,"step":1,"type":"range","start":0.0},"trayHeight":{"end":300.0,"step":1,"type":"range","start":0.0},"trayRounding":{"end":150.0,"step":1,"type":"range","start":0.0},"resolution":{"values":["30"," 60"," 120"],"type":"enum"},"traySidewall":{"type":"float"},"trayBottom":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"Stem_Diameter":{"type":"float"},"Bezel_Diameter":{"type":"float"},"Clamp":{"values":["True","False"],"type":"enum"},"Units":{"values":["1","25.4"],"type":"enum"},"Orientation":{"values":["Upright","Sideways"],"type":"enum"}}

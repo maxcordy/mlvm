@@ -1,0 +1,1 @@
+{"Conversion":{"type":"float"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/BlackRose.dxf\""],"type":"enum"},"Thickness":{"end":5.0,"step":1,"type":"range","start":2.0},"Type":{"type":"float"},"Label":{"type":"string"},"Units":{"type":"float"},"Size":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"pitch":{"values":["1.25"," 1.27"," 2"," 2.54"," 3.5"," 3.96"],"type":"enum"},"rows":{"end":5.0,"step":1,"type":"range","start":1.0},"columns":{"end":30.0,"step":1,"type":"range","start":1.0}}

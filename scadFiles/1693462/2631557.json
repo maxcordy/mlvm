@@ -1,0 +1,1 @@
+{"sidelength":{"type":"float"},"part":{"values":["Base","Frame","Both"],"type":"enum"},"seed":{"type":"float"},"basefill":{"type":"string"},"sides":{"type":"float"},"groove":{"type":"float"}}

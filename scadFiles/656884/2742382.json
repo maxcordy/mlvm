@@ -1,0 +1,1 @@
+{"BoardVersion":{"values":["1.0","1.1","2.0"],"type":"enum"},"Lip":{"values":["0","1"],"type":"enum"},"RelieveOverhang":{"end":30.0,"step":1,"type":"range","start":0.0},"Lid":{"values":["0","1"],"type":"enum"},"SDcard":{"values":["0","1"],"type":"enum"},"DisplayType":{"type":"float"}}

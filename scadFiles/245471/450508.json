@@ -1,0 +1,1 @@
+{"pumpRadius":{"end":50.0,"step":1,"type":"range","start":10.0},"thickness":{"end":5.0,"step":1,"type":"range","start":1.0},"cycleRadius":{"end":50.0,"step":1,"type":"range","start":10.0},"heigth":{"end":100.0,"step":1,"type":"range","start":25.0}}

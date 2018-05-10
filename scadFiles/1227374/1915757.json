@@ -1,0 +1,1 @@
+{"number_of_pinion_teeth":{"end":200.0,"step":1.0,"type":"range","start":12.0},"circular_pitch":{"type":"float"},"height":{"type":"float"},"spacing_between_objects":{"values":["0"," 5"],"type":"enum"},"$fs":{"type":"float"},"pressure_angle":{"type":"float"}}

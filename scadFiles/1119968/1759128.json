@@ -1,0 +1,1 @@
+{"magnet_dia":{"type":"float"},"magnet_margin":{"type":"float"},"magnet_depth":{"type":"float"},"num_magnets":{"type":"float"},"magnet_indent_side":{"values":["1"," 0"],"type":"enum"},"collar_thickness":{"type":"float"},"shaft_dia":{"type":"float"},"disc_dia":{"type":"float"},"disc_thickness":{"type":"float"},"collar_length":{"type":"float"}}

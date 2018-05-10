@@ -1,0 +1,1 @@
+{"letter1":{"type":"string"},"difint":{"values":["1"," 2"],"type":"enum"},"size":{"type":"float"},"letter2":{"type":"string"},"letter3":{"type":"string"},"textFont":{"type":"string"}}

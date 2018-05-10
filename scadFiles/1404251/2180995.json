@@ -1,0 +1,1 @@
+{"spin":{"values":["OUT","IN"],"type":"enum"},"height":{"type":"float"},"diameter":{"type":"float"},"text":{"type":"string"},"symbol":{"type":"string"}}

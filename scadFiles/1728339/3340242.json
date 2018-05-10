@@ -1,0 +1,1 @@
+{"hollow":{"values":["false"," true"],"type":"enum"},"triangle_edge_length":{"type":"float"},"spacing":{"type":"float"},"height":{"type":"float"},"diameter":{"type":"float"},"joint_width":{"type":"float"}}

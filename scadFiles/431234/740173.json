@@ -1,0 +1,1 @@
+{"letters_size_scale":{"end":15.0,"step":1,"type":"range","start":5.0},"stock_length":{"end":25.0,"step":1,"type":"range","start":14.0},"end_connector":{"values":["rounded","straight","upright"],"type":"enum"},"cufflink_text":{"type":"string"},"font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\""],"type":"enum"}}

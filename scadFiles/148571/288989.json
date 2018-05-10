@@ -1,0 +1,1 @@
+{"$fs":{"type":"float"},"clr":{"type":"float"},"bevel":{"type":"float"},"drope":{"type":"float"},"$fa":{"type":"float"},"nn":{"values":["1","2","3","4","5","6","7","8"],"type":"enum"},"t":{"type":"float"},"f":{"type":"float"},"bevel2":{"type":"float"},"daxle":{"type":"float"},"dloop":{"type":"float"},"part":{"values":["block","wheel"],"type":"enum"}}

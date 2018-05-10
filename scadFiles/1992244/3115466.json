@@ -1,0 +1,1 @@
+{"zmax":{"end":10.0,"step":1,"type":"range","start":1.0},"center":{"values":["true","false"],"type":"enum"},"ysize":{"end":100.0,"step":1,"type":"range","start":10.0},"xsize":{"end":100.0,"step":1,"type":"range","start":10.0},"zmin":{"end":9.0,"step":1,"type":"range","start":0.01}}

@@ -1,0 +1,1 @@
+{"shape":{"values":["1","2"],"type":"enum"},"number_of_twists":{"end":10.0,"step":1,"type":"range","start":1.0},"pen_length":{"type":"float"},"pen_radius":{"type":"float"},"show_pencil":{"values":["yes"," no"],"type":"enum"},"holder_thickness":{"end":10.0,"step":1,"type":"range","start":1.0}}

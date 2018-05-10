@@ -1,0 +1,1 @@
+{"height":{"end":200.0,"step":1,"type":"range","start":1.0},"part":{"type":"string"},"width":{"end":150.0,"step":1,"type":"range","start":1.0},"border_thickness":{"end":10.0,"step":0.5,"type":"range","start":2.0},"depth":{"end":100.0,"step":1,"type":"range","start":1.0}}

@@ -1,0 +1,1 @@
+{"copper_nom_idx":{"values":["0","1","2","3","4","5","6","7","8","9","10"],"type":"enum"},"tightness":{"type":"float"},"copper_pipe_class":{"values":["K","L","M","DWV"],"type":"enum"},"generate":{"type":"float"},"length":{"type":"float"},"resolution":{"type":"float"}}

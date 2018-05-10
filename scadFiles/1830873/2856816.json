@@ -1,0 +1,1 @@
+{"tolerance":{"end":1.0,"step":0.01,"type":"range","start":0.0},"size":{"end":200.0,"step":1.0,"type":"range","start":1.0},"w":{"end":2.0,"step":0.05,"type":"range","start":0.7},"t":{"end":20.0,"step":0.05,"type":"range","start":0.2}}

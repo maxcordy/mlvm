@@ -1,0 +1,1 @@
+{"number_of_rows":{"type":"float"},"first_line_type":{"values":["1"," 0"],"type":"enum"},"use_tabs":{"values":["0"," 1"],"type":"enum"},"slot_depth":{"type":"float"},"bottom_thickness":{"type":"float"},"slot_radius":{"type":"float"},"wall_thickness":{"type":"float"},"number_of_columns":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"baseD":{"type":"float"},"potH":{"type":"float"},"potThick":{"type":"float"},"sideSlope":{"end":90.0,"step":1.0,"type":"range","start":0.0},"nHoles":{"end":10.0,"step":1.0,"type":"range","start":0.0},"sHoles":{"type":"float"}}

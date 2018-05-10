@@ -1,0 +1,1 @@
+{"image_file":{"parameters":["100x100"],"function":"image_surface","type":"custom"},"emboss_height":{"type":"float"},"hinge_placement":{"values":["1","2","3","4"],"type":"enum"}}

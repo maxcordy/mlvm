@@ -1,0 +1,1 @@
+{"$fn":{"values":["100","300","500"],"type":"enum"},"wall_thickness":{"type":"float"},"exterior_height":{"type":"float"},"interior_height_offset":{"type":"float"},"interior_hole_diameter":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"steps":{"type":"float"},"thickness":{"type":"float"},"children_per_step":{"type":"float"},"step_distance":{"type":"float"},"ray_length":{"type":"float"},"height":{"type":"float"},"clockwise":{"values":["YES"," NO"],"type":"enum"},"scale":{"type":"float"},"twist":{"type":"float"}}

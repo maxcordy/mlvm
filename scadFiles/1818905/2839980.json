@@ -1,0 +1,1 @@
+{"thickness":{"end":0.1875,"step":0.0005,"type":"range","start":0.0625},"size":{"end":20.0,"step":0.5,"type":"range","start":1.0},"ring_depth":{"end":1.0,"step":0.0625,"type":"range","start":0.125},"part":{"type":"string"},"symbol_depth":{"end":1.0,"step":0.0625,"type":"range","start":0.125}}

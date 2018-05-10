@@ -1,0 +1,1 @@
+{"part":{"type":"string"},"Number_of_Sections":{"end":32.0,"step":1,"type":"range","start":0.0},"Pin_or_Hole":{"values":["Pin"," Hole"],"type":"enum"},"Diameter":{"end":250.0,"step":1,"type":"range","start":10.0},"Height":{"end":120.0,"step":1,"type":"range","start":5.0}}

@@ -1,0 +1,1 @@
+{"Has_holding_cap":{"values":["0","1"],"type":"enum"},"message":{"type":"string"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/BlackRose.dxf\""],"type":"enum"},"Nut_Size":{"type":"float"},"Tool_Length":{"end":20.0,"step":1,"type":"range","start":4.0},"$fs":{"type":"float"},"Tool_Height":{"type":"float"}}

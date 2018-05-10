@@ -1,0 +1,1 @@
+{"Mount_thickness":{"end":10.0,"step":1,"type":"range","start":5.0},"Screw_nut":{"values":["0","1"],"type":"enum"},"Tilt_angle":{"end":90.0,"step":1,"type":"range","start":0.0},"Sheet_thickness":{"end":10.0,"step":1,"type":"range","start":3.0}}

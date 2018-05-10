@@ -1,0 +1,1 @@
+{"cubeDepth":{"type":"float"},"cubeSize":{"type":"float"},"insertSize":{"type":"float"},"insertWall":{"end":10.0,"step":1,"type":"range","start":2.0},"screwSize":{"type":"float"}}

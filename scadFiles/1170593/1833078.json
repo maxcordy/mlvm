@@ -1,0 +1,1 @@
+{"Monogram_size":{"type":"float"},"Monogram_depth":{"type":"float"},"Monogram_z_position":{"type":"float"},"Monogram":{"type":"string"},"Supports":{"values":["yes","no"],"type":"enum"}}

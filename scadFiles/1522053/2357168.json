@@ -1,0 +1,1 @@
+{"coin_diameter":{"type":"float"},"coin_thickness":{"type":"float"},"neck_length":{"type":"float"},"parts":{"values":["Coin"," Paperclip"," Both"],"type":"enum"},"screw_length":{"type":"float"},"screw_diameter":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"screwHeadDiameter":{"type":"float"},"keyGap":{"type":"float"},"screwHoleDiameter":{"type":"float"},"numOfSlots":{"end":5.0,"step":1,"type":"range","start":1.0},"totalHeight":{"type":"float"},"edgeGap":{"type":"float"},"totalWidth":{"type":"float"}}

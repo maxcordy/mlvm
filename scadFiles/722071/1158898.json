@@ -1,0 +1,1 @@
+{"Bowl_Depth":{"end":15.0,"step":1,"type":"range","start":5.0},"Hole_Diameter":{"values":["8.5","10","11.5"],"type":"enum"},"Pens":{"values":["6"," 7"," 8"," 9"," 10"," 11"," 12"],"type":"enum"},"CenterBowl":{"values":["yes","no"],"type":"enum"},"CenterHole":{"values":["yes","no"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"tool_handle_thickness":{"end":100.0,"step":1,"type":"range","start":5.0},"tool_handle_inside_gape":{"end":50.0,"step":1,"type":"range","start":3.0},"screw_holes":{"end":20.0,"step":1,"type":"range","start":2.0},"thickness":{"end":10.0,"step":1,"type":"range","start":2.0}}

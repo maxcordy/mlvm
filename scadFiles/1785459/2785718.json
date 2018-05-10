@@ -1,0 +1,1 @@
+{"wall":{"end":7.0,"step":0.5,"type":"range","start":2.0},"wire_storage":{"end":30.0,"step":1.0,"type":"range","start":10.0},"fin_count":{"end":12.0,"step":1.0,"type":"range","start":2.0},"sides":{"end":150.0,"step":5.0,"type":"range","start":60.0},"echo_base":{"end":86.0,"step":0.1,"type":"range","start":84.0}}

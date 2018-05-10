@@ -1,0 +1,1 @@
+{"ring_space":{"end":2.0,"step":0.1,"type":"range","start":0.2},"outer_diameter":{"end":140.0,"step":1,"type":"range","start":40.0},"cylinder_sides":{"end":20.0,"step":1,"type":"range","start":3.0},"ring_thickness":{"end":10.0,"step":0.1,"type":"range","start":0.2},"sides":{"type":"float"},"cylinder_diameter":{"end":10.0,"step":1,"type":"range","start":0.0}}

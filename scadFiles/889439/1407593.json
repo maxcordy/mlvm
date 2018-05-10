@@ -1,0 +1,1 @@
+{"big_sphere_diameter":{"type":"float"},"wall_thickness":{"type":"float"},"tube_inner_diameter":{"type":"float"},"model_resolution":{"type":"float"},"spheres_distance":{"end":5.0,"step":0.1,"type":"range","start":-2.0}}

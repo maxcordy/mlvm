@@ -1,0 +1,1 @@
+{"TAU":{"type":"float"},"mode":{"values":["basket4"," basket6"],"type":"enum"},"radius":{"end":100.0,"step":0.01,"type":"range","start":0.1},"segment_size":{"end":10.0,"step":0.01,"type":"range","start":0.05},"height":{"end":100.0,"step":0.01,"type":"range","start":0.1},"density":{"end":100.0,"step":2.0,"type":"range","start":4.0}}

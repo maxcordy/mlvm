@@ -1,0 +1,1 @@
+{"length":{"end":100.0,"step":1,"type":"range","start":40.0},"thickness":{"end":10.0,"step":1,"type":"range","start":3.0},"roundness":{"end":5.0,"step":1,"type":"range","start":1.0},"name":{"type":"string"},"width":{"end":30.0,"step":1,"type":"range","start":15.0},"google_font":{"type":"string"},"font":{"type":"float"},"style":{"values":["0"," 1"," 2"," 3"," 4"],"type":"enum"}}

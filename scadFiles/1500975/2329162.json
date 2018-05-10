@@ -1,0 +1,1 @@
+{"depth":{"end":30.0,"step":1,"type":"range","start":1.0},"radius":{"type":"float"},"cube_size":{"type":"float"},"preview_cube":{"values":["true"," false"],"type":"enum"},"height":{"type":"float"},"cornercut_radius":{"end":40.0,"step":5.0,"type":"range","start":0.0}}

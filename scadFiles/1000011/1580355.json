@@ -1,0 +1,1 @@
+{"ringHeight":{"type":"float"},"scaleX":{"type":"float"},"ringOuterDiameter":{"type":"float"},"scaleZ":{"type":"float"},"truck_points":{"type":"float"},"scaleY":{"type":"float"},"ringInnerDiameter":{"type":"float"},"ring":{"values":["Yes"," No"],"type":"enum"},"truck_paths":{"type":"float"},"ringNudgeX":{"type":"float"},"ringNudgeY":{"type":"float"}}

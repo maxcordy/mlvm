@@ -1,0 +1,1 @@
+{"centralNutDiameter":{"type":"float"},"message":{"type":"string"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/BlackRose.dxf\""],"type":"enum"},"bitDepth":{"type":"float"},"hexHolderThickness":{"type":"float"},"handleHeight":{"type":"float"},"hexDiameter":{"type":"float"}}

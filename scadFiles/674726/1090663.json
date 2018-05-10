@@ -1,0 +1,1 @@
+{"inner_radius":{"type":"float"},"button_diameter":{"type":"float"},"extra_border":{"type":"float"},"num_holes":{"type":"float"},"hole_diameter":{"type":"float"},"button_height":{"type":"float"},"smoothness":{"end":200.0,"step":1,"type":"range","start":4.0},"border_type":{"values":["square"," round"],"type":"enum"}}

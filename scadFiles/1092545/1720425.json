@@ -1,0 +1,1 @@
+{"detail":{"type":"float"},"thickness":{"type":"float"},"size":{"type":"float"},"solid":{"values":["1"," 0"],"type":"enum"},"curvetype":{"values":["1"," 2"," 3"],"type":"enum"},"MinWall":{"type":"float"}}

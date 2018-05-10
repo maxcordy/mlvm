@@ -1,0 +1,1 @@
+{"strap_width":{"type":"float"},"height":{"type":"float"},"wall_thickness":{"type":"float"},"strap_thickness":{"type":"float"},"tabs":{"values":["Enabled","Disabled"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"MountingDepth":{"type":"float"},"MountingHeight":{"type":"float"},"MountingWidth":{"type":"float"},"WallWidth":{"type":"float"},"Type":{"values":["3","4","5"],"type":"enum"},"LedDistance":{"type":"float"},"LedDiameter":{"type":"float"}}

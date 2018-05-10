@@ -1,0 +1,1 @@
+{"rod_diameter":{"type":"float"},"part":{"values":["both"," holder"," rod"],"type":"enum"},"roll_hole_diameter":{"type":"float"},"mount_support_height_ratio":{"type":"float"},"roll_diameter":{"type":"float"},"arm_width":{"type":"float"},"mount_center_offset":{"end":50.0,"step":1,"type":"range","start":-50.0},"roll_width":{"type":"float"},"arm_thickness":{"type":"float"}}

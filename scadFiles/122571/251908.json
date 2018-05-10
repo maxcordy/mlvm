@@ -1,0 +1,1 @@
+{"offY":{"type":"float"},"offX":{"type":"float"},"input":{"type":"string"},"image_rotation":{"end":180.0,"step":1,"type":"range","start":-180.0},"margin":{"type":"float"},"stencil_width":{"type":"float"},"stencil_thickness":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"holeDiameter":{"end":100.0,"step":1,"type":"range","start":0.0},"outerShape":{"values":["1","2"],"type":"enum"},"$fn":{"type":"float"},"holeHeight":{"end":100.0,"step":1,"type":"range","start":0.0},"boxHeight":{"end":100.0,"step":1,"type":"range","start":20.0},"boxSize":{"end":120.0,"step":1,"type":"range","start":20.0},"yourName":{"type":"string"}}

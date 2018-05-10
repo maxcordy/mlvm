@@ -1,0 +1,1 @@
+{"monitorthickness":{"type":"float"},"length":{"type":"float"},"thickness":{"type":"float"},"$fn":{"type":"float"},"inch":{"type":"float"},"crossingPointDistance":{"type":"float"},"tiltangle":{"type":"float"},"height":{"type":"float"},"sittingPosition":{"type":"float"},"angle":{"type":"float"},"part":{"type":"string"}}

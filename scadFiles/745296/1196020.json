@@ -1,0 +1,1 @@
+{"change_percent":{"type":"float"},"textstring":{"type":"string"},"fontname":{"type":"string"},"textheight":{"type":"float"},"steps_bigger":{"type":"float"},"steps_smaller":{"type":"float"},"basetype":{"values":["round","straight"],"type":"enum"},"textsize":{"type":"float"}}

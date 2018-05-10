@@ -1,0 +1,1 @@
+{"max_iteration":{"type":"float"},"angle2":{"end":360.0,"step":1,"type":"range","start":0.0},"angle1":{"end":360.0,"step":1,"type":"range","start":0.0},"taille":{"type":"float"},"qual":{"type":"float"},"taille2":{"type":"float"},"visco":{"type":"float"}}

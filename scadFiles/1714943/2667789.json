@@ -1,0 +1,1 @@
+{"cylinderID":{"type":"float"},"cylinderHeight":{"type":"float"},"Threshold":{"end":100.0,"step":1,"type":"range","start":0.0},"Inverted":{"values":["True"," False"],"type":"enum"},"image_file":{"parameters":["100x100"],"function":"image_surface","type":"custom"}}

@@ -1,0 +1,1 @@
+{"shaft_wall_thickness":{"type":"float"},"shaft_diameter":{"type":"float"},"cap_diameter":{"type":"float"},"$fn":{"values":["100","300","500"],"type":"enum"},"shaft_length":{"type":"float"},"cap_hight":{"type":"float"}}

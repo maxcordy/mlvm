@@ -1,0 +1,1 @@
+{"message":{"type":"string"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/braille.dxf\""],"type":"enum"},"band_width":{"type":"float"},"band_a":{"type":"float"},"thickness":{"type":"float"},"band_b":{"type":"float"}}

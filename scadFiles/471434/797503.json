@@ -1,0 +1,1 @@
+{"Cols":{"end":20.0,"step":1,"type":"range","start":1.0},"extra":{"values":["0.96"," 0.97"," 0.98"," 0.99"," 1.00"," 1.01"," 1.02"," 1.03"," 1.04"," 1.05"],"type":"enum"},"Rows":{"end":20.0,"step":1,"type":"range","start":1.0},"Diameter":{"end":50.0,"step":1,"type":"range","start":5.0},"Height":{"end":10.0,"step":1,"type":"range","start":1.0}}

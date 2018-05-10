@@ -1,0 +1,1 @@
+{"socket_depth":{"type":"float"},"head_dimension":{"type":"float"},"ear_thickness":{"type":"float"},"wall_thickness":{"type":"float"},"ear_style":{"values":["mickey"," pill"," retro"],"type":"enum"},"ear_spacing":{"end":0.75,"step":0.05,"type":"range","start":0.0}}

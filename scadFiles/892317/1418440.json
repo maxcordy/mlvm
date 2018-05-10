@@ -1,0 +1,1 @@
+{"txt":{"type":"string"},"drive_size":{"values":["2","3","4"],"type":"enum"},"clearance":{"type":"float"},"spacing":{"type":"float"},"cols":{"type":"float"},"rows":{"type":"float"}}

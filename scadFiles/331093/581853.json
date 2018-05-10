@@ -1,0 +1,1 @@
+{"text_font":{"values":["Letters.dxf"," orbitron.dxf"," BlackRose.dxf"," braille.dxf"],"type":"enum"},"show_text":{"values":["yes","no"],"type":"enum"},"text_size":{"end":11.0,"step":1,"type":"range","start":6.0},"text_itself":{"values":["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"],"type":"enum"}}

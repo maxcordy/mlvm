@@ -1,0 +1,1 @@
+{"is_end":{"values":["1"," 0"],"type":"enum"},"is_starter":{"values":["1"," 0"],"type":"enum"},"nb_caps":{"type":"float"},"is_assemblable":{"values":["1"," 0"],"type":"enum"},"capsule_height":{"type":"float"},"capsule_cap_diameter":{"type":"float"},"capsule_cap_under_diameter":{"type":"float"},"tower_only":{"values":["1"," 0"],"type":"enum"},"clips_thickness":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"tine_length":{"type":"float"},"N":{"end":20.0,"step":1,"type":"range","start":2.0},"hole_diameter":{"type":"float"},"tine_width":{"type":"float"},"tine_pitch":{"type":"float"},"countersink_diameter":{"type":"float"},"base_height":{"type":"float"}}

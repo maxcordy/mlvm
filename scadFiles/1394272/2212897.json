@@ -1,0 +1,1 @@
+{"part":{"values":["U-BOLT"," NUTS"," BOTH"],"type":"enum"},"thread_length_in":{"type":"float"},"inside_width_in":{"type":"float"},"num_nuts":{"type":"float"},"thread_diameter":{"type":"float"},"inside_length_in":{"type":"float"},"TPI":{"type":"float"}}

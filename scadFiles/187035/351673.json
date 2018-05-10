@@ -1,0 +1,1 @@
+{"entropy":{"end":10.0,"step":1,"type":"range","start":0.0},"diameter":{"end":100.0,"step":1,"type":"range","start":10.0},"spike_length":{"end":150.0,"step":1,"type":"range","start":10.0},"spikes":{"end":500.0,"step":1,"type":"range","start":100.0}}

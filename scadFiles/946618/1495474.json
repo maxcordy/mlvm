@@ -1,0 +1,1 @@
+{"def_ww":{"type":"float"},"Slot_depth":{"end":30.0,"step":1,"type":"range","start":5.0},"ff":{"type":"float"},"Front_rake":{"end":90.0,"step":5.0,"type":"range","start":15.0},"Rear_rake":{"end":90.0,"step":5.0,"type":"range","start":15.0},"Stand_width":{"type":"float"},"Stand_height":{"type":"float"},"$fn":{"type":"float"}}

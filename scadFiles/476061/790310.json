@@ -1,0 +1,1 @@
+{"HolesDiameter":{"type":"float"},"Resoultion":{"end":100.0,"step":1,"type":"range","start":3.0},"HolesRingsSpacingFraction":{"end":4.0,"step":1,"type":"range","start":0.1},"RotorDiameter":{"type":"float"},"Height":{"type":"float"}}

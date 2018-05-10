@@ -1,0 +1,1 @@
+{"outside_shape":{"values":["1"," 2"," 3"],"type":"enum"},"outside_polysides":{"end":20.0,"step":1,"type":"range","start":5.0},"inside_diameter":{"type":"float"},"inside_polysides":{"end":20.0,"step":1,"type":"range","start":5.0},"height":{"end":50.0,"step":1,"type":"range","start":5.0},"inside_shape":{"values":["1"," 2"," 3"],"type":"enum"},"outside_diameter":{"type":"float"}}

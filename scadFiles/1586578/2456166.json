@@ -1,0 +1,1 @@
+{"$fn":{"values":["30","60","100"],"type":"enum"},"BHT":{"values":["0","1"],"type":"enum"},"Type":{"values":["1","0"],"type":"enum"},"OD":{"type":"float"},"ID":{"type":"float"},"tolerance":{"type":"float"},"width":{"type":"float"},"Part":{"type":"float"}}

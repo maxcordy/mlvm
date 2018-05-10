@@ -1,0 +1,1 @@
+{"TwoSided":{"values":["Yes","No"],"type":"enum"},"NumberOfGreeblesY":{"type":"float"},"SizeX":{"type":"float"},"MinimalGreebleSize":{"type":"float"},"SizeY":{"type":"float"},"NumberOfGreeblesX":{"type":"float"},"GreebleHeightFactor":{"type":"float"},"MaximumGreebleSize":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"shape":{"values":["\"round\"","\"oval\""],"type":"enum"},"length":{"type":"float"},"stick":{"values":["1","0"],"type":"enum"},"texture":{"values":["1","0"],"type":"enum"},"minor":{"type":"float"},"height":{"type":"float"},"notch":{"values":["1","0"],"type":"enum"},"dop_stick_diameter":{"type":"float"},"major":{"type":"float"}}

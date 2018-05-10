@@ -1,0 +1,1 @@
+{"scoop":{"type":"float"},"fn":{"type":"float"},"wall":{"type":"float"},"scooptract":{"type":"float"},"dia":{"type":"float"},"supwall":{"type":"float"},"outlet":{"type":"float"},"has_support":{"values":["0"," 1"],"type":"enum"},"mnthole":{"type":"float"}}

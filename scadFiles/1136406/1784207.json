@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"n_bins":{"end":20.0,"step":1,"type":"range","start":1.0},"bowlness":{"end":10.0,"step":1,"type":"range","start":0.0},"rotate_for_preview":{"type":"mixed"},"height":{"type":"float"},"width":{"type":"float"},"thickness":{"type":"float"}}

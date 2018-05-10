@@ -1,0 +1,1 @@
+{"bottom_wall":{"type":"float"},"chamfer":{"type":"float"},"top_hole_diameter":{"type":"float"},"mode":{"values":["design"," printing"],"type":"enum"},"k1":{"type":"float"},"top_wall":{"type":"float"},"k2":{"type":"float"},"funnel_height":{"type":"float"},"straight_height":{"type":"float"},"bottom_hole_diameter":{"type":"float"}}

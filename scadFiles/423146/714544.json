@@ -1,0 +1,1 @@
+{"depth":{"type":"float"},"thickness":{"type":"float"},"bracket_width":{"type":"float"},"phone_width":{"type":"float"},"height":{"type":"float"},"bracket_wall":{"type":"float"},"phone_depth":{"type":"float"},"_back_mount":{"values":["0"," 1"],"type":"enum"},"phone_overhang":{"type":"float"}}

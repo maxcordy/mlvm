@@ -1,0 +1,1 @@
+{"NbrX":{"type":"float"},"DiamTube":{"type":"float"},"mode":{"values":["3D","plan"],"type":"enum"},"NbrY":{"type":"float"},"HauteurTube":{"type":"float"},"Tubes":{"values":["avec","sans"],"type":"enum"},"EpaisMater":{"type":"float"}}

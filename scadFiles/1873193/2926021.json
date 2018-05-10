@@ -1,0 +1,1 @@
+{"Model_View":{"values":["0"," 1"," 2"," 3"," 4"," 5"],"type":"enum"},"Render_Quality":{"end":100.0,"step":1,"type":"range","start":5.0},"Electronics_Area":{"values":["0"," 1"],"type":"enum"}}

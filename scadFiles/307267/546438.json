@@ -1,0 +1,1 @@
+{"show_roof":{"values":["yes","no"],"type":"enum"},"show_bricks":{"values":["yes","no"],"type":"enum"},"show_windows":{"values":["yes","no"],"type":"enum"},"vertical_windows":{"end":5.0,"step":1,"type":"range","start":1.0},"horizontal_windows":{"end":10.0,"step":1,"type":"range","start":1.0},"show_door":{"values":["yes","no"],"type":"enum"}}

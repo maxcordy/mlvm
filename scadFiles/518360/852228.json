@@ -1,0 +1,1 @@
+{"Render_Quality":{"values":["25"," 50"],"type":"enum"},"object_height":{"end":100.0,"step":1,"type":"range","start":80.0},"parts_to_render":{"values":["1"," 2"," 3"," 4"," 5"," 6"],"type":"enum"}}

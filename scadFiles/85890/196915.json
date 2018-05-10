@@ -1,0 +1,1 @@
+{"inscription":{"type":"string"},"Number":{"type":"float"},"inscription_font":{"values":["\"write\/orbitron.dxf\":Orbitron","\"write\/Letters.dxf\":Letters",""],"type":"enum"},"Font_size":{"end":16.0,"step":1,"type":"range","start":8.0},"Back_inscription_rotate":{"values":["0","180"],"type":"enum"},"Print":{"values":["1","0"],"type":"enum"}}

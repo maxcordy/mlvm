@@ -1,0 +1,1 @@
+{"ring_width":{"type":"float"},"chain_hole":{"values":["YES"," NO"],"type":"enum"},"chain_hole_width":{"type":"float"},"pillar_radius":{"type":"float"},"spacing":{"type":"float"},"height":{"type":"float"},"side":{"type":"float"}}

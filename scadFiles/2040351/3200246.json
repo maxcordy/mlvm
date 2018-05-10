@@ -1,0 +1,1 @@
+{"cap_height":{"type":"float"},"cap_displacement":{"type":"float"},"base_bottom_diameter":{"type":"float"},"screw_height":{"type":"float"},"screw_diameter":{"type":"float"},"base_top_diameter":{"type":"float"},"base_height":{"type":"float"},"make_cap":{"values":["yes","no"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"spacing":{"type":"float"},"concave":{"values":["pentagon"," hexagon"],"type":"enum"},"shell_thickness":{"type":"float"},"radius":{"type":"float"}}

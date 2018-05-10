@@ -1,0 +1,1 @@
+{"device_thickness":{"end":50.0,"step":1,"type":"range","start":1.0},"device_width":{"end":200.0,"step":1,"type":"range","start":1.0},"thickness":{"end":10.0,"step":1,"type":"range","start":1.0},"visor_thickness":{"end":50.0,"step":1,"type":"range","start":1.0},"visor_height":{"end":300.0,"step":1,"type":"range","start":1.0}}

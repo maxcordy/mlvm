@@ -1,0 +1,1 @@
+{"wallsize":{"end":10.0,"step":1,"type":"range","start":1.0},"textorientation":{"type":"string"},"part":{"type":"string"},"tilethick":{"end":10.0,"step":1,"type":"range","start":1.0},"font_name":{"type":"string"},"tilesize":{"end":50.0,"step":1,"type":"range","start":8.0}}

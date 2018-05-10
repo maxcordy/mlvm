@@ -1,0 +1,1 @@
+{"part":{"values":["All"," Wall"," Spool"," Guide"],"type":"enum"},"SpoolDiameter":{"type":"float"},"SpoolHoleDiameter":{"type":"float"},"SpoolDepth":{"type":"float"}}

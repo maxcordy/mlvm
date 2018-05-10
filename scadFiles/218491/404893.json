@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"bar_spacing":{"type":"float"},"bars":{"end":20.0,"step":1,"type":"range","start":1.0},"border_resolution":{"type":"float"},"height":{"type":"float"},"min_thickness":{"type":"float"},"border_amount":{"type":"float"},"width":{"type":"float"},"rounding":{"type":"float"},"bar_resolution":{"type":"float"},"tiny_gap":{"type":"float"}}

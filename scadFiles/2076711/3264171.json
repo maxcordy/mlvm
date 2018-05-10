@@ -1,0 +1,1 @@
+{"randSeed":{"type":"float"},"radiusOffset":{"type":"float"},"layers":{"end":200.0,"step":1,"type":"range","start":2.0},"phase":{"type":"float"},"maxEdges":{"end":100.0,"step":1,"type":"range","start":3.0},"minEdges":{"end":100.0,"step":1,"type":"range","start":3.0},"amp":{"type":"float"},"layerHeight":{"type":"float"},"rotateZ":{"type":"float"}}

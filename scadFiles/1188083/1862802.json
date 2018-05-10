@@ -1,0 +1,1 @@
+{"led_holder_outer_diameter":{"end":13.0,"step":0.1,"type":"range","start":8.0},"switch":{"type":"string"},"nozzle_diameter":{"end":2.0,"step":0.05,"type":"range","start":0.05},"tealight_diameter":{"end":100.0,"step":0.5,"type":"range","start":33.0},"tealight_height":{"end":35.0,"step":0.05,"type":"range","start":14.65}}

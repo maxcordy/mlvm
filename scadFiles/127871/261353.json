@@ -1,0 +1,1 @@
+{"ZANGLE":{"type":"float"},"HEIGHTFACT":{"type":"float"},"TILTANGLE":{"type":"float"},"height":{"type":"float"},"number_of_levels":{"end":8.0,"step":1,"type":"range","start":1.0},"height_to_with_top":{"type":"float"},"height_to_with_bottom":{"type":"float"}}

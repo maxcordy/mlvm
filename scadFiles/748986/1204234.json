@@ -1,0 +1,1 @@
+{"show_logo":{"values":["yes","no"],"type":"enum"},"card_y":{"type":"float"},"wall_height":{"type":"float"},"card_x":{"type":"float"},"card_space":{"type":"float"},"wall_thickness":{"type":"float"},"connectors":{"values":["both","none","female","male"],"type":"enum"},"plate_height":{"type":"float"}}

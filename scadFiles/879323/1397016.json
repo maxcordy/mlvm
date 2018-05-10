@@ -1,0 +1,1 @@
+{"diameter":{"type":"float"},"Notice":{"type":"string"},"HelperDisk":{"values":["yes","no"],"type":"enum"}}

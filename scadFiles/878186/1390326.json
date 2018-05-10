@@ -1,0 +1,1 @@
+{"napkin_count":{"type":"float"},"napkin_thickness":{"type":"float"},"stego_thickness":{"end":10.0,"step":1.0,"type":"range","start":1.0}}

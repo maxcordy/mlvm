@@ -1,0 +1,1 @@
+{"pentagonTowerHeight":{"end":50.0,"step":1,"type":"range","start":20.0},"squareTowerHeight":{"end":50.0,"step":1,"type":"range","start":20.0},"circularTowerHeight":{"type":"float"},"triangleTowerHeight":{"end":50.0,"step":1,"type":"range","start":20.0}}

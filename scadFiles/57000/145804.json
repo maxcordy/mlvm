@@ -1,0 +1,1 @@
+{"angle":{"end":45.0,"step":1,"type":"range","start":0.0},"METRIC_NUT_AC_WIDTHS":{"type":"float"},"COURSE_METRIC_BOLT_MAJOR_THREAD_DIAMETERS":{"type":"float"},"INCH":{"type":"string"},"rise":{"end":100.0,"step":1,"type":"range","start":0.0},"tolerance":{"type":"float"},"MM":{"type":"string"}}

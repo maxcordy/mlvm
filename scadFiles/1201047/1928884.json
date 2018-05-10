@@ -1,0 +1,1 @@
+{"pencil_slope_angle":{"end":40.0,"step":1,"type":"range","start":20.0},"number_of_pencils_on_outer_ring":{"end":64.0,"step":1,"type":"range","start":24.0},"show_pencils":{"type":"string"},"rings":{"end":5.0,"step":1,"type":"range","start":1.0},"include_handle":{"values":["yes"," no"],"type":"enum"}}

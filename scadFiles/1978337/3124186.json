@@ -1,0 +1,1 @@
+{"camHeight":{"end":170.0,"step":1,"type":"range","start":20.0},"leftParts":{"end":40.0,"step":1,"type":"range","start":0.0},"motorWeight":{"end":100.0,"step":1,"type":"range","start":10.0},"camWidth":{"end":350.0,"step":1,"type":"range","start":5.0},"$fn":{"type":"float"},"camWeight":{"end":400.0,"step":1,"type":"range","start":10.0}}

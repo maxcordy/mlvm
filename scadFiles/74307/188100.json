@@ -1,0 +1,1 @@
+{"type_of_phone":{"type":"string"},"print_endcaps":{"values":["Yes","No"],"type":"enum"},"X":{"type":"float"},"Y":{"type":"float"},"Z":{"type":"float"},"mm":{"type":"float"}}

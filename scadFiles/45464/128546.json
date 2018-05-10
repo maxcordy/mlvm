@@ -1,0 +1,1 @@
+{"MouthX":{"end":200.0,"step":1,"type":"range","start":-200.0},"MouthSize":{"end":100.0,"step":1,"type":"range","start":25.0},"radius":{"type":"float"},"MouthRotate":{"end":364.0,"step":1,"type":"range","start":0.0},"Mouth":{"values":["Super","Very"],"type":"enum"},"height":{"type":"float"},"MouthY":{"end":200.0,"step":1,"type":"range","start":-200.0}}

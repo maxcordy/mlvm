@@ -1,0 +1,1 @@
+{"buitenzijde":{"type":"float"},"wand":{"type":"float"},"lengte":{"type":"float"},"variant":{"values":["1"," 2"," 3"," 4"," 5"],"type":"enum"},"hulplijn":{"type":"float"},"binnenzijde":{"type":"float"}}

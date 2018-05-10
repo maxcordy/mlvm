@@ -1,0 +1,1 @@
+{"BASE_DIAMETER":{"end":100.0,"step":1,"type":"range","start":1.0},"BASE_HEIGHT":{"end":100.0,"step":1,"type":"range","start":0.0},"ID":{"end":100.0,"step":1,"type":"range","start":1.0},"ANGLE":{"end":45.0,"step":1,"type":"range","start":1.0},"$fn":{"type":"float"},"SHOULDER":{"end":100.0,"step":1,"type":"range","start":0.0}}

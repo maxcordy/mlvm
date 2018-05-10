@@ -1,0 +1,1 @@
+{"Angle":{"type":"float"},"Length":{"type":"float"},"sharpness":{"type":"float"},"number_of_needles":{"type":"float"},"needle_type":{"type":"float"},"$fn":{"type":"float"},"slice":{"values":["true","false"],"type":"enum"},"Wire_Width":{"type":"float"},"Diameter":{"type":"float"}}

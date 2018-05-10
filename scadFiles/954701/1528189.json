@@ -1,0 +1,1 @@
+{"roofHeight":{"end":5.0,"step":1,"type":"range","start":0.0},"watertower":{"type":"float"},"level":{"end":100.0,"step":1,"type":"range","start":1.0},"sidelong":{"end":10.0,"step":1,"type":"range","start":1.0},"type":{"end":6.0,"step":1,"type":"range","start":1.0}}

@@ -1,0 +1,1 @@
+{"stand_hexes":{"values":["1","2","3"],"type":"enum"},"expansion":{"type":"float"},"hex_bot_rad":{"values":["25","19.5"],"type":"enum"},"hex_to_bot":{"values":["1","0"],"type":"enum"},"bot_rad":{"values":["25","19.5"],"type":"enum"},"$fn":{"type":"float"},"bracket_to_print":{"values":["1","2","3"],"type":"enum"},"rim":{"type":"float"},"thick":{"type":"float"}}

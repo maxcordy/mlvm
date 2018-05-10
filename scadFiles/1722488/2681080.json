@@ -1,0 +1,1 @@
+{"length":{"end":20.0,"step":1,"type":"range","start":1.0},"thickness":{"end":10.0,"step":1,"type":"range","start":1.0},"little_extra":{"type":"float"},"connect_length":{"type":"float"},"connecting":{"type":"string"},"width":{"end":10.0,"step":1,"type":"range","start":1.0},"number_of_spokes":{"values":["2","4","6","8","10","12","14","16","18","20"],"type":"enum"}}

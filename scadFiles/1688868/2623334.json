@@ -1,0 +1,1 @@
+{"yCableSpace":{"type":"float"},"cableDiameter":{"type":"float"},"opening":{"end":70.0,"step":1,"type":"range","start":50.0},"height":{"type":"float"},"xCountCable":{"end":14.0,"step":1,"type":"range","start":1.0},"lines":{"type":"float"},"xCableSpace":{"type":"float"}}

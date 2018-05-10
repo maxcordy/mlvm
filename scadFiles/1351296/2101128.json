@@ -1,0 +1,1 @@
+{"hole_diameter":{"type":"float"},"hole_depth":{"type":"float"},"wall_size":{"end":5.0,"step":1.0,"type":"range","start":2.0},"box_width":{"type":"float"},"box_length":{"type":"float"}}

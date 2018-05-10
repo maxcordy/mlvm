@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"thickness":{"type":"float"},"relief":{"end":0.9,"step":0.1,"type":"range","start":0.1},"crop_to_frame":{"values":["yes"," no"],"type":"enum"}}

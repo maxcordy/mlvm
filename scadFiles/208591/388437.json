@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"lengthen":{"type":"float"},"clearance":{"type":"float"},"side_length":{"type":"float"},"snaps":{"values":["2","3","4","5","6","7","8"],"type":"enum"},"border":{"type":"float"},"sides":{"values":["3","4","5","6","7","8","9","10","11","12"],"type":"enum"}}

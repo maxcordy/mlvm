@@ -1,0 +1,1 @@
+{"dbl":{"values":["1","2","3","4","5","6","7","8","9","10","11","12"],"type":"enum"},"bt":{"values":["round","sqare"],"type":"enum"},"ws":{"end":10.0,"step":0.2,"type":"range","start":1.0},"dh":{"end":5.0,"step":0.1,"type":"range","start":0.0},"cs":{"end":250.0,"step":1,"type":"range","start":10.0},"dn":{"values":["0","1","2","3","4","5"],"type":"enum"}}

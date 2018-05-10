@@ -1,0 +1,1 @@
+{"blocks_x":{"values":["2","3","4","5","6"],"type":"enum"},"screw":{"end":5.0,"step":0.1,"type":"range","start":1.0},"motorversatz_x":{"end":0.0,"step":0.2,"type":"range","start":-17.0},"printing":{"values":["Yes","No: View only"],"type":"enum"},"hl_enlarge":{"end":1.0,"step":0.1,"type":"range","start":0.0}}

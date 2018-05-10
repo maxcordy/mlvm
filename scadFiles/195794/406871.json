@@ -1,0 +1,1 @@
+{"side_nut_orientation":{"values":["0"," 1"],"type":"enum"},"belt_tooth_ratio":{"values":["0.8"," 1.05"," 1.05"," 0.94"," 0.8"],"type":"enum"},"generate_support":{"values":["0"," 1"],"type":"enum"},"belt_tooth_distance":{"values":["2.5"," 5"," 3"," 2.032"," 2"],"type":"enum"}}

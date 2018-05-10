@@ -1,0 +1,1 @@
+{"inside_length":{"end":300.0,"step":1.0,"type":"range","start":10.0},"wall_thickness":{"end":4.0,"step":0.1,"type":"range","start":1.0},"hole_d":{"end":20.0,"step":1.0,"type":"range","start":2.0},"inside_width":{"end":300.0,"step":1.0,"type":"range","start":10.0},"height":{"end":300.0,"step":1.0,"type":"range","start":10.0}}

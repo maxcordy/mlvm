@@ -1,0 +1,1 @@
+{"printSelection":{"type":"string"},"ropeDiameter":{"end":30.0,"step":1,"type":"range","start":5.0},"mountBoltSize":{"values":["4.8"," 5.8"," 7"," 8"," 10"," 12"],"type":"enum"},"shaftBoltSize":{"values":["4.8"," 5.8"," 7"," 8"," 10"," 12"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"battery":{"values":["CR2025"," CR2023"," AG13"," custom"],"type":"enum"},"custom_radius":{"end":50.0,"step":1,"type":"range","start":2.0},"$fn":{"type":"float"},"nr":{"end":50.0,"step":1,"type":"range","start":5.0},"width_divider":{"type":"float"},"custom_width":{"end":10.0,"step":1,"type":"range","start":1.0},"custom_text":{"type":"string"}}

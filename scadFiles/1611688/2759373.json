@@ -1,0 +1,1 @@
+{"beveled_handle":{"type":"mixed"},"thickness":{"type":"float"},"bottlewidth":{"end":200.0,"step":1,"type":"range","start":80.0},"lipdiameter":{"end":52.0,"step":1,"type":"range","start":22.0},"neckdiameter":{"end":50.0,"step":1,"type":"range","start":20.0}}

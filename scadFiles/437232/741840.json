@@ -1,0 +1,1 @@
+{"braceletHeight":{"type":"float"},"fontSize":{"type":"float"},"text":{"type":"string"},"wristDiameter":{"type":"float"},"braceletThickness":{"type":"float"},"letter_depth":{"type":"float"},"font":{"values":["0"," 1"," 2"," 3"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"hole_diameter":{"type":"float"},"output_type":{"values":["DXF","STL"],"type":"enum"},"material_thickness":{"type":"float"},"square_width":{"type":"float"}}

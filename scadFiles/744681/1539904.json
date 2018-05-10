@@ -1,0 +1,1 @@
+{"Polygon_Count":{"values":["32"," 64"," 128"," 256"],"type":"enum"},"Num_holes":{"values":["6","4","3"],"type":"enum"},"spoolR":{"end":100.0,"step":1,"type":"range","start":14.0},"String_Diameter":{"type":"float"},"spoolW":{"end":100.0,"step":1,"type":"range","start":2.0}}

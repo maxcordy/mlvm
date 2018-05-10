@@ -1,0 +1,1 @@
+{"maze":{"type":"float"},"peg_length":{"type":"float"},"peg_diameter":{"type":"float"},"body_wall":{"type":"float"},"tolerance":{"type":"float"},"grips":{"type":"float"},"accent_per_row":{"type":"float"},"accent":{"values":["circle","heart","squiggle","diamond"],"type":"enum"},"accent_shift":{"end":360.0,"step":1,"type":"range","start":0.0},"accent_per_column":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"_diameter":{"type":"float"},"_style":{"values":["round"," square"],"type":"enum"},"_platformGap":{"type":"float"},"_wallThickness":{"type":"float"},"_length":{"end":50.0,"step":1,"type":"range","start":4.0}}

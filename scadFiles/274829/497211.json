@@ -1,0 +1,1 @@
+{"tip_radius":{"type":"float"},"mirroring":{"values":["0"," 1"," 2"," 3"],"type":"enum"},"star_points":{"type":"float"},"vase_twist":{"type":"float"},"indent_radius":{"type":"float"},"vase_height":{"type":"float"},"vase_scale":{"type":"float"}}

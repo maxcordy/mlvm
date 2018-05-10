@@ -1,0 +1,1 @@
+{"Box_depth":{"type":"float"},"Boxes_horizontal":{"type":"float"},"Boxes_vertical":{"type":"float"},"Box_height":{"type":"float"},"Box_width":{"type":"float"},"include_side_rails":{"values":["yes","no"],"type":"enum"},"Wall_thickness":{"type":"float"},"flat_or_assembled":{"values":["flat","assembled"],"type":"enum"}}

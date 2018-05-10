@@ -1,0 +1,1 @@
+{"snap_size":{"type":"float"},"radius":{"type":"float"},"last_floor":{"type":"float"},"height":{"type":"float"},"layout":{"values":["\"print\"","\"top\"","\"bottom\"","\"pin\""],"type":"enum"},"first_floor":{"type":"float"}}

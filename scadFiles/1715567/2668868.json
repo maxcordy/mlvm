@@ -1,0 +1,1 @@
+{"DC_power_diameter":{"end":10.0,"step":1.0,"type":"range","start":1.0},"PWR_Block_len":{"type":"float"},"DC_Type":{"type":"float"},"PWR_Block_height":{"type":"float"},"height":{"type":"float"},"width":{"type":"float"},"power_side_depth":{"end":100.0,"step":1.0,"type":"range","start":1.0},"blank_side_depth":{"end":100.0,"step":1.0,"type":"range","start":1.0}}

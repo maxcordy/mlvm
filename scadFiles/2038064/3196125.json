@@ -1,0 +1,1 @@
+{"external_width":{"end":100.0,"step":1,"type":"range","start":10.0},"shell_thickness":{"values":["0.8","1.2","1.6"],"type":"enum"},"radius":{"end":10.0,"step":1,"type":"range","start":0.0},"cutout_circle":{"values":["yes","no"],"type":"enum"},"external_length":{"end":100.0,"step":1,"type":"range","start":10.0},"external_height":{"end":100.0,"step":1,"type":"range","start":5.0}}

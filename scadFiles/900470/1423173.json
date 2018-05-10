@@ -1,0 +1,1 @@
+{"keyring_thickness":{"end":10.0,"step":0.5,"type":"range","start":2.0},"main_diameter":{"end":50.0,"step":1,"type":"range","start":32.0},"large_hole_diameter":{"end":24.0,"step":1,"type":"range","start":0.0},"small_hole_diameter":{"end":6.0,"step":0.2,"type":"range","start":4.0}}

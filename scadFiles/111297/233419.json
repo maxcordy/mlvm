@@ -1,0 +1,1 @@
+{"textH":{"type":"float"},"VOff":{"type":"float"},"text":{"type":"string"},"mult":{"type":"float"},"height":{"type":"float"},"thick":{"type":"float"},"width":{"type":"float"},"nozzle":{"type":"float"},"font":{"values":["\"write\/BlackRose.dxf\"","\"write\/braille.dxf\"","\"write\/knewave.dxf\"","\"write\/Letters.dxf\"","\"write\/orbitron.dxf\""],"type":"enum"}}

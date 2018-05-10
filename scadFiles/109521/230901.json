@@ -1,0 +1,1 @@
+{"snap":{"type":"float"},"wall":{"type":"float"},"strap_gap":{"type":"float"},"quality":{"end":5.0,"step":1,"type":"range","start":1.0},"light_angle":{"type":"float"},"strap_width":{"type":"float"},"handlebar_diameter":{"type":"float"},"width":{"type":"float"},"light_diameter":{"type":"float"},"extra_height":{"type":"float"}}

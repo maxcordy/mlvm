@@ -1,0 +1,1 @@
+{"Force_de_la_courbure":{"type":"float"},"Type_de_courbure":{"values":["0","1"],"type":"enum"},"Diametre":{"type":"float"},"Rotation":{"type":"float"},"Courbure":{"type":"float"},"Nombre_de_faces":{"type":"float"},"Epaisseur_du_fond":{"type":"float"},"Epaisseur_du_vase":{"type":"float"},"Hauteur":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"layer_size":{"type":"float"},"bed_size":{"type":"float"},"build_plate_manual_y":{"type":"float"},"build_plate_selector":{"type":"float"},"build_plate_manual_x":{"type":"float"},"orientation_box":{"values":["yes","no"],"type":"enum"}}

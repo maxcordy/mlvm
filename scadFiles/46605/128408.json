@@ -1,0 +1,1 @@
+{"Size":{"type":"float"},"Build":{"values":["0","1"],"type":"enum"},"Max":{"values":["0","1"],"type":"enum"},"FONT":{"values":["0","1"],"type":"enum"},"Initials":{"type":"string"},"Down":{"type":"float"},"Over":{"type":"float"}}

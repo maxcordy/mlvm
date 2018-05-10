@@ -1,0 +1,1 @@
+{"boxX":{"type":"float"},"boxZ":{"type":"float"},"boxY":{"type":"float"},"printLid":{"values":["1","0"],"type":"enum"},"wallT":{"type":"float"},"lidZ":{"type":"float"},"printBox":{"values":["1","0"],"type":"enum"},"lidClearance":{"type":"float"}}

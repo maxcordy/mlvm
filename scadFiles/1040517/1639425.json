@@ -1,0 +1,1 @@
+{"cone_bot":{"type":"float"},"bowl_d":{"type":"float"},"words":{"type":"string"},"$fn":{"values":["15","20","30","45","60","100"],"type":"enum"},"wall_t":{"type":"float"},"cone_h":{"type":"float"},"cone_top":{"type":"float"}}

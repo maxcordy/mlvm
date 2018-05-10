@@ -1,0 +1,1 @@
+{"buffer":{"end":0.6,"step":0.1,"type":"range","start":0.1},"inside_length":{"end":60.0,"step":1,"type":"range","start":10.0},"wall_thickness":{"end":1.0,"step":0.1,"type":"range","start":0.1},"inside_width":{"end":60.0,"step":1,"type":"range","start":10.0},"inside_height":{"end":150.0,"step":1,"type":"range","start":50.0}}

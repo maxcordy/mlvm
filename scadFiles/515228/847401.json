@@ -1,0 +1,1 @@
+{"h":{"type":"float"},"tgap":{"type":"float"},"angle":{"type":"float"},"aconn":{"type":"float"},"trib":{"type":"float"},"tconn":{"type":"float"},"w":{"type":"float"},"s2":{"type":"float"},"tbubble":{"type":"float"},"tslidein":{"type":"float"},"sslidein":{"type":"float"},"shiftconn":{"type":"float"},"part":{"values":["left","right","symmetrical"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"Edge_Height":{"values":["5","10","15","20","25","30"],"type":"enum"},"Inside_Diameter":{"end":200.0,"step":1,"type":"range","start":10.0},"Flange_Lip":{"values":["5","10","15","20","25","30"],"type":"enum"}}

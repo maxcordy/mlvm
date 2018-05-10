@@ -1,0 +1,1 @@
+{"bottom_radius":{"end":10.0,"step":1,"type":"range","start":0.01},"thickness":{"type":"float"},"grid_rows":{"type":"float"},"grid_separation":{"type":"float"},"bottom_width":{"type":"float"},"height":{"type":"float"},"top_width":{"type":"float"},"top_radius":{"end":10.0,"step":1,"type":"range","start":0.01},"grid_columns":{"type":"float"}}

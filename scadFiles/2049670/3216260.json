@@ -1,0 +1,1 @@
+{"br_hole":{"type":"float"},"br_length":{"type":"float"},"br_width":{"type":"float"},"br_dual":{"values":["yes","no"],"type":"enum"},"br_support":{"values":["yes","no"],"type":"enum"},"br_thickness":{"type":"float"}}

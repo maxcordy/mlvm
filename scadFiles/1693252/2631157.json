@@ -1,0 +1,1 @@
+{"thickness_of_walls":{"type":"float"},"width_of_connectors":{"type":"float"},"length_of_connectors":{"type":"float"},"secure_filament_thickness":{"values":["1.75","3.0"],"type":"enum"},"thickness_of_desks":{"type":"float"}}

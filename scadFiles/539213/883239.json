@@ -1,0 +1,1 @@
+{"hex_spacing":{"type":"float"},"length":{"type":"float"},"thickness":{"type":"float"},"parts":{"values":["0","1","2"],"type":"enum"},"clearance":{"type":"float"},"height":{"type":"float"},"width":{"type":"float"},"hex_size":{"type":"float"}}

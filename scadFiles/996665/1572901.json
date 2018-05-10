@@ -1,0 +1,1 @@
+{"octa_verts":{"type":"float"},"Radius":{"end":100.0,"step":1,"type":"range","start":5.0},"octa_edges":{"type":"float"},"plot_points":{"end":100.0,"step":1,"type":"range","start":30.0},"radius":{"end":10.0,"step":1,"type":"range","start":1.0}}

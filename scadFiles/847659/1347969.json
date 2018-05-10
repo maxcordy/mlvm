@@ -1,0 +1,1 @@
+{"base":{"values":["0","1","2"],"type":"enum"},"gutter":{"values":["0","1"],"type":"enum"},"text":{"type":"string"},"font":{"values":["Letters.dxf","BlackRose.dxf","orbitron.dxf","knewave.dxf","braille.dxf"],"type":"enum"}}

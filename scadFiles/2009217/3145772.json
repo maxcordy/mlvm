@@ -1,0 +1,1 @@
+{"SignHeight":{"type":"float"},"Custom":{"type":"float"},"BaseSize":{"values":["0.75"," 1"," 2"," 3"," 4"," 6"],"type":"enum"},"PrintOption":{"values":["both"," base"," sign"],"type":"enum"}}

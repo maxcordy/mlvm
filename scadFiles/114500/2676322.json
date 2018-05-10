@@ -1,0 +1,1 @@
+{"clearance":{"type":"float"},"arduino_type":{"values":["Uno","Mega"],"type":"enum"},"standoff_height":{"type":"float"},"thick":{"type":"float"},"standoff_thick":{"type":"float"},"standoff_hole_diameter":{"type":"float"},"wall_height":{"type":"float"}}

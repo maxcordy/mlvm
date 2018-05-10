@@ -1,0 +1,1 @@
+{"angle":{"end":180.0,"step":1,"type":"range","start":0.0},"hubR":{"type":"float"},"numLatches":{"type":"float"},"outerR":{"type":"float"},"part":{"values":["0"," 1"," 2"],"type":"enum"},"offset":{"type":"float"},"lR":{"type":"float"},"tight":{"type":"float"},"len":{"type":"float"},"thick":{"type":"float"},"width":{"type":"float"},"gap":{"type":"float"}}

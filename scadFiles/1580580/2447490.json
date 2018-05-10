@@ -1,0 +1,1 @@
+{"fn":{"type":"float"},"thickness":{"type":"float"},"mode":{"values":["Prview"," Bracelet"],"type":"enum"},"radius":{"type":"float"},"notestring":{"type":"string"},"height":{"type":"float"},"line_width":{"type":"float"},"show_clef":{"values":["no","alt","bass","violin"],"type":"enum"}}

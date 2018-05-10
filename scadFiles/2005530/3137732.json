@@ -1,0 +1,1 @@
+{"tube_wall":{"type":"float"},"number_of_tubes":{"type":"float"},"coin_type":{"type":"float"},"clearance":{"type":"float"},"number_of_coins":{"type":"float"},"coins":{"type":"mixed"},"generate_cap":{"values":["1"," 0"],"type":"enum"},"generate_tube":{"values":["1"," 0"],"type":"enum"},"fudge_factor":{"type":"float"}}

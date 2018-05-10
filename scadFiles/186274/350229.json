@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"cup_height":{"end":30.0,"step":1,"type":"range","start":20.0},"plate_top":{"end":20.0,"step":1,"type":"range","start":5.0},"plate_bottom":{"end":15.0,"step":1,"type":"range","start":5.0},"spoon_handler_length":{"end":50.0,"step":1,"type":"range","start":10.0}}

@@ -1,0 +1,1 @@
+{"sucker_hole_radius":{"type":"float"},"rsucker":{"values":["include","exclude"],"type":"enum"},"bsucker":{"values":["include","exclude"],"type":"enum"},"tsucker":{"values":["include","exclude"],"type":"enum"},"lsucker":{"values":["include","exclude"],"type":"enum"}}

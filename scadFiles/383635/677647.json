@@ -1,0 +1,1 @@
+{"Number_of_teeth":{"type":"float"},"thickness":{"type":"float"},"circle_resolution":{"type":"float"},"tooth_height":{"type":"float"},"bore_diameter":{"type":"float"},"diameter":{"type":"float"},"pitch":{"type":"float"},"bore_shape":{"values":["4","6","12"],"type":"enum"},"TeethPerN":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"csp":{"end":50.0,"step":1,"type":"range","start":0.0},"radius":{"end":200.0,"step":1,"type":"range","start":10.0},"an1":{"end":180.0,"step":1,"type":"range","start":0.0},"th":{"type":"float"},"height":{"end":400.0,"step":1,"type":"range","start":10.0},"$fa":{"type":"float"},"$fs":{"type":"float"},"nsp":{"end":50.0,"step":1,"type":"range","start":0.0}}

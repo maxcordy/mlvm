@@ -1,0 +1,1 @@
+{"battery":{"values":["CR2032"," AG13"," custom"],"type":"enum"},"nr":{"end":25.0,"step":1,"type":"range","start":5.0},"sizedivider":{"type":"float"},"custom_width":{"end":10.0,"step":1,"type":"range","start":1.0},"custom_radius":{"end":30.0,"step":1,"type":"range","start":5.0}}

@@ -1,0 +1,1 @@
+{"word2":{"type":"string"},"word1":{"type":"string"},"tolerance":{"type":"float"},"tri_height":{"end":10.0,"step":1,"type":"range","start":5.0},"tri_length":{"end":44.0,"step":1,"type":"range","start":24.0},"word3":{"type":"string"}}

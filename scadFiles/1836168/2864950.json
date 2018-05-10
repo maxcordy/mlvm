@@ -1,0 +1,1 @@
+{"x_cells":{"type":"float"},"cell_radius":{"type":"float"},"y_cells":{"type":"float"},"wall_thickness":{"type":"float"},"bottom":{"values":["YES"," NO"],"type":"enum"},"wall_height":{"type":"float"}}

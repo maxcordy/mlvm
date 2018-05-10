@@ -1,0 +1,1 @@
+{"length":{"end":100.0,"step":1,"type":"range","start":10.0},"thickness":{"end":20.0,"step":1,"type":"range","start":0.5},"hole_radius":{"type":"float"},"width":{"end":100.0,"step":1,"type":"range","start":5.0},"n":{"type":"float"},"edgeoffset":{"end":10.0,"step":1,"type":"range","start":1.0}}

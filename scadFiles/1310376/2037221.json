@@ -1,0 +1,1 @@
+{"indentDiameter":{"type":"float"},"indents":{"type":"float"},"$fn":{"type":"float"},"height":{"type":"float"},"diameter":{"type":"float"},"toolDiameter":{"type":"float"},"fingerDivot":{"values":["true","false"],"type":"enum"}}

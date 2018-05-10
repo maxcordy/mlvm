@@ -1,0 +1,1 @@
+{"customHeight":{"type":"float"},"numberOfPortions":{"end":10.0,"step":1.0,"type":"range","start":3.0},"fiveOzDiameter":{"type":"float"},"wallThickness":{"type":"float"},"threeOzHeight":{"type":"float"},"threeOzDiameter":{"type":"float"},"canSize":{"values":["0","3","5.5"],"type":"enum"},"fiveOzHeight":{"type":"float"},"customDiameter":{"type":"float"}}

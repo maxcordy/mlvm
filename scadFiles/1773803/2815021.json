@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"windings":{"end":10.0,"step":1,"type":"range","start":2.0},"outer":{"type":"float"},"circle_fraction":{"end":60.0,"step":1,"type":"range","start":6.0},"stepspercircle":{"end":24.0,"step":1,"type":"range","start":2.0}}

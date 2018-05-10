@@ -1,0 +1,1 @@
+{"rotate_angle":{"end":4.0,"step":1,"type":"range","start":0.0},"tendency":{"type":"float"},"heightOfCup":{"values":["42"," 46"," 50"],"type":"enum"}}

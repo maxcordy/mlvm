@@ -1,0 +1,1 @@
+{"major_diameter":{"end":100.0,"step":1,"type":"range","start":10.0},"thickness":{"values":["1","2","5"],"type":"enum"},"time":{"end":100.0,"step":1,"type":"range","start":0.0},"minor_diameter_ratio":{"end":1414.2,"step":1,"type":"range","start":500.0},"Display":{"values":["3D"," Flat"],"type":"enum"}}

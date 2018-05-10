@@ -1,0 +1,1 @@
+{"emblem_depth":{"end":5.0,"step":1.0,"type":"range","start":1.0},"ring_thickness":{"end":5.0,"step":1.0,"type":"range","start":1.0},"ring_length_modifier":{"end":1.0,"step":0.1,"type":"range","start":0.1},"emblem_radius":{"end":15.0,"step":1.0,"type":"range","start":4.0},"affiliation":{"type":"string"},"ring_size":{"end":16.0,"step":0.5,"type":"range","start":3.0}}

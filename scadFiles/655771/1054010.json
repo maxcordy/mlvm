@@ -1,0 +1,1 @@
+{"bearing_external_diameter":{"end":25.0,"step":1,"type":"range","start":10.0},"bearing_height":{"end":20.0,"step":1,"type":"range","start":5.0},"support_taper":{"end":10.0,"step":1,"type":"range","start":1.0},"support_diameter":{"end":100.0,"step":1,"type":"range","start":40.0},"bearing_internal_diameter":{"end":10.0,"step":1,"type":"range","start":5.0}}

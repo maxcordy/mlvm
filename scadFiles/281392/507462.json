@@ -1,0 +1,1 @@
+{"crop_it_flat":{"values":["yes","no"],"type":"enum"},"hc":{"type":"float"},"part":{"values":["sphenoid_hendecahedron","floret","floret_pair","tricolumn","hexring","column"],"type":"enum"},"scal":{"type":"float"},"ts_perm":{"type":"float"}}

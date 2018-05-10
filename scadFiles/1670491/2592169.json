@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"strap_bar":{"values":["yes"," no"],"type":"enum"},"lip_thickness":{"type":"float"},"rounded":{"type":"float"},"lip_height":{"type":"float"},"height":{"type":"float"},"width":{"type":"float"},"$fn":{"values":["100","300","500"],"type":"enum"}}

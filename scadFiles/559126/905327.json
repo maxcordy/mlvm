@@ -1,0 +1,1 @@
+{"oval":{"type":"float"},"thickness":{"type":"float"},"s":{"values":["0","1","2","3","4","5"],"type":"enum"},"degrees":{"type":"float"},"height":{"type":"float"},"cut":{"type":"float"},"flare":{"type":"float"},"step":{"type":"float"},"amplitude":{"type":"float"},"frequency":{"type":"float"},"c":{"values":["0","1","2","3","4","5"],"type":"enum"},"diameter":{"type":"float"}}

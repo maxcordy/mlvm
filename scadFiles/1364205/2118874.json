@@ -1,0 +1,1 @@
+{"shape":{"values":["\"Icosahedron\""," \"Sphere\""," \"Cube\""],"type":"enum"},"iterations":{"end":6.0,"step":1,"type":"range","start":1.0},"overlap":{"end":10.0,"step":0.5,"type":"range","start":0.5},"side_length":{"type":"float"}}

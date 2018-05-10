@@ -1,0 +1,1 @@
+{"jigHeight":{"type":"float"},"jigRad":{"type":"float"},"center":{"values":["0"," 1"],"type":"enum"},"numStrand":{"end":20.0,"step":1,"type":"range","start":3.0},"$fn":{"type":"float"},"wireRad":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"r_Filament":{"type":"float"},"r_Spring":{"type":"float"},"Side_Flange":{"type":"float"},"rla":{"type":"float"},"h_Bowden":{"end":10.0,"step":1,"type":"range","start":0.0},"r_Bowden":{"type":"float"},"r_Bowden_Fix":{"type":"float"}}

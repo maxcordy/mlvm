@@ -1,0 +1,1 @@
+{"FileName":{"parameters":["150x150"],"function":"image_surface","type":"custom"},"MakeSupports":{"values":["yes","no"],"type":"enum"},"HexType":{"values":["ground","water"],"type":"enum"},"UseFaceTextureFile":{"values":["yes","no"],"type":"enum"},"HexName":{"values":["single","pair","row3","row4","row5","tri3","diam4","block6","rnd7"],"type":"enum"}}

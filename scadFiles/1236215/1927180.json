@@ -1,0 +1,1 @@
+{"cup_text":{"type":"string"},"slit_width":{"type":"float"},"include_cup_handle_slit":{"type":"mixed"},"shim_height":{"type":"float"},"wall_thickness":{"type":"float"},"slit_distance_from_base":{"type":"float"},"holder_diameter":{"type":"float"},"base_height":{"type":"float"},"expanded_diameter":{"type":"float"}}

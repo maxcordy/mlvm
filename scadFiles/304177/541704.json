@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"primary_color":{"type":"string"},"turns":{"type":"float"},"side_length":{"type":"float"},"height":{"type":"float"},"width":{"type":"float"},"space_adjustment":{"type":"float"},"line_width":{"type":"float"},"render_size_reference":{"values":["1","0"],"type":"enum"},"base_shape":{"values":["3","4"],"type":"enum"}}

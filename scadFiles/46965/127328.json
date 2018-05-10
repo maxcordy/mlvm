@@ -1,0 +1,1 @@
+{"moire_thickness":{"type":"float"},"thickness":{"type":"float"},"inset_thickness":{"type":"float"},"center_diam":{"type":"float"},"moire_count":{"type":"float"},"moire_join_angle":{"type":"float"},"moire_diam":{"type":"float"},"moire_mirror_angle":{"type":"float"},"outer_diam":{"type":"float"},"lip_width":{"type":"float"}}

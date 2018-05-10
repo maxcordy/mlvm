@@ -1,0 +1,1 @@
+{"RunningDuration":{"end":600.0,"step":1,"type":"range","start":10.0},"RunningDistance":{"end":100.0,"step":1,"type":"range","start":2.0},"ScaleFactor":{"values":["0.5","1","1.5","2","2.5","3"],"type":"enum"},"CutAway":{"values":["0.5","0.7","0.8","1","1.5","2","3","4]"],"type":"enum"},"HoleDiameter":{"end":5.0,"step":1,"type":"range","start":1.0}}

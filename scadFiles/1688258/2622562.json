@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"expansion":{"type":"float"},"object_height":{"type":"float"},"filament_diameter":{"values":["3.0"," 2.85"," 1.75"],"type":"enum"},"rotation_2nd_ring":{"end":200.0,"step":1,"type":"range","start":100.0},"handle":{"values":["1","0"],"type":"enum"},"handle_diameter":{"end":30.0,"step":1,"type":"range","start":3.0}}

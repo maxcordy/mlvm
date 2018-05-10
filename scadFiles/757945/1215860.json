@@ -1,0 +1,1 @@
+{"hole_diameter":{"end":10.0,"step":1,"type":"range","start":4.0},"plate_width":{"end":400.0,"step":1,"type":"range","start":100.0},"plate_thickness":{"end":8.0,"step":1,"type":"range","start":2.0},"plate_length":{"end":400.0,"step":1,"type":"range","start":100.0},"side":{"values":["left"," right"],"type":"enum"}}

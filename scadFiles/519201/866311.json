@@ -1,0 +1,1 @@
+{"inside_length":{"type":"float"},"inset":{"type":"float"},"tab_height":{"type":"float"},"floor_thickness":{"type":"float"},"wall_thickness":{"type":"float"},"icon":{"type":"string"},"wall_height":{"end":40.0,"step":1,"type":"range","start":25.0}}

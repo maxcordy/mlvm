@@ -1,0 +1,1 @@
+{"thickness":{"values":["3","4","5","10"],"type":"enum"},"nb_tubes":{"end":20.0,"step":1,"type":"range","start":1.0},"hole_diameter":{"type":"float"},"nb_rows":{"end":10.0,"step":1,"type":"range","start":1.0},"output_type":{"values":["DXF","STL"],"type":"enum"},"height2":{"type":"float"},"height1":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"shape":{"values":["1","2","3","4"],"type":"enum"},"form_factor":{"values":["1.0","1.25","1.55","1.75","2.0"],"type":"enum"},"size":{"end":1000.0,"step":1,"type":"range","start":1.0},"unit":{"values":["cl","ml","oz","mm"],"type":"enum"}}

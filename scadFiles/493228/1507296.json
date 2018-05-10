@@ -1,0 +1,1 @@
+{"cellrad":{"type":"float"},"cellthick":{"type":"float"},"cellheight":{"type":"float"},"cols":{"type":"float"},"overlaptype":{"values":["yes","no"],"type":"enum"},"celltype":{"values":["open","closed"],"type":"enum"},"rows":{"type":"float"}}

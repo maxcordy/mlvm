@@ -1,0 +1,1 @@
+{"name":{"type":"string"},"text_font":{"type":"string"},"plaque_Width":{"type":"float"},"plaque_Height":{"type":"float"},"font_size":{"end":50.0,"step":1,"type":"range","start":1.0}}

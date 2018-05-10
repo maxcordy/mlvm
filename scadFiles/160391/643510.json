@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"outerDiameter":{"end":400.0,"step":1,"type":"range","start":80.0},"centerHoleDiameter":{"end":90.0,"step":1,"type":"range","start":0.0},"aperture":{"end":400.0,"step":1,"type":"range","start":80.0},"gap":{"end":10.0,"step":1,"type":"range","start":4.0}}

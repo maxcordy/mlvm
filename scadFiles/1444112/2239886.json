@@ -1,0 +1,1 @@
+{"wall":{"type":"float"},"cup_base_dia":{"type":"float"},"cup_top_dia":{"type":"float"},"wall_roundness":{"type":"float"},"cup_height":{"type":"float"},"cutaway":{"values":["yes","no"],"type":"enum"},"rotation":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"cylinders_diameter":{"type":"float"},"length":{"type":"float"},"holes_diameter":{"type":"float"},"$fn":{"end":200.0,"step":1,"type":"range","start":20.0},"yrotat":{"end":90.0,"step":1.0,"type":"range","start":0.0},"xyshrink":{"type":"float"},"xrotat":{"end":90.0,"step":1.0,"type":"range","start":0.0}}

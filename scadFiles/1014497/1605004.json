@@ -1,0 +1,1 @@
+{"flange_width":{"end":100.0,"step":1,"type":"range","start":10.0},"outer_diameter":{"end":1010.0,"step":1,"type":"range","start":30.0},"inner_diameter":{"end":1000.0,"step":1,"type":"range","start":20.0},"total_height":{"end":1000.0,"step":1,"type":"range","start":30.0},"flange_height":{"end":100.0,"step":1,"type":"range","start":10.0}}

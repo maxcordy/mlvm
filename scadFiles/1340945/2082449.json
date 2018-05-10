@@ -1,0 +1,1 @@
+{"text_line_1":{"type":"string"},"show_lines":{"end":3.0,"step":1,"type":"range","start":1.0},"adjust_y":{"end":5.0,"step":0.5,"type":"range","start":-5.0},"text_line_3":{"type":"string"},"text_line_2":{"type":"string"},"heart_size":{"end":2.0,"step":0.1,"type":"range","start":0.5}}

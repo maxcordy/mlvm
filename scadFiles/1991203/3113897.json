@@ -1,0 +1,1 @@
+{"holeLength":{"type":"float"},"printItem":{"type":"string"},"holeWidth":{"type":"float"},"holeDepth":{"type":"float"},"holeEnabled":{"values":["yes","no"],"type":"enum"}}

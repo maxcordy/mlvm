@@ -1,0 +1,1 @@
+{"hook_thick":{"end":10.0,"step":1,"type":"range","start":1.0},"hook_angle":{"end":55.0,"step":1,"type":"range","start":0.0},"hook_latch":{"end":100.0,"step":1,"type":"range","start":5.0},"hook_width":{"end":100.0,"step":1,"type":"range","start":5.0},"hook_tongue":{"end":100.0,"step":1,"type":"range","start":0.0},"hook_top":{"end":100.0,"step":1,"type":"range","start":5.0}}

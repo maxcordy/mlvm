@@ -1,0 +1,1 @@
+{"innerDiameter16stinch":{"end":15.0,"step":1,"type":"range","start":0.0},"innerDiametermm":{"end":180.0,"step":1,"type":"range","start":0.0},"innerDiameterinch":{"end":7.0,"step":1,"type":"range","start":0.0},"unit":{"values":["first","second"],"type":"enum"}}

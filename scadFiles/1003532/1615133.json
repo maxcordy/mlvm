@@ -1,0 +1,1 @@
+{"brimoutsideheight":{"type":"float"},"supportthickness":{"type":"float"},"rollerdepth":{"type":"float"},"holedia":{"type":"float"},"rollerdiameter":{"type":"float"},"tolerance":{"type":"float"},"seamheightinside":{"type":"float"},"brimoutsidethickness":{"type":"float"},"part":{"values":["hexas","centerring","both"],"type":"enum"},"supportdist":{"type":"float"}}

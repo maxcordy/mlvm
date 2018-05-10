@@ -1,0 +1,1 @@
+{"ring_thick":{"end":7.0,"step":1,"type":"range","start":3.0},"print_dist":{"type":"float"},"part":{"values":["Basic","CutSide","CutTop"],"type":"enum"},"ring_r":{"type":"float"},"Num_Eye_Pairs":{"values":["1","2","3","4","5","6"],"type":"enum"}}

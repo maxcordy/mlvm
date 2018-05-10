@@ -1,0 +1,1 @@
+{"part":{"type":"string"},"PartsMated":{"values":["Mated"," Separated"],"type":"enum"},"RingGap":{"type":"float"},"RingH":{"type":"float"},"SoapT":{"type":"float"},"SoapDTop":{"type":"float"},"FlareR":{"type":"float"},"wallt":{"type":"float"},"NStep":{"type":"float"},"SoapDBase":{"type":"float"},"wallt2":{"type":"float"},"RimScale":{"type":"float"},"T":{"type":"float"}}

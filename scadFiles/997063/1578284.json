@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"ThicknessOfASplint":{"end":3.0,"step":1.0,"type":"range","start":2.0},"$fa":{"type":"float"},"InnerDiameterOfSplint":{"end":30.0,"step":1.0,"type":"range","start":10.0},"pozicija":{"type":"float"}}

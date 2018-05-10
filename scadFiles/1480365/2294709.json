@@ -1,0 +1,1 @@
+{"tickWidth":{"type":"float"},"extruder":{"values":["0"," 1"," 2"],"type":"enum"},"layerHeight":{"type":"float"},"$fn":{"type":"float"},"jitter":{"values":["0.2"," 0.1"," 0.05"],"type":"enum"},"middle":{"type":"float"}}

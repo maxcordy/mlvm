@@ -1,0 +1,1 @@
+{"height":{"type":"float"},"diameter":{"end":30.0,"step":1,"type":"range","start":5.0},"insideDiameter":{"type":"float"},"wallThickness":{"type":"float"}}

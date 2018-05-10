@@ -1,0 +1,1 @@
+{"Axel_diameter":{"type":"float"},"Brim_width":{"end":50.0,"step":1,"type":"range","start":0.0},"Brim_height":{"type":"float"},"Spindle_diameter":{"type":"float"},"Layer_height":{"type":"float"},"skate_recess_height":{"type":"float"},"Spindle_length":{"type":"float"}}

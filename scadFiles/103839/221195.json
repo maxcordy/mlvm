@@ -1,0 +1,1 @@
+{"thing_number":{"type":"string"},"username":{"type":"string"},"part":{"values":["0","1"],"type":"enum"},"license":{"type":"float"},"thing_name":{"type":"string"}}

@@ -1,0 +1,1 @@
+{"bend_height":{"type":"float"},"hole_diameter":{"type":"float"},"hole_resolution":{"end":50.0,"step":1,"type":"range","start":6.0},"wall_thickness":{"type":"float"},"insertion_depth":{"type":"float"},"bend_resolution":{"end":30.0,"step":1,"type":"range","start":5.0}}

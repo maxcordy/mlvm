@@ -1,0 +1,1 @@
+{"Rexit":{"type":"float"},"minRadius":{"type":"float"},"wallThickness":{"type":"float"},"pct":{"values":[".60"," .65"," .70"," .75"," .80"," .85"," .90"," .95"," 1"],"type":"enum"},"Rinlet":{"type":"float"},"Rthroat":{"type":"float"},"Ain":{"type":"float"},"Aout":{"values":["20"," 25"," 30"," 35"," 45"],"type":"enum"}}

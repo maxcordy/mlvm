@@ -1,0 +1,1 @@
+{"bond_length":{"end":50.0,"step":1,"type":"range","start":10.0},"element":{"values":["1"," 2"," 3"," 4"," 5"," 6"],"type":"enum"},"atom_size":{"end":30.0,"step":1,"type":"range","start":10.0},"type":{"values":["Atom"," Electron"],"type":"enum"},"electron":{"type":"string"}}

@@ -1,0 +1,1 @@
+{"base_or_mini":{"values":["0"," 1"],"type":"enum"},"silhouette_filename":{"parameters":["100x100"],"function":"image_surface","type":"custom"},"multi_slots":{"values":["1"," 0"],"type":"enum"},"slot_width":{"type":"float"},"base_diam":{"values":["10"," 20"," 40"," 60"],"type":"enum"},"silhouette_scale":{"type":"float"}}

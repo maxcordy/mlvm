@@ -1,0 +1,1 @@
+{"WireRadius":{"type":"float"},"CellLength":{"type":"float"},"doWireChannels":{"values":["1","0"],"type":"enum"},"CellRadius":{"type":"float"},"CellCount":{"type":"float"}}

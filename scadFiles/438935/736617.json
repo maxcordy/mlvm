@@ -1,0 +1,1 @@
+{"part":{"values":["left","right","both"],"type":"enum"},"frame_size":{"type":"float"},"quality":{"type":"float"},"object_thickness":{"type":"float"},"wall_thickness":{"type":"float"},"stand_width":{"type":"float"},"angle_deviation":{"end":45.0,"step":1,"type":"range","start":5.0},"sphere_radius":{"type":"float"},"stand_height":{"type":"float"}}

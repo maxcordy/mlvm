@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"cut_spacing":{"type":"float"},"cut_angle_step":{"type":"float"},"key":{"type":"float"},"body_length":{"type":"float"},"body_diameter":{"type":"float"},"handle":{"values":["1"," 0"],"type":"enum"}}

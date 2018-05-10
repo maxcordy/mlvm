@@ -1,0 +1,1 @@
+{"Filter_height":{"type":"float"},"Exit_hole_diameter":{"type":"float"},"Base_style":{"values":["Round","Flat"],"type":"enum"},"slot_factor":{"values":["2","4","6","8"],"type":"enum"},"Show_Xsection":{"values":["yes","no"],"type":"enum"},"Filter_width":{"type":"float"},"filament_diameter":{"end":4.0,"step":0.05,"type":"range","start":1.0}}

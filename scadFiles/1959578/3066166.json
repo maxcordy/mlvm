@@ -1,0 +1,1 @@
+{"star_6":{"type":"float"},"wall":{"end":3.0,"step":0.05,"type":"range","start":1.0},"star_5":{"type":"float"},"$fn":{"type":"float"},"height":{"end":15.0,"step":1.0,"type":"range","start":10.0},"index":{"values":["0","1","2","3","4","5"],"type":"enum"},"rim":{"end":6.0,"step":0.05,"type":"range","start":2.0},"spikes":{"values":["5","6"],"type":"enum"}}

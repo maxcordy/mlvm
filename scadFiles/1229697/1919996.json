@@ -1,0 +1,1 @@
+{"Resolution":{"type":"float"},"Generate_Loop":{"values":["true"," false"],"type":"enum"},"Loop_Inner_Radius":{"type":"float"},"Inner_Radius":{"type":"float"},"Generate_Ball":{"values":["true"," false"],"type":"enum"},"Ring_Radius":{"type":"float"},"Ball_Radius":{"type":"float"},"Loop_Radius":{"type":"float"}}

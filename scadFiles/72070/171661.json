@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"seperation":{"type":"float"},"radius":{"type":"float"},"$fn":{"type":"float"},"height":{"type":"float"},"lipp":{"type":"float"},"wall":{"type":"float"},"lidp":{"type":"float"},"fit":{"type":"float"},"sidesonly":{"values":["0"," 1"],"type":"enum"},"width":{"type":"float"},"gap":{"type":"float"}}

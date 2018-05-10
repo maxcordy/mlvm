@@ -1,0 +1,1 @@
+{"message":{"type":"string"},"box_wall_thickness":{"type":"float"},"box_width":{"type":"float"},"font_size":{"end":20.0,"step":1,"type":"range","start":6.0},"box_high":{"type":"float"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/BlackRose.dxf\""],"type":"enum"},"box_depth":{"type":"float"}}

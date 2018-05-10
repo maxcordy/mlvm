@@ -1,0 +1,1 @@
+{"bearing_height":{"type":"float"},"number_spheres":{"type":"float"},"part_render":{"values":["1","2","3","4","5"],"type":"enum"},"sphere_diameter":{"type":"float"},"cover_thickness":{"type":"float"},"bearing_hole":{"type":"float"},"bearing_diameter":{"type":"float"}}

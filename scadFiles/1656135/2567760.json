@@ -1,0 +1,1 @@
+{"InsideLength":{"type":"float"},"EncoderShaftDiameter":{"type":"float"},"EncoderHoleDepth":{"type":"float"},"BothSides":{"values":["On"," Off"],"type":"enum"},"ShaftType":{"values":["Hex"," Round"],"type":"enum"},"ShaftSize":{"type":"float"},"TotalLength":{"type":"float"},"EncoderHoles":{"values":["On"," Off"],"type":"enum"},"Snapring":{"values":["On"," Off"],"type":"enum"}}

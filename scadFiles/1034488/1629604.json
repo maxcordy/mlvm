@@ -1,0 +1,1 @@
+{"Maximum_wall_width":{"type":"float"},"Wall_height":{"type":"float"},"Cookie_mode":{"values":["yes"," no"],"type":"enum"},"Minimum_wall_width":{"type":"float"},"Length":{"type":"float"},"show_tesselated":{"values":["yes"," no"],"type":"enum"},"Inner_height":{"type":"float"},"Base":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"factors":{"type":"float"},"Neck_Style":{"values":["none","angled","bump","fluted"],"type":"enum"},"Number_of_Petals":{"end":8.0,"step":1,"type":"range","start":3.0},"Vase_Height":{"end":100.0,"step":1,"type":"range","start":25.0}}

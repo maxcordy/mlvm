@@ -1,0 +1,1 @@
+{"vents":{"values":["1","0"],"type":"enum"},"depth":{"end":144.0,"step":12.0,"type":"range","start":24.0},"d":{"end":40.0,"step":0.1,"type":"range","start":6.0},"holes":{"values":["1","0"],"type":"enum"},"mount":{"values":["1","0"],"type":"enum"},"height":{"end":80.0,"step":1,"type":"range","start":8.0},"width":{"end":144.0,"step":12.0,"type":"range","start":24.0}}

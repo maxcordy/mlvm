@@ -1,0 +1,1 @@
+{"height_backlatch":{"type":"float"},"thickness":{"type":"float"},"spacer":{"values":["true","false"],"type":"enum"},"roll":{"values":["true","false"],"type":"enum"},"arm":{"values":["true","false"],"type":"enum"},"tolerance":{"type":"float"},"spoolcarrier":{"end":100.0,"step":1,"type":"range","start":1.0}}

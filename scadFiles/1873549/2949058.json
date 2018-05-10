@@ -1,0 +1,1 @@
+{"filamentDiameter":{"values":["1.75"," 2.85"],"type":"enum"},"maximumSkew":{"type":"float"},"bedY":{"type":"float"},"originAlignmentSpacing":{"type":"float"},"bedX":{"type":"float"},"extrusionWidth":{"type":"float"},"$fn":{"type":"float"},"generateOrthogonalBisector":{"type":"float"},"scaleSpacing":{"type":"float"},"layerHeight":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"hook_diameter":{"end":100.0,"step":1,"type":"range","start":20.0},"hook_height":{"type":"float"},"flaps_thickness":{"values":[".5"," .75"," 1"],"type":"enum"},"hole_diameter":{"end":100.0,"step":1,"type":"range","start":20.0},"resolution":{"end":100.0,"step":1,"type":"range","start":50.0},"hook_thickness":{"type":"float"}}

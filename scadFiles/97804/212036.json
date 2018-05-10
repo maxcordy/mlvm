@@ -1,0 +1,1 @@
+{"wallHeight":{"type":"float"},"slack":{"type":"float"},"wallThickness":{"type":"float"},"height":{"type":"float"},"what":{"type":"string"},"x":{"end":8.0,"step":1,"type":"range","start":1.0},"y":{"end":6.0,"step":1,"type":"range","start":1.0}}

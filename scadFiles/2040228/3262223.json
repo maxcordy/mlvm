@@ -1,0 +1,1 @@
+{"base_size":{"type":"float"},"socket_length":{"type":"float"},"type":{"values":["Hex"," Double Hex"],"type":"enum"},"spacing":{"type":"float"},"units":{"values":["Imperial"," Metric"],"type":"enum"},"base_depth":{"type":"float"},"style":{"values":["Tapered"," Straight"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"lip_width":{"type":"float"},"hole_diameter":{"type":"float"},"segments":{"type":"float"},"hole_lower":{"values":["yes"," no"],"type":"enum"},"hole_upper":{"values":["yes"," no"],"type":"enum"},"diameter":{"type":"float"},"thickness":{"type":"float"},"lip_offset":{"type":"float"}}

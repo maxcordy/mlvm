@@ -1,0 +1,1 @@
+{"topring_offset":{"type":"float"},"cut_width":{"type":"float"},"botring_offset":{"type":"float"},"height":{"type":"float"},"fillet":{"values":["false","true"],"type":"enum"},"cuts":{"type":"float"},"top_diameter":{"type":"float"},"end_thickness":{"type":"float"},"base_diameter":{"type":"float"}}

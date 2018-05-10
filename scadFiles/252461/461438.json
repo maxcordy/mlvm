@@ -1,0 +1,1 @@
+{"x_offset":{"type":"float"},"mount_hole_major_axis":{"type":"float"},"mount_hole_minor_axis":{"type":"float"},"clearance":{"type":"float"},"extrusion_width":{"type":"float"},"layout":{"type":"string"},"mount_block_height":{"type":"float"},"base_height":{"type":"float"},"y_offset":{"type":"float"}}

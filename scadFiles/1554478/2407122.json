@@ -1,0 +1,1 @@
+{"innerMargin":{"type":"float"},"cableTieT":{"type":"float"},"labelLength":{"end":100.0,"step":1,"type":"range","start":10.0},"cableDiameter":{"end":10.0,"step":1.0,"type":"range","start":3.0},"cableTieW":{"values":["2.5"," 3.5"," 4.6"],"type":"enum"},"outerMargin":{"type":"float"},"labelWidth":{"values":["6","9","12","18"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"cutAdjustmentX":{"type":"float"},"part":{"values":["both","base","top"],"type":"enum"},"cutAdjustmentY":{"type":"float"},"wallThickness":{"type":"float"},"pins":{"type":"float"},"height":{"type":"float"},"cutAdjustmentZ":{"type":"float"},"header":{"type":"float"},"cableThickness":{"type":"float"}}

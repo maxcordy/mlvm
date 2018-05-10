@@ -1,0 +1,1 @@
+{"BOX_LENGTH":{"type":"float"},"VERTICAL_TEXT":{"type":"string"},"X_ANGLE":{"end":90.0,"step":1,"type":"range","start":1.0},"BOX_HEIGHT":{"type":"float"},"HORIZONTAL_TEXT":{"type":"string"},"BOX_WIDTH":{"type":"float"},"TEXT_SIZE":{"end":10.0,"step":1,"type":"range","start":1.0}}

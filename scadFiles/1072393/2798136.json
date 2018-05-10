@@ -1,0 +1,1 @@
+{"Knob_Diameter":{"end":30.0,"step":1,"type":"range","start":10.0},"Knob_Height":{"end":20.0,"step":1,"type":"range","start":10.0},"Ajustment":{"values":["0","0.1","0.2","0.3"],"type":"enum"},"Axis_Lenght":{"end":15.0,"step":1,"type":"range","start":5.0},"Rounded":{"end":3.0,"step":1,"type":"range","start":1.0}}

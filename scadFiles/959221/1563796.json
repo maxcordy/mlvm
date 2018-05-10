@@ -1,0 +1,1 @@
+{"TubeLength":{"type":"float"},"PlateWidth":{"type":"float"},"BusinessEnd":{"values":["true","false"],"type":"enum"},"InnerDiameter":{"type":"float"},"PlateLength":{"type":"float"},"OuterDiameter":{"type":"float"}}

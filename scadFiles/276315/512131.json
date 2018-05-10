@@ -1,0 +1,1 @@
+{"buildVolume":{"values":["0"," 1"," 2"," 3"," 4"],"type":"enum"},"crossSection":{"values":["0"," 1"," 2"," 3"," 4"," 5"," 6"],"type":"enum"},"buildSize":{"type":"float"},"wallThickness":{"end":256.0,"step":1,"type":"range","start":1.0},"detail":{"end":10.0,"step":1,"type":"range","start":2.0}}

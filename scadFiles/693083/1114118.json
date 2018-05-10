@@ -1,0 +1,1 @@
+{"num_rings_y":{"type":"float"},"length":{"type":"float"},"inner_radius":{"type":"float"},"connector_width":{"type":"float"},"outer_radius":{"type":"float"},"height":{"type":"float"},"resolution":{"end":150.0,"step":1,"type":"range","start":10.0},"width":{"type":"float"},"num_rings_x":{"type":"float"}}

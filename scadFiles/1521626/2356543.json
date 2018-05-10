@@ -1,0 +1,1 @@
+{"fillet_radius":{"type":"float"},"depth":{"type":"float"},"thickness":{"type":"float"},"lid_type":{"values":["None"," Simple"," Partial"," Full"],"type":"enum"},"height":{"type":"float"},"lip_added_height":{"type":"float"},"width":{"type":"float"},"lip_width":{"type":"float"},"lid_space":{"type":"float"}}

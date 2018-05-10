@@ -1,0 +1,1 @@
+{"screw_head_width":{"type":"float"},"holder_height_ratio":{"end":1.0,"step":0.02,"type":"range","start":0.0},"screw_hole_width":{"type":"float"},"bevel":{"type":"float"},"$fn":{"type":"float"},"height":{"type":"float"},"screw_height_ratio":{"end":1.0,"step":0.02,"type":"range","start":0.0}}

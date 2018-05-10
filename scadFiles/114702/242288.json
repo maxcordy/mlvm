@@ -1,0 +1,1 @@
+{"clip_overhang":{"type":"float"},"roll_width":{"type":"float"},"clips":{"values":["1","2","3","4","5","6","7","8"],"type":"enum"},"mirror":{"values":["no","yes"],"type":"enum"},"strap_width":{"type":"float"},"clip_width":{"type":"float"},"clip_thickness":{"type":"float"}}

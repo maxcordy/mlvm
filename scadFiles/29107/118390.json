@@ -1,0 +1,1 @@
+{"brim_width":{"type":"float"},"brim_height":{"type":"float"},"curve_quality_percentage":{"end":100.0,"step":1,"type":"range","start":0.5},"bolt_width":{"type":"float"},"hole_depth":{"type":"float"},"hole_offset":{"end":100.0,"step":1,"type":"range","start":0.0},"hole_width":{"type":"float"}}

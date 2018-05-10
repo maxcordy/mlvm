@@ -1,0 +1,1 @@
+{"block_height":{"type":"float"},"care":{"values":["yes","no"],"type":"enum"},"curvature":{"type":"float"},"blocks_per_rev":{"type":"float"},"noob":{"values":["yes","no"],"type":"enum"},"$fn":{"type":"float"},"height":{"type":"float"},"turret_radius":{"type":"float"},"factor":{"type":"float"},"block_thickness":{"type":"float"}}

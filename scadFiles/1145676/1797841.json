@@ -1,0 +1,1 @@
+{"top":{"type":"float"},"$fn":{"type":"float"},"gdia":{"type":"float"},"make":{"values":["pot"," partition"],"type":"enum"},"tube":{"type":"float"},"base":{"type":"float"},"wall":{"type":"float"},"ht":{"type":"float"},"gpitch":{"type":"float"},"floors":{"type":"float"},"res":{"type":"float"},"tol":{"type":"float"},"spout":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"bearing_radius":{"type":"float"},"inner_radius":{"type":"float"},"bearing_support":{"values":["1"," 2"," 0"],"type":"enum"},"bearing_tolerance":{"type":"float"},"height":{"type":"float"},"ring_resolution":{"type":"float"},"ring_fillet":{"type":"float"},"width":{"type":"float"},"bearing_resolution":{"type":"float"},"bearing_count":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"wall":{"end":3.5,"step":0.5,"type":"range","start":1.4},"n_leaf":{"end":100.0,"step":10.0,"type":"range","start":10.0},"$fn":{"type":"float"},"height":{"values":["10","15","20"],"type":"enum"},"d_leaf":{"end":20.0,"step":1.0,"type":"range","start":4.0},"rim":{"end":7.0,"step":1.0,"type":"range","start":3.0}}

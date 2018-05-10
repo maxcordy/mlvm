@@ -1,0 +1,1 @@
+{"mounting_post_diameter":{"type":"float"},"mounting_post_height":{"type":"float"},"screw_hole_diameter":{"type":"float"},"female_snap_fit_tolerance":{"type":"float"},"pin_diameter":{"type":"float"},"mounting_points":{"values":["0","1"],"type":"enum"}}

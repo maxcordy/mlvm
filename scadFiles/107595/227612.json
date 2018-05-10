@@ -1,0 +1,1 @@
+{"number_of_screws":{"end":10.0,"step":1,"type":"range","start":0.0},"body_length":{"type":"float"},"bracket_height":{"type":"float"},"screw_length":{"type":"float"},"screw_head_diameter":{"type":"float"},"body_width":{"type":"float"},"shelf_width":{"type":"float"},"layer_height":{"type":"float"},"shelf_thickness":{"type":"float"},"screw_diameter":{"type":"float"}}

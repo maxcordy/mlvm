@@ -1,0 +1,1 @@
+{"int_sides":{"end":360.0,"step":1,"type":"range","start":3.0},"int_Outer":{"end":115.0,"step":1,"type":"range","start":15.0},"Y":{"type":"float"},"X":{"type":"float"},"Z":{"type":"float"},"mm":{"type":"float"},"dec_wallThick":{"type":"float"},"dec_toothRatio":{"type":"float"},"int_Inner":{"end":100.0,"step":1,"type":"range","start":8.0},"dec_Dia":{"type":"float"}}

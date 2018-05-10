@@ -1,0 +1,1 @@
+{"edge":{"type":"float"},"screw_dist":{"type":"float"},"offset":{"type":"float"},"screw_size":{"type":"float"},"screw_num":{"type":"float"},"type":{"values":["1","0"],"type":"enum"}}

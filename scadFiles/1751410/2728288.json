@@ -1,0 +1,1 @@
+{"Number_Of_Bottles_Wide":{"type":"float"},"Bottle_Shape":{"values":["round"," square"],"type":"enum"},"Inside_Diameter":{"type":"float"},"Number_Of_Bottles_Long":{"type":"float"},"Wall_Thickness":{"type":"float"},"Base_Thickness":{"type":"float"},"Overall_Height":{"type":"float"},"Push_Hole_Diameter":{"type":"float"}}

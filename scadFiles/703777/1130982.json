@@ -1,0 +1,1 @@
+{"hook_distance":{"type":"float"},"base_width":{"type":"float"},"Sfn":{"type":"float"},"fixing_hole":{"values":["0","1"],"type":"enum"},"base_thickness":{"type":"float"},"base_height":{"type":"float"}}

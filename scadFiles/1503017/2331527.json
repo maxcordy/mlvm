@@ -1,0 +1,1 @@
+{"hole_tolerance":{"type":"float"},"idler":{"values":["0","1"],"type":"enum"},"nut_tolerance":{"type":"float"},"m":{"values":["5","6","8"],"type":"enum"},"height_bottom":{"type":"float"},"height_top":{"type":"float"}}

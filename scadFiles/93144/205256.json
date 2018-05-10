@@ -1,0 +1,1 @@
+{"wall":{"type":"float"},"add":{"values":["0.5"," 0"],"type":"enum"},"x":{"end":6.0,"step":1,"type":"range","start":1.0},"dis":{"end":40.0,"step":1,"type":"range","start":1.0},"y":{"end":20.0,"step":1,"type":"range","start":1.0},"zz":{"end":10.0,"step":1,"type":"range","start":1.0}}

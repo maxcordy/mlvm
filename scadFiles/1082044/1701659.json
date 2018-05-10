@@ -1,0 +1,1 @@
+{"Wide":{"type":"float"},"Length":{"type":"float"},"Tolerance":{"type":"float"},"Thicknes":{"type":"float"},"Top_rods_distance":{"type":"float"},"Print_dual":{"values":["1","0"],"type":"enum"},"Rods_diameter":{"type":"float"}}

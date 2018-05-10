@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"ball_radius":{"type":"float"},"bolt_holes":{"values":["one","two"],"type":"enum"},"arm_width":{"type":"float"},"opening_slot":{"type":"float"},"nut_trap":{"values":["no","yes"],"type":"enum"},"bolt_type":{"values":["M4","M5","M6","M8","8","10","1\/4"],"type":"enum"}}

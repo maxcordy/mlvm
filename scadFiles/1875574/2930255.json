@@ -1,0 +1,1 @@
+{"high_limit":{"end":30.0,"step":0.5,"type":"range","start":0.1},"amplitude":{"end":5.0,"step":0.5,"type":"range","start":0.5},"quality":{"end":10.0,"step":1.0,"type":"range","start":1.0},"z_scale":{"end":5.0,"step":0.1,"type":"range","start":0.1},"low_limit":{"end":0.0,"step":0.5,"type":"range","start":-30.0}}

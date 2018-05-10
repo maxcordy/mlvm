@@ -1,0 +1,1 @@
+{"base_1":{"type":"float"},"shaft_height":{"type":"float"},"base_2":{"type":"float"},"base_3":{"type":"float"},"thick":{"type":"float"},"width":{"type":"float"},"mount_flush":{"values":["yes","no"],"type":"enum"},"type":{"values":["90 degree"," 180 degree"," 45 degree"," Multi"],"type":"enum"}}

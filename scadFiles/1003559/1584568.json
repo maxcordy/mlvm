@@ -1,0 +1,1 @@
+{"Width":{"end":120.0,"step":5.0,"type":"range","start":50.0},"Show_x_section":{"values":["yes","no"],"type":"enum"},"Disassembled":{"values":["yes","no"],"type":"enum"},"Faceted":{"type":"float"}}

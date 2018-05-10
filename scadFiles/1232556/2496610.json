@@ -1,0 +1,1 @@
+{"show_border":{"values":["No"," Yes"],"type":"enum"},"first_character":{"type":"string"},"text_depth":{"values":["0.5"," 1.0"," 1.5"," 2.0"," 2.5"],"type":"enum"},"border_depth":{"values":["0.3"," 0.4"," 0.5"],"type":"enum"},"second_character":{"type":"string"},"text_angle":{"type":"float"},"border_type":{"values":["0"," 1"],"type":"enum"}}

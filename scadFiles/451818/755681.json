@@ -1,0 +1,1 @@
+{"distance_hook":{"end":18.0,"step":1,"type":"range","start":5.0},"quantity_hook":{"end":5.0,"step":1,"type":"range","start":1.0},"height_cloud":{"end":20.0,"step":1,"type":"range","start":1.0},"cube_z":{"end":30.0,"step":1,"type":"range","start":9.0},"position_hook_offset_y":{"type":"float"}}

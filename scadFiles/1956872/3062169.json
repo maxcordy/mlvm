@@ -1,0 +1,1 @@
+{"with_clip":{"values":["0","1"],"type":"enum"},"rod_d":{"type":"float"},"holes_d":{"type":"float"},"rod_dist":{"type":"float"},"holes_dist":{"type":"float"},"height":{"type":"float"},"holes_shift":{"type":"float"},"nozzle":{"type":"float"}}

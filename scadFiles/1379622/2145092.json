@@ -1,0 +1,1 @@
+{"keychain_size":{"values":["0.5","1.0","1.5"],"type":"enum"},"keychain_height":{"end":18.0,"step":3.0,"type":"range","start":2.0},"font_style":{"values":["outer","inner"],"type":"enum"},"room_text":{"type":"string"},"room_number":{"type":"string"}}

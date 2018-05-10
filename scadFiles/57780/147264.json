@@ -1,0 +1,1 @@
+{"bulge":{"type":"float"},"num_struts":{"type":"float"},"wall_width":{"type":"float"},"cylinder_size":{"values":["8"," 10"," 12"],"type":"enum"},"height":{"end":15.0,"step":1,"type":"range","start":5.0},"gap":{"type":"float"},"include_opening_segment":{"values":["1"," 0"],"type":"enum"},"wrist_diameter":{"type":"float"}}

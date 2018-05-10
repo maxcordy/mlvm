@@ -1,0 +1,1 @@
+{"wall":{"end":50.0,"step":1,"type":"range","start":5.0},"dHole":{"end":10.0,"step":1,"type":"range","start":3.0},"Height":{"end":50.0,"step":1,"type":"range","start":6.0},"$fn":{"type":"float"},"Distance_Slot":{"end":10.0,"step":1,"type":"range","start":3.0},"width":{"end":40.0,"step":1,"type":"range","start":13.0},"deep":{"type":"float"}}

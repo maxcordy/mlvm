@@ -1,0 +1,1 @@
+{"wall":{"type":"float"},"piece":{"values":["connector","male","female","all"],"type":"enum"},"wallB":{"type":"float"},"electronicR":{"type":"float"},"electronicH":{"type":"float"},"fsrR":{"type":"float"},"t":{"type":"float"},"ThreadSize":{"type":"float"}}

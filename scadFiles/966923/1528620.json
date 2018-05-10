@@ -1,0 +1,1 @@
+{"space_on_bottom":{"end":5.0,"step":1,"type":"range","start":2.0},"number_of_batteries":{"end":8.0,"step":1,"type":"range","start":1.0},"holder_height":{"end":30.0,"step":1,"type":"range","start":10.0},"clips":{"values":["true"," false"],"type":"enum"},"space_between_holders_and_edges":{"end":10.0,"step":1,"type":"range","start":2.0}}

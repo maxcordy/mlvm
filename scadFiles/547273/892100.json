@@ -1,0 +1,1 @@
+{"base_hole_diameter":{"type":"float"},"base_side_thickness":{"type":"float"},"base_slop_angle":{"end":45.0,"step":1,"type":"range","start":15.0},"fan_screw_hole_diameter":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"chamfer":{"type":"float"},"holder_thickness":{"type":"float"},"holder_length":{"type":"float"},"screw_hole_edge_distance":{"type":"float"},"inner_diameter_pvc":{"type":"float"},"$fn":{"type":"float"},"pvc_error":{"type":"float"},"model":{"type":"string"},"screw_hole_diameter":{"type":"float"},"base_height":{"type":"float"},"outer_diameter_pvc":{"type":"float"}}

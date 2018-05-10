@@ -1,0 +1,1 @@
+{"box_height":{"type":"float"},"boxes":{"values":["2","4","8","16"],"type":"enum"},"box_width":{"type":"float"},"joint_radius":{"type":"float"},"spacing":{"type":"float"},"joint_width":{"type":"float"},"box_thickness":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"bracket_thickness_wedge":{"type":"float"},"mount_type":{"values":["front","top"],"type":"enum"},"top_offset":{"type":"float"},"shelf_thickness":{"type":"float"},"backlash":{"type":"float"},"bracket_wedge_depth_ratio":{"type":"float"},"bracket_depth":{"type":"float"},"wedge":{"type":"float"}}

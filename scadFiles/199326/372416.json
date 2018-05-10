@@ -1,0 +1,1 @@
+{"digit_depth":{"type":"float"},"dice_type":{"values":["solid"," hollow"],"type":"enum"},"dice_size":{"type":"float"},"hollowness":{"end":99.0,"step":1,"type":"range","start":0.0},"rounding":{"type":"float"},"circle_radius":{"type":"float"}}

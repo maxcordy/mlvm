@@ -1,0 +1,1 @@
+{"radiusLenght":{"end":50.0,"step":0.5,"type":"range","start":1.0},"depth":{"end":80.0,"step":1.0,"type":"range","start":1.0},"triangleRadius":{"end":50.0,"step":0.5,"type":"range","start":1.0},"flatLength":{"end":80.0,"step":1.0,"type":"range","start":1.0},"outherRadius":{"end":50.0,"step":0.5,"type":"range","start":1.0}}

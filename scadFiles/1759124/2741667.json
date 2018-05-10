@@ -1,0 +1,1 @@
+{"from":{"type":"float"},"thickness":{"type":"float"},"twist":{"type":"float"},"scale":{"type":"float"},"width":{"type":"float"},"to":{"type":"float"},"type":{"values":["Clockwise"," Count-clockwise"," Both"],"type":"enum"},"spirals":{"type":"float"}}

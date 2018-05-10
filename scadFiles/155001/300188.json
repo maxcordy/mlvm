@@ -1,0 +1,1 @@
+{"enclosure_inner_length":{"type":"float"},"part":{"values":["enclosure"," cover"," both"],"type":"enum"},"enclosure_inner_depth":{"type":"float"},"enclosure_thickness":{"type":"float"},"enclosure_inner_width":{"type":"float"},"cover_thickness":{"type":"float"}}

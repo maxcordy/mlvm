@@ -1,0 +1,1 @@
+{"D":{"type":"float"},"SHACKLE":{"type":"float"},"H":{"type":"float"},"fudge":{"type":"float"},"res1":{"type":"float"},"WALL":{"end":5.0,"step":1,"type":"range","start":1.0},"ID":{"type":"float"},"Dia":{"type":"float"},"W":{"type":"float"},"COL":{"values":["0","1"],"type":"enum"}}

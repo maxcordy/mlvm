@@ -1,0 +1,1 @@
+{"coupler_outside_diameter":{"type":"float"},"try_bigger_sizes":{"values":["yes","no"],"type":"enum"},"coupler_length":{"type":"float"},"motor_axle_diameter":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"name":{"type":"string"},"r":{"end":50.0,"step":1,"type":"range","start":1.0},"height":{"end":100.0,"step":5.0,"type":"range","start":5.0},"depth_base":{"end":10.0,"step":1.0,"type":"range","start":1.0},"width":{"end":150.0,"step":10.0,"type":"range","start":20.0},"depth_text":{"end":10.0,"step":1.0,"type":"range","start":1.0}}

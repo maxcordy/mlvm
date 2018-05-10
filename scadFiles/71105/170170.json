@@ -1,0 +1,1 @@
+{"numberOfRings":{"end":20.0,"step":1,"type":"range","start":3.0},"angledBlockSides":{"type":"float"},"largestRingDiameter":{"end":100.0,"step":1,"type":"range","start":5.0},"stackTheBlocks":{"type":"float"},"largestRingHeight":{"end":16.0,"step":1,"type":"range","start":6.0}}

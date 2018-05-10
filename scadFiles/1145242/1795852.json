@@ -1,0 +1,1 @@
+{"nut_size":{"type":"float"},"height":{"end":50.0,"step":1.0,"type":"range","start":1.0},"tolerance":{"values":["0"," 0.1"," 0.2"," 0.3"," 0.4"],"type":"enum"},"outer_diameter":{"end":100.0,"step":1.0,"type":"range","start":5.0},"number_of_tags":{"end":100.0,"step":1.0,"type":"range","start":6.0}}

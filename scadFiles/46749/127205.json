@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"angle":{"end":360.0,"step":1,"type":"range","start":180.0},"number_of_wiggles":{"type":"float"},"height":{"type":"float"},"resolution":{"type":"float"},"width":{"type":"float"}}

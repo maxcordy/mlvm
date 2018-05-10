@@ -1,0 +1,1 @@
+{"RingsRatio":{"type":"float"},"CAPHeight":{"type":"float"},"RingHeight":{"type":"float"},"Rings":{"type":"float"},"InnerHoleHeight":{"type":"float"},"Fillet":{"type":"float"},"CAPOuterDiameter":{"type":"float"},"Facets":{"end":100.0,"step":1,"type":"range","start":4.0},"InnerMINDiameter":{"type":"float"},"InnerHoleDiameter":{"type":"float"},"InnerMAXDiameter":{"type":"float"}}

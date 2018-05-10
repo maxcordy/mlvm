@@ -1,0 +1,1 @@
+{"BaseSizeMax":{"type":"float"},"BaseSizeMin":{"type":"float"},"XPointStar":{"end":10.0,"step":1,"type":"range","start":3.0},"Twist":{"end":2.0,"step":0.1,"type":"range","start":0.0},"Height":{"type":"float"}}

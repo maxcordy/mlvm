@@ -1,0 +1,1 @@
+{"Nose":{"values":["1","0"],"type":"enum"},"Middle_Ball":{"end":10.0,"step":1,"type":"range","start":0.0},"total_height":{"type":"float"},"Cylinder":{"end":10.0,"step":1,"type":"range","start":0.0},"resolution":{"values":["8","25","50","100"],"type":"enum"},"Bottom_Ball":{"end":10.0,"step":1,"type":"range","start":1.0},"Top_Ball":{"end":10.0,"step":1,"type":"range","start":1.0}}

@@ -1,0 +1,1 @@
+{"ThicknessAdjustX":{"type":"float"},"ThicknessAdjustY":{"type":"float"},"ShowFilament":{"values":["0"," 1"],"type":"enum"},"ToolSize":{"type":"float"},"FilamentDiameter":{"type":"float"},"InnerHole":{"values":["0"," 1"],"type":"enum"}}

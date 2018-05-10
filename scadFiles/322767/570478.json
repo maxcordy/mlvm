@@ -1,0 +1,1 @@
+{"supports":{"values":["0","1"],"type":"enum"},"diameter_in_blocks":{"values":["5"," 7"," 9"," 11"," 13"," 15"," 17"," 19"],"type":"enum"},"female_snap_fit_tolerance":{"type":"float"},"snaps":{"type":"float"},"male_snap_fit_tolerance":{"type":"float"},"support_thickness":{"type":"float"}}

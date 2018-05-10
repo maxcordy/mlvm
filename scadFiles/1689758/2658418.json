@@ -1,0 +1,1 @@
+{"tooth_pitch":{"type":"float"},"target_toothed_len":{"type":"float"},"tooth_tip_angle":{"type":"float"},"outer_tooth_extent":{"type":"float"},"ellipticity_factor":{"type":"float"},"body_width":{"type":"float"},"maximum_head_curvature_radius":{"type":"float"},"thickness":{"type":"float"},"force_smoothness_level":{"type":"float"}}

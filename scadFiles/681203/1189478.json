@@ -1,0 +1,1 @@
+{"textstring":{"type":"string"},"direction":{"values":["\"up\""," \"down\""],"type":"enum"},"RoundedBase":{"values":["0","1"],"type":"enum"},"base_radius_add_factor":{"type":"float"},"baseheight":{"type":"float"},"text_excenter_factor":{"type":"float"},"fontname":{"type":"string"},"cut_height_percent":{"type":"float"},"textsize":{"type":"float"}}

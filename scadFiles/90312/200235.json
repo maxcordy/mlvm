@@ -1,0 +1,1 @@
+{"hole_diameter":{"type":"float"},"thickness":{"end":5.0,"step":1,"type":"range","start":1.0},"outer_diameter":{"type":"float"}}

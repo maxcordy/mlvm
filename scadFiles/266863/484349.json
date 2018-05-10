@@ -1,0 +1,1 @@
+{"piStandoffs":{"values":["1"," 0"],"type":"enum"},"part":{"values":["0"," 1"," 2"],"type":"enum"},"printerWidth":{"type":"float"},"printerLen":{"type":"float"},"cableGap":{"type":"float"},"thick":{"type":"float"},"height":{"type":"float"},"haveLED":{"values":["0"," 1"],"type":"enum"},"gap":{"type":"float"},"ledD":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"od":{"type":"float"},"wheel_thick":{"type":"float"},"id":{"type":"float"},"large_fn":{"type":"float"},"half":{"values":["0","1"],"type":"enum"},"hub_thick":{"type":"float"},"small_fn":{"type":"float"},"hub_dia":{"type":"float"},"concave_min_thick":{"type":"float"}}

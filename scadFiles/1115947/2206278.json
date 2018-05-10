@@ -1,0 +1,1 @@
+{"wheel_diameter":{"end":120.0,"step":1,"type":"range","start":30.0},"oring":{"values":["0","1"],"type":"enum"},"raggi":{"end":30.0,"step":1,"type":"range","start":3.0},"fudge_factor":{"end":10.0,"step":1,"type":"range","start":0.0},"fn":{"end":500.0,"step":1,"type":"range","start":50.0}}

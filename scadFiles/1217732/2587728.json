@@ -1,0 +1,1 @@
+{"hn":{"values":["2","4","6"],"type":"enum"},"hr":{"type":"float"},"borderd":{"type":"float"},"bd":{"type":"float"},"borderep":{"type":"float"},"bep":{"type":"float"},"border":{"values":["yes","no"],"type":"enum"},"hd":{"type":"float"},"type":{"values":["round","square","flower","cat","bunny","MMice","love"],"type":"enum"}}

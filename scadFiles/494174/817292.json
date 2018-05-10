@@ -1,0 +1,1 @@
+{"cone_height":{"type":"float"},"barrel_thickness":{"values":["1.0","1.4","2","2.5"],"type":"enum"},"stencil_thickness":{"values":["0.5","1","1.5","2"],"type":"enum"},"barrel":{"type":"float"},"beam_dia":{"end":100.0,"step":1,"type":"range","start":5.0},"design":{"type":"string"},"barrel_length":{"type":"float"}}

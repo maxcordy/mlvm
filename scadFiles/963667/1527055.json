@@ -1,0 +1,1 @@
+{"corner_radius":{"type":"float"},"additional_corner":{"type":"float"},"inner_depth":{"type":"float"},"height":{"type":"float"},"wall_thickness":{"type":"float"},"piece_type":{"values":["Edge"," Corner"],"type":"enum"},"triangle_multiplier":{"type":"float"},"inner_width":{"type":"float"}}

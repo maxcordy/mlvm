@@ -1,0 +1,1 @@
+{"text_size":{"type":"float"},"bung_thk":{"type":"float"},"rib_w":{"type":"float"},"rib_l":{"type":"float"},"text_thk":{"type":"float"},"bung_dia":{"type":"float"},"$fa":{"type":"float"},"text_string":{"type":"string"},"no_ribs":{"type":"float"},"text_engrave":{"values":["true","false"],"type":"enum"}}

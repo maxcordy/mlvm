@@ -1,0 +1,1 @@
+{"leg_thickness":{"end":10.0,"step":1,"type":"range","start":2.0},"overall_height":{"end":60.0,"step":1,"type":"range","start":20.0},"height":{"end":20.0,"step":1,"type":"range","start":5.0},"diameter":{"end":75.0,"step":1,"type":"range","start":20.0},"leg_count":{"end":7.0,"step":1,"type":"range","start":3.0},"rod_diameter":{"end":15.0,"step":1,"type":"range","start":4.0}}

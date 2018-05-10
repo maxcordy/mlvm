@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"spacer":{"type":"float"},"fan_mounting_hole_seperation":{"type":"float"},"access_hole_diameter":{"type":"float"},"fin_tilt":{"end":50.0,"step":1,"type":"range","start":0.0},"fin_height":{"type":"float"},"fan_screw_hole_diameter":{"type":"float"}}

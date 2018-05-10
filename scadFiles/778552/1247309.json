@@ -1,0 +1,1 @@
+{"length":{"values":["160","200"],"type":"enum"},"width":{"values":["38"," 28"," 16"],"type":"enum"},"text":{"type":"string"},"font":{"values":["\"write\/Letters.dxf\""," \"write\/braille.dxf\""," \"write\/BlackRose.dxf\""],"type":"enum"},"height":{"values":["11","16"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"hotend_mount_hole":{"values":["16","12.7","15","10"],"type":"enum"},"hole_height":{"values":["10","20"],"type":"enum"},"bowden_cable_diameter":{"values":["6","4","3.5"],"type":"enum"}}

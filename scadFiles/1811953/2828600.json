@@ -1,0 +1,1 @@
+{"buttonWidth":{"type":"float"},"makeHollow":{"values":["0"," 1"],"type":"enum"},"buttonHeight":{"type":"float"},"$fn":{"type":"float"},"holeHeight":{"type":"float"},"holeCut":{"type":"float"},"makeHandle":{"values":["0"," 1"],"type":"enum"},"holeWidth":{"type":"float"},"handleLength":{"type":"float"},"handleWidth":{"type":"float"}}

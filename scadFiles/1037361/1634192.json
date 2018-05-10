@@ -1,0 +1,1 @@
+{"fudge":{"end":2.0,"step":0.1,"type":"range","start":-2.0},"part":{"values":["mount","spacer"],"type":"enum"},"mount_type":{"values":["NEMA 14","NEMA 17","NEMA 23"],"type":"enum"},"base_plate_thickness":{"end":5.0,"step":0.1,"type":"range","start":3.0},"total_height":{"end":50.0,"step":0.1,"type":"range","start":22.0}}

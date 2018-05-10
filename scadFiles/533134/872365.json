@@ -1,0 +1,1 @@
+{"fixation":{"values":["true"," false"],"type":"enum"},"wing_thickness":{"type":"float"},"wing_position":{"type":"float"},"fixation_hole":{"type":"float"},"$fn":{"type":"float"},"shit_size":{"type":"float"},"wing_size":{"type":"float"}}

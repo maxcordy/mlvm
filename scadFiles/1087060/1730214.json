@@ -1,0 +1,1 @@
+{"ears_to_choose":{"values":["1"," 2"],"type":"enum"},"parts_to_render":{"values":["1"," 2"," 3"," 4"," 5"," 6"," 7"],"type":"enum"},"tail_to_choose":{"values":["1"," 2"],"type":"enum"},"Render_Quality":{"type":"float"}}

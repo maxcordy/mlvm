@@ -1,0 +1,1 @@
+{"Print":{"values":["0"," 1"],"type":"enum"},"Pen_diameter":{"end":20.0,"step":1,"type":"range","start":5.0},"Retention_factor":{"type":"float"},"Cover_thickness":{"end":5.0,"step":1,"type":"range","start":1.0},"Holder_width":{"end":30.0,"step":1,"type":"range","start":10.0}}

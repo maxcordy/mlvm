@@ -1,0 +1,1 @@
+{"cyl_support_d":{"type":"float"},"Support":{"values":["Rectangle","Cylinder","NONE"],"type":"enum"},"button_height":{"type":"float"},"rect_support_z":{"type":"float"},"marker_size":{"type":"float"},"cyl_support_h":{"type":"float"},"button_radius":{"type":"float"},"rect_support_y":{"type":"float"},"button_angle_radius":{"type":"float"},"rect_support_x":{"type":"float"}}

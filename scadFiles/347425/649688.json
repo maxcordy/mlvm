@@ -1,0 +1,1 @@
+{"Taper":{"end":10.0,"step":1,"type":"range","start":1.0},"Thickness":{"end":9.0,"step":1,"type":"range","start":1.0},"Height":{"end":100.0,"step":1,"type":"range","start":10.0},"Offset":{"end":10.0,"step":1,"type":"range","start":0.0},"Radius":{"end":10.0,"step":1,"type":"range","start":1.0},"Twist":{"end":360.0,"step":1,"type":"range","start":0.0}}

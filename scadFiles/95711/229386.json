@@ -1,0 +1,1 @@
+{"hole_diameter":{"type":"float"},"image_file":{"parameters":["100x100"],"function":"image_surface","type":"custom"},"number_of_layers":{"end":20.0,"step":1,"type":"range","start":5.0},"detail":{"values":["8","10","12","24","48","96"],"type":"enum"},"layer_height":{"type":"float"}}

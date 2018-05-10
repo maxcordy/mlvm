@@ -1,0 +1,1 @@
+{"object":{"type":"float"},"fontsize":{"type":"float"},"Backlash":{"type":"float"},"word1":{"type":"string"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/BlackRose.dxf\""],"type":"enum"},"word2":{"type":"string"},"NR":{"type":"float"},"word3":{"type":"string"},"type":{"values":["0","1","2"],"type":"enum"}}

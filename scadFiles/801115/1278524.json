@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"height":{"type":"float"},"diameter":{"end":100.0,"step":1,"type":"range","start":5.0},"nob_diameter":{"end":50.0,"step":1,"type":"range","start":16.0}}

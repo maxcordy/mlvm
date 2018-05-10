@@ -1,0 +1,1 @@
+{"base_width":{"type":"float"},"vase_layers":{"type":"float"},"vase_twist":{"type":"float"},"top_scale":{"type":"float"},"mirror_direction":{"values":["0"," 1"],"type":"enum"},"multiple_twist":{"type":"float"},"multiple_instances":{"type":"float"},"vase_height":{"type":"float"},"base_height":{"type":"float"},"bonus_mode":{"values":["0"," 1"," 2"],"type":"enum"}}

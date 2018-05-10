@@ -1,0 +1,1 @@
+{"projected_maze":{"values":["YES"," NO"],"type":"enum"},"NO_WALL":{"type":"float"},"maze_rows":{"type":"float"},"block_width":{"type":"float"},"maze_columns":{"type":"float"},"wall_thickness":{"type":"float"},"UPPER_RIGHT_WALL":{"type":"float"},"RIGHT_WALL":{"type":"float"},"UPPER_WALL":{"type":"float"}}

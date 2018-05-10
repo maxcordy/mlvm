@@ -1,0 +1,1 @@
+{"length":{"end":120.0,"step":1,"type":"range","start":80.0},"part":{"values":["clasp","band"],"type":"enum"},"nub_offset":{"type":"float"},"nub_diameter":{"type":"float"},"height":{"type":"float"},"resolution":{"end":100.0,"step":1,"type":"range","start":6.0},"width":{"type":"float"},"nub_connection_height":{"type":"float"},"nub_height":{"type":"float"}}

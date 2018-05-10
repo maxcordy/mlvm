@@ -1,0 +1,1 @@
+{"fan_ctc":{"values":["32","50","71.5","105"],"type":"enum"},"thickness":{"type":"float"},"mounting_pos_customizer":{"end":100.0,"step":1,"type":"range","start":-100.0},"height":{"type":"float"},"radius_outer":{"type":"float"},"mounting_screw":{"values":["3","4","5"],"type":"enum"},"print_rectangular_bottom_edges":{"values":["1"," 0"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"plate_width":{"type":"float"},"hole_extra_size":{"type":"float"},"solid_center":{"values":["0"," 1"],"type":"enum"},"$fn":{"type":"float"},"bottom_thickness":{"type":"float"},"plate_thickness":{"type":"float"},"openbeam_w":{"type":"float"},"plate_height":{"type":"float"}}

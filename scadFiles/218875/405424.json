@@ -1,0 +1,1 @@
+{"detail":{"values":["20"," 50"," 200"],"type":"enum"},"angle":{"end":60.0,"step":1,"type":"range","start":0.0},"opening":{"end":14.0,"step":1,"type":"range","start":4.0},"fanangle":{"end":90.0,"step":1,"type":"range","start":0.0},"nozzlelength":{"end":40.0,"step":1,"type":"range","start":20.0}}

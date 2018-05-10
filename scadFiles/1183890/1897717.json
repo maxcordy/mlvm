@@ -1,0 +1,1 @@
+{"text_front":{"type":"string"},"font_size":{"values":["6","[8","[10"],"type":"enum"},"dice_size":{"type":"float"},"text_left":{"type":"string"},"text_back":{"type":"string"},"text_right":{"type":"string"},"text_top":{"type":"string"},"text_bottom":{"type":"string"}}

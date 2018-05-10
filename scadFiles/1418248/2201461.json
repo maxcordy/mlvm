@@ -1,0 +1,1 @@
+{"Cover_Height":{"type":"float"},"Object_Type":{"values":["1"," 2"," 3"],"type":"enum"},"Wall_Tickness":{"type":"float"},"Object_Height":{"end":200.0,"step":1,"type":"range","start":50.0},"Object_Size":{"values":["50"," 100"," 150"," 200"],"type":"enum"}}

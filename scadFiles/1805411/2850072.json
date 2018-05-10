@@ -1,0 +1,1 @@
+{"L":{"type":"float"},"H1":{"type":"float"},"H":{"type":"float"},"Ep":{"type":"float"},"Ouvert":{"values":["0","1"],"type":"enum"},"Pied":{"values":["0","1"],"type":"enum"},"Dxf":{"values":["0","1","2"],"type":"enum"},"T":{"type":"float"},"Poignee":{"values":["0","1","2","3"],"type":"enum"},"Boite":{"values":["0","1"],"type":"enum"},"P":{"type":"float"}}

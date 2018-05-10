@@ -1,0 +1,1 @@
+{"footDepth":{"type":"float"},"thickness":{"type":"float"},"offsetBetween":{"type":"float"},"$fn":{"type":"float"},"howManyToPrint":{"values":["1"," 2"," 3"," 4"," 5"],"type":"enum"},"footHeight":{"type":"float"},"footWidth":{"type":"float"}}

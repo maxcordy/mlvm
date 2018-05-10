@@ -1,0 +1,1 @@
+{"thickness":{"end":2.0,"step":1,"type":"range","start":1.0},"Links":{"end":100.0,"step":1,"type":"range","start":1.0},"part":{"values":["together"," even"," uneven"],"type":"enum"},"Type":{"type":"float"},"Pi":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"height":{"end":26.0,"step":1,"type":"range","start":14.0},"fan_hole_angled":{"values":["true"," false"],"type":"enum"},"fan_screw_diameter":{"end":5.0,"step":1,"type":"range","start":1.0},"arm_inward_angle_left":{"end":5.0,"step":1,"type":"range","start":0.0}}

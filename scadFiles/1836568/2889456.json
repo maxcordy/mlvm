@@ -1,0 +1,1 @@
+{"diameter_cable":{"type":"float"},"diameter":{"type":"float"},"filament_width":{"type":"float"},"print":{"values":["0"," 1"," 2"],"type":"enum"}}

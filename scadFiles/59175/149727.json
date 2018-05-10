@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"thickness":{"type":"float"},"message_2":{"type":"string"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/braille.dxf\""],"type":"enum"},"message_3":{"type":"string"},"message_1":{"type":"string"},"pencil_diameter":{"type":"float"},"corner_radius":{"type":"float"}}

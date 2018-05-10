@@ -1,0 +1,1 @@
+{"wid":{"end":180.0,"step":1,"type":"range","start":45.0},"wallwidth":{"values":["13","10","7"],"type":"enum"},"handle":{"values":["1","0"],"type":"enum"},"th":{"end":5.0,"step":0.5,"type":"range","start":2.0},"h_factor":{"end":3.0,"step":0.1,"type":"range","start":1.3}}

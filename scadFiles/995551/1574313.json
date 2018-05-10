@@ -1,0 +1,1 @@
+{"Bearing_width":{"end":20.0,"step":1.0,"type":"range","start":5.0},"Number_of_bearings":{"end":8.0,"step":2.0,"type":"range","start":2.0},"Spool_width":{"end":200.0,"step":1,"type":"range","start":30.0}}

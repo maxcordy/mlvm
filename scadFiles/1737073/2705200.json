@@ -1,0 +1,1 @@
+{"Length":{"end":55.0,"step":1,"type":"range","start":35.0},"Width":{"end":30.0,"step":1,"type":"range","start":14.0},"Hanging_Hole_Diameter":{"type":"float"},"Hanging_Hole":{"values":["0","1"],"type":"enum"},"Height":{"type":"float"}}

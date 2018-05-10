@@ -1,0 +1,1 @@
+{"number":{"end":30.0,"step":1,"type":"range","start":2.0},"part":{"values":["first","second"],"type":"enum"},"density":{"end":50.0,"step":1,"type":"range","start":-50.0},"seed":{"end":1000000000.0,"step":1,"type":"range","start":-1000000000.0}}

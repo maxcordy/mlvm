@@ -1,0 +1,1 @@
+{"gripperWall":{"type":"float"},"angle":{"type":"float"},"gripperBulge":{"type":"float"},"wallThickness":{"end":10.0,"step":1,"type":"range","start":1.0},"height":{"end":200.0,"step":1,"type":"range","start":0.0},"raise":{"end":200.0,"step":1,"type":"range","start":0.0},"legWidth":{"type":"float"},"insetOversize":{"type":"float"},"legDepth":{"type":"float"}}

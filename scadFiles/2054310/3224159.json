@@ -1,0 +1,1 @@
+{"screwHoleDiameter":{"type":"float"},"boardThickness":{"type":"float"},"boardLength":{"type":"float"},"screwHoles":{"values":["1","0"],"type":"enum"},"boardWidth":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"body_corner_radius":{"type":"float"},"wall":{"type":"float"},"Pi_Model":{"values":["3B\/2B\/1B+","Connectorless","1A+","Zero"],"type":"enum"},"wall_t":{"type":"float"},"Pieces":{"values":["Both","Top","Bottom"],"type":"enum"},"body_chamfer_height":{"type":"float"},"Control_Probe":{"values":["Thermocouple","Thermistor"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"measure_height":{"type":"float"},"fn":{"type":"float"},"thickness":{"type":"float"},"mode":{"values":["Prview"," PenHolder"],"type":"enum"},"line_width":{"type":"float"},"numstr":{"type":"string"},"measures":{"type":"float"}}

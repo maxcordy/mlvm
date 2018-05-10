@@ -1,0 +1,1 @@
+{"BOARD_THICKNESS":{"end":100.0,"step":1,"type":"range","start":1.0},"MARKER_RADIUS":{"end":100.0,"step":1,"type":"range","start":1.0},"CLIP_THICKNESS":{"end":10.0,"step":1,"type":"range","start":1.0},"CLIP_WIDTH":{"end":100.0,"step":1,"type":"range","start":1.0}}

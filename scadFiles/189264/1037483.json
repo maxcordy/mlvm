@@ -1,0 +1,1 @@
+{"withNotch":{"type":"mixed"},"itemsShown":{"values":["both","box","lid"],"type":"enum"},"lidClearance":{"type":"float"},"wallThickness":{"type":"float"},"boxWidth":{"type":"float"},"lidThickness":{"type":"float"},"lidEdgeThickness":{"type":"float"},"boxHeight":{"type":"float"},"bottomThickness":{"type":"float"},"cornerRadius":{"type":"float"},"boxLength":{"type":"float"}}

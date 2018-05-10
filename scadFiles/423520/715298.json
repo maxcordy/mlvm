@@ -1,0 +1,1 @@
+{"which":{"values":["pot","brim","both"],"type":"enum"},"shape":{"values":["cube","cylinder"],"type":"enum"},"wall":{"type":"float"},"size":{"type":"float"},"girth":{"type":"float"},"$fn":{"type":"float"},"height":{"type":"float"},"diameter":{"type":"float"},"ratio":{"type":"float"},"thickness":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"message_scale":{"end":5.0,"step":0.1,"type":"range","start":0.0},"thickness":{"end":10.0,"step":1,"type":"range","start":1.0},"inside_diameter":{"end":250.0,"step":1,"type":"range","start":50.0},"lip_height":{"end":20.0,"step":1,"type":"range","start":0.0},"message_text_line1":{"type":"string"},"message_text_line2":{"type":"string"}}

@@ -1,0 +1,1 @@
+{"glass_height":{"type":"float"},"part":{"type":"string"},"candle_height":{"type":"float"},"design_pattern":{"values":["true"," false"],"type":"enum"},"candle_radius":{"type":"float"},"$fn":{"type":"float"},"glass_radius":{"type":"float"}}

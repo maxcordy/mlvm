@@ -1,0 +1,1 @@
+{"smooth":{"values":["10"," 50"," 100"],"type":"enum"},"topcover":{"values":["yes"," no"],"type":"enum"},"openbottom":{"values":["yes"," no"],"type":"enum"},"colletsizeER":{"values":["8"," 11"," 16"," 20"," 25"," 32"," 40"," 50"],"type":"enum"},"rows":{"end":50.0,"step":1,"type":"range","start":1.0},"columns":{"end":50.0,"step":1,"type":"range","start":1.0}}

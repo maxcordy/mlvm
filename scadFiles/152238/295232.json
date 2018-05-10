@@ -1,0 +1,1 @@
+{"handle_length":{"type":"float"},"image_file":{"parameters":["150x150"],"function":"image_surface","type":"custom"},"emboss_height":{"type":"float"},"handle_thickness":{"type":"float"},"hinge_placement":{"values":["1","2","3","4"],"type":"enum"}}

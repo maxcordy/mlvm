@@ -1,0 +1,1 @@
+{"or":{"end":100.0,"step":1,"type":"range","start":20.0},"bh":{"end":5.0,"step":1,"type":"range","start":2.0},"$fn":{"values":["20","40","60","80","100","120","140","160","180"],"type":"enum"},"ir":{"end":100.0,"step":1,"type":"range","start":20.0},"hi":{"end":50.0,"step":1,"type":"range","start":10.0},"num":{"end":10.0,"step":1,"type":"range","start":2.0}}

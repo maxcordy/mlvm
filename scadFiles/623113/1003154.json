@@ -1,0 +1,1 @@
+{"rearrangegap":{"type":"float"},"$fn":{"type":"float"},"latticerodsdistance":{"type":"float"},"handlyhole":{"type":"float"},"handlysize":{"type":"float"},"gapdepth":{"type":"float"},"toolwidth":{"type":"float"},"edgeround":{"end":15.0,"step":1,"type":"range","start":0.0},"gapsize":{"type":"float"},"toollenght":{"type":"float"}}

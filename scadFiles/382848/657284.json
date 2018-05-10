@@ -1,0 +1,1 @@
+{"mount_height":{"type":"float"},"cable_clearance_y":{"type":"float"},"gap_width":{"type":"float"},"tube_diam":{"type":"float"},"screw_head_diam":{"type":"float"},"cable_clearance_x":{"type":"float"},"mount_diam":{"type":"float"},"wall_thickness":{"end":10.0,"step":1,"type":"range","start":3.0},"screw_hole_diam":{"type":"float"},"screw_hole_diam_big":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"plaque_thickness":{"type":"float"},"plaque_shape":{"values":["0"," 1"],"type":"enum"},"plaque_size":{"type":"float"},"bit_size":{"type":"float"}}

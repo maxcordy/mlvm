@@ -1,0 +1,1 @@
+{"Height_z":{"type":"float"},"length_x":{"type":"float"},"Rail_Diameter":{"type":"float"},"Number_of_Holes":{"end":10.0,"step":1,"type":"range","start":0.0},"Rail_Spacing":{"type":"float"},"Hole_Diameter":{"type":"float"},"Width_y":{"type":"float"}}

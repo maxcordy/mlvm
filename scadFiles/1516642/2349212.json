@@ -1,0 +1,1 @@
+{"wedgeHeight":{"type":"float"},"wallThickness":{"type":"float"},"wedgeDiameter":{"type":"float"},"binWidth":{"type":"float"},"binHeight":{"type":"float"},"anchorThickness":{"type":"float"},"binDepth":{"type":"float"},"partitions":{"values":["2"," 3"," 4"],"type":"enum"}}

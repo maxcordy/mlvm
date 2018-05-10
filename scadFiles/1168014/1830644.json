@@ -1,0 +1,1 @@
+{"total_size":{"type":"float"},"chamfer_size":{"end":50.0,"step":1,"type":"range","start":4.0},"part":{"values":["first","second","third","assembled"],"type":"enum"},"gap":{"end":0.5,"step":0.01,"type":"range","start":0.0}}

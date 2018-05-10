@@ -1,0 +1,1 @@
+{"nt":{"type":"float"},"fang":{"values":["yes","no"],"type":"enum"},"$fn":{"values":["4","5","6","7","8","12"],"type":"enum"},"ggdt":{"type":"float"},"gd":{"type":"float"},"sd":{"type":"float"},"fs":{"end":100.0,"step":1,"type":"range","start":0.0},"gh":{"type":"float"},"nf":{"values":["0","1","2"],"type":"enum"},"Dcut":{"values":["yes","no"],"type":"enum"}}

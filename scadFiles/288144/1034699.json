@@ -1,0 +1,1 @@
+{"retainer_height":{"type":"float"},"lip_height":{"type":"float"},"resolution":{"type":"float"},"spool_hole":{"type":"float"},"bushings":{"values":["1","2"],"type":"enum"},"rod_hole":{"type":"float"}}

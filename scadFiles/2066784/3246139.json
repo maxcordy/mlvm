@@ -1,0 +1,1 @@
+{"$fs":{"type":"float"},"hole_height":{"values":["2","3","4","5"],"type":"enum"},"x_axis_offest":{"values":["2","4"],"type":"enum"},"hole_diameter":{"values":["6.3","6.35","6.4","6.45","6.5","6.55"],"type":"enum"},"$fa":{"type":"float"},"hole_taper":{"values":["0.6","1","1.2"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"Oversize":{"type":"float"},"Diagnostic":{"type":"mixed"},"MinSubdivisions":{"end":10.0,"step":1.0,"type":"range","start":2.0},"MyBallList":{"type":"float"},"Threshold":{"end":2.5,"step":0.01,"type":"range","start":1.5},"Resolution":{"end":50.0,"step":5.0,"type":"range","start":5.0}}

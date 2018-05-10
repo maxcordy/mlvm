@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"spike_inner_dia":{"type":"float"},"height":{"type":"float"},"w_factor":{"type":"float"},"blades":{"end":50.0,"step":1,"type":"range","start":5.0},"left_right":{"values":["0","1","2"],"type":"enum"},"use_fans":{"values":["1","0"],"type":"enum"},"outer_dia":{"type":"float"},"offset":{"type":"float"},"twist":{"type":"float"}}

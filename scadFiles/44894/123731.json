@@ -1,0 +1,1 @@
+{"Inside_Diameter":{"type":"float"},"Hexagon":{"values":["false","true"],"type":"enum"},"Length":{"type":"float"},"Outside_Diameter":{"type":"float"},"Base_Thickness":{"type":"float"},"PCB_Thickness":{"type":"float"},"Stand_Off_Type":{"values":["plain","end_nut","split_base"],"type":"enum"},"Clearance":{"type":"float"}}

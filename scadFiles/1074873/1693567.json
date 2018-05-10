@@ -1,0 +1,1 @@
+{"holes_distance":{"end":5.0,"step":0.5,"type":"range","start":2.0},"hole_type":{"values":["0","1","2"],"type":"enum"},"glasses_size":{"end":200.0,"step":10.0,"type":"range","start":100.0},"glasses_thick":{"values":["1","2","3","4","5"],"type":"enum"}}

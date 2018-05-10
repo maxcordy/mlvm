@@ -1,0 +1,1 @@
+{"od":{"type":"float"},"ch":{"type":"float"},"ang":{"values":["yes","no"],"type":"enum"},"shr":{"type":"float"},"ns":{"values":["2","3","4"],"type":"enum"},"fd":{"type":"float"},"fth":{"type":"float"},"ind":{"type":"float"},"sth":{"type":"float"}}

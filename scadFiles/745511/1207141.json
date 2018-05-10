@@ -1,0 +1,1 @@
+{"Axle":{"values":["fixed","free","both"],"type":"enum"},"Rings":{"end":5.0,"step":1,"type":"range","start":0.0},"Size":{"end":40.0,"step":1,"type":"range","start":5.0}}

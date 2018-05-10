@@ -1,0 +1,1 @@
+{"set_diameter":{"values":["1"," 0"],"type":"enum"},"parts":{"type":"string"},"slit":{"type":"float"},"height":{"type":"float"},"diameter":{"type":"float"},"width":{"type":"float"},"frames":{"type":"float"},"stand_height":{"type":"float"}}

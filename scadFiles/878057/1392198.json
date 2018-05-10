@@ -1,0 +1,1 @@
+{"shift":{"end":2.0,"step":0.1,"type":"range","start":-2.0},"Wall_Thickness":{"end":7.0,"step":0.1,"type":"range","start":1.0},"Thickness":{"end":35.0,"step":1,"type":"range","start":5.0},"outer_r":{"type":"float"},"additional_height":{"type":"float"},"inner_r":{"type":"float"},"gap":{"end":3.0,"step":0.1,"type":"range","start":0.1}}

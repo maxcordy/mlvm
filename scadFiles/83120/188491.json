@@ -1,0 +1,1 @@
+{"spoon_fan":{"type":"float"},"spoon_twist":{"end":720.0,"step":1,"type":"range","start":0.0},"handle_radius":{"end":50.0,"step":1,"type":"range","start":1.0},"spoon_height":{"end":50.0,"step":1,"type":"range","start":5.0},"spoon_radius":{"end":50.0,"step":1,"type":"range","start":5.0},"handle_height":{"end":200.0,"step":1,"type":"range","start":5.0}}

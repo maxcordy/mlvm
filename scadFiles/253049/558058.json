@@ -1,0 +1,1 @@
+{"edge_height":{"end":6.0,"step":1,"type":"range","start":3.0},"Figure_Width":{"end":10.0,"step":1,"type":"range","start":2.0},"edge_width":{"end":5.0,"step":1,"type":"range","start":1.0},"Base_Size":{"values":["5"," 10"," 15"," 20"," 24"," 25"," 28"," 40"," 50"," 54"," 108"],"type":"enum"},"Figure_Depth":{"end":10.0,"step":1,"type":"range","start":1.0}}

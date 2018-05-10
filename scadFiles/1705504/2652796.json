@@ -1,0 +1,1 @@
+{"dop_diameter":{"type":"float"},"units":{"values":["\"i\""," \"m\""],"type":"enum"},"hole_depth":{"type":"float"},"height":{"type":"float"},"cols":{"type":"float"},"use_index":{"values":["1"," 0"],"type":"enum"},"rows":{"type":"float"},"index_size":{"end":5.0,"step":1,"type":"range","start":1.0},"hole_spacing":{"type":"float"}}

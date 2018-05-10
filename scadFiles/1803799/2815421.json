@@ -1,0 +1,1 @@
+{"top_in_dia":{"type":"float"},"bot_out_dia":{"type":"float"},"top_out_dia":{"type":"float"},"flange_height":{"type":"float"},"tap_height":{"type":"float"},"quality":{"type":"float"},"flange_dia":{"type":"float"},"nozzle":{"type":"float"},"is_flange":{"values":["1"," 0"],"type":"enum"},"bot_in_dia":{"type":"float"}}

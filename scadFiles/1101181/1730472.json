@@ -1,0 +1,1 @@
+{"hour":{"type":"float"},"thickness":{"type":"float"},"type_of_mark":{"values":["Numbers"," Romans"," Ticks"," Dots"],"type":"enum"},"minutes":{"type":"float"},"radius":{"type":"float"}}

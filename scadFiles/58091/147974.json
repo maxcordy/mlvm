@@ -1,0 +1,1 @@
+{"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/braille.dxf\""],"type":"enum"},"cable_diameter":{"type":"float"},"thickness":{"type":"float"},"label":{"type":"string"},"label_orientation":{"values":["1","2"],"type":"enum"}}

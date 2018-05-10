@@ -1,0 +1,1 @@
+{"cylinder_height":{"type":"float"},"surface_file":{"parameters":["81x61"],"function":"image_surface","type":"custom"},"background":{"values":["dark"," light"],"type":"enum"},"extrusion_width":{"type":"float"},"image_thickness":{"type":"float"},"direction":{"values":["inside"," outside"],"type":"enum"},"n_facets":{"type":"float"}}

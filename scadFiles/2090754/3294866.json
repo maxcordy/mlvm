@@ -1,0 +1,1 @@
+{"BD":{"type":"float"},"Z_2":{"end":100.0,"step":1,"type":"range","start":10.0},"PA":{"values":["14.5","20","25","32.14"],"type":"enum"},"Z_1":{"end":100.0,"step":1,"type":"range","start":10.0},"sp":{"end":3.0,"step":0.1,"type":"range","start":0.0},"FW_2":{"type":"float"},"BP":{"values":["4","6","8","200"],"type":"enum"},"FW_1":{"type":"float"},"M":{"type":"float"}}

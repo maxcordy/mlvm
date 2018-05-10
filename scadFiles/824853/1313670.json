@@ -1,0 +1,1 @@
+{"CenterHoleDiam":{"type":"float"},"Wall":{"type":"float"},"ExtrusionLength":{"type":"float"},"Depth":{"type":"float"},"NumSlots":{"values":["0","1","2","3","4"],"type":"enum"},"SlotW":{"type":"float"},"InsideW":{"type":"float"},"Flat":{"type":"float"},"Corner":{"values":["0","1"],"type":"enum"},"$fs":{"type":"float"},"Outer":{"type":"float"}}

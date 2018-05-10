@@ -1,0 +1,1 @@
+{"Spacing":{"values":["0.8"," 0.85"," 0.9"," 0.95"," 1"," 1.05"," 1.1"," 1.15"," 1.2"],"type":"enum"},"Font":{"type":"string"},"Height":{"values":["1","2","3"],"type":"enum"},"Text":{"type":"string"},"Dia":{"values":["62","83"],"type":"enum"},"Size":{"end":48.0,"step":1,"type":"range","start":6.0}}

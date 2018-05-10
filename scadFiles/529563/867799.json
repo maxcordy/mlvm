@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"brackets":{"values":["true"," false"],"type":"enum"},"custom_length":{"type":"float"},"batteries":{"type":"float"},"type":{"values":["AA","AAA","AAAA","C","D","custom"],"type":"enum"},"custom_diameter":{"type":"float"}}

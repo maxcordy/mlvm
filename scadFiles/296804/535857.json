@@ -1,0 +1,1 @@
+{"border_height":{"type":"float"},"relief_depth":{"type":"float"},"total_height":{"type":"float"},"image":{"parameters":["100x50"],"function":"image_array","type":"custom"},"wrap_angle":{"type":"float"},"top_diameter":{"type":"float"},"wall_thickness":{"type":"float"},"bottom_diameter":{"type":"float"},"border_offset":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"fins":{"values":["1","0"],"type":"enum"},"length":{"type":"float"},"object":{"values":["0","1"],"type":"enum"},"hole_twist":{"values":["0","1"],"type":"enum"},"clearance":{"type":"float"},"preload":{"type":"float"},"snap":{"type":"float"},"diameter":{"type":"float"},"thickness":{"type":"float"},"$fn":{"type":"float"}}

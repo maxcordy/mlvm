@@ -1,0 +1,1 @@
+{"num_keyboards":{"end":20.0,"step":1.0,"type":"range","start":1.0},"keyboard_thickness":{"end":100.0,"step":1,"type":"range","start":5.0},"thickness":{"end":50.0,"step":1,"type":"range","start":3.0},"keyboard_to_keyboard":{"end":100.0,"step":1,"type":"range","start":8.0},"flange":{"end":50.0,"step":1,"type":"range","start":1.0}}

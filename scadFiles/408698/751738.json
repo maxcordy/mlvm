@@ -1,0 +1,1 @@
+{"text_thickness":{"type":"float"},"letterspaces":{"type":"float"},"pencil_sides":{"type":"float"},"pencil_hole":{"values":["0","1"],"type":"enum"},"text":{"type":"string"},"show_pencil":{"values":["0","1"],"type":"enum"},"pencil_width":{"type":"float"},"pencil_color":{"type":"string"}}

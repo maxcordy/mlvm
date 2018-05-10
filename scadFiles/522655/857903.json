@@ -1,0 +1,1 @@
+{"Diameter_hole":{"type":"float"},"Thickness":{"type":"float"},"Diameter":{"type":"float"},"Hole_disk":{"values":["yes","no"],"type":"enum"}}

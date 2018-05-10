@@ -1,0 +1,1 @@
+{"word":{"type":"string"},"inner_length":{"type":"float"},"object":{"type":"float"},"inner_diameter":{"type":"float"},"font_scale":{"type":"float"},"helper_tabs":{"values":["0","1"],"type":"enum"},"lid_length":{"type":"float"},"pen_thickness":{"type":"float"},"font_spacing":{"type":"float"},"tip_diameter":{"type":"float"},"tolerance":{"type":"float"}}

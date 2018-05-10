@@ -1,0 +1,1 @@
+{"weightUnit":{"values":["1","2.20462"],"type":"enum"},"weight":{"end":50.0,"step":1,"type":"range","start":1.0},"weightType":{"values":["2","1"],"type":"enum"},"exportMode":{"values":["0","1","2"],"type":"enum"},"fillMaterial":{"values":["1000","1500","7000","8400"],"type":"enum"},"weightRadius":{"type":"float"}}

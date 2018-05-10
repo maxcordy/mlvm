@@ -1,0 +1,1 @@
+{"x_var":{"type":"float"},"z":{"type":"float"},"inset":{"values":[".1",".2",".3",".4",".5",".6",".7"],"type":"enum"},"y_var":{"type":"float"},"cube_size":{"values":["0"," 1"," 2"," 3"],"type":"enum"}}

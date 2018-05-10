@@ -1,0 +1,1 @@
+{"parts_render":{"values":["1","2","3","4"," 5"],"type":"enum"},"project_size":{"end":300.0,"step":1,"type":"range","start":100.0},"eyestyle_render":{"values":["1"," 2"," 3"],"type":"enum"},"Quality_render":{"values":["28","60"],"type":"enum"},"color_sickle_render":{"values":["1"," 2"," 3"," 4"," 5"],"type":"enum"}}

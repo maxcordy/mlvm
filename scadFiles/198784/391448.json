@@ -1,0 +1,1 @@
+{"box_height":{"type":"float"},"box_width":{"type":"float"},"spacing":{"values":["1","5","10"],"type":"enum"},"output_type":{"values":["DXF","STL"],"type":"enum"},"ratio":{"values":["0.25","0.5"],"type":"enum"},"material_thickness":{"values":["3","5","10"],"type":"enum"},"box_depth":{"type":"float"}}

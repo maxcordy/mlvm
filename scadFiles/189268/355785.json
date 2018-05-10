@@ -1,0 +1,1 @@
+{"number_of_layers":{"end":30.0,"step":1,"type":"range","start":5.0},"image_file":{"parameters":["100x100"],"function":"image_surface","type":"custom"},"diameter":{"end":100.0,"step":1,"type":"range","start":50.0},"shellthick":{"end":4.0,"step":1,"type":"range","start":1.0},"layer_height":{"type":"float"}}

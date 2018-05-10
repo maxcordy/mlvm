@@ -1,0 +1,1 @@
+{"wrist_width":{"type":"float"},"braceletHeight":{"type":"float"},"$fn":{"type":"float"},"numStrands":{"end":7.0,"step":1,"type":"range","start":1.0},"periods":{"type":"float"},"thickness":{"end":10.0,"step":0.5,"type":"range","start":1.0},"wrist_length":{"type":"float"},"part":{"type":"float"},"step":{"end":20.0,"step":0.5,"type":"range","start":0.5}}

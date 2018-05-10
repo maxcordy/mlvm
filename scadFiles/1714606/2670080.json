@@ -1,0 +1,1 @@
+{"leafGauge":{"type":"float"},"$fn":{"type":"float"},"diameter":{"type":"float"},"pinLength":{"type":"float"},"knuckleCount":{"end":99.0,"step":2.0,"type":"range","start":3.0},"holeCount":{"end":20.0,"step":1,"type":"range","start":0.0},"openWidth":{"type":"float"}}

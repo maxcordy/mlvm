@@ -1,0 +1,1 @@
+{"boxThickness":{"type":"float"},"part":{"values":["corner","ess","tee","rightsnake","leftsnake","angle","ell","all","box","lid"],"type":"enum"},"shaveMM":{"type":"float"},"unit":{"type":"float"}}

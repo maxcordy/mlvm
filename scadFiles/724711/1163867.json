@@ -1,0 +1,1 @@
+{"h":{"end":250.0,"step":1,"type":"range","start":10.0},"big":{"end":11.0,"step":1,"type":"range","start":0.0},"knife":{"values":["yes=1"," no=0"],"type":"enum"},"small":{"end":28.0,"step":1,"type":"range","start":0.0}}

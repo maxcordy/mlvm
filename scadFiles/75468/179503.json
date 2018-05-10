@@ -1,0 +1,1 @@
+{"lip_height":{"type":"float"},"spindle_depth":{"type":"float"},"lip_extention":{"end":120.0,"step":1,"type":"range","start":5.0},"spindle_diameter":{"type":"float"}}

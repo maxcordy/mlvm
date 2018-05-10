@@ -1,0 +1,1 @@
+{"keyring_thickness":{"end":10.0,"step":0.5,"type":"range","start":1.0},"circle_diameter":{"end":64.0,"step":1,"type":"range","start":20.0},"ring_thickness":{"end":5.0,"step":0.5,"type":"range","start":1.0},"number_of_circles":{"end":7.0,"step":2.0,"type":"range","start":3.0}}

@@ -1,0 +1,1 @@
+{"spinner_style":{"values":["3"," 2"],"type":"enum"},"part_quality":{"end":1.0,"step":0.25,"type":"range","start":0.0},"wall_thickness":{"type":"float"},"bearing_thickness":{"type":"float"},"extra_arm_length":{"end":5.0,"step":0.5,"type":"range","start":0.0},"bearing_diameter":{"type":"float"}}

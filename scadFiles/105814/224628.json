@@ -1,0 +1,1 @@
+{"ID":{"type":"float"},"clearance":{"type":"float"},"OD":{"type":"float"},"$fn":{"end":200.0,"step":1,"type":"range","start":10.0},"wall_thickness":{"type":"float"},"spool_width":{"type":"float"},"hole_size":{"type":"float"}}

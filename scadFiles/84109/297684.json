@@ -1,0 +1,1 @@
+{"hole_border":{"type":"float"},"image_file":{"parameters":["70x105"],"function":"image_surface","type":"custom"},"number_of_layers":{"end":20.0,"step":1,"type":"range","start":5.0},"layer_height":{"type":"float"},"hole_diameter":{"type":"float"},"lithophane_border":{"type":"float"}}

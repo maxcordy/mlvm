@@ -1,0 +1,1 @@
+{"iFactor":{"type":"float"},"baseH":{"type":"float"},"coins":{"type":"float"},"holeSz":{"type":"float"},"thSz":{"type":"float"},"coinTh":{"type":"float"},"thOff":{"type":"float"},"finger":{"type":"float"},"szCh":{"type":"float"},"wallTh":{"end":5.0,"step":1,"type":"range","start":2.0},"coinSz":{"type":"float"}}

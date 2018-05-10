@@ -1,0 +1,1 @@
+{"tip_factor":{"type":"float"},"ring":{"type":"string"},"name_for_me":{"type":"string"},"spacing":{"type":"float"},"levels":{"type":"float"},"wall_thickness":{"type":"float"},"wall_height":{"type":"float"},"name_for_you":{"type":"string"},"cblocks":{"type":"float"},"heart_height":{"type":"float"}}

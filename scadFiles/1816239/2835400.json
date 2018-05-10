@@ -1,0 +1,1 @@
+{"text_language":{"type":"string"},"text_size":{"type":"float"},"total_diameter":{"type":"float"},"normal_layer_height":{"type":"float"},"number_of_base_layers":{"type":"float"},"number_of_text_layers":{"type":"float"},"text_font":{"type":"string"},"first_layer_height":{"type":"float"},"text_string":{"type":"string"},"line_width":{"type":"float"}}

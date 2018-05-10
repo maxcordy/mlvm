@@ -1,0 +1,1 @@
+{"font_thickness":{"type":"float"},"message":{"type":"string"},"base_thickness":{"type":"float"},"Font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/braille.dxf\""],"type":"enum"},"font_size":{"type":"float"}}

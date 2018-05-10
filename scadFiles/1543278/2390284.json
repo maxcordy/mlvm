@@ -1,0 +1,1 @@
+{"base":{"values":["12","25","50","75","100"],"type":"enum"},"depth":{"values":["10","20","40","50","75","100"],"type":"enum"},"wall":{"end":3.0,"step":1,"type":"range","start":1.0},"nunits":{"end":3.0,"step":1,"type":"range","start":1.0},"filament_diameter":{"values":["1.75","3"],"type":"enum"}}

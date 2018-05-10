@@ -1,0 +1,1 @@
+{"base_size":{"type":"float"},"arm_length":{"type":"float"},"ball_radius":{"type":"float"},"scale_x":{"type":"float"},"stl_quality":{"values":["30","60","120"],"type":"enum"},"scale_z":{"type":"float"},"amount_arms":{"type":"float"},"scale_y":{"type":"float"},"arm_thickness":{"type":"float"},"arm_height":{"type":"float"}}

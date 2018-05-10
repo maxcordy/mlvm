@@ -1,0 +1,1 @@
+{"coinDiameter":{"type":"float"},"part":{"type":"string"},"wallThickness":{"type":"float"},"coinHeight":{"type":"float"},"capHeight":{"type":"float"},"numberOfCoins":{"end":100.0,"step":1.0,"type":"range","start":1.0}}

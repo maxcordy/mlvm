@@ -1,0 +1,1 @@
+{"bottom_centre_radious":{"type":"float"},"top_center_radious":{"type":"float"},"radius_hole":{"type":"float"},"number_sides":{"values":["3","4","6"],"type":"enum"},"x_tool_length":{"type":"float"},"y_tool_length":{"type":"float"}}

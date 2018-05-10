@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"clearance":{"type":"float"},"border":{"type":"float"},"$fn":{"type":"float"},"height":{"type":"float"},"space":{"type":"float"},"polyhedron":{"values":["1","2","3","4","5"],"type":"enum"},"gap":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"Model":{"values":["Women","Men","Children","ExtraLarge"],"type":"enum"},"thickness":{"end":10.0,"step":0.5,"type":"range","start":3.0},"precision":{"values":["HalfSizes","MainSizes"],"type":"enum"},"ringheight":{"end":12.0,"step":1.0,"type":"range","start":4.0},"TextLine1":{"type":"string"},"TextLine2":{"type":"string"},"Country":{"type":"string"}}

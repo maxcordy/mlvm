@@ -1,0 +1,1 @@
+{"Ht":{"type":"float"},"W_Thk":{"type":"float"},"Rows":{"end":20.0,"step":1,"type":"range","start":1.0},"Cols":{"end":20.0,"step":1,"type":"range","start":1.0},"ID":{"type":"float"},"B_Thk":{"type":"float"},"Open_Tray":{"end":1.0,"step":1,"type":"range","start":0.0},"P_Style":{"end":2.0,"step":1,"type":"range","start":0.0}}

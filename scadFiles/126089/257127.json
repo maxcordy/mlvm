@@ -1,0 +1,1 @@
+{"wheel_thickness":{"end":20.0,"step":1,"type":"range","start":1.0},"X":{"type":"float"},"Y":{"type":"float"},"cube_size":{"values":["10","20","30"],"type":"enum"},"hole_diameter":{"type":"float"},"hole_depth":{"values":["0","1","5","50"],"type":"enum"},"Z":{"type":"float"},"show_wheels":{"values":["yes","no"],"type":"enum"}}

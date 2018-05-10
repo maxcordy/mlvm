@@ -1,0 +1,1 @@
+{"area_code":{"type":"string"},"prefix":{"type":"string"},"end_type":{"values":["Symmetrical"," Rotated"," Both"],"type":"enum"},"length":{"end":100.0,"step":1,"type":"range","start":30.0},"number":{"type":"string"},"font":{"type":"string"}}

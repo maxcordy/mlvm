@@ -1,0 +1,1 @@
+{"$fn":{"values":["20","30","40","50","60","70","80","90","100"],"type":"enum"},"dia":{"type":"float"},"lip":{"values":["0","1"],"type":"enum"},"th":{"type":"float"}}

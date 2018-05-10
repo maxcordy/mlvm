@@ -1,0 +1,1 @@
+{"partToRender":{"values":["ALL"," CYCLONE"," MOUNT_PLATE"],"type":"enum"},"intake_hole_diameter":{"type":"float"},"cone_height":{"type":"float"},"hopper_diameter":{"type":"float"},"body_height":{"type":"float"},"wall_thickness":{"type":"float"},"mount_plate_space_radius":{"type":"float"},"vacuum_hole_diameter":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"GEAR_THICKNESS":{"end":60.0,"step":1.0,"type":"range","start":1.0},"NUMBER_OF_TEETH":{"end":260.0,"step":1.0,"type":"range","start":10.0},"BORE_DIAMETER":{"end":200.0,"step":0.1,"type":"range","start":3.0}}

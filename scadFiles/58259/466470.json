@@ -1,0 +1,1 @@
+{"word":{"type":"string"},"part":{"type":"string"},"letter_1_shift":{"type":"float"},"letter_3_shift":{"type":"float"},"letter_2_shift":{"type":"float"},"letter_4_shift":{"type":"float"},"hinge_diameter":{"type":"float"}}

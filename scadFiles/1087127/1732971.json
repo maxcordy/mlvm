@@ -1,0 +1,1 @@
+{"Project_Size":{"end":125.0,"step":1,"type":"range","start":65.0},"part_to_render":{"values":["1"," 2"," 3"," 4"," 5"],"type":"enum"},"Render_Quality":{"values":["24","60"],"type":"enum"}}

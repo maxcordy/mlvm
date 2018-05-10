@@ -1,0 +1,1 @@
+{"Angle":{"type":"float"},"Nut_OD":{"type":"float"},"Nut_Clearance":{"type":"float"},"Thread_Clearance":{"type":"float"},"OD":{"type":"float"},"Thread_OD":{"type":"float"},"Nut_Depth":{"type":"float"},"Height":{"type":"float"},"Nut_Sides":{"values":["4","6"],"type":"enum"}}

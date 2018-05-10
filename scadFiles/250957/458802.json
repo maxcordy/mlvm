@@ -1,0 +1,1 @@
+{"clamp_clearance":{"type":"float"},"hole_border":{"type":"float"},"build":{"values":["dialmount"," clamptest"],"type":"enum"},"clamp_length":{"type":"float"},"wall_thickness":{"type":"float"},"shaft_od":{"type":"float"},"lip_depth":{"type":"float"},"shaft_clearance":{"type":"float"}}

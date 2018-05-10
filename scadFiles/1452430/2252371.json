@@ -1,0 +1,1 @@
+{"modele":{"values":["droitier","gaucher","ambidextre"],"type":"enum"},"L":{"end":180.0,"step":1,"type":"range","start":130.0},"vis":{"values":["A","B","C"],"type":"enum"},"l":{"end":150.0,"step":1,"type":"range","start":90.0},"htv":{"type":"float"},"h":{"end":60.0,"step":1,"type":"range","start":35.0}}

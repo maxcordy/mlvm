@@ -1,0 +1,1 @@
+{"DISTANCE_STANDOFF_XT60":{"end":30.0,"step":1,"type":"range","start":5.0},"STANDOFF_DIAMETER":{"end":6.0,"step":1,"type":"range","start":3.0},"STANDOFF_DISTANCE":{"end":50.0,"step":1,"type":"range","start":15.0},"STANDOFF_LENGTH":{"end":60.0,"step":1,"type":"range","start":16.0}}

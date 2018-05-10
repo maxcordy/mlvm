@@ -1,0 +1,1 @@
+{"line_lenght":{"type":"float"},"cutline_height":{"type":"float"},"tontable":{"type":"mixed"},"line_thickness":{"type":"float"},"notestring":{"type":"string"},"show_lines_of_staff":{"type":"string"},"$fn":{"type":"float"},"line_distance":{"type":"float"},"z_height":{"type":"float"},"show_clef":{"values":["no","alt","bass","violin"],"type":"enum"}}

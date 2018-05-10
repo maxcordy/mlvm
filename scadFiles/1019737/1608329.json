@@ -1,0 +1,1 @@
+{"motorLength":{"type":"float"},"wallThickness":{"type":"float"},"$fn":{"type":"float"},"tolerance":{"type":"float"},"screwMounts":{"type":"float"},"topOpen":{"values":["1"," 0"],"type":"enum"}}

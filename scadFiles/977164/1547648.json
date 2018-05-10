@@ -1,0 +1,1 @@
+{"carriage_depth":{"end":12.0,"step":1,"type":"range","start":12.0},"wheel_screw_r":{"type":"float"},"extruder_adj":{"type":"float"},"carriage_gap":{"type":"float"},"wheel_diameter":{"type":"float"},"round_corners_r":{"type":"float"},"wheel_screw_head_r":{"type":"float"},"carriage_height":{"end":100.0,"step":1,"type":"range","start":54.0}}

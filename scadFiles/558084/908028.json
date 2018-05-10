@@ -1,0 +1,1 @@
+{"delta":{"type":"float"},"output_type":{"values":["stl"," dxf"],"type":"enum"},"n_positive_tests":{"end":20.0,"step":1,"type":"range","start":0.0},"material_thickness":{"type":"float"},"n_negative_tests":{"end":20.0,"step":1,"type":"range","start":0.0}}

@@ -1,0 +1,1 @@
+{"centerline_width":{"end":2.0,"step":0.2,"type":"range","start":0.2},"Hole_dia":{"type":"float"},"Border_width":{"end":10.0,"step":1,"type":"range","start":3.0},"Guide_height":{"end":12.0,"step":1,"type":"range","start":6.0},"Rounding":{"end":20.0,"step":1,"type":"range","start":2.0}}

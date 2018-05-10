@@ -1,0 +1,1 @@
+{"height":{"type":"float"},"cut_out_center":{"values":["yes","no"],"type":"enum"},"knob_diameter":{"type":"float"},"meat":{"type":"float"},"wedge_length":{"type":"float"}}

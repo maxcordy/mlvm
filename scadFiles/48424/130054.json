@@ -1,0 +1,1 @@
+{"total_depth":{"end":50.0,"step":1,"type":"range","start":1.0},"finger_spacing":{"type":"float"},"total_height":{"end":300.0,"step":1,"type":"range","start":1.0},"total_width":{"end":300.0,"step":1,"type":"range","start":1.0},"desired_word":{"type":"string"},"finger_size":{"type":"float"}}

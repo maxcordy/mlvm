@@ -1,0 +1,1 @@
+{"diffuser_height":{"type":"float"},"top_fillet":{"type":"float"},"diffuser_type":{"values":["Dome"," None"],"type":"enum"},"sleeve_height":{"type":"float"},"diameter":{"type":"float"},"cross_section":{"values":["true"," false"],"type":"enum"},"top_radius":{"type":"float"}}

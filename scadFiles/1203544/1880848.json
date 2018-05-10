@@ -1,0 +1,1 @@
+{"part":{"type":"string"},"bearing_height":{"end":12.0,"step":1,"type":"range","start":4.0},"$fn":{"type":"float"},"plate_side":{"type":"float"},"bearing_hole":{"end":12.0,"step":1,"type":"range","start":4.0},"bearing_diameter":{"end":40.0,"step":1,"type":"range","start":10.0}}

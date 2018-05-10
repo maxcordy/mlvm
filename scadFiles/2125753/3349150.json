@@ -1,0 +1,1 @@
+{"cubeSize":{"values":["5","10","15","20","25"],"type":"enum"},"sphereSize":{"end":20.0,"step":1,"type":"range","start":5.0}}

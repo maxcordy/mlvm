@@ -1,0 +1,1 @@
+{"hex_radius":{"end":20.0,"step":1,"type":"range","start":1.0},"hex_border_width":{"end":50.0,"step":1,"type":"range","start":2.0},"height":{"end":200.0,"step":1,"type":"range","start":2.0},"width":{"end":200.0,"step":1,"type":"range","start":10.0},"border_width":{"end":100.0,"step":1,"type":"range","start":2.0},"lenght":{"end":200.0,"step":1,"type":"range","start":10.0}}

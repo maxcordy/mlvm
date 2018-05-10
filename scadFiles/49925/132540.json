@@ -1,0 +1,1 @@
+{"stick_diameter":{"type":"float"},"finger_spacing":{"end":35.0,"step":1,"type":"range","start":10.0},"padding":{"values":["A lot thicker","Some","Only a little"],"type":"enum"}}

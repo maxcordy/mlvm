@@ -1,0 +1,1 @@
+{"wall":{"type":"float"},"holeRadius":{"type":"float"},"decorationRatio":{"type":"float"},"mode":{"values":["normal","inverse","through"],"type":"enum"},"totalHeight":{"type":"float"},"n":{"type":"float"}}

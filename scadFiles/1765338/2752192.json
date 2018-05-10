@@ -1,0 +1,1 @@
+{"length":{"end":300.0,"step":1.0,"type":"range","start":1.0},"shaft":{"end":20.0,"step":0.1,"type":"range","start":0.0},"blades":{"end":75.0,"step":1.0,"type":"range","start":1.0},"depth":{"end":75.0,"step":1.0,"type":"range","start":1.0},"cut":{"values":["1","0"],"type":"enum"},"t":{"end":7.0,"step":0.1,"type":"range","start":0.1}}

@@ -1,0 +1,1 @@
+{"inner_dia":{"end":199.0,"step":0.5,"type":"range","start":1.0},"outer_dia":{"end":200.0,"step":0.5,"type":"range","start":10.0},"thickness":{"end":10.0,"step":0.5,"type":"range","start":0.5},"res":{"values":["32"," 64"," 120"," 200"],"type":"enum"}}

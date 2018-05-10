@@ -1,0 +1,1 @@
+{"NutName":{"values":["M3"," M4"," M6"],"type":"enum"},"part":{"values":["part1"," part2"," both"],"type":"enum"},"Rod2Diameter":{"end":20.0,"step":1,"type":"range","start":3.0},"Rod1Diameter":{"end":20.0,"step":1,"type":"range","start":6.0}}

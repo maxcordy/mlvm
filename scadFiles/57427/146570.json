@@ -1,0 +1,1 @@
+{"wall_thickness":{"type":"float"},"generate_top":{"values":["Yes","No"],"type":"enum"},"box_width":{"type":"float"},"screen_width":{"type":"float"},"screen_length":{"type":"float"},"box_length":{"type":"float"},"wall_height":{"type":"float"}}

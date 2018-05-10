@@ -1,0 +1,1 @@
+{"lenghtpercent":{"type":"float"},"slopepercent":{"type":"float"},"Hole":{"type":"float"},"Wedgewidth":{"values":["5.2","6.3","7.9","11.9","15.9"],"type":"enum"},"taperw":{"type":"float"},"Wedgelenght":{"type":"float"},"Wedgeshaft":{"type":"float"},"Rounding":{"type":"mixed"},"eardia":{"type":"float"},"earh":{"type":"float"}}

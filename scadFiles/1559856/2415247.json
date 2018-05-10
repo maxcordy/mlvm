@@ -1,0 +1,1 @@
+{"piece":{"values":["pentagon"," hexagon"],"type":"enum"},"text":{"type":"string"},"shell_thickness":{"type":"float"},"radius":{"type":"float"},"spacing":{"type":"float"},"font":{"type":"string"}}

@@ -1,0 +1,1 @@
+{"fillet_radius":{"type":"float"},"length":{"type":"float"},"height":{"type":"float"},"num_labels":{"type":"float"},"textHeight":{"type":"float"},"roundedCorners":{"values":["0","1"],"type":"enum"},"textDistance":{"type":"float"},"textTags":{"type":"string"},"textSize":{"type":"float"},"textStyle":{"type":"string"},"width":{"type":"float"},"textFont":{"type":"string"}}

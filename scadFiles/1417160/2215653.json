@@ -1,0 +1,1 @@
+{"bottom_thickness_mm":{"type":"float"},"wall_thickness_mm":{"type":"float"},"usable_tool_depth_mm":{"type":"float"},"num_faces":{"end":30.0,"step":1,"type":"range","start":6.0},"round_outside":{"values":["0","1"],"type":"enum"},"filter_diameter_mm":{"type":"float"},"drive_size_inches":{"values":["0.375"," 0.5"],"type":"enum"}}

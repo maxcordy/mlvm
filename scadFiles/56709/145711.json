@@ -1,0 +1,1 @@
+{"pinHoleDepth":{"type":"float"},"$fn":{"type":"float"},"withMagnets":{"values":["yes","no","other"],"type":"enum"},"l1":{"type":"float"},"perpendicular":{"type":"string"},"od":{"type":"float"},"backAngle":{"type":"float"},"pinDia":{"type":"float"},"pinLength":{"type":"float"},"md":{"type":"float"},"mr":{"type":"float"},"placeOnBuildPlatform":{"type":"string"}}

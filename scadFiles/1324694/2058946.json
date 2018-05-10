@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"pin_length":{"type":"float"},"pin_diameter":{"type":"float"},"num_ribs":{"end":30.0,"step":1,"type":"range","start":0.0},"rib_radius":{"type":"float"},"cap_h":{"end":5.0,"step":1,"type":"range","start":0.0}}

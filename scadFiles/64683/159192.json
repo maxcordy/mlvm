@@ -1,0 +1,1 @@
+{"drill_height":{"type":"float"},"part":{"values":["base"," top_1"],"type":"enum"},"radpp":{"type":"float"},"radholepp":{"type":"float"},"lipheight":{"type":"float"},"drill_holder":{"values":["yes"," no"],"type":"enum"},"sidetria":{"type":"float"},"drill_size":{"type":"float"},"thickshell":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"radius":{"end":100.0,"step":1,"type":"range","start":10.0},"an1":{"end":180.0,"step":1,"type":"range","start":0.0},"th":{"end":50.0,"step":1,"type":"range","start":1.0},"height":{"end":200.0,"step":1,"type":"range","start":10.0},"nsp":{"end":50.0,"step":1,"type":"range","start":1.0},"twist":{"values":["clockwise"," counterclockwise"," both"],"type":"enum"}}

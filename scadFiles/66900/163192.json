@@ -1,0 +1,1 @@
+{"length":{"type":"float"},"thickness":{"type":"float"},"rounding_radius":{"type":"float"},"clamp_width":{"type":"float"},"clamp_offset":{"type":"float"},"height":{"type":"float"},"add_catch":{"values":["true","false"],"type":"enum"},"width":{"type":"float"},"hook_width":{"type":"float"},"hook_offset":{"type":"float"},"catch":{"type":"float"}}

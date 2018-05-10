@@ -1,0 +1,1 @@
+{"handle_clearance":{"type":"float"},"handle_spacing":{"type":"float"},"front_margin":{"type":"float"},"total_height":{"type":"float"},"top_margin":{"type":"float"},"hole_diameter":{"type":"float"},"plate_thickness":{"type":"float"},"reinforce":{"values":["0"," 1"],"type":"enum"},"handle_diameter":{"type":"float"}}

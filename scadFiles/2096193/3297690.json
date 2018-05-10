@@ -1,0 +1,1 @@
+{"text_height":{"values":["5"," 10"," 15"],"type":"enum"},"height":{"end":150.0,"step":1,"type":"range","start":10.0},"text":{"type":"string"},"text_width":{"values":["2"," 5"," 8"],"type":"enum"}}

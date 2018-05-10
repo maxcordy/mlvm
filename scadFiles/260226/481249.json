@@ -1,0 +1,1 @@
+{"limb_thickness":{"type":"float"},"number_of_lobes":{"end":100.0,"step":1,"type":"range","start":2.0},"pitch_circle_diameter":{"type":"float"},"diameter_of_connection":{"type":"float"},"male_limb_height":{"type":"float"},"web_plate_height":{"type":"float"},"type":{"values":["male","female"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"sizes":{"type":"float"},"bit_spacing":{"type":"float"},"bit_size":{"type":"float"},"tip_length":{"type":"float"},"bit_type":{"type":"string"},"magnet_slot":{"values":["true"," false"],"type":"enum"},"bit_length":{"type":"float"},"magnet_height":{"type":"float"},"magnet_diameter":{"type":"float"}}

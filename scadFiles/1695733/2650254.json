@@ -1,0 +1,1 @@
+{"printing":{"type":"mixed"},"printingOther":{"type":"mixed"},"visualizing":{"type":"mixed"},"clip_wid":{"type":"float"},"clip_thickness":{"type":"float"},"bicycle_neck_radius_in_mm":{"end":26.0,"step":1,"type":"range","start":15.0},"hit":{"type":"float"}}

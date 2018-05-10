@@ -1,0 +1,1 @@
+{"aperture_diameter":{"type":"float"},"magnet_hole":{"values":["yes","no"],"type":"enum"},"width":{"type":"float"},"crosshair_width":{"type":"float"},"base_length":{"type":"float"},"base_thick":{"type":"float"},"magnet_hole_bottom":{"type":"float"},"thick":{"type":"float"},"beam_height":{"type":"float"},"crosshair_depth":{"type":"float"},"magnet_hole_diameter":{"type":"float"}}

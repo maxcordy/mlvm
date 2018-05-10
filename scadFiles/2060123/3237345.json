@@ -1,0 +1,1 @@
+{"wire_diameter":{"type":"float"},"wires":{"type":"float"},"spacing_of_clip_legs":{"type":"float"},"height":{"type":"float"},"clip_thickness":{"type":"float"},"cut_into_top":{"values":["false"," true"],"type":"enum"},"extrude_to_width":{"type":"float"}}

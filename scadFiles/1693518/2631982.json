@@ -1,0 +1,1 @@
+{"shape":{"values":["Circle"," Rectangle"," Polygon"],"type":"enum"},"sidelength":{"type":"float"},"radius":{"type":"float"},"seed":{"type":"float"},"extrusion":{"type":"float"},"sides":{"type":"float"},"height":{"type":"float"},"width":{"type":"float"}}

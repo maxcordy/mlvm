@@ -1,0 +1,1 @@
+{"protractor":{"type":"float"},"wall":{"type":"float"},"dlen":{"type":"float"},"variant":{"values":["demo"," tower"," pivot"," bar"],"type":"enum"},"bwidth":{"type":"float"},"fwidth":{"type":"float"},"theight":{"type":"float"},"sdia":{"type":"float"},"tol":{"type":"float"}}

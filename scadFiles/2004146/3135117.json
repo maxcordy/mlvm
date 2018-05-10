@@ -1,0 +1,1 @@
+{"distance":{"type":"float"},"form":{"values":["1","2"],"type":"enum"},"size":{"type":"float"},"deep":{"type":"float"},"diameter":{"values":["1","2","3","4","5"," 6"],"type":"enum"},"shrinkage":{"type":"float"},"type":{"values":["1","2"],"type":"enum"}}

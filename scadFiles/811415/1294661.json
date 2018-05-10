@@ -1,0 +1,1 @@
+{"Polygon_Count":{"values":["32"," 64"," 128"," 256"],"type":"enum"},"Bearing_Thickness":{"type":"float"},"Bearing_OD":{"type":"float"},"V_Groove_OD":{"type":"float"},"height":{"type":"float"},"OD":{"type":"float"},"V_Depth":{"type":"float"}}

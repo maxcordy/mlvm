@@ -1,0 +1,1 @@
+{"ditch_width":{"type":"float"},"filename":{"parameters":["100x100"],"function":"image_surface","type":"custom"},"maze_x_blocks":{"type":"float"},"spacing":{"type":"float"},"width":{"type":"float"},"puzzle_x_blocks":{"type":"float"}}

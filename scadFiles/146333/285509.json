@@ -1,0 +1,1 @@
+{"your_font":{"values":["\"write\/Letters.dxf\"","\"write\/orbitron.dxf\"","\"write\/knewave.dxf\"","\"write\/BlackRose.dxf\""," \"write\/braille.dxf\""],"type":"enum"},"size":{"values":["15","20","30"],"type":"enum"},"right_initial":{"type":"string"},"left_initial":{"type":"string"}}

@@ -1,0 +1,1 @@
+{"angleOffset":{"type":"float"},"RollerShape":{"values":["Convex"," Concave"],"type":"enum"},"BearingRadius":{"type":"float"},"OuterDiameter":{"type":"float"},"InnerDiameter":{"type":"float"},"resolution":{"values":["100","200","400"," 5000"],"type":"enum"},"width":{"type":"float"},"Section":{"values":["No"," Yes"],"type":"enum"},"gap":{"type":"float"}}

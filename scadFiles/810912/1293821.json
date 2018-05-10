@@ -1,0 +1,1 @@
+{"base_width_x":{"type":"float"},"ridges":{"type":"float"},"thickness":{"type":"float"},"$fn":{"type":"float"},"x_segments":{"end":6.0,"step":1,"type":"range","start":0.0},"y_segments":{"end":6.0,"step":1,"type":"range","start":0.0},"corner_radius":{"type":"float"},"base_depth_y":{"type":"float"},"base_height_z":{"type":"float"}}

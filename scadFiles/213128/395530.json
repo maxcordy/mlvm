@@ -1,0 +1,1 @@
+{"halterrige":{"values":["1","0"],"type":"enum"},"durchmesserhalteroben":{"type":"float"},"lochkerze":{"type":"float"},"durchmesserkerzeunten":{"type":"float"},"halterhoehe":{"type":"float"},"durchmesserkerzeoben":{"type":"float"},"halterecken":{"end":100.0,"step":1,"type":"range","start":3.0},"durchmesserhalterunten":{"type":"float"}}

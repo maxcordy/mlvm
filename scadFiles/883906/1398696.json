@@ -1,0 +1,1 @@
+{"ballWidth":{"type":"float"},"extrude":{"type":"float"},"spinners":{"end":20.0,"step":1.0,"type":"range","start":3.0},"distStep":{"type":"float"},"ballHeight":{"type":"float"},"connectorWidth":{"type":"float"},"rotatePreview":{"values":["8","-45"],"type":"enum"},"startDist":{"type":"float"},"margin":{"type":"float"},"indent":{"type":"float"}}

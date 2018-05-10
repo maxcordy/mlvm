@@ -1,0 +1,1 @@
+{"$fs":{"type":"float"},"motor":{"type":"float"},"motorGap":{"type":"float"},"cameraBedAngle":{"type":"float"},"cameraBedLength":{"type":"float"},"armSize":{"type":"float"},"bedDepth":{"type":"float"},"bedLength":{"type":"float"},"size":{"type":"float"},"motorHeight":{"type":"float"},"bedWidth":{"type":"float"},"bedPad":{"type":"float"},"motorPad":{"type":"float"}}

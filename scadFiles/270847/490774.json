@@ -1,0 +1,1 @@
+{"leg_height":{"type":"float"},"num_rows":{"end":10.0,"step":1,"type":"range","start":1.0},"thickness":{"type":"float"},"num_cols":{"end":10.0,"step":1,"type":"range","start":1.0},"hole_diameter":{"type":"float"},"flipped":{"values":["false"," true"],"type":"enum"}}

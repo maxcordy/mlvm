@@ -1,0 +1,1 @@
+{"total_height":{"type":"float"},"rugosity":{"end":1.0,"step":0.1,"type":"range","start":0.0},"hole_diameter":{"type":"float"},"base_thicknes":{"values":["2","3","4"],"type":"enum"},"top_diameter":{"type":"float"},"base_diameter":{"type":"float"}}

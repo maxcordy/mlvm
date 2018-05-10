@@ -1,0 +1,1 @@
+{"link_width":{"type":"float"},"shell_thickness":{"type":"float"},"part_selection":{"type":"float"},"number_of_links":{"type":"float"},"$fn":{"type":"float"},"link_height":{"type":"float"},"anti_stick":{"end":0.35,"step":0.01,"type":"range","start":0.0}}

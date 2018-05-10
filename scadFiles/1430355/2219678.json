@@ -1,0 +1,1 @@
+{"thickness":{"type":"float"},"piece":{"values":["end"," center"],"type":"enum"},"M2":{"type":"float"},"d_bearing":{"type":"float"},"$fn":{"type":"float"},"width":{"type":"float"},"hole":{"values":["bearing"," nut"],"type":"enum"},"M":{"type":"float"}}

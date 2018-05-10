@@ -1,0 +1,1 @@
+{"base_width":{"type":"float"},"rack_hole_height":{"type":"float"},"motor_hole_width":{"type":"float"},"rack_rail_width":{"type":"float"},"motor_hole_height":{"type":"float"},"vertical":{"values":["1","2"],"type":"enum"},"rack_rail_height":{"type":"float"},"base_height":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"num_of_holes":{"end":9.0,"step":1,"type":"range","start":3.0},"fizz":{"type":"float"},"wheel_thickness":{"end":20.0,"step":1,"type":"range","start":5.0},"mode":{"values":["preview"," print"],"type":"enum"},"$fn":{"type":"float"},"wheel_size":{"end":100.0,"step":1,"type":"range","start":20.0}}

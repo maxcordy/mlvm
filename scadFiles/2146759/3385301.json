@@ -1,0 +1,1 @@
+{"ring_width":{"type":"float"},"ring_number":{"type":"float"},"shell_thickness":{"type":"float"},"pillar_radius":{"type":"float"},"spacing":{"type":"float"},"height":{"type":"float"},"model":{"values":["CONTAINER"," COVER"," BOTH"],"type":"enum"},"side":{"type":"float"}}

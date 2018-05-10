@@ -1,0 +1,1 @@
+{"dice_size":{"type":"float"},"part":{"values":["1"," 2"," 3"],"type":"enum"},"number_size_divider":{"type":"float"},"resolution":{"values":["0"," 1"," 2"," 3"],"type":"enum"},"number_perimeter_width":{"type":"float"}}

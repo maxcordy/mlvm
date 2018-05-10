@@ -1,0 +1,1 @@
+{"text_offset_y":{"end":1.0,"step":0.1,"type":"range","start":0.0},"text_offset_x":{"end":1.0,"step":0.1,"type":"range","start":0.0},"font_spacing":{"end":1.0,"step":0.05,"type":"range","start":0.8},"text":{"type":"string"},"font_size":{"end":6.0,"step":0.5,"type":"range","start":3.0}}

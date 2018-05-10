@@ -1,0 +1,1 @@
+{"number_of_planets":{"type":"float"},"approximate_number_of_teeth_on_sun":{"type":"float"},"nTwist":{"type":"float"},"w":{"type":"float"},"vtol":{"type":"float"},"D":{"type":"float"},"delta":{"type":"float"},"T":{"type":"float"},"number_of_teeth_on_planets":{"type":"float"},"tol":{"type":"float"},"export":{"values":["0","1"],"type":"enum"},"P":{"type":"float"}}

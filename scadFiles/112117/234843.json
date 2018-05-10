@@ -1,0 +1,1 @@
+{"shape":{"type":"float"},"depth":{"type":"float"},"border_size":{"type":"float"},"mesh_space":{"type":"float"},"printer_layer_height":{"type":"float"},"indention":{"values":["0"," 1"],"type":"enum"},"printer_extrusion_width":{"type":"float"},"diameter":{"type":"float"},"printer_skin_size":{"type":"float"},"frame_thickness":{"type":"float"},"mesh_height":{"type":"float"}}

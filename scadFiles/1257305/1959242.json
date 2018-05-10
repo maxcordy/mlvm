@@ -1,0 +1,1 @@
+{"rod_height":{"end":150.0,"step":1,"type":"range","start":1.0},"frame_width":{"end":150.0,"step":1,"type":"range","start":10.0},"base_diameter":{"end":100.0,"step":1,"type":"range","start":10.0},"rod_diameter":{"end":20.0,"step":1,"type":"range","start":2.0}}

@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"Sleeves":{"values":["\"none\"","\"light\"","\"premium\""],"type":"enum"},"Width":{"end":100.0,"step":1,"type":"range","start":30.0},"Number_of_Cards":{"end":200.0,"step":1,"type":"range","start":10.0},"Height":{"end":150.0,"step":1,"type":"range","start":50.0}}

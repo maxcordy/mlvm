@@ -1,0 +1,1 @@
+{"shape":{"values":["0"," 1"],"type":"enum"},"image_file":{"parameters":["100x100"],"function":"image_surface","type":"custom"},"number_of_layers":{"end":30.0,"step":1,"type":"range","start":5.0},"tag_size":{"end":70.0,"step":1,"type":"range","start":20.0},"layer_height":{"type":"float"},"border_thick":{"type":"float"},"border_width":{"type":"float"}}

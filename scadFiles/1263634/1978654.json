@@ -1,0 +1,1 @@
+{"pin_h":{"type":"float"},"arm_a":{"end":180.0,"step":1,"type":"range","start":0.0},"arm_l":{"type":"float"},"motor_h":{"type":"float"},"guard_h":{"type":"float"},"cut_w":{"type":"float"},"motor_d":{"type":"float"},"arm_base_w":{"type":"float"},"arm_base_h":{"type":"float"},"pin_r":{"type":"float"},"motor_t":{"type":"float"},"pin_w":{"type":"float"},"guard_w":{"type":"float"}}

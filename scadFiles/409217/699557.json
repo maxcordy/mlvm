@@ -1,0 +1,1 @@
+{"height":{"type":"float"},"volume":{"type":"float"},"font_name":{"values":["orbitron.dxf","BlackRose.dxf","knewave.dxf","braille.dxf"],"type":"enum"},"wall_thickness":{"type":"float"},"name":{"type":"string"}}

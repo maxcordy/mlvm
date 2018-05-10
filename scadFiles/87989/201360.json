@@ -1,0 +1,1 @@
+{"cutout_guide_radius":{"type":"float"},"cutout_angles":{"type":"float"},"soft_jaw_wall_thickness":{"type":"float"},"overlap":{"type":"float"},"vise_jaw_width":{"type":"float"},"vise_jaw_height":{"type":"float"},"vise_jaw_depth":{"type":"float"},"soft_jaw_face_thickness":{"type":"float"},"fudge_factor":{"type":"float"}}

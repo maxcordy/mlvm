@@ -1,0 +1,1 @@
+{"leaf_gauge":{"type":"float"},"pin_hole_gap":{"type":"float"},"screw_hole_diameter":{"type":"float"},"leaf_width":{"type":"float"},"gap_between_parts_X":{"type":"float"},"gap_between_parts_Y":{"type":"float"},"hinge_height":{"type":"float"},"part":{"type":"string"},"screw_hole_offset":{"type":"float"}}

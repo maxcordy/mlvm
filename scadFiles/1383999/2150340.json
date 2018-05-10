@@ -1,0 +1,1 @@
+{"TAU":{"type":"float"},"notches":{"end":100.0,"step":1.0,"type":"range","start":3.0},"radius":{"end":100.0,"step":0.01,"type":"range","start":0.1},"skip_behind":{"end":49.0,"step":1.0,"type":"range","start":1.0},"segment_size":{"end":2.0,"step":0.01,"type":"range","start":0.05},"height":{"end":100.0,"step":0.01,"type":"range","start":0.1}}

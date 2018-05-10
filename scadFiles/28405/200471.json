@@ -1,0 +1,1 @@
+{"r0":{"type":"float"},"d":{"type":"float"},"links":{"type":"float"},"type":{"values":["straight","circular","spiral"],"type":"enum"},"l":{"type":"float"},"pitch":{"type":"float"},"t":{"type":"float"}}

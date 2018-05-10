@@ -1,0 +1,1 @@
+{"inner_radius":{"end":199.0,"step":1,"type":"range","start":29.0},"image":{"parameters":["5000x5000"],"function":"image_array","type":"custom"},"outer_radius":{"end":200.0,"step":1,"type":"range","start":30.0}}

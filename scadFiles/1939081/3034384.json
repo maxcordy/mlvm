@@ -1,0 +1,1 @@
+{"round_radius_rect":{"type":"float"},"text_size":{"type":"float"},"nintendo_round":{"values":["yes","no"],"type":"enum"},"custom_text":{"type":"string"}}

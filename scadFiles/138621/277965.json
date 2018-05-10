@@ -1,0 +1,1 @@
+{"Inscription":{"type":"string"},"Height_of_the_walls":{"type":"float"},"Corner_radius":{"type":"float"},"Wall_thickness":{"type":"float"},"Inscription_font":{"values":["\"write\/orbitron.dxf\":Orbitron","\"write\/Letters.dxf\":Letters",""],"type":"enum"}}

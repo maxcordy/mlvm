@@ -1,0 +1,1 @@
+{"raise":{"values":["Yes","No"],"type":"enum"},"bold":{"values":["Yes","No"],"type":"enum"},"text":{"type":"string"},"canh":{"type":"float"}}

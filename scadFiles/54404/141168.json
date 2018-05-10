@@ -1,0 +1,1 @@
+{"universal_scale":{"type":"float"},"build_plate_manual_y":{"end":400.0,"step":1,"type":"range","start":100.0},"res":{"end":200.0,"step":1,"type":"range","start":10.0},"cyl_number":{"values":["1","2","3","4","5"],"type":"enum"},"build_plate_selector":{"values":["0","1","2","3"],"type":"enum"},"build_plate_manual_x":{"end":400.0,"step":1,"type":"range","start":100.0}}

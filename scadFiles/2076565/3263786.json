@@ -1,0 +1,1 @@
+{"fn":{"type":"float"},"NO_WALL":{"type":"float"},"maze_rows":{"type":"float"},"block_width":{"type":"float"},"shadow":{"values":["YES"," NO"],"type":"enum"},"wall_thickness":{"type":"float"},"UPPER_RIGHT_WALL":{"type":"float"},"RIGHT_WALL":{"type":"float"},"UPPER_WALL":{"type":"float"},"wall_height":{"type":"float"}}

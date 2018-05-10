@@ -1,0 +1,1 @@
+{"image_file":{"parameters":["150x150"],"function":"image_surface","type":"custom"},"ridge_thick":{"end":10.0,"step":1.0,"type":"range","start":1.0},"punch_length":{"end":50.0,"step":1.0,"type":"range","start":5.0},"part_height":{"end":50.0,"step":1.0,"type":"range","start":12.0},"part_width":{"end":50.0,"step":1.0,"type":"range","start":12.0}}

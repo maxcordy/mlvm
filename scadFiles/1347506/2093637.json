@@ -1,0 +1,1 @@
+{"coneHeight":{"type":"float"},"slitWidth":{"end":10.0,"step":1,"type":"range","start":2.0},"slitCount":{"end":20.0,"step":1,"type":"range","start":6.0},"pictureHeight":{"end":100.0,"step":1,"type":"range","start":10.0},"pictureStripLength":{"end":431.0,"step":1,"type":"range","start":250.0}}

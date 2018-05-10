@@ -1,0 +1,1 @@
+{"spool_hole_diameter":{"type":"float"},"spool_walls_width":{"type":"float"},"unit":{"values":["1","25.4"],"type":"enum"},"spool_walls_diameter":{"type":"float"},"spool_width":{"type":"float"},"filament_diameter":{"values":["2","3.3"],"type":"enum"}}

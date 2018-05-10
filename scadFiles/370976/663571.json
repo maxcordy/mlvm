@@ -1,0 +1,1 @@
+{"ScrewHole":{"type":"float"},"Snaps":{"type":"float"},"SnapHeight":{"type":"float"},"SetOrSingle":{"values":["Single"," Set"],"type":"enum"},"CutTip":{"type":"float"},"SnapFreeArea":{"type":"float"},"Resolution":{"end":300.0,"step":1,"type":"range","start":20.0},"Diameter":{"type":"float"},"GroundPlateThickness":{"type":"float"}}

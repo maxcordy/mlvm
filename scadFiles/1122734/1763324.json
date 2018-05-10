@@ -1,0 +1,1 @@
+{"cube_width":{"type":"float"},"cube_height":{"type":"float"},"walls":{"type":"float"},"cube_padding":{"type":"float"},"front_opening_width":{"type":"float"},"cube_depth":{"type":"float"},"nbr_blocks":{"type":"float"},"unloading_height":{"type":"float"},"nbr_of_cubes_per_bloc":{"type":"float"}}

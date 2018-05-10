@@ -1,0 +1,1 @@
+{"RoofHeight":{"type":"float"},"CableHoleHeight":{"type":"float"},"CableHoleRatio":{"type":"float"},"RotateModel":{"values":["1","0"],"type":"enum"},"WallThickness":{"type":"float"},"ExtraFeetHeight":{"type":"float"},"CableHole":{"type":"float"},"ScrewHole":{"type":"float"},"AddDepth":{"type":"float"}}

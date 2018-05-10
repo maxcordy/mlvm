@@ -1,0 +1,1 @@
+{"angled":{"values":["yes"," no"],"type":"enum"},"part":{"values":["Both"," Wall"," Spool"],"type":"enum"},"SpoolHoleDiameter":{"type":"float"},"SpoolDepth":{"type":"float"}}

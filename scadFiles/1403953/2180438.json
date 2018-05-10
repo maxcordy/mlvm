@@ -1,0 +1,1 @@
+{"units_entered":{"values":["1"," 10"," 1000"," 25.4"," 304.8"],"type":"enum"},"desired_units_for_output":{"values":["1"," .1"," 0.001"," 0.0393701"," 0.00328084"],"type":"enum"},"cords_Of_wall":{"type":"mixed"},"width_Of_wall":{"type":"float"},"height_Of_wall":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"hollow":{"values":["true","false"],"type":"enum"},"wall":{"type":"float"},"segments":{"type":"float"},"height":{"type":"float"},"diameter":{"type":"float"},"faces":{"type":"float"}}

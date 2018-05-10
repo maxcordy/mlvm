@@ -1,0 +1,1 @@
+{"build_plate_manual_y":{"end":400.0,"step":1,"type":"range","start":100.0},"binder_cutout_height":{"type":"float"},"stem_diameter":{"type":"float"},"orientation":{"type":"float"},"build_plate_selector":{"values":["0","1","2","3"],"type":"enum"},"binder_cutout_width":{"type":"float"},"build_plate_manual_x":{"end":400.0,"step":1,"type":"range","start":100.0}}

@@ -1,0 +1,1 @@
+{"pillarSets":{"values":["both"," clockwise"," coutner-clockwise"],"type":"enum"},"baseDiameter":{"type":"float"},"pillarTwist":{"type":"float"},"pillarDiameter":{"type":"float"},"baseThickness":{"type":"float"},"topThickness":{"type":"float"},"height":{"type":"float"},"topDiameter":{"type":"float"},"pillars":{"type":"float"}}

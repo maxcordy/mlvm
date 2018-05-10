@@ -1,0 +1,1 @@
+{"knife_show":{"values":["0"," 1"],"type":"enum"},"knife_length":{"end":350.0,"step":1,"type":"range","start":25.0},"knife_thickness":{"end":5.0,"step":1,"type":"range","start":1.0},"knife_width":{"end":100.0,"step":1,"type":"range","start":10.0}}

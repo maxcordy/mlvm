@@ -1,0 +1,1 @@
+{"shape":{"parameters":["120x120"],"function":"draw_polygon","type":"custom"},"height":{"values":["15","30"],"type":"enum"},"wall_thickness":{"values":["1.6",".8"],"type":"enum"},"mirror":{"values":["Yes","No"],"type":"enum"}}

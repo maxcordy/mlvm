@@ -1,0 +1,1 @@
+{"print_resolution":{"type":"float"},"inner_diameter":{"type":"float"},"outer_diameter":{"type":"float"},"sides":{"type":"float"},"close_top":{"values":["yes","no"],"type":"enum"},"print_height":{"type":"float"},"top_width":{"type":"float"},"circular_hole":{"values":["yes","no"],"type":"enum"},"twist_factor":{"type":"float"}}

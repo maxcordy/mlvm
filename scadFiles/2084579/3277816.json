@@ -1,0 +1,1 @@
+{"width_square_stock":{"type":"float"},"diameter_insert_stock":{"type":"float"},"depth_square_stock":{"type":"float"},"Part":{"values":["a"," b"," c"," d"," e"," f"],"type":"enum"},"diameter_round_stock":{"type":"float"},"diameter_buffer":{"type":"float"},"diameter_bearing_id":{"type":"float"},"slip_star":{"type":"float"}}

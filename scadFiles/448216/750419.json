@@ -1,0 +1,1 @@
+{"stand_hole_radius":{"end":20.0,"step":1,"type":"range","start":5.0},"pot_radius":{"end":150.0,"step":1,"type":"range","start":50.0},"color":{"values":["yellow","green","black","white","blue","red","pink","silver","gold"],"type":"enum"},"pot_depth":{"end":200.0,"step":1,"type":"range","start":50.0}}

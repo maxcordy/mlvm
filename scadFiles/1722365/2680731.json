@@ -1,0 +1,1 @@
+{"screw_width":{"end":10.0,"step":1,"type":"range","start":2.0},"d2":{"type":"float"},"screw_head":{"end":10.0,"step":1,"type":"range","start":4.0},"d1":{"type":"float"},"height":{"end":100.0,"step":1,"type":"range","start":30.0},"width":{"end":100.0,"step":1,"type":"range","start":30.0},"render":{"values":["first","second"],"type":"enum"},"spool_width":{"type":"float"}}

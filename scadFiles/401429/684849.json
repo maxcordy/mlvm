@@ -1,0 +1,1 @@
+{"pattern_clip":{"end":100.0,"step":1,"type":"range","start":0.0},"pattern_rotation":{"end":360.0,"step":1,"type":"range","start":0.0},"pattern_size":{"end":20.0,"step":1,"type":"range","start":5.0},"pattern_copies":{"type":"float"},"height":{"type":"float"},"inner_diameter":{"end":80.0,"step":1,"type":"range","start":40.0}}

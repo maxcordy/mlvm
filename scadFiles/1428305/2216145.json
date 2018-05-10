@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"cube":{"end":30.0,"step":1,"type":"range","start":10.0},"elastichole":{"type":"float"},"show_cubes":{"values":["Middle","End","Both"],"type":"enum"}}

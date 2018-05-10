@@ -1,0 +1,1 @@
+{"holes":{"values":["1","0"],"type":"enum"},"holes_thick":{"end":20.0,"step":1,"type":"range","start":1.0},"height":{"end":200.0,"step":1,"type":"range","start":1.0},"thick":{"end":10.0,"step":0.5,"type":"range","start":0.5},"poly":{"end":200.0,"step":1.0,"type":"range","start":1.0},"side":{"end":200.0,"step":1,"type":"range","start":1.0},"twist":{"type":"float"}}

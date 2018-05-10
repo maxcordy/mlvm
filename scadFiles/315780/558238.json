@@ -1,0 +1,1 @@
+{"Zpos":{"type":"float"},"number":{"type":"float"},"show_logo":{"values":["yes","no"],"type":"enum"},"Xpos":{"type":"float"},"logo_size":{"type":"float"},"show_roof":{"values":["yes","no"],"type":"enum"}}

@@ -1,0 +1,1 @@
+{"length":{"values":["2","4","6","8"],"type":"enum"},"thickness":{"type":"float"},"parts":{"type":"string"},"flange":{"end":20.0,"step":1,"type":"range","start":1.0},"cable_size":{"end":25.0,"step":1,"type":"range","start":5.0},"cable_tolerance":{"type":"float"},"$fn":{"values":["0","30","60","120"],"type":"enum"},"splice_size":{"values":["1.8","2.2","3.0","4.0"],"type":"enum"}}

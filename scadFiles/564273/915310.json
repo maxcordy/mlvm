@@ -1,0 +1,1 @@
+{"$fn":{"type":"float"},"form":{"values":["half"," full "],"type":"enum"},"radius":{"type":"float"},"hole_radius":{"type":"float"},"eps":{"type":"float"},"offset_ratio":{"type":"float"},"hole_slope":{"type":"float"}}

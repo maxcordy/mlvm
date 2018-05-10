@@ -1,0 +1,1 @@
+{"bridge_increment":{"type":"float"},"hub_diameter":{"type":"float"},"bridge_angle":{"type":"float"},"min_bridge_length":{"type":"float"},"max_bridge_length":{"type":"float"},"bridge_z_gap":{"type":"float"},"bridge_width":{"type":"float"},"wall_thickness":{"type":"float"},"bridge_height":{"type":"float"}}

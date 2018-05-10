@@ -1,0 +1,1 @@
+{"Rim_Thickness_x_10":{"end":10.0,"step":1,"type":"range","start":0.0},"Smoothness":{"end":100.0,"step":1,"type":"range","start":1.0},"Lid_Wall_Thickness_x_10":{"end":50.0,"step":1,"type":"range","start":1.0},"Diameter_Including_Top_Rim":{"end":200.0,"step":1,"type":"range","start":10.0},"Rim_Height":{"end":5.0,"step":1,"type":"range","start":1.0}}

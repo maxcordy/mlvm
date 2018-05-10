@@ -1,0 +1,1 @@
+{"s_t":{"type":"float"},"me_s_diff":{"type":"float"},"se_me_diff":{"type":"float"},"$fn":{"type":"float"},"wall_t":{"type":"float"},"se_d":{"type":"float"},"se_h":{"type":"float"},"me_d":{"type":"float"},"s_l":{"type":"float"},"units":{"values":["Inches"," Millimeters"],"type":"enum"},"se_n":{"type":"float"},"me_h":{"type":"float"},"s_h":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"x_e":{"type":"float"},"diameter_main":{"type":"float"},"display_type":{"values":["1","2","3"],"type":"enum"},"diameter_secondary":{"type":"float"},"focal_main":{"type":"float"},"number_of_struts":{"values":["0","1","2","3","4"],"type":"enum"},"$fn":{"type":"float"}}

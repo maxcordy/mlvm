@@ -1,0 +1,1 @@
+{"truss_height":{"type":"float"},"beam_thickness_percentage":{"end":100.0,"step":1,"type":"range","start":1.0},"truss_thickness":{"type":"float"},"truss_width":{"type":"float"}}

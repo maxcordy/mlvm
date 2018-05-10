@@ -1,0 +1,1 @@
+{"Lable_options":{"type":"float"},"text_line2":{"type":"string"},"text_line1":{"type":"string"},"font":{"values":["write\/Letters.dxf"," write\/BlackRose.dxf"," write\/knewave.dxf"," write\/orbitron.dxf"],"type":"enum"},"Hole_options":{"values":["0"," 1"],"type":"enum"}}

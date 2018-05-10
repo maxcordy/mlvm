@@ -1,0 +1,1 @@
+{"lengthNum":{"end":25.0,"step":1,"type":"range","start":1.0},"cubeSize":{"end":15.0,"step":1,"type":"range","start":5.0},"widthNum":{"end":19.0,"step":1,"type":"range","start":1.0},"heightNum":{"end":15.0,"step":1,"type":"range","start":1.0},"res":{"values":["30","60","90","120"],"type":"enum"}}

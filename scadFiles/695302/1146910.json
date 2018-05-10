@@ -1,0 +1,1 @@
+{"part":{"values":["cards","coins","all"],"type":"enum"},"cornercutoff":{"values":["\"all_cutoff\"","\"onlyMiddle\"","\"none\""],"type":"enum"},"wiggle":{"type":"float"},"logo":{"type":"mixed"},"do_holes_for_cards":{"values":["0","1"],"type":"enum"},"do_holes_for_coins":{"values":["0","1"],"type":"enum"}}

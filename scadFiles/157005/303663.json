@@ -1,0 +1,1 @@
+{"baseHeight":{"type":"float"},"internalRadius":{"type":"float"},"boxHeight":{"type":"float"},"quality":{"end":60.0,"step":1,"type":"range","start":10.0},"externalWallThickness":{"type":"float"},"singleBoxWidth":{"type":"float"},"internalWallThickness":{"type":"float"},"numberOfColumns":{"type":"float"},"singleBoxHeight":{"type":"float"},"numberOfRows":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"build_plate_selector":{"type":"float"},"build_plate_manual_y":{"end":400.0,"step":1,"type":"range","start":100.0},"build_plate_manual_x":{"end":400.0,"step":1,"type":"range","start":100.0},"squares_the_cube_takes_up":{"end":20.0,"step":1,"type":"range","start":1.0}}

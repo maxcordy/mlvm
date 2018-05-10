@@ -1,0 +1,1 @@
+{"generate":{"values":["Round","Square"],"type":"enum"},"Rod_diameter_outside":{"type":"float"},"Jaws_diameter_outside":{"type":"float"},"Wall_thickness":{"type":"float"},"height":{"type":"float"}}

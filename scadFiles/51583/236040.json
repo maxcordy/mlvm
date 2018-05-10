@@ -1,0 +1,1 @@
+{"Distance_From_Edge_To_Screw":{"type":"float"},"Screw_Shaft_Diameter":{"type":"float"},"Corner_Size":{"type":"float"},"Thickness":{"type":"float"},"Countersink":{"values":["Yes","No"],"type":"enum"},"$fs":{"type":"float"},"Screw_Head_Diameter":{"type":"float"},"Screw_Head_Thickness":{"type":"float"},"Fillet_Percentage":{"end":100.0,"step":1,"type":"range","start":0.0}}

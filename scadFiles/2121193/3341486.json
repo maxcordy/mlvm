@@ -1,0 +1,1 @@
+{"quantity":{"values":["1","2","3","4"],"type":"enum"},"raft_thickness":{"type":"float"},"metal_bar_thickness":{"type":"float"},"bed_thickness":{"type":"float"},"clearance":{"values":["0.0","0.1","0.2","0.3","0.4"],"type":"enum"},"outer_length":{"type":"float"},"inner_length":{"type":"float"},"metal_bar_width":{"type":"float"}}

@@ -1,0 +1,1 @@
+{"shape":{"values":["snub","star"],"type":"enum"},"hinge_radius":{"type":"float"},"hinge_clearance":{"type":"float"},"cube_height":{"type":"float"},"assembly":{"values":["closed","standing"],"type":"enum"},"stacking_clearance":{"type":"float"}}

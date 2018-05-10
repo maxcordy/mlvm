@@ -1,0 +1,1 @@
+{"sideLength":{"type":"float"},"baseLayers":{"type":"float"},"extruder":{"values":["\"extruder1\""," \"extruder2\"","\"both\""],"type":"enum"},"topColor":{"type":"string"},"totalHeight":{"type":"float"},"bottomColor":{"type":"string"},"layerHeight":{"type":"float"}}

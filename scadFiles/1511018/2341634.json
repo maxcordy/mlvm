@@ -1,0 +1,1 @@
+{"nose_length":{"type":"float"},"with_left_eye":{"values":["Yes","No"],"type":"enum"},"with_right_eye":{"values":["Yes","No"],"type":"enum"},"radius":{"type":"float"},"eye_size":{"type":"float"},"with_nose":{"values":["Yes","No"],"type":"enum"}}
