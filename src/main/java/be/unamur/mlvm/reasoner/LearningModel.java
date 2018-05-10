@@ -18,5 +18,6 @@ public interface LearningModel extends Oracle {
      * @effects Train this based on 'c' and its validity as defined by 'isValid'
      */
     public void train(Configuration c, boolean isValid);
-    
+
+    public void buildClassifier();
 }

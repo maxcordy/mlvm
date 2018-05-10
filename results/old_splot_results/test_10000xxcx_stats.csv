@@ -1,0 +1,147 @@
+CLASSIFIER;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];1.000;1.000;1.000
+SVM_RBF[4.0];0.958;0.935;0.944
+SVM_Poly[3,2.0,0.5];1.000;1.000;1.000
+SVM_Poly[3,3.0,0.5];1.000;1.000;1.000
+
+GENERATOR;PRECISION;RECALL;F-SCORE
+Combinatorial;0.990;0.984;0.986
+
+MODEL;PRECISION;RECALL;F-SCORE
+sasgd;1.000;1.000;1.000
+Mobile phone;1.000;1.000;1.000
+CCCMS;1.000;1.000;1.000
+Bicis_Feature_Model;1.000;1.000;1.000
+Maquina de Cae;1.000;1.000;1.000
+test gv;1.000;1.000;1.000
+E-Shop, magister2014;1.000;1.000;1.000
+E-shop;1.000;1.000;1.000
+UPL;1.000;1.000;1.000
+Hello World;1.000;1.000;1.000
+LXEP;0.750;0.750;0.750
+Xor Example;1.000;1.000;1.000
+ordem;1.000;1.000;1.000
+Observatorio;1.000;1.000;1.000
+KIModel;1.000;0.981;0.990
+eshop;1.000;1.000;1.000
+AA;1.000;1.000;1.000
+E-SHOP;1.000;1.000;1.000
+Example Product Line Course Using SPLOT;1.000;1.000;1.000
+AvionFEatures;1.000;1.000;1.000
+NovoSiga;1.000;1.000;1.000
+Disenio;1.000;1.000;1.000
+CIMS PL;0.750;0.750;0.750
+testing;1.000;1.000;1.000
+Address Book;1.000;1.000;1.000
+VODPlayer;1.000;1.000;1.000
+isolation;1.000;1.000;1.000
+Online shopping software;0.750;0.750;0.750
+Jogo;1.000;0.933;0.961
+desordem;1.000;1.000;1.000
+1;1.000;1.000;1.000
+Mobile Phone GF;1.000;1.000;1.000
+rtrt;1.000;1.000;1.000
+Sylvain Example;1.000;1.000;1.000
+MK Andes;1.000;1.000;1.000
+Computer Selection;1.000;0.917;0.950
+Modelo;1.000;1.000;1.000
+Mobile Game;1.000;1.000;1.000
+MarketPlace-Sample;1.000;0.875;0.917
+votacao eletronica;1.000;1.000;1.000
+Mobile Tourist Planner;1.000;1.000;1.000
+Website;1.000;1.000;1.000
+VOD feature model;1.000;1.000;1.000
+Mauricio Alférez;1.000;1.000;1.000
+FM1;0.750;0.750;0.750
+Minimalistic PC Feature Model;1.000;1.000;1.000
+MobileMedia;1.000;1.000;1.000
+Rotary_Element;1.000;1.000;1.000
+MiniRPG;1.000;0.985;0.992
+ETRobocon;1.000;1.000;1.000
+Wewq;0.750;0.750;0.750
+AllSports Feature Model;1.000;1.000;1.000
+asdsfa ewtwwe;1.000;1.000;1.000
+ZMUConcernExample;1.000;1.000;1.000
+Feature Tree Example;1.000;1.000;1.000
+aaaaaa;1.000;1.000;1.000
+Dental Surgery;1.000;1.000;1.000
+disenio II;1.000;1.000;1.000
+E-portal;1.000;1.000;1.000
+Mobile Phone UPT;1.000;1.000;1.000
+Test1;1.000;1.000;1.000
+carpl;1.000;1.000;1.000
+r;1.000;1.000;1.000
+Nudelsalat;1.000;1.000;1.000
+FeatureModel1;1.000;1.000;1.000
+poker spl;1.000;1.000;1.000
+Simnumero;1.000;1.000;1.000
+abcdefg;1.000;1.000;1.000
+Mobile-Phone;1.000;1.000;1.000
+WebApp;1.000;1.000;1.000
+Loja Virtual;1.000;1.000;1.000
+eLearning ways;1.000;1.000;1.000
+Phone sple;1.000;1.000;1.000
+Manuel;1.000;1.000;1.000
+Final model;1.000;1.000;1.000
+SmartHome- Simplified Sample;1.000;1.000;1.000
+Mobile phone (lenita);1.000;1.000;1.000
+SmartHome_vConejero_r1;1.000;0.917;0.950
+test 3;1.000;1.000;1.000
+Test;1.000;1.000;1.000
+Xor Example 2;1.000;1.000;1.000
+TEST_NAme;1.000;1.000;1.000
+ABMS;1.000;1.000;1.000
+Text Editor;1.000;1.000;1.000
+XOR NEW;1.000;1.000;1.000
+Prontuário Eletrônico de Pacientes;1.000;1.000;1.000
+mo;1.000;1.000;1.000
+Bandymas;1.000;1.000;1.000
+JDFM;1.000;1.000;1.000
+test_fm;1.000;0.972;0.985
+ubuntu;1.000;1.000;1.000
+Imolementacion II;1.000;1.000;1.000
+TW SPL Hard Choices;1.000;0.950;0.972
+Mobile Media v3;1.000;0.917;0.950
+drupal sawsen;1.000;1.000;1.000
+Example Mobile Phone;1.000;1.000;1.000
+Basic Car;1.000;1.000;1.000
+SPL Studies;1.000;1.000;1.000
+testISA2012;1.000;1.000;1.000
+Match engine;1.000;1.000;1.000
+Cell-Phone-SPL-2014-without;1.000;1.000;1.000
+Car;1.000;1.000;1.000
+mobile phone;1.000;1.000;1.000
+MyFM;1.000;1.000;1.000
+M-learning Requirements Catalog;1.000;1.000;1.000
+Assistente de Compras;1.000;1.000;1.000
+Mobile Phone;1.000;1.000;1.000
+SAL;1.000;1.000;1.000
+Guad gmocht!;1.000;1.000;1.000
+Doorlopende reisverzekering;1.000;1.000;1.000
+ROOT;1.000;1.000;1.000
+UPT_RM_MOBILE;1.000;1.000;1.000
+Mobile Phone UPT - 18413;1.000;1.000;1.000
+SPL_e_commerce;1.000;1.000;1.000
+Analisis;1.000;1.000;1.000
+anlisis II;1.000;1.000;1.000
+Autosoft;1.000;1.000;1.000
+ESCA Embeeded System;1.000;1.000;1.000
+Telefono;1.000;1.000;1.000
+Phone;1.000;1.000;1.000
+celular;1.000;1.000;1.000
+Match de foot;1.000;1.000;1.000
+CarExample;1.000;1.000;1.000
+Eval_board;1.000;1.000;1.000
+LMF;1.000;0.917;0.950
+Priscilinha;0.750;0.750;0.750
+Sample;1.000;1.000;1.000
+collapse_view_example;1.000;1.000;1.000
+Sisgeo;1.000;1.000;1.000
+jjjjj;1.000;1.000;1.000
+Modelo de Característica para Entidades Urbanas;1.000;1.000;1.000
+acarlos_trab2_mobile;1.000;1.000;1.000
+Telefonia Celular;1.000;1.000;1.000
+Ökonomische Merkmale;1.000;1.000;1.000
+erewr;1.000;1.000;1.000
+Webshop_SPLE2014_Chalmers;1.000;1.000;1.000
+E-commerce system1;1.000;0.875;0.917

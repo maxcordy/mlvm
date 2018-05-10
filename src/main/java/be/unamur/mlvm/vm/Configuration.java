@@ -6,12 +6,14 @@ package be.unamur.mlvm.vm;
  * @author mcr
  */
 public interface Configuration {
-   
-    
+
+
     /**
-     * @requires id not null && 'this' has a feature identified by 'id'
-     * @return the value of feature 'id' in 'this'
+     * @requires getName not null && 'this' has a feature identified by 'getName'
+     * @return the value of feature 'getName' in 'this'
      */
     public FeatureValue valueOf(FeatureId id);
+
+    public Configuration clone();
     
 }

@@ -9,15 +9,21 @@ import java.util.Set;
  * @author mcr
  */
 public interface VariabilityModel extends Oracle {
-    
+
     public Set<FeatureId> features();
+
+    public FeatureDomain getDomain(FeatureId id);
   
     public Set<ConstraintId> constraints();
     
     /**
-     * @requires id not null && 'this' has a constraint identified by 'id'.
+     * @requires getName not null && 'this' has a constraint identified by 'getName'.
      * @return A new variability model obtained by removing from 'this' the
-     * constraint identified by 'id. 
+     * constraint identified by 'getName.
      */
     public VariabilityModel remove(ConstraintId id);
+
+    public Constraint getConstraint(ConstraintId id);
+
+    String getName();
 }

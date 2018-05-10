@@ -8,15 +8,28 @@ import be.unamur.mlvm.util.Assert;
  * @author mcr
  */
 public class FeatureId {
-    
-    
+
+    public String getId() {
+        return id;
+    }
+
     private final String id;
-    
+    private int index;
+
     public FeatureId(String s) {
         Assert.notNull(s);
         Assert.notEmpty(s);
-        
+
         this.id = s;
+        this.index = -1;
+    }
+
+    FeatureId(String s, int index) {
+        Assert.notNull(s);
+        Assert.notEmpty(s);
+
+        this.id = s;
+        this.index = index;
     }
     
     @Override
@@ -39,5 +52,18 @@ public class FeatureId {
         result = 13 * result + id.hashCode();
 
         return result;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("FeatureId[%s]", id);
+    }
+
+    int getIndex() {
+        return index;
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
     }
 }

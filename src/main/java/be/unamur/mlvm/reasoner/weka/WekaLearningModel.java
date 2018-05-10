@@ -2,10 +2,7 @@ package be.unamur.mlvm.reasoner.weka;
 
 import be.unamur.mlvm.reasoner.LearningModel;
 import be.unamur.mlvm.util.Assert;
-import be.unamur.mlvm.vm.Configuration;
-import be.unamur.mlvm.vm.FeatureId;
-import be.unamur.mlvm.vm.FeatureValue;
-import be.unamur.mlvm.vm.VariabilityModel;
+import be.unamur.mlvm.vm.*;
 import weka.classifiers.Classifier;
 import weka.core.Attribute;
 import weka.core.DenseInstance;
@@ -13,6 +10,7 @@ import weka.core.Instance;
 import weka.core.Instances;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class WekaLearningModel implements LearningModel {
     private static final String VALID = "VALID";
@@ -21,28 +19,23 @@ public class WekaLearningModel implements LearningModel {
     private final Map<FeatureId, Attribute> features;
     private final Instances trainingSet;
     private final ClassifierFactory factory;
-    private final FeatureHandler featureHandler;
     private final Attribute validityAttribute;
     private Classifier classifier;
 
     /**
      * Creates a learning model.
-     * @param model the vm
-     * @param factory a factory used to create a Weka classifier to train
-     * @param featureHandler a handler that
+     *
+     * @param model    the vm
+     * @param factory  a factory used to create a Weka classifier to train
      * @param capacity the amount of elements that will be added to the training set
      */
     public WekaLearningModel(VariabilityModel model,
-                                ClassifierFactory factory,
-                                FeatureHandler featureHandler,
-                                int capacity) {
+                             ClassifierFactory factory,
+                             int capacity) {
         Assert.notNull(model);
         Assert.notNull(factory);
-        Assert.notNull(featureHandler);
 
         this.factory = factory;
-        this.featureHandler = featureHandler;
-
         features = new HashMap<>();
         ArrayList<Attribute> attributes = new ArrayList<>();
         validityAttribute = new Attribute("ConfigurationValidity", Arrays.asList(VALID, INVALID));
@@ -50,7 +43,7 @@ public class WekaLearningModel implements LearningModel {
 
 
         model.features().forEach(f -> {
-            Attribute attribute = featureHandler.createAttributeFor(f);
+            Attribute attribute = createAttribute(f, model.getDomain(f));
             features.put(f, attribute);
             attributes.add(attribute);
         });
@@ -70,10 +63,21 @@ public class WekaLearningModel implements LearningModel {
     }
 
     @Override
-    public boolean isValid(Configuration c) {
+    public void buildClassifier() {
         try {
             if (!this.isClassified())
-                this.buildClassifier();
+                this.classifier = this.factory.create(trainingSet);
+
+        } catch (Exception e) {
+            throw new RuntimeException("Classification failed", e);
+        }
+    }
+
+
+    @Override
+    public boolean isValid(Configuration c) {
+        this.buildClassifier();
+        try {
 
             Instance instance = this.buildInstance(c);
             instance.setDataset(trainingSet);
@@ -86,10 +90,6 @@ public class WekaLearningModel implements LearningModel {
         }
     }
 
-    private void buildClassifier() throws Exception {
-        this.classifier = this.factory.create(trainingSet);
-    }
-
     private boolean isClassified() {
         return this.classifier != null;
     }
@@ -98,7 +98,7 @@ public class WekaLearningModel implements LearningModel {
         Instance instance = new DenseInstance(features.size() + 1);
         features.forEach((feature, attribute) -> {
             FeatureValue val = c.valueOf(feature);
-            featureHandler.addFeatureToInstance(instance, attribute, val);
+            addFeatureToInstance(instance, attribute, val);
         });
         return instance;
     }
@@ -108,4 +108,27 @@ public class WekaLearningModel implements LearningModel {
     }
 
 
+    private Attribute createAttribute(FeatureId id, FeatureDomain domain) {
+        if (domain instanceof FeatureDomain.Nominal) {
+            List<String> attributeValues = ((FeatureDomain.Nominal) domain).getValues()
+                    .stream()
+                    .map(FeatureValue::getValue)
+                    .map(Object::toString)
+                    .collect(Collectors.toList());
+            return new Attribute(id.toString(), attributeValues);
+        }
+        if (domain instanceof FeatureDomain.Numeric) {
+            return new Attribute(id.toString());
+        }
+        throw new RuntimeException("Unknown FeatureModel");
+    }
+
+    private void addFeatureToInstance(Instance instance, Attribute attribute, FeatureValue val) {
+        Object value = val.getValue();
+        if (attribute.isNumeric()) {
+            instance.setValue(attribute, ((Number) value).doubleValue());
+        } else {
+            instance.setValue(attribute, value.toString());
+        }
+    }
 }

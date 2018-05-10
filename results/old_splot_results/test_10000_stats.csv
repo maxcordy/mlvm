@@ -1,0 +1,293 @@
+CLASSIFIER;PRECISION;RECALL;F-SCORE
+SVM_NPoly[2.0];0.443;0.286;0.312
+SVM;0.245;0.231;0.235
+SVM_Poly[2.0];0.793;0.753;0.769
+J48;0.567;0.468;0.494
+
+GENERATOR;PRECISION;RECALL;F-SCORE
+Combinatorial;0.512;0.434;0.452
+
+MODEL;CMin;CMoy;CMax
+Mobile Phone UPT - 18413;0;0.00;0f
+ubuntu;0;0.00;0f
+TW SPL Hard Choices;0;0.00;0f
+WebApp;0;0.00;0f
+E-portal;0;0.00;0f
+Phone;0;0.00;0f
+Mobile Game;0;0.00;0f
+Sylvain Example;0;0.00;0f
+Minimalistic PC Feature Model;0;0.00;0f
+Website;0;0.00;0f
+isolation;0;0.00;0f
+Simnumero;0;0.00;0f
+Imolementacion II;0;0.00;0f
+drupal sawsen;0;0.00;0f
+Eval_board;0;0.00;0f
+MiniRPG;0;0.00;0f
+SPL Studies;0;0.00;0f
+Doorlopende reisverzekering;0;0.00;0f
+Mobile Phone;0;0.00;0f
+desordem;0;0.00;0f
+Wewq;0;0.00;0f
+Xor Example 2;0;0.00;0f
+LMF;0;0.00;0f
+asdsfa ewtwwe;0;0.00;0f
+mobile phone;0;0.00;0f
+1;0;0.00;0f
+ETRobocon;0;0.00;0f
+Assistente de Compras;0;0.00;0f
+MobileMedia;0;0.00;0f
+Example Product Line Course Using SPLOT;0;0.00;0f
+Sylvain Example;0;0.00;0f
+E-commerce system1;0;0.00;0f
+Rotary_Element;0;0.00;0f
+celular;0;0.00;0f
+poker spl;0;0.00;0f
+Manuel;0;0.00;0f
+Observatorio;0;0.00;0f
+Car;0;0.00;0f
+Jogo;0;0.00;0f
+E-SHOP;0;0.00;0f
+anlisis II;0;0.00;0f
+Sample;0;0.00;0f
+Telefonia Celular;0;0.00;0f
+Mobile Phone UPT;0;0.00;0f
+SmartHome- Simplified Sample;0;0.00;0f
+votacao eletronica;0;0.00;0f
+Match engine;0;0.00;0f
+VODPlayer;0;0.00;0f
+Mauricio Alférez;0;0.00;0f
+SPL_e_commerce;0;0.00;0f
+Mobile Phone GF;0;0.00;0f
+sasgd;0;0.00;0f
+Ökonomische Merkmale;0;0.00;0f
+Mobile phone (lenita);0;0.00;0f
+Address Book;0;0.00;0f
+AA;0;0.00;0f
+M-learning Requirements Catalog;0;0.00;0f
+ZMUConcernExample;0;0.00;0f
+SmartHome_vConejero_r1;0;0.00;0f
+Telefono;0;0.00;0f
+Jogo;0;0.00;0f
+test 3;0;0.00;0f
+Basic Car;0;0.00;0f
+E-Shop, magister2014;0;0.00;0f
+Mobile Media v3;0;0.00;0f
+Xor Example;0;0.00;0f
+LXEP;0;0.00;0f
+NovoSiga;0;0.00;0f
+rtrt;0;0.00;0f
+MK Andes;0;0.00;0f
+jjjjj;0;0.00;0f
+eLearning ways;0;0.00;0f
+Disenio;0;0.00;0f
+Feature Tree Example;0;0.00;0f
+carpl;0;0.00;0f
+Test1;0;0.00;0f
+Priscilinha;0;0.00;0f
+Autosoft;0;0.00;0f
+acarlos_trab2_mobile;0;0.00;0f
+eshop;0;0.00;0f
+AllSports Feature Model;0;0.00;0f
+KIModel;0;0.00;0f
+Autosoft;0;0.00;0f
+Phone sple;0;0.00;0f
+UPT_RM_MOBILE;0;0.00;0f
+MarketPlace-Sample;0;0.00;0f
+E-shop;0;0.00;0f
+Dental Surgery;0;0.00;0f
+ROOT;0;0.00;0f
+FeatureModel1;0;0.00;0f
+collapse_view_example;0;0.00;0f
+CarExample;0;0.00;0f
+Car;0;0.00;0f
+Mobile Phone;0;0.00;0f
+testing;0;0.00;0f
+Phone;0;0.00;0f
+Webshop_SPLE2014_Chalmers;0;0.00;0f
+ESCA Embeeded System;0;0.00;0f
+Modelo;0;0.00;0f
+MobileMedia;0;0.00;0f
+abcdefg;0;0.00;0f
+CCCMS;0;0.00;0f
+Text Editor;0;0.00;0f
+Mobile Tourist Planner;0;0.00;0f
+disenio II;0;0.00;0f
+test gv;0;0.00;0f
+r;0;0.00;0f
+Test;0;0.00;0f
+Guad gmocht!;0;0.00;0f
+Example Mobile Phone;0;0.00;0f
+Cell-Phone-SPL-2014-without;0;0.00;0f
+testISA2012;0;0.00;0f
+erewr;0;0.00;0f
+VOD feature model;0;0.00;0f
+AvionFEatures;0;0.00;0f
+Bicis_Feature_Model;0;0.00;0f
+TEST_NAme;0;0.00;0f
+Bandymas;0;0.00;0f
+UPL;0;0.00;0f
+aaaaaa;0;0.00;0f
+Match de foot;0;0.00;0f
+Nudelsalat;0;0.00;0f
+CIMS PL;0;0.00;0f
+Modelo de Característica para Entidades Urbanas;0;0.00;0f
+Mobile phone;0;0.00;0f
+FM1;0;0.00;0f
+Maquina de Cae;0;0.00;0f
+Mobile-Phone;0;0.00;0f
+Prontuário Eletrônico de Pacientes;0;0.00;0f
+Computer Selection;0;0.00;0f
+mo;0;0.00;0f
+Final model;0;0.00;0f
+ABMS;0;0.00;0f
+Online shopping software;0;0.00;0f
+XOR NEW;0;0.00;0f
+Hello World;0;0.00;0f
+JDFM;0;0.00;0f
+Analisis;0;0.00;0f
+Sisgeo;0;0.00;0f
+SAL;0;0.00;0f
+MyFM;0;0.00;0f
+ordem;0;0.00;0f
+Loja Virtual;0;0.00;0f
+test_fm;0;0.00;0f
+
+MODEL;PRECISION;RECALL;F-SCORE
+sasgd;0.748;0.667;0.703
+Mobile phone;0.468;0.369;0.412
+CCCMS;0.969;0.996;0.982
+Bicis_Feature_Model;0.250;0.250;0.250
+Maquina de Cae;0.500;0.324;0.369
+test gv;1.000;0.962;0.981
+E-Shop, magister2014;0.500;0.313;0.359
+E-shop;0.708;0.581;0.636
+UPL;0.938;0.789;0.855
+Hello World;0.750;0.416;0.492
+LXEP;0.000;0.000;0.000
+Xor Example;0.500;0.390;0.432
+ordem;0.500;0.421;0.454
+Observatorio;0.250;0.222;0.235
+KIModel;0.000;0.000;0.000
+eshop;0.750;0.431;0.471
+AA;0.250;0.221;0.234
+E-SHOP;0.200;0.250;0.222
+Example Product Line Course Using SPLOT;0.464;0.333;0.381
+AvionFEatures;0.750;0.495;0.517
+NovoSiga;0.500;0.286;0.324
+Disenio;0.000;0.000;0.000
+CIMS PL;0.000;0.000;0.000
+testing;0.996;0.996;0.996
+Address Book;1.000;0.928;0.962
+VODPlayer;0.818;0.765;0.700
+isolation;0.000;0.000;0.000
+Online shopping software;0.000;0.000;0.000
+Jogo;0.000;0.000;0.000
+desordem;0.500;0.421;0.454
+1;0.969;0.991;0.979
+Mobile Phone GF;0.458;0.393;0.423
+rtrt;1.000;0.888;0.937
+Sylvain Example;0.239;0.228;0.233
+MK Andes;0.000;0.000;0.000
+Computer Selection;0.000;0.000;0.000
+Modelo;0.250;0.234;0.242
+Mobile Game;0.929;0.964;0.946
+MarketPlace-Sample;0.000;0.000;0.000
+votacao eletronica;0.671;0.750;0.708
+Mobile Tourist Planner;0.500;0.483;0.491
+Website;1.000;0.985;0.992
+VOD feature model;1.000;0.962;0.981
+Mauricio Alférez;0.500;0.205;0.252
+FM1;0.000;0.000;0.000
+Minimalistic PC Feature Model;0.250;0.250;0.250
+MobileMedia;0.658;0.692;0.673
+Rotary_Element;0.250;0.231;0.240
+MiniRPG;0.500;0.471;0.485
+ETRobocon;0.969;0.992;0.980
+Wewq;0.000;0.000;0.000
+AllSports Feature Model;0.909;0.935;0.921
+asdsfa ewtwwe;0.375;0.484;0.417
+ZMUConcernExample;0.719;0.438;0.506
+Feature Tree Example;0.750;0.531;0.556
+aaaaaa;1.000;0.996;0.998
+Dental Surgery;0.500;0.417;0.450
+disenio II;0.937;0.917;0.927
+E-portal;0.750;0.478;0.499
+Mobile Phone UPT;0.464;0.333;0.381
+Test1;0.250;0.250;0.250
+carpl;0.250;0.083;0.125
+r;0.250;0.247;0.249
+Nudelsalat;0.214;0.231;0.222
+FeatureModel1;1.000;0.853;0.912
+poker spl;0.205;0.205;0.205
+Simnumero;0.000;0.000;0.000
+abcdefg;0.000;0.000;0.000
+Mobile-Phone;0.464;0.267;0.312
+WebApp;1.000;0.991;0.995
+Loja Virtual;0.883;0.920;0.900
+eLearning ways;0.989;0.858;0.911
+Phone sple;0.742;0.609;0.658
+Manuel;0.500;0.300;0.365
+Final model;0.250;0.229;0.239
+SmartHome- Simplified Sample;0.500;0.205;0.252
+Mobile phone (lenita);0.464;0.333;0.381
+SmartHome_vConejero_r1;0.000;0.000;0.000
+test 3;0.722;0.479;0.488
+Test;0.500;0.471;0.485
+Xor Example 2;0.750;0.668;0.702
+TEST_NAme;0.650;0.671;0.645
+ABMS;1.000;0.878;0.932
+Text Editor;0.208;0.208;0.208
+XOR NEW;0.938;0.688;0.749
+Prontuário Eletrônico de Pacientes;0.500;0.364;0.415
+mo;0.938;0.881;0.905
+Bandymas;1.000;0.839;0.900
+JDFM;0.192;0.238;0.213
+test_fm;0.000;0.000;0.000
+ubuntu;0.750;0.340;0.389
+Imolementacion II;0.000;0.000;0.000
+TW SPL Hard Choices;0.000;0.000;0.000
+Mobile Media v3;0.000;0.000;0.000
+drupal sawsen;1.000;0.996;0.998
+Example Mobile Phone;0.464;0.267;0.312
+Basic Car;1.000;0.852;0.904
+SPL Studies;0.491;0.417;0.446
+testISA2012;0.464;0.333;0.381
+Match engine;1.000;0.938;0.968
+Cell-Phone-SPL-2014-without;0.250;0.245;0.247
+Car;0.625;0.480;0.503
+mobile phone;0.500;0.278;0.326
+MyFM;0.236;0.213;0.224
+M-learning Requirements Catalog;1.000;0.922;0.959
+Assistente de Compras;0.500;0.290;0.328
+Mobile Phone;0.482;0.327;0.381
+SAL;0.250;0.231;0.240
+Guad gmocht!;0.938;0.813;0.868
+Doorlopende reisverzekering;1.000;0.981;0.990
+ROOT;1.000;0.987;0.994
+UPT_RM_MOBILE;0.464;0.267;0.312
+Mobile Phone UPT - 18413;0.464;0.333;0.381
+SPL_e_commerce;0.500;0.456;0.476
+Analisis;0.000;0.000;0.000
+anlisis II;0.469;0.483;0.475
+Autosoft;0.733;0.675;0.701
+ESCA Embeeded System;0.208;0.227;0.217
+Telefono;0.250;0.094;0.136
+Phone;0.855;0.658;0.690
+celular;0.250;0.188;0.214
+Match de foot;0.750;0.706;0.727
+CarExample;0.000;0.000;0.000
+Eval_board;0.000;0.000;0.000
+LMF;0.000;0.000;0.000
+Priscilinha;0.000;0.000;0.000
+Sample;0.498;0.485;0.491
+collapse_view_example;0.469;0.221;0.223
+Sisgeo;1.000;0.992;0.996
+jjjjj;0.500;0.333;0.375
+Modelo de Característica para Entidades Urbanas;1.000;0.998;0.999
+acarlos_trab2_mobile;0.464;0.267;0.312
+Telefonia Celular;0.750;0.400;0.486
+Ökonomische Merkmale;0.856;0.908;0.878
+erewr;0.700;0.408;0.437
+Webshop_SPLE2014_Chalmers;0.750;0.451;0.484
+E-commerce system1;0.000;0.000;0.000

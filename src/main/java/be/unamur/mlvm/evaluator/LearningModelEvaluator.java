@@ -3,90 +3,71 @@ package be.unamur.mlvm.evaluator;
 import be.unamur.mlvm.reasoner.LearningModel;
 import be.unamur.mlvm.reasoner.LearningModelFactory;
 import be.unamur.mlvm.reasoner.Oracle;
+import be.unamur.mlvm.sampling.SampleGenerator;
 import be.unamur.mlvm.util.Assert;
 import be.unamur.mlvm.vm.Configuration;
+import be.unamur.mlvm.vm.VariabilityModel;
 
 import java.util.List;
-import java.util.stream.Collectors;
+import java.util.function.Function;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class LearningModelEvaluator {
 
     private final LearningModelFactory learningModelFactory;
     private final Oracle trainingOracle;
     private final Oracle validationOracle;
+    private final VariabilityModel vm;
+    private Function<Oracle, Oracle> postTraining;
 
-    /**
-     * Create a new evaluator
-     * @param learningModelFactory a factory that creates the learning model (cross-validation will create several times a model)
-     * @param trainingOracle an oracle to validate the training data
-     * @param validationOracle an oracle to validate the evaluation data
-     */
-    public LearningModelEvaluator(LearningModelFactory learningModelFactory, Oracle trainingOracle, Oracle validationOracle) {
+    public LearningModelEvaluator(VariabilityModel vm, LearningModelFactory learningModelFactory, Oracle trainingOracle, Oracle validationOracle) {
+        this(vm, learningModelFactory, trainingOracle, null, validationOracle);
+    }
+
+    public LearningModelEvaluator(VariabilityModel vm, LearningModelFactory learningModelFactory,
+                                  Oracle trainingOracle,
+                                  Function<Oracle, Oracle> postTraining,
+                                  Oracle validationOracle) {
+        this.vm = vm;
+        Assert.notNull(vm);
         Assert.notNull(learningModelFactory);
         Assert.notNull(trainingOracle);
         Assert.notNull(validationOracle);
+        this.postTraining = postTraining;
         this.learningModelFactory = learningModelFactory;
         this.trainingOracle = trainingOracle;
         this.validationOracle = validationOracle;
     }
 
-    /**
-     * Train a model with the training set, then validate it against the testing set
-     * @param trainingSet
-     * @param testingSet
-     * @return
-     */
-    public EvaluationResult evaluate(List<Configuration> trainingSet, List<Configuration> testingSet) {
-        LearningModel learningModel = learningModelFactory.create(trainingSet.size());
-        // training
-        trainingSet.forEach(sample -> learningModel.train(sample, trainingOracle.isValid(sample)));
+    public EvaluationResult evaluate(SampleGenerator samplingGenerator, SampleGenerator validationGenerator) {
 
-        // evaluation
-        Stream<TestResult> results = testingSet.stream()
-                .map(sample -> compareResults(learningModel.isValid(sample), validationOracle.isValid(sample)));
+//        System.out.println("Loading training set");
+        LearningModelTrainer learningModelTrainer = new LearningModelTrainer(trainingOracle, learningModelFactory);
+        samplingGenerator.generateSamples(vm, learningModelTrainer);
+        LearningModel learningModel = learningModelTrainer.getLearningModel();
 
-        return new EvaluationResult(results);
+//        System.out.println("Building classifier");
+        learningModel.buildClassifier();
+
+        Oracle learnedModel = postTraining != null ? postTraining.apply(learningModel) : learningModel;
+
+//        System.out.println("Validating classifier");
+        LearningModelValidator validator = new LearningModelValidator(validationOracle, learnedModel);
+        validationGenerator.generateSamples(vm, validator);
+        return validator.getResults();
     }
 
-    /**
-     * Cross-validate the given data set
-     * @param dataSet
-     * @param k numbers of cuts
-     * @return
-     */
-    public EvaluationResult crossValidateKFold(List<Configuration> dataSet, int k) {
+    public EvaluationResult crossValidateKFold(SampleGenerator samplesGenerator, int k) {
 
-        Stream<TestResult> results = IntStream.range(0, k).mapToObj(x -> {
-            int from = x * dataSet.size() / k;
-            int to = (x + 1) * dataSet.size() / k;
-            List<Configuration> testingSet = dataSet.subList(from, to);
+        List<Configuration> dataSet = SampleCollector.collect(vm, samplesGenerator);
 
-            // training
-            LearningModel learningModel = learningModelFactory.create(dataSet.size() - testingSet.size());
-            dataSet.subList(0, from)
-                    .forEach(sample -> learningModel.train(sample, trainingOracle.isValid(sample)));
-            dataSet.subList(to, dataSet.size())
-                    .forEach(sample -> learningModel.train(sample, trainingOracle.isValid(sample)));
-
-            // evaluation
-            return testingSet.stream()
-                    .map(sample -> compareResults(learningModel.isValid(sample), validationOracle.isValid(sample)));
-        }).flatMap(x -> x);
-
-        return new EvaluationResult(results);
+        return IntStream.range(0, k)
+                .mapToObj(x -> evaluate(new KFoldTrainingSetGenerator(dataSet, k, x), new KFoldValidationSetGenerator(dataSet, k, x)))
+                .reduce(EvaluationResult::mergeWith)
+                .orElseThrow(() -> new RuntimeException("k == 0"));
     }
 
-    private TestResult compareResults(boolean actual, boolean expected) {
-        if (actual)
-            if (expected)
-                return TestResult.TruePositive;
-            else
-                return TestResult.FalsePositive;
-        else if (expected)
-            return TestResult.FalseNegative;
-        else
-            return TestResult.TrueNegative;
-    }
+
 }
+
+
