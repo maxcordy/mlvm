@@ -1,0 +1,71 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Eshop-ufrj;392;0;0;32376;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Eshop-ufrj;392;0;0;32376;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Eshop-ufrj;392;0;0;32376;1.000;1.000;1.000
+REPTree;Combinatorial[0];Eshop-ufrj;392;88;0;32288;0.817;1.000;0.899
+LogisticModelTree;Combinatorial[0];Eshop-ufrj;8;0;384;32376;1.000;0.020;0.040
+MultilayerPerceptron;Combinatorial[0];Eshop-ufrj;384;0;8;32376;1.000;0.980;0.990
+J48;Combinatorial[0];Eshop-ufrj;0;0;392;32376;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Tata Cars;100;0;0;32668;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Tata Cars;100;0;0;32668;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Tata Cars;100;32;0;32636;0.758;1.000;0.862
+REPTree;Combinatorial[0];Tata Cars;48;0;52;32668;1.000;0.480;0.649
+LogisticModelTree;Combinatorial[0];Tata Cars;68;32;32;32636;0.680;0.680;0.680
+MultilayerPerceptron;Combinatorial[0];Tata Cars;96;0;4;32668;1.000;0.960;0.980
+J48;Combinatorial[0];Tata Cars;96;64;4;32604;0.600;0.960;0.738
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Dummy Car;80;0;0;32688;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Dummy Car;80;0;0;32688;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Dummy Car;24;0;56;32688;1.000;0.300;0.462
+REPTree;Combinatorial[0];Dummy Car;48;12;32;32676;0.800;0.600;0.686
+LogisticModelTree;Combinatorial[0];Dummy Car;24;8;56;32680;0.750;0.300;0.429
+MultilayerPerceptron;Combinatorial[0];Dummy Car;72;0;8;32688;1.000;0.900;0.947
+J48;Combinatorial[0];Dummy Car;0;0;80;32688;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];MiniTV;498;0;0;32270;1.000;1.000;1.000
+RandomForest;Combinatorial[0];MiniTV;498;0;0;32270;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MiniTV;498;0;0;32270;1.000;1.000;1.000
+REPTree;Combinatorial[0];MiniTV;496;0;2;32270;1.000;0.996;0.998
+LogisticModelTree;Combinatorial[0];MiniTV;498;0;0;32270;1.000;1.000;1.000
+MultilayerPerceptron;Combinatorial[0];MiniTV;496;0;2;32270;1.000;0.996;0.998
+J48;Combinatorial[0];MiniTV;496;0;2;32270;1.000;0.996;0.998
+SVM_Poly[3,2.0,0.5];Combinatorial[0];CTOS MODEL;36;0;0;32732;1.000;1.000;1.000
+RandomForest;Combinatorial[0];CTOS MODEL;36;0;0;32732;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];CTOS MODEL;36;12;0;32720;0.750;1.000;0.857
+REPTree;Combinatorial[0];CTOS MODEL;12;8;24;32724;0.600;0.333;0.429
+LogisticModelTree;Combinatorial[0];CTOS MODEL;28;16;8;32716;0.636;0.778;0.700
+MultilayerPerceptron;Combinatorial[0];CTOS MODEL;36;0;0;32732;1.000;1.000;1.000
+J48;Combinatorial[0];CTOS MODEL;0;0;36;32732;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Adams Car;232;0;0;32536;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Adams Car;232;0;0;32536;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Adams Car;8;0;224;32536;1.000;0.034;0.067
+REPTree;Combinatorial[0];Adams Car;200;12;32;32524;0.943;0.862;0.901
+LogisticModelTree;Combinatorial[0];Adams Car;0;0;232;32536;NaN;0.000;NaN
+MultilayerPerceptron;Combinatorial[0];Adams Car;224;0;8;32536;1.000;0.966;0.982
+J48;Combinatorial[0];Adams Car;0;0;232;32536;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];iNavBasic;5;0;0;32763;1.000;1.000;1.000
+RandomForest;Combinatorial[0];iNavBasic;5;0;0;32763;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];iNavBasic;5;0;0;32763;1.000;1.000;1.000
+REPTree;Combinatorial[0];iNavBasic;0;0;5;32763;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];iNavBasic;4;0;1;32763;1.000;0.800;0.889
+MultilayerPerceptron;Combinatorial[0];iNavBasic;4;0;1;32763;1.000;0.800;0.889
+J48;Combinatorial[0];iNavBasic;0;0;5;32763;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];UML-IDE-TOOL;3074;0;0;29694;1.000;1.000;1.000
+RandomForest;Combinatorial[0];UML-IDE-TOOL;3074;0;0;29694;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];UML-IDE-TOOL;3074;0;0;29694;1.000;1.000;1.000
+REPTree;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+LogisticModelTree;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+MultilayerPerceptron;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+J48;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Veículo;324;0;0;32444;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Veículo;324;0;0;32444;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Veículo;68;64;256;32380;0.515;0.210;0.298
+REPTree;Combinatorial[0];Veículo;256;52;68;32392;0.831;0.790;0.810
+LogisticModelTree;Combinatorial[0];Veículo;4;0;320;32444;1.000;0.012;0.024
+MultilayerPerceptron;Combinatorial[0];Veículo;320;0;4;32444;1.000;0.988;0.994
+J48;Combinatorial[0];Veículo;0;0;324;32444;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Homepage based on wiki;116;0;0;32652;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Homepage based on wiki;116;0;0;32652;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Homepage based on wiki;116;0;0;32652;1.000;1.000;1.000
+REPTree;Combinatorial[0];Homepage based on wiki;112;12;4;32640;0.903;0.966;0.933
+LogisticModelTree;Combinatorial[0];Homepage based on wiki;0;0;116;32652;NaN;0.000;NaN
+MultilayerPerceptron;Combinatorial[0];Homepage based on wiki;96;0;20;32652;1.000;0.828;0.906
+J48;Combinatorial[0];Homepage based on wiki;16;0;100;32652;1.000;0.138;0.242
