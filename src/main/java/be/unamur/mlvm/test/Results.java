@@ -132,6 +132,13 @@ public class Results {
         return Collector.of(Stats::new, Stats::accept, Stats::combine);
     }
 
+    public static Results combine(Results r, Results r1) {
+        ArrayList<TrainingEvaluator.MultiEvaluationResult> l = new ArrayList<>(r.results.size() + r1.results.size());
+        l.addAll(r.results);
+        l.addAll(r1.results);
+        return new Results(l);
+    }
+
     private static class Stats {
         private DoubleSummaryStatistics precision = new DoubleSummaryStatistics();
         private DoubleSummaryStatistics recall = new DoubleSummaryStatistics();

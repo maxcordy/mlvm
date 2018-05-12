@@ -4,7 +4,6 @@ import be.unamur.mlvm.reasoner.weka.ClassifierFactory;
 import be.unamur.mlvm.reasoner.weka.Classifiers;
 import be.unamur.mlvm.sampling.CombinatorialSampleGenerator;
 import be.unamur.mlvm.sampling.SampleGenerator;
-import be.unamur.mlvm.splot.SplotGenerator;
 import be.unamur.mlvm.splot.SplotModelLoader;
 import be.unamur.mlvm.test.Results;
 import be.unamur.mlvm.test.TrainingEvaluator;
@@ -21,10 +20,9 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class TestManualSplotModels_RemoveX {
+public class TestSplotModels_RemoveX {
 
 
     private static final int MAX_CONFIGURATIONS = 10000;
@@ -115,8 +113,8 @@ public class TestManualSplotModels_RemoveX {
 
 
     private static Stream<VariabilityModel> loadSamplesDirectory(String s) throws Exception {
-        return Files.list(Paths.get(TestManualSplotModels_RemoveX.class.getResource("/samples/" + s).toURI()))
-                .map(TestManualSplotModels_RemoveX::loadFile);
+        return Files.list(Paths.get(TestSplotModels_RemoveX.class.getResource("/samples/" + s).toURI()))
+                .map(TestSplotModels_RemoveX::loadFile);
     }
 
 
