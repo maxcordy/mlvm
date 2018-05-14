@@ -1,0 +1,61 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+NaiveBayesUpdateable;Combinatorial[0];Mobile Game;150;10;122;1766;0.938;0.551;0.694
+HoeffdingTree;Combinatorial[0];Mobile Game;150;10;122;1766;0.938;0.551;0.694
+IBk;Combinatorial[0];Mobile Game;272;0;0;1776;1.000;1.000;1.000
+KStar;Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+StochasticGradientDescend;Combinatorial[0];Mobile Game;53;4;219;1772;0.930;0.195;0.322
+LWL;Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+NaiveBayesUpdateable;Combinatorial[0];VOD feature model;0;0;33;2015;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];VOD feature model;0;0;33;2015;NaN;0.000;NaN
+IBk;Combinatorial[0];VOD feature model;33;0;0;2015;1.000;1.000;1.000
+KStar;Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+StochasticGradientDescend;Combinatorial[0];VOD feature model;0;0;33;2015;NaN;0.000;NaN
+LWL;Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+NaiveBayesUpdateable;Combinatorial[0];VODPlayer;0;30;98;1920;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];VODPlayer;0;0;98;1950;NaN;0.000;NaN
+IBk;Combinatorial[0];VODPlayer;98;0;0;1950;1.000;1.000;1.000
+KStar;Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+StochasticGradientDescend;Combinatorial[0];VODPlayer;0;0;98;1950;NaN;0.000;NaN
+LWL;Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+NaiveBayesUpdateable;Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+IBk;Combinatorial[0];SmartHome_vConejero_r1;3;0;0;2045;1.000;1.000;1.000
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];MobileMedia;8;0;50;1990;1.000;0.138;0.242
+HoeffdingTree;Combinatorial[0];MobileMedia;0;0;58;1990;NaN;0.000;NaN
+IBk;Combinatorial[0];MobileMedia;58;0;0;1990;1.000;1.000;1.000
+KStar;Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+StochasticGradientDescend;Combinatorial[0];MobileMedia;0;0;58;1990;NaN;0.000;NaN
+LWL;Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+NaiveBayesUpdateable;Combinatorial[0];ordem;1;0;56;1991;1.000;0.018;0.034
+HoeffdingTree;Combinatorial[0];ordem;0;0;57;1991;NaN;0.000;NaN
+IBk;Combinatorial[0];ordem;57;0;0;1991;1.000;1.000;1.000
+KStar;Combinatorial[0];ordem;49;0;8;1991;1.000;0.860;0.925
+StochasticGradientDescend;Combinatorial[0];ordem;0;0;57;1991;NaN;0.000;NaN
+LWL;Combinatorial[0];ordem;49;0;8;1991;1.000;0.860;0.925
+NaiveBayesUpdateable;Combinatorial[0];desordem;1;0;56;1991;1.000;0.018;0.034
+HoeffdingTree;Combinatorial[0];desordem;0;0;57;1991;NaN;0.000;NaN
+IBk;Combinatorial[0];desordem;57;0;0;1991;1.000;1.000;1.000
+KStar;Combinatorial[0];desordem;49;0;8;1991;1.000;0.860;0.925
+StochasticGradientDescend;Combinatorial[0];desordem;0;0;57;1991;NaN;0.000;NaN
+LWL;Combinatorial[0];desordem;49;0;8;1991;1.000;0.860;0.925
+NaiveBayesUpdateable;Combinatorial[0];Mauricio Alférez;0;0;11;2037;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Mauricio Alférez;0;0;11;2037;NaN;0.000;NaN
+IBk;Combinatorial[0];Mauricio Alférez;11;0;0;2037;1.000;1.000;1.000
+KStar;Combinatorial[0];Mauricio Alférez;2;0;9;2037;1.000;0.182;0.308
+StochasticGradientDescend;Combinatorial[0];Mauricio Alférez;0;0;11;2037;NaN;0.000;NaN
+LWL;Combinatorial[0];Mauricio Alférez;2;0;9;2037;1.000;0.182;0.308
+NaiveBayesUpdateable;Combinatorial[0];isolation;0;0;8;2040;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];isolation;0;0;8;2040;NaN;0.000;NaN
+IBk;Combinatorial[0];isolation;8;0;0;2040;1.000;1.000;1.000
+KStar;Combinatorial[0];isolation;0;0;8;2040;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];isolation;0;0;8;2040;NaN;0.000;NaN
+LWL;Combinatorial[0];isolation;0;0;8;2040;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];SmartHome- Simplified Sample;0;0;11;2037;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];SmartHome- Simplified Sample;0;0;11;2037;NaN;0.000;NaN
+IBk;Combinatorial[0];SmartHome- Simplified Sample;11;0;0;2037;1.000;1.000;1.000
+KStar;Combinatorial[0];SmartHome- Simplified Sample;2;0;9;2037;1.000;0.182;0.308
+StochasticGradientDescend;Combinatorial[0];SmartHome- Simplified Sample;0;0;11;2037;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome- Simplified Sample;2;0;9;2037;1.000;0.182;0.308

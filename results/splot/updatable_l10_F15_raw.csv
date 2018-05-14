@@ -1,0 +1,61 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+NaiveBayesUpdateable;Combinatorial[0];Eshop-ufrj;0;0;392;32376;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Eshop-ufrj;144;18288;248;14088;0.008;0.367;0.015
+IBk;Combinatorial[0];Eshop-ufrj;392;0;0;32376;1.000;1.000;1.000
+KStar;Combinatorial[0];Eshop-ufrj;64;0;328;32376;1.000;0.163;0.281
+StochasticGradientDescend;Combinatorial[0];Eshop-ufrj;1;2116;391;30260;0.000;0.003;0.001
+LWL;Combinatorial[0];Eshop-ufrj;64;0;328;32376;1.000;0.163;0.281
+NaiveBayesUpdateable;Combinatorial[0];Tata Cars;0;0;100;32668;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Tata Cars;8;4088;92;28580;0.002;0.080;0.004
+IBk;Combinatorial[0];Tata Cars;100;0;0;32668;1.000;1.000;1.000
+KStar;Combinatorial[0];Tata Cars;0;0;100;32668;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Tata Cars;0;0;100;32668;NaN;0.000;NaN
+LWL;Combinatorial[0];Tata Cars;0;0;100;32668;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Dummy Car;0;0;80;32688;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Dummy Car;0;14336;80;18352;0.000;0.000;NaN
+IBk;Combinatorial[0];Dummy Car;80;0;0;32688;1.000;1.000;1.000
+KStar;Combinatorial[0];Dummy Car;0;0;80;32688;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Dummy Car;0;0;80;32688;NaN;0.000;NaN
+LWL;Combinatorial[0];Dummy Car;0;0;80;32688;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];MiniTV;416;0;82;32270;1.000;0.835;0.910
+HoeffdingTree;Combinatorial[0];MiniTV;497;4359;1;27911;0.102;0.998;0.186
+IBk;Combinatorial[0];MiniTV;498;0;0;32270;1.000;1.000;1.000
+KStar;Combinatorial[0];MiniTV;496;0;2;32270;1.000;0.996;0.998
+StochasticGradientDescend;Combinatorial[0];MiniTV;496;9013;2;23257;0.052;0.996;0.099
+LWL;Combinatorial[0];MiniTV;496;0;2;32270;1.000;0.996;0.998
+NaiveBayesUpdateable;Combinatorial[0];CTOS MODEL;0;0;36;32732;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];CTOS MODEL;0;16384;36;16348;0.000;0.000;NaN
+IBk;Combinatorial[0];CTOS MODEL;36;0;0;32732;1.000;1.000;1.000
+KStar;Combinatorial[0];CTOS MODEL;0;0;36;32732;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];CTOS MODEL;0;0;36;32732;NaN;0.000;NaN
+LWL;Combinatorial[0];CTOS MODEL;0;0;36;32732;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Adams Car;0;0;232;32536;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Adams Car;0;0;232;32536;NaN;0.000;NaN
+IBk;Combinatorial[0];Adams Car;232;0;0;32536;1.000;1.000;1.000
+KStar;Combinatorial[0];Adams Car;0;0;232;32536;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Adams Car;0;0;232;32536;NaN;0.000;NaN
+LWL;Combinatorial[0];Adams Car;0;0;232;32536;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];iNavBasic;0;0;5;32763;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];iNavBasic;0;0;5;32763;NaN;0.000;NaN
+IBk;Combinatorial[0];iNavBasic;5;0;0;32763;1.000;1.000;1.000
+KStar;Combinatorial[0];iNavBasic;0;0;5;32763;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];iNavBasic;0;0;5;32763;NaN;0.000;NaN
+LWL;Combinatorial[0];iNavBasic;0;0;5;32763;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+HoeffdingTree;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+IBk;Combinatorial[0];UML-IDE-TOOL;3074;0;0;29694;1.000;1.000;1.000
+KStar;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+StochasticGradientDescend;Combinatorial[0];UML-IDE-TOOL;3072;11152;2;18542;0.216;0.999;0.355
+LWL;Combinatorial[0];UML-IDE-TOOL;3072;0;2;29694;1.000;0.999;1.000
+NaiveBayesUpdateable;Combinatorial[0];Veículo;0;0;324;32444;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Veículo;0;0;324;32444;NaN;0.000;NaN
+IBk;Combinatorial[0];Veículo;324;0;0;32444;1.000;1.000;1.000
+KStar;Combinatorial[0];Veículo;0;0;324;32444;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Veículo;0;0;324;32444;NaN;0.000;NaN
+LWL;Combinatorial[0];Veículo;0;0;324;32444;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Homepage based on wiki;0;0;116;32652;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Homepage based on wiki;0;8192;116;24460;0.000;0.000;NaN
+IBk;Combinatorial[0];Homepage based on wiki;116;0;0;32652;1.000;1.000;1.000
+KStar;Combinatorial[0];Homepage based on wiki;0;0;116;32652;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Homepage based on wiki;0;0;116;32652;NaN;0.000;NaN
+LWL;Combinatorial[0];Homepage based on wiki;0;0;116;32652;NaN;0.000;NaN

@@ -1,7 +1,6 @@
 package be.unamur.mlvm.reasoner.weka;
 
 import be.unamur.mlvm.reasoner.LearningModel;
-import be.unamur.mlvm.util.Assert;
 import be.unamur.mlvm.vm.*;
 import weka.classifiers.Classifier;
 import weka.core.Attribute;
@@ -17,25 +16,15 @@ public class WekaLearningModel implements LearningModel {
     private static final String INVALID = "INVALID";
 
     private final Map<FeatureId, Attribute> features;
-    private final Instances trainingSet;
-    private final ClassifierFactory factory;
+    private final ClassifierBuilder builder;
     private final Attribute validityAttribute;
+    private final Instances trainingSet;
     private Classifier classifier;
 
-    /**
-     * Creates a learning model.
-     *
-     * @param model    the vm
-     * @param factory  a factory used to create a Weka classifier to train
-     * @param capacity the amount of elements that will be added to the training set
-     */
     public WekaLearningModel(VariabilityModel model,
-                             ClassifierFactory factory,
+                             ClassifierBuilder builder,
                              int capacity) {
-        Assert.notNull(model);
-        Assert.notNull(factory);
-
-        this.factory = factory;
+        this.builder = builder;
         features = new HashMap<>();
         ArrayList<Attribute> attributes = new ArrayList<>();
         validityAttribute = new Attribute("ConfigurationValidity", Arrays.asList(VALID, INVALID));
@@ -50,6 +39,12 @@ public class WekaLearningModel implements LearningModel {
 
         trainingSet = new Instances("trainingData", attributes, capacity);
         trainingSet.setClass(validityAttribute);
+
+        try {
+            builder.initialize(trainingSet);
+        } catch(Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override
@@ -59,20 +54,23 @@ public class WekaLearningModel implements LearningModel {
 
         Instance instance = buildInstance(c);
         instance.setValue(validityAttribute, isValid ? VALID : INVALID);
-        trainingSet.add(instance);
+        try {
+            builder.train(instance);
+        } catch(Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override
     public void buildClassifier() {
         try {
             if (!this.isClassified())
-                this.classifier = this.factory.create(trainingSet);
+                this.classifier = this.builder.build();
 
         } catch (Exception e) {
             throw new RuntimeException("Classification failed", e);
         }
     }
-
 
     @Override
     public boolean isValid(Configuration c) {

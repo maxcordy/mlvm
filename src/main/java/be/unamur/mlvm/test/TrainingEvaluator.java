@@ -26,7 +26,7 @@ public class TrainingEvaluator {
         public final Integer kFold;
         public final EvaluationResult result;
 
-        MultiEvaluationResult(VariabilityModel model, ClassifierFactory classifierFactor, SampleGenerator generator, Integer kFold, EvaluationResult result) {
+        public MultiEvaluationResult(VariabilityModel model, ClassifierFactory classifierFactor, SampleGenerator generator, Integer kFold, EvaluationResult result) {
             this.model = model;
             this.classifierFactory = classifierFactor;
             this.generator = generator;
@@ -37,7 +37,7 @@ public class TrainingEvaluator {
 
     public static EvaluationResult kFoldsEvaluate(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator generator, int kFolds) throws FeatureModelException {
         LearningModelEvaluator ev = new LearningModelEvaluator(model,
-                capacity -> new WekaLearningModel(model, classifierFactory, capacity),
+                capacity -> new WekaLearningModel(model, classifierFactory.create(), capacity),
                 model, model);
 
         return ev.crossValidateKFold(generator, kFolds);
@@ -45,7 +45,7 @@ public class TrainingEvaluator {
 
     public static EvaluationResult evaluate(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator trainingGenerator, SampleGenerator validationGenerator) throws FeatureModelException {
         LearningModelEvaluator ev = new LearningModelEvaluator(model,
-                capacity -> new WekaLearningModel(model, classifierFactory, capacity),
+                capacity -> new WekaLearningModel(model, classifierFactory.create(), capacity),
                 model, model);
 
         return ev.evaluate(trainingGenerator, validationGenerator);
@@ -60,7 +60,7 @@ public class TrainingEvaluator {
 
         LearningModelEvaluator ev = new LearningModelEvaluator(
                 model,
-                capacity -> new WekaLearningModel(model, classifierFactory, capacity),
+                capacity -> new WekaLearningModel(model, classifierFactory.create(), capacity),
                 model1,
                 createModelAugmenter(constraintIds.stream().map(model::getConstraint).collect(Collectors.toList())),
                 model);

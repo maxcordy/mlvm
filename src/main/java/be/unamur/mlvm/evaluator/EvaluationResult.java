@@ -5,6 +5,15 @@ import java.util.stream.Stream;
 public class EvaluationResult {
     private int tp, tn, fp, fn;
 
+    public EvaluationResult() {}
+
+    public EvaluationResult(int tp, int fp, int fn, int tn) {
+        this.tp = tp;
+        this.tn = tn;
+        this.fp = fp;
+        this.fn = fn;
+    }
+
     public int getTp() {
         return tp;
     }
