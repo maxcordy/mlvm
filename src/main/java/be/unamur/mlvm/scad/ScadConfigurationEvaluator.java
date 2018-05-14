@@ -92,7 +92,7 @@ public class ScadConfigurationEvaluator implements VariabilityModel {
     private File getCachePath(String key, String extension) {
         File stlOutput;
         stlOutput = scadFilePath.toFile().getParentFile();
-        stlOutput = new File(stlOutput, "generations");
+        stlOutput = new File(new File(stlOutput, "generations"), Base64.getEncoder().encodeToString(model.getName().getBytes()));
         stlOutput.mkdirs();
         stlOutput = new File(stlOutput, key + extension);
         return stlOutput;
@@ -150,7 +150,7 @@ public class ScadConfigurationEvaluator implements VariabilityModel {
 
     private void waitFor(Process scad) throws InterruptedException {
         if (timeout > 0) {
-            if(!scad.waitFor(timeout, TimeUnit.MILLISECONDS)) {
+            if (!scad.waitFor(timeout, TimeUnit.MILLISECONDS)) {
                 scad.destroyForcibly();
                 throw new RuntimeException("Timeout");
             }
@@ -244,5 +244,13 @@ public class ScadConfigurationEvaluator implements VariabilityModel {
     @Override
     public String getName() {
         return model.getName();
+    }
+
+    public VariabilityModel getModel() {
+        return model;
+    }
+
+    public boolean hasCache() {
+        return !this.cache.isEmpty();
     }
 }
