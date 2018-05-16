@@ -27,9 +27,11 @@ class KFoldTrainingSetGenerator implements SampleGenerator {
         int from = index * dataSet.size() / folds;
         int to = (index + 1) * dataSet.size() / folds;
 
-        consumer.initialize(to - from);
+        consumer.initialize(dataSet.size() - (to - from));
 
-        for (int i = from; i < to; i++)
+        for (int i = 0; i < from; i++)
+            consumer.consume(dataSet.get(i));
+        for (int i = to; i < dataSet.size(); i++)
             consumer.consume(dataSet.get(i));
     }
 }

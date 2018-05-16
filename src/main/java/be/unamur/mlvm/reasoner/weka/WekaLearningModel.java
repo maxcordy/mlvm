@@ -19,11 +19,13 @@ public class WekaLearningModel implements LearningModel {
     private final ClassifierBuilder builder;
     private final Attribute validityAttribute;
     private final Instances trainingSet;
+    private final VariabilityModel model;
     private Classifier classifier;
 
     public WekaLearningModel(VariabilityModel model,
                              ClassifierBuilder builder,
                              int capacity) {
+        this.model = model;
         this.builder = builder;
         features = new HashMap<>();
         ArrayList<Attribute> attributes = new ArrayList<>();
@@ -42,7 +44,7 @@ public class WekaLearningModel implements LearningModel {
 
         try {
             builder.initialize(trainingSet);
-        } catch(Exception e) {
+        } catch (Exception e) {
             throw new RuntimeException(e);
         }
     }
@@ -56,7 +58,7 @@ public class WekaLearningModel implements LearningModel {
         instance.setValue(validityAttribute, isValid ? VALID : INVALID);
         try {
             builder.train(instance);
-        } catch(Exception e) {
+        } catch (Exception e) {
             throw new RuntimeException(e);
         }
     }
@@ -68,7 +70,7 @@ public class WekaLearningModel implements LearningModel {
                 this.classifier = this.builder.build();
 
         } catch (Exception e) {
-            throw new RuntimeException("Classification failed", e);
+            throw new RuntimeException("Classification failed (" + model.getName() + ", F=" + model.features().size() + ")", e);
         }
     }
 

@@ -21,14 +21,22 @@ public class TrainingEvaluator {
 
     public static class MultiEvaluationResult {
         public final VariabilityModel model;
-        public final ClassifierFactory classifierFactory;
-        public final SampleGenerator generator;
+        public final String classifier;
+        public final String generator;
         public final Integer kFold;
         public final EvaluationResult result;
 
-        public MultiEvaluationResult(VariabilityModel model, ClassifierFactory classifierFactor, SampleGenerator generator, Integer kFold, EvaluationResult result) {
+        public MultiEvaluationResult(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator generator, Integer kFold, EvaluationResult result) {
             this.model = model;
-            this.classifierFactory = classifierFactor;
+            this.classifier = classifierFactory.getLabel();
+            this.generator = generator.getLabel();
+            this.kFold = kFold;
+            this.result = result;
+        }
+
+        public MultiEvaluationResult(VariabilityModel model, String classifierFactor, String generator, Integer kFold, EvaluationResult result) {
+            this.model = model;
+            this.classifier = classifierFactor;
             this.generator = generator;
             this.kFold = kFold;
             this.result = result;
@@ -81,11 +89,23 @@ public class TrainingEvaluator {
 
         List<MultiEvaluationResult> results = new ArrayList<>();
 
-        for (ClassifierFactory factory : classifierFactory)
-            for (SampleGenerator generator : generators)
-                for (VariabilityModel model : models)
+        int p = 0;
+        int c = 0;
+        long start = System.currentTimeMillis();
+        int t = models.size() * classifierFactory.size() * generators.size();
+
+        for (VariabilityModel model : models)
+            for (ClassifierFactory factory : classifierFactory)
+                for (SampleGenerator generator : generators) {
+                    int p1 = (c++ * 100 + t / 2) / t;
+                    if (p != p1) {
+                        Duration remaining = Duration.ofMillis((long) ((t - c + 0.0) * (System.currentTimeMillis() - start) / c));
+                        System.out.printf("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t%d%% - Rem: %d:%02d\n", (p = p1), remaining.toMinutes(), remaining.getSeconds() % 60);
+                    }
+
                     results.add(new MultiEvaluationResult(model, factory, generator, kFolds,
                             kFoldsEvaluate(model, factory, generator, kFolds)));
+                }
 
         return new Results(results);
     }
@@ -106,8 +126,9 @@ public class TrainingEvaluator {
         for (VariabilityModel model : models) {
 
             for (ClassifierFactory factory : classifierFactory)
-                for (SampleGenerator generator : generators) {
 
+
+                for (SampleGenerator generator : generators) {
                     int p1 = (c++ * 100 + t / 2) / t;
                     if (p != p1) {
                         Duration remaining = Duration.ofMillis((long) ((t - c + 0.0) * (System.currentTimeMillis() - start) / c));

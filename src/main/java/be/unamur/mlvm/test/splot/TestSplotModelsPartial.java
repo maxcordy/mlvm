@@ -1,5 +1,6 @@
 package be.unamur.mlvm.test.splot;
 
+import be.unamur.mlvm.evaluator.EvaluationResult;
 import be.unamur.mlvm.reasoner.weka.ClassifierFactory;
 import be.unamur.mlvm.reasoner.weka.Classifiers;
 import be.unamur.mlvm.sampling.CombinatorialSampleGenerator;
@@ -7,98 +8,97 @@ import be.unamur.mlvm.sampling.RandomSampleGenerator;
 import be.unamur.mlvm.sampling.SampleGenerator;
 import be.unamur.mlvm.splot.SplotModelLoader;
 import be.unamur.mlvm.test.Results;
+import be.unamur.mlvm.test.TestUtils;
 import be.unamur.mlvm.test.TrainingEvaluator;
 import be.unamur.mlvm.vm.VariabilityModel;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.time.Duration;
-import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class TestSplotModelsPartial {
 
-
-
     public static void main(String[] args) throws Exception {
-        Instant start = Instant.now();
 
-        int maxFeatures = 13;
+        // limite le nombre de modeles ayant le meme nombre de features
+        int limit = -1;
+        limit = 5;
 
         List<ClassifierFactory> classifiers = Arrays.asList(
-                Classifiers.SVM_RBF(5),
+//                Classifiers.SVM_RBF(5),
                 Classifiers.SVM_Poly(3, 2, 0.5),
                 Classifiers.RandomForest(),
-                Classifiers.SVM_Puk(1, 0.1),
+//                Classifiers.SVM_Puk(1, 0.1),
                 Classifiers.RandomCommittee(),
                 Classifiers.REPTree(),
                 Classifiers.LogisticModelTree(),
-                Classifiers.MultilayerPerceptron(),
-                Classifiers.J48()
+//                Classifiers.MultilayerPerceptron(),
+                Classifiers.J48(),
+                Classifiers.NaiveBayesUpdateable(),
+                Classifiers.HoeffdingTree(),
+//                Classifiers.IBk(),
+//                Classifiers.KStar(),
+                Classifiers.StochasticGradientDescend()
+//                Classifiers.LWL()
+
         );
 
         List<VariabilityModel> models = new ArrayList<>();
 
-        loadSamplesDirectory("SPLOT")
+        SplotUtils.loadSamplesDirectory("SPLOT")
                 .forEach(models::add);
-
 
         System.out.println("Loaded " + models.size() + " models");
 
-        models.removeIf(x -> x.features().size() > maxFeatures);
+        double[] partials = new double[]{0.01, 0.005};
+        Results r[] = new Results[partials.length];
 
-        for(int i = 0 ; i < 10; i++) {
-            double ratio = 1 - i * 0.1;
-            System.out.println("Running evaluation for features=" + i + ", models_count=" + models.size());
-        List<SampleGenerator> generators = Collections.singletonList(new RandomSampleGenerator(ratio, true));
+        for (int features = 21; features <= 30; features++)
+            for (int partialId = 0; partialId < partials.length; partialId++) {
+                double partial = partials[partialId];
 
-            Results r1 = TrainingEvaluator.evaluateMany(models, classifiers, generators, new CombinatorialSampleGenerator());
-            saveResults(r1, String.format("partial_F%d_P%02d", maxFeatures, (int) Math.round(ratio * 100)));
-        }
+                String filename = "F" + features;
+                String filename2 = "upToF" + features;
+                if (limit >= 0) {
+                    filename = "l" + limit + "_" + filename;
+                    filename2 = "l" + limit + "_" + filename2;
+                }
+                filename = String.format("partial_big/P%f_%s", partial, filename);
+                filename2 = String.format("partial_big/P%f_%s", partial, filename2);
+
+                List<SampleGenerator> generators = Arrays.asList(
+                        new RandomSampleGenerator(partial, true),
+                        new RandomSampleGenerator(partial, true)
+                );
 
 
-        Instant end = Instant.now();
-        System.out.println("Finished after " + Duration.between(start, end).toString()
-                .substring(2)
-                .replaceAll("(\\d[HMS])(?!$)", "$1 ")
-                .toLowerCase());
-    }
+                int finalI = features;
+                Stream<VariabilityModel> modelsStream = models.stream()
+                        .filter(x -> x.features().size() == finalI);
+                if (limit >= 0)
+                    modelsStream = modelsStream.limit(limit);
 
-    private static void saveResults(Results results, String outName) throws IOException {
-        Files.createDirectories(Paths.get("./results/splot"));
-        try (PrintStream out = new PrintStream("./results/splot/" + outName + "_stats.csv")) {
-            results.displayStats(out);
-        }
-        try (PrintStream out = new PrintStream("./results/splot/" + outName + "_cross.csv")) {
-            results.displayScoreVsConstraints(out);
-        }
-        try (PrintStream out = new PrintStream("./results/splot/" + outName + "_raw.csv")) {
-            results.displayRawResults(out);
-        }
-    }
+                List<VariabilityModel> models1 = modelsStream
+                        .collect(Collectors.toList());
 
-    private static Stream<VariabilityModel> loadSamplesDirectory(String s) throws Exception {
-        return Files.list(Paths.get(TestSplotModelsPartial.class.getResource("/samples/" + s).toURI()))
-                .map(TestSplotModelsPartial::loadFile);
-    }
+                if (models1.isEmpty())
+                    continue;
 
-    private static VariabilityModel loadSampleFile(String s) throws Exception {
-        return loadFile(Paths.get(TestSplotModelsPartial.class.getResource("/samples/" + s).toURI()));
-    }
-
-    private static VariabilityModel loadFile(Path x) {
-        try {
-            return SplotModelLoader.parse(x.toString());
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
+                Path resultsPath = Paths.get("results", "splot", filename + "_raw.csv");
+                Results r1 = TestUtils.trainOrLoad(resultsPath, features, models1, classifiers, generators, new CombinatorialSampleGenerator());
+                r[partialId] = Results.combine(r[partialId], r1);
+                TestUtils.saveResults(r1, "splot/" + filename);
+                TestUtils.saveResults(r[partialId], "splot/" + filename2);
+            }
     }
 }

@@ -20,20 +20,17 @@ import java.util.stream.Stream;
 
 public class TestSpeed {
 
-    private static final String OUTPUT_NAME = "test_speed";
+    private static final String OUTPUT_NAME = "test_speed_u10";
     private static final int MAX = 20000;
 
     public static void main(String[] args) throws Exception {
         List<ClassifierFactory> classifiers = Arrays.asList(
-                Classifiers.SVM_Poly(3, 2, 0.5),
-                Classifiers.RandomForest(),
-                Classifiers.SVM_Puk(1, 0.1),
-                Classifiers.RandomCommittee(),
-                Classifiers.REPTree(),
-                Classifiers.LogisticModelTree(),
-                Classifiers.MultilayerPerceptron(),
-                Classifiers.J48(),
-                Classifiers.SVM_RBF(5)
+                Classifiers.NaiveBayesUpdateable(),
+                Classifiers.HoeffdingTree(),
+                Classifiers.IBk(),
+                Classifiers.KStar(),
+                Classifiers.StochasticGradientDescend(),
+                Classifiers.LWL()
         );
 
 
@@ -44,7 +41,9 @@ public class TestSpeed {
 
         System.out.println("Loaded " + models.size() + " models");
         System.out.println("Removing models with configurations > " + MAX);
-        models.removeIf(x -> Math.pow(2, x.features().size()) > MAX);
+        models.removeIf(x -> x.features().size() > 16);
+        while(models.size() > 10)
+            models.remove(models.size() - 1);
 
         System.out.println("features stats : " + models.stream().collect(Collectors.summarizingInt(x -> x.features().size())));
 

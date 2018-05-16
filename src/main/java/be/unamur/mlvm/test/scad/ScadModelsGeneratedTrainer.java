@@ -36,7 +36,6 @@ public class ScadModelsGeneratedTrainer {
     private static final String OUTPUT_NAME = "test_SCAD";
 
 
-
     public static void main(String[] args) throws IOException, FeatureModelException {
 
         List<VariabilityModel> models = listAllScadFiles()
@@ -48,7 +47,7 @@ public class ScadModelsGeneratedTrainer {
         CombinatorialSampleGenerator sampleGenerator2 = new CombinatorialSampleGenerator(RANGE_PARTITION1);
 
         System.out.println("Loaded models: " + models.size());
-        models.removeIf(x -> estimateDomainSize(x, RANGE_PARTITION) >= 20000);
+        models.removeIf(x -> estimateDomainSize(x, RANGE_PARTITION) >= 2000000);
         System.out.println("Loaded models: " + models.size());
         models.removeIf(x -> !isModelComplete(x, sampleGenerator1));
         models.removeIf(x -> !isModelComplete(x, sampleGenerator2));
@@ -120,7 +119,7 @@ public class ScadModelsGeneratedTrainer {
 
         try {
             c.generateSamples(model, x -> {
-                if(!ev.isCached(x))
+                if (!ev.isCached(x))
                     throw new RuntimeException("BREAK");
             });
             return true;
@@ -151,7 +150,7 @@ public class ScadModelsGeneratedTrainer {
         }
     }
 
-    private static Stream<Path> listAllScadFiles() {
+    public static Stream<Path> listAllScadFiles() {
         return listFiles(SCAD_FILES_ROOT)
                 .flatMap(ScadModelsGeneratedTrainer::listFiles)
                 .filter(x -> x.getFileName().toString().endsWith(".scad"));

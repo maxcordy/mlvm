@@ -4,7 +4,6 @@ package be.unamur.mlvm.test.scad;
 import be.unamur.mlvm.sampling.CombinatorialSampleGenerator;
 import be.unamur.mlvm.scad.ScadConfigurationEvaluator;
 import be.unamur.mlvm.scad.ScadModelLoader;
-import be.unamur.mlvm.vm.Configuration;
 import be.unamur.mlvm.vm.FeatureDomain;
 import be.unamur.mlvm.vm.FeatureId;
 import be.unamur.mlvm.vm.VariabilityModel;
@@ -24,10 +23,10 @@ public class ScadModelsResultsGenerator {
 
     private static final Path OPENSCAD_PATH = Paths.get("C:", "Program Files", "OpenSCAD", "openscad.exe");
     private static final Path SLIC3R_PATH = Paths.get("C:", "Program Files", "Slic3r", "slic3r-console.exe");
-    private static final Path SCAD_FILES_ROOT = Paths.get("d:", "scadFiles");
+    private static final Path SCAD_FILES_ROOT = Paths.get("D:", "scadFiles");
 
-    private static final int RANGE_PARTITION = 21;
-    private static final int TIMEOUT = 60 * 60 * 1000; // 10 mins
+    private static final int RANGE_PARTITION = 20;
+    private static final int TIMEOUT = 10 * 60 * 1000; // 10 mins
 
     public static void main(String[] args) throws IOException {
 
@@ -38,7 +37,7 @@ public class ScadModelsResultsGenerator {
 
         System.out.println("Loaded models: " + models.size());
         List<VariabilityModel> models1 = models.stream()
-                .filter(x -> estimateDomainSize(x, RANGE_PARTITION) < 20000)
+                .filter(x -> estimateDomainSize(x, RANGE_PARTITION) < 20000000)
                 .collect(Collectors.toList());
         System.out.println("Remaining models: " + models1.size());
 
@@ -62,7 +61,6 @@ public class ScadModelsResultsGenerator {
             }
         }
         return count;
-
     }
 
     private static Stream<Path> listFiles(Path path) {
@@ -79,7 +77,7 @@ public class ScadModelsResultsGenerator {
                 .filter(x -> x.getFileName().toString().endsWith(".scad"));
     }
 
-    private static Optional<VariabilityModel> loadJson(Path path) {
+    public static Optional<VariabilityModel> loadJson(Path path) {
         try {
             return Optional.of(ScadModelLoader.load(path.toFile()));
         } catch (ScadModelLoader.UnhandledTypeException e) {

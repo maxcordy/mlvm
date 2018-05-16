@@ -8,6 +8,7 @@ import be.unamur.mlvm.util.Assert;
 import be.unamur.mlvm.vm.Configuration;
 import be.unamur.mlvm.vm.VariabilityModel;
 
+import java.util.Collections;
 import java.util.List;
 import java.util.function.Function;
 import java.util.stream.IntStream;
@@ -60,6 +61,7 @@ public class LearningModelEvaluator {
     public EvaluationResult crossValidateKFold(SampleGenerator samplesGenerator, int k) {
 
         List<Configuration> dataSet = SampleCollector.collect(vm, samplesGenerator);
+        Collections.shuffle(dataSet);
 
         return IntStream.range(0, k)
                 .mapToObj(x -> evaluate(new KFoldTrainingSetGenerator(dataSet, k, x), new KFoldValidationSetGenerator(dataSet, k, x)))

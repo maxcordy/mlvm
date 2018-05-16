@@ -1,0 +1,61 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+MultilayerPerceptron[a];Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+MultilayerPerceptron[i];Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+MultilayerPerceptron[i,o];Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+MultilayerPerceptron[i,a];Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+MultilayerPerceptron[i,6];Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+MultilayerPerceptron[a,4];Combinatorial[0];Mobile Game;270;0;2;1776;1.000;0.993;0.996
+MultilayerPerceptron[a];Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+MultilayerPerceptron[i];Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+MultilayerPerceptron[i,o];Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+MultilayerPerceptron[i,a];Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+MultilayerPerceptron[i,6];Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+MultilayerPerceptron[a,4];Combinatorial[0];VOD feature model;32;0;1;2015;1.000;0.970;0.985
+MultilayerPerceptron[a];Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+MultilayerPerceptron[i];Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+MultilayerPerceptron[i,o];Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+MultilayerPerceptron[i,a];Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+MultilayerPerceptron[i,6];Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+MultilayerPerceptron[a,4];Combinatorial[0];VODPlayer;96;0;2;1950;1.000;0.980;0.990
+MultilayerPerceptron[a];Combinatorial[0];SmartHome_vConejero_r1;2;0;1;2045;1.000;0.667;0.800
+MultilayerPerceptron[i];Combinatorial[0];SmartHome_vConejero_r1;2;0;1;2045;1.000;0.667;0.800
+MultilayerPerceptron[i,o];Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+MultilayerPerceptron[i,a];Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+MultilayerPerceptron[i,6];Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+MultilayerPerceptron[a,4];Combinatorial[0];SmartHome_vConejero_r1;0;0;3;2045;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+MultilayerPerceptron[i];Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+MultilayerPerceptron[i,o];Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+MultilayerPerceptron[i,a];Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+MultilayerPerceptron[i,6];Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+MultilayerPerceptron[a,4];Combinatorial[0];MobileMedia;56;0;2;1990;1.000;0.966;0.982
+MultilayerPerceptron[a];Combinatorial[0];ordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i];Combinatorial[0];ordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i,o];Combinatorial[0];ordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i,a];Combinatorial[0];ordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i,6];Combinatorial[0];ordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[a,4];Combinatorial[0];ordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[a];Combinatorial[0];desordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i];Combinatorial[0];desordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i,o];Combinatorial[0];desordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i,a];Combinatorial[0];desordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[i,6];Combinatorial[0];desordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[a,4];Combinatorial[0];desordem;48;0;9;1991;1.000;0.842;0.914
+MultilayerPerceptron[a];Combinatorial[0];Mauricio Alférez;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i];Combinatorial[0];Mauricio Alférez;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i,o];Combinatorial[0];Mauricio Alférez;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i,a];Combinatorial[0];Mauricio Alférez;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i,6];Combinatorial[0];Mauricio Alférez;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[a,4];Combinatorial[0];Mauricio Alférez;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[a];Combinatorial[0];isolation;6;0;2;2040;1.000;0.750;0.857
+MultilayerPerceptron[i];Combinatorial[0];isolation;6;0;2;2040;1.000;0.750;0.857
+MultilayerPerceptron[i,o];Combinatorial[0];isolation;6;0;2;2040;1.000;0.750;0.857
+MultilayerPerceptron[i,a];Combinatorial[0];isolation;6;0;2;2040;1.000;0.750;0.857
+MultilayerPerceptron[i,6];Combinatorial[0];isolation;6;0;2;2040;1.000;0.750;0.857
+MultilayerPerceptron[a,4];Combinatorial[0];isolation;6;0;2;2040;1.000;0.750;0.857
+MultilayerPerceptron[a];Combinatorial[0];SmartHome- Simplified Sample;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i];Combinatorial[0];SmartHome- Simplified Sample;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i,o];Combinatorial[0];SmartHome- Simplified Sample;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i,a];Combinatorial[0];SmartHome- Simplified Sample;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[i,6];Combinatorial[0];SmartHome- Simplified Sample;10;0;1;2037;1.000;0.909;0.952
+MultilayerPerceptron[a,4];Combinatorial[0];SmartHome- Simplified Sample;10;0;1;2037;1.000;0.909;0.952

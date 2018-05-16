@@ -17,7 +17,10 @@ import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.SelectedTag;
 
+import java.util.Arrays;
 import java.util.function.Supplier;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class Classifiers {
 
@@ -25,6 +28,7 @@ public class Classifiers {
     public static ClassifierFactory J48() {
         return createFactory("J48", J48::new);
     }
+
 
     public static ClassifierFactory NaiveBayes() {
         return createFactory("NaiveBayes", NaiveBayes::new);
@@ -76,7 +80,19 @@ public class Classifiers {
     }
 
     public static ClassifierFactory MultilayerPerceptron() {
-        return createFactory("MultilayerPerceptron", MultilayerPerceptron::new);
+        return MultilayerPerceptron("a");
+    }
+
+    public static ClassifierFactory MultilayerPerceptron(String layers) {
+        return createFactory("MultilayerPerceptron[" + layers + "]", () -> {
+            MultilayerPerceptron multilayerPerceptron = new MultilayerPerceptron();
+            try {
+                multilayerPerceptron.setOptions(new String[]{"-H", layers});
+            } catch (Exception e) {
+                throw new RuntimeException(e);
+            }
+            return multilayerPerceptron;
+        });
     }
 
     public static ClassifierFactory LogisticRegression() {

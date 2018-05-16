@@ -13,7 +13,7 @@ public interface SampleGenerator {
 
     @FunctionalInterface
     interface SamplesConsumer {
-        default void initialize(int samplesCount) {}
+        default void initialize(int estimatedSamplesCount) {}
 
         void consume(Configuration configuration);
     }

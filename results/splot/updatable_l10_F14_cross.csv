@@ -1,6 +1,0 @@
-Constraints;Count;StochasticGradientDescend_min;StochasticGradientDescend_Q1;StochasticGradientDescend_Q2;StochasticGradientDescend_Q3;StochasticGradientDescend_max;HoeffdingTree_min;HoeffdingTree_Q1;HoeffdingTree_Q2;HoeffdingTree_Q3;HoeffdingTree_max;KStar_min;KStar_Q1;KStar_Q2;KStar_Q3;KStar_max;NaiveBayesUpdateable_min;NaiveBayesUpdateable_Q1;NaiveBayesUpdateable_Q2;NaiveBayesUpdateable_Q3;NaiveBayesUpdateable_max;LWL_min;LWL_Q1;LWL_Q2;LWL_Q3;LWL_max;IBk_min;IBk_Q1;IBk_Q2;IBk_Q3;IBk_max
-0;7;0.014;0.029;0.508;NaN;NaN;0.015;0.500;0.723;NaN;NaN;0.588;0.625;0.989;NaN;NaN;0.464;0.496;NaN;NaN;NaN;0.588;0.625;0.989;NaN;NaN;1.000;1.000;1.000;1.000;1.000
-1;1;0.085;0.085;0.085;0.085;0.085;0.109;0.109;0.109;0.109;0.109;0.917;0.917;0.917;0.917;0.917;0.317;0.317;0.317;0.317;0.317;0.917;0.917;0.917;0.917;0.917;1.000;1.000;1.000;1.000;1.000
-4;1;0.408;0.408;0.408;0.408;0.408;0.587;0.587;0.587;0.587;0.587;0.880;0.880;0.880;0.880;0.880;0.149;0.149;0.149;0.149;0.149;0.880;0.880;0.880;0.880;0.880;1.000;1.000;1.000;1.000;1.000
-5;1;0.435;0.435;0.435;0.435;0.435;0.563;0.563;0.563;0.563;0.563;0.921;0.921;0.921;0.921;0.921;0.351;0.351;0.351;0.351;0.351;0.921;0.921;0.921;0.921;0.921;1.000;1.000;1.000;1.000;1.000
-

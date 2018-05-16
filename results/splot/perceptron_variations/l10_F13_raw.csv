@@ -1,0 +1,61 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+MultilayerPerceptron[a];Combinatorial[0];Phone sple;144;0;80;7968;1.000;0.643;0.783
+MultilayerPerceptron[i];Combinatorial[0];Phone sple;144;0;80;7968;1.000;0.643;0.783
+MultilayerPerceptron[i,o];Combinatorial[0];Phone sple;144;0;80;7968;1.000;0.643;0.783
+MultilayerPerceptron[i,a];Combinatorial[0];Phone sple;144;0;80;7968;1.000;0.643;0.783
+MultilayerPerceptron[i,6];Combinatorial[0];Phone sple;144;0;80;7968;1.000;0.643;0.783
+MultilayerPerceptron[a,4];Combinatorial[0];Phone sple;144;0;80;7968;1.000;0.643;0.783
+MultilayerPerceptron[a];Combinatorial[0];KIModel;12;0;1;8179;1.000;0.923;0.960
+MultilayerPerceptron[i];Combinatorial[0];KIModel;12;0;1;8179;1.000;0.923;0.960
+MultilayerPerceptron[i,o];Combinatorial[0];KIModel;12;0;1;8179;1.000;0.923;0.960
+MultilayerPerceptron[i,a];Combinatorial[0];KIModel;12;0;1;8179;1.000;0.923;0.960
+MultilayerPerceptron[i,6];Combinatorial[0];KIModel;12;0;1;8179;1.000;0.923;0.960
+MultilayerPerceptron[a,4];Combinatorial[0];KIModel;12;0;1;8179;1.000;0.923;0.960
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;22;0;2;8168;1.000;0.917;0.957
+MultilayerPerceptron[i];Combinatorial[0];Text Editor;22;0;2;8168;1.000;0.917;0.957
+MultilayerPerceptron[i,o];Combinatorial[0];Text Editor;22;0;2;8168;1.000;0.917;0.957
+MultilayerPerceptron[i,a];Combinatorial[0];Text Editor;22;0;2;8168;1.000;0.917;0.957
+MultilayerPerceptron[i,6];Combinatorial[0];Text Editor;22;0;2;8168;1.000;0.917;0.957
+MultilayerPerceptron[a,4];Combinatorial[0];Text Editor;22;0;2;8168;1.000;0.917;0.957
+MultilayerPerceptron[a];Combinatorial[0];CCCMS;480;0;2;7710;1.000;0.996;0.998
+MultilayerPerceptron[i];Combinatorial[0];CCCMS;480;0;2;7710;1.000;0.996;0.998
+MultilayerPerceptron[i,o];Combinatorial[0];CCCMS;480;0;2;7710;1.000;0.996;0.998
+MultilayerPerceptron[i,a];Combinatorial[0];CCCMS;480;0;2;7710;1.000;0.996;0.998
+MultilayerPerceptron[i,6];Combinatorial[0];CCCMS;480;0;2;7710;1.000;0.996;0.998
+MultilayerPerceptron[a,4];Combinatorial[0];CCCMS;480;0;2;7710;1.000;0.996;0.998
+MultilayerPerceptron[a];Combinatorial[0];FM1;0;0;2;8190;NaN;0.000;NaN
+MultilayerPerceptron[i];Combinatorial[0];FM1;0;0;2;8190;NaN;0.000;NaN
+MultilayerPerceptron[i,o];Combinatorial[0];FM1;0;0;2;8190;NaN;0.000;NaN
+MultilayerPerceptron[i,a];Combinatorial[0];FM1;0;0;2;8190;NaN;0.000;NaN
+MultilayerPerceptron[i,6];Combinatorial[0];FM1;0;0;2;8190;NaN;0.000;NaN
+MultilayerPerceptron[a,4];Combinatorial[0];FM1;0;0;2;8190;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];UPL;56;0;20;8116;1.000;0.737;0.848
+MultilayerPerceptron[i];Combinatorial[0];UPL;56;0;20;8116;1.000;0.737;0.848
+MultilayerPerceptron[i,o];Combinatorial[0];UPL;56;0;20;8116;1.000;0.737;0.848
+MultilayerPerceptron[i,a];Combinatorial[0];UPL;56;0;20;8116;1.000;0.737;0.848
+MultilayerPerceptron[i,6];Combinatorial[0];UPL;56;0;20;8116;1.000;0.737;0.848
+MultilayerPerceptron[a,4];Combinatorial[0];UPL;56;0;20;8116;1.000;0.737;0.848
+MultilayerPerceptron[a];Combinatorial[0];Loja Virtual;224;0;4;7964;1.000;0.982;0.991
+MultilayerPerceptron[i];Combinatorial[0];Loja Virtual;224;0;4;7964;1.000;0.982;0.991
+MultilayerPerceptron[i,o];Combinatorial[0];Loja Virtual;224;0;4;7964;1.000;0.982;0.991
+MultilayerPerceptron[i,a];Combinatorial[0];Loja Virtual;224;0;4;7964;1.000;0.982;0.991
+MultilayerPerceptron[i,6];Combinatorial[0];Loja Virtual;224;0;4;7964;1.000;0.982;0.991
+MultilayerPerceptron[a,4];Combinatorial[0];Loja Virtual;224;0;4;7964;1.000;0.982;0.991
+MultilayerPerceptron[a];Combinatorial[0];MiniRPG;16;0;1;8175;1.000;0.941;0.970
+MultilayerPerceptron[i];Combinatorial[0];MiniRPG;16;0;1;8175;1.000;0.941;0.970
+MultilayerPerceptron[i,o];Combinatorial[0];MiniRPG;16;0;1;8175;1.000;0.941;0.970
+MultilayerPerceptron[i,a];Combinatorial[0];MiniRPG;16;0;1;8175;1.000;0.941;0.970
+MultilayerPerceptron[i,6];Combinatorial[0];MiniRPG;16;0;1;8175;1.000;0.941;0.970
+MultilayerPerceptron[a,4];Combinatorial[0];MiniRPG;16;0;1;8175;1.000;0.941;0.970
+MultilayerPerceptron[a];Combinatorial[0];Bicis_Feature_Model;48;0;8;8136;1.000;0.857;0.923
+MultilayerPerceptron[i];Combinatorial[0];Bicis_Feature_Model;48;0;8;8136;1.000;0.857;0.923
+MultilayerPerceptron[i,o];Combinatorial[0];Bicis_Feature_Model;48;0;8;8136;1.000;0.857;0.923
+MultilayerPerceptron[i,a];Combinatorial[0];Bicis_Feature_Model;48;0;8;8136;1.000;0.857;0.923
+MultilayerPerceptron[i,6];Combinatorial[0];Bicis_Feature_Model;48;0;8;8136;1.000;0.857;0.923
+MultilayerPerceptron[a,4];Combinatorial[0];Bicis_Feature_Model;48;0;8;8136;1.000;0.857;0.923
+MultilayerPerceptron[a];Combinatorial[0];aaaaaa;64;0;0;8128;1.000;1.000;1.000
+MultilayerPerceptron[i];Combinatorial[0];aaaaaa;64;0;0;8128;1.000;1.000;1.000
+MultilayerPerceptron[i,o];Combinatorial[0];aaaaaa;64;0;0;8128;1.000;1.000;1.000
+MultilayerPerceptron[i,a];Combinatorial[0];aaaaaa;64;0;0;8128;1.000;1.000;1.000
+MultilayerPerceptron[i,6];Combinatorial[0];aaaaaa;64;0;0;8128;1.000;1.000;1.000
+MultilayerPerceptron[a,4];Combinatorial[0];aaaaaa;64;0;0;8128;1.000;1.000;1.000

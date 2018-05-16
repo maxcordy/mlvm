@@ -1,0 +1,61 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+MultilayerPerceptron[a];Combinatorial[0];SAL;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i];Combinatorial[0];SAL;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i,o];Combinatorial[0];SAL;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i,a];Combinatorial[0];SAL;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i,6];Combinatorial[0];SAL;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[a,4];Combinatorial[0];SAL;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[a];Combinatorial[0];E-portal;32;0;2;4062;1.000;0.941;0.970
+MultilayerPerceptron[i];Combinatorial[0];E-portal;32;0;2;4062;1.000;0.941;0.970
+MultilayerPerceptron[i,o];Combinatorial[0];E-portal;32;0;2;4062;1.000;0.941;0.970
+MultilayerPerceptron[i,a];Combinatorial[0];E-portal;32;0;2;4062;1.000;0.941;0.970
+MultilayerPerceptron[i,6];Combinatorial[0];E-portal;32;0;2;4062;1.000;0.941;0.970
+MultilayerPerceptron[a,4];Combinatorial[0];E-portal;32;0;2;4062;1.000;0.941;0.970
+MultilayerPerceptron[a];Combinatorial[0];test_fm;8;0;1;4087;1.000;0.889;0.941
+MultilayerPerceptron[i];Combinatorial[0];test_fm;8;0;1;4087;1.000;0.889;0.941
+MultilayerPerceptron[i,o];Combinatorial[0];test_fm;8;0;1;4087;1.000;0.889;0.941
+MultilayerPerceptron[i,a];Combinatorial[0];test_fm;8;0;1;4087;1.000;0.889;0.941
+MultilayerPerceptron[i,6];Combinatorial[0];test_fm;8;0;1;4087;1.000;0.889;0.941
+MultilayerPerceptron[a,4];Combinatorial[0];test_fm;8;0;1;4087;1.000;0.889;0.941
+MultilayerPerceptron[a];Combinatorial[0];AvionFEatures;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i];Combinatorial[0];AvionFEatures;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i,o];Combinatorial[0];AvionFEatures;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i,a];Combinatorial[0];AvionFEatures;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[i,6];Combinatorial[0];AvionFEatures;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[a,4];Combinatorial[0];AvionFEatures;48;0;4;4044;1.000;0.923;0.960
+MultilayerPerceptron[a];Combinatorial[0];Ökonomische Merkmale;96;0;4;3996;1.000;0.960;0.980
+MultilayerPerceptron[i];Combinatorial[0];Ökonomische Merkmale;96;0;4;3996;1.000;0.960;0.980
+MultilayerPerceptron[i,o];Combinatorial[0];Ökonomische Merkmale;96;0;4;3996;1.000;0.960;0.980
+MultilayerPerceptron[i,a];Combinatorial[0];Ökonomische Merkmale;96;0;4;3996;1.000;0.960;0.980
+MultilayerPerceptron[i,6];Combinatorial[0];Ökonomische Merkmale;96;0;4;3996;1.000;0.960;0.980
+MultilayerPerceptron[a,4];Combinatorial[0];Ökonomische Merkmale;96;0;4;3996;1.000;0.960;0.980
+MultilayerPerceptron[a];Combinatorial[0];Doorlopende reisverzekering;64;0;1;4031;1.000;0.985;0.992
+MultilayerPerceptron[i];Combinatorial[0];Doorlopende reisverzekering;64;0;1;4031;1.000;0.985;0.992
+MultilayerPerceptron[i,o];Combinatorial[0];Doorlopende reisverzekering;64;0;1;4031;1.000;0.985;0.992
+MultilayerPerceptron[i,a];Combinatorial[0];Doorlopende reisverzekering;64;0;1;4031;1.000;0.985;0.992
+MultilayerPerceptron[i,6];Combinatorial[0];Doorlopende reisverzekering;64;0;1;4031;1.000;0.985;0.992
+MultilayerPerceptron[a,4];Combinatorial[0];Doorlopende reisverzekering;64;0;1;4031;1.000;0.985;0.992
+MultilayerPerceptron[a];Combinatorial[0];carpl;8;0;4;4084;1.000;0.667;0.800
+MultilayerPerceptron[i];Combinatorial[0];carpl;8;0;4;4084;1.000;0.667;0.800
+MultilayerPerceptron[i,o];Combinatorial[0];carpl;8;0;4;4084;1.000;0.667;0.800
+MultilayerPerceptron[i,a];Combinatorial[0];carpl;8;0;4;4084;1.000;0.667;0.800
+MultilayerPerceptron[i,6];Combinatorial[0];carpl;8;0;4;4084;1.000;0.667;0.800
+MultilayerPerceptron[a,4];Combinatorial[0];carpl;8;0;4;4084;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];MyFM;76;0;4;4016;1.000;0.950;0.974
+MultilayerPerceptron[i];Combinatorial[0];MyFM;76;0;4;4016;1.000;0.950;0.974
+MultilayerPerceptron[i,o];Combinatorial[0];MyFM;76;0;4;4016;1.000;0.950;0.974
+MultilayerPerceptron[i,a];Combinatorial[0];MyFM;76;0;4;4016;1.000;0.950;0.974
+MultilayerPerceptron[i,6];Combinatorial[0];MyFM;76;0;4;4016;1.000;0.950;0.974
+MultilayerPerceptron[a,4];Combinatorial[0];MyFM;76;0;4;4016;1.000;0.950;0.974
+MultilayerPerceptron[a];Combinatorial[0];ETRobocon;240;0;2;3854;1.000;0.992;0.996
+MultilayerPerceptron[i];Combinatorial[0];ETRobocon;240;0;2;3854;1.000;0.992;0.996
+MultilayerPerceptron[i,o];Combinatorial[0];ETRobocon;240;0;2;3854;1.000;0.992;0.996
+MultilayerPerceptron[i,a];Combinatorial[0];ETRobocon;240;0;2;3854;1.000;0.992;0.996
+MultilayerPerceptron[i,6];Combinatorial[0];ETRobocon;240;0;2;3854;1.000;0.992;0.996
+MultilayerPerceptron[a,4];Combinatorial[0];ETRobocon;240;0;2;3854;1.000;0.992;0.996
+MultilayerPerceptron[a];Combinatorial[0];Example Mobile Phone;56;0;4;4036;1.000;0.933;0.966
+MultilayerPerceptron[i];Combinatorial[0];Example Mobile Phone;56;0;4;4036;1.000;0.933;0.966
+MultilayerPerceptron[i,o];Combinatorial[0];Example Mobile Phone;56;0;4;4036;1.000;0.933;0.966
+MultilayerPerceptron[i,a];Combinatorial[0];Example Mobile Phone;56;0;4;4036;1.000;0.933;0.966
+MultilayerPerceptron[i,6];Combinatorial[0];Example Mobile Phone;56;0;4;4036;1.000;0.933;0.966
+MultilayerPerceptron[a,4];Combinatorial[0];Example Mobile Phone;56;0;4;4036;1.000;0.933;0.966
