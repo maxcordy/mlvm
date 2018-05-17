@@ -1,0 +1,91 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_Poly[3,2.0,0.5];Random[0.005];Mobile Phone;149;532;503;4193120;0.219;0.229;0.224
+SVM_Poly[3,2.0,0.5];Random[0.005];Mobile Phone;198;651;454;4193001;0.233;0.304;0.264
+RandomForest;Random[0.005];Mobile Phone;1;0;651;4193652;1.000;0.002;0.003
+RandomForest;Random[0.005];Mobile Phone;7;4;645;4193648;0.636;0.011;0.021
+RandomCommittee;Random[0.005];Mobile Phone;16;56;636;4193596;0.222;0.025;0.044
+RandomCommittee;Random[0.005];Mobile Phone;28;88;624;4193564;0.241;0.043;0.073
+REPTree;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+REPTree;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+LogisticModelTree;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+LogisticModelTree;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+J48;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+J48;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[0.005];Mobile Phone;23;21;629;4193631;0.523;0.035;0.066
+NaiveBayesUpdateable;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+HoeffdingTree;Random[0.005];Mobile Phone;220;2096932;432;2096720;0.000;0.337;0.000
+HoeffdingTree;Random[0.005];Mobile Phone;4;2097148;648;2096504;0.000;0.006;0.000
+StochasticGradientDescend;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+StochasticGradientDescend;Random[0.005];Mobile Phone;0;0;652;4193652;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Random[0.005];Small Graph Product Line;4062;2721;5826;4181695;0.599;0.411;0.487
+SVM_Poly[3,2.0,0.5];Random[0.005];Small Graph Product Line;4761;3252;5127;4181164;0.594;0.481;0.532
+RandomForest;Random[0.005];Small Graph Product Line;175;13;9713;4184403;0.931;0.018;0.035
+RandomForest;Random[0.005];Small Graph Product Line;168;3;9720;4184413;0.982;0.017;0.033
+RandomCommittee;Random[0.005];Small Graph Product Line;1339;1476;8549;4182940;0.476;0.135;0.211
+RandomCommittee;Random[0.005];Small Graph Product Line;850;886;9038;4183530;0.490;0.086;0.146
+REPTree;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+REPTree;Random[0.005];Small Graph Product Line;1056;4064;8832;4180352;0.206;0.107;0.141
+LogisticModelTree;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+LogisticModelTree;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+J48;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+J48;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[0.005];Small Graph Product Line;2;4;9886;4184412;0.333;0.000;0.000
+NaiveBayesUpdateable;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+HoeffdingTree;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+HoeffdingTree;Random[0.005];Small Graph Product Line;448;523840;9440;3660576;0.001;0.045;0.002
+StochasticGradientDescend;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+StochasticGradientDescend;Random[0.005];Small Graph Product Line;0;0;9888;4184416;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Random[0.005];Scheduler;76;163;168;4193897;0.318;0.311;0.315
+SVM_Poly[3,2.0,0.5];Random[0.005];Scheduler;21;49;223;4194011;0.300;0.086;0.134
+RandomForest;Random[0.005];Scheduler;1;0;243;4194060;1.000;0.004;0.008
+RandomForest;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+RandomCommittee;Random[0.005];Scheduler;2;5;242;4194055;0.286;0.008;0.016
+RandomCommittee;Random[0.005];Scheduler;24;9;220;4194051;0.727;0.098;0.173
+REPTree;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+REPTree;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+LogisticModelTree;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+LogisticModelTree;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+J48;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+J48;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+HoeffdingTree;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+HoeffdingTree;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+StochasticGradientDescend;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+StochasticGradientDescend;Random[0.005];Scheduler;0;0;244;4194060;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Random[0.005];dfffffffffff;386;1160;3662;4189096;0.250;0.095;0.138
+SVM_Poly[3,2.0,0.5];Random[0.005];dfffffffffff;848;2537;3200;4187719;0.251;0.209;0.228
+RandomForest;Random[0.005];dfffffffffff;73;25;3975;4190231;0.745;0.018;0.035
+RandomForest;Random[0.005];dfffffffffff;72;18;3976;4190238;0.800;0.018;0.035
+RandomCommittee;Random[0.005];dfffffffffff;304;494;3744;4189762;0.381;0.075;0.125
+RandomCommittee;Random[0.005];dfffffffffff;395;679;3653;4189577;0.368;0.098;0.154
+REPTree;Random[0.005];dfffffffffff;256;768;3792;4189488;0.250;0.063;0.101
+REPTree;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+LogisticModelTree;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+LogisticModelTree;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+J48;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+J48;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[0.005];dfffffffffff;0;22;4048;4190234;0.000;0.000;NaN
+NaiveBayesUpdateable;Random[0.005];dfffffffffff;7;93;4041;4190163;0.070;0.002;0.003
+HoeffdingTree;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+HoeffdingTree;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+StochasticGradientDescend;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+StochasticGradientDescend;Random[0.005];dfffffffffff;0;0;4048;4190256;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Random[0.005];Software-Product;2048;0;1;4192255;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Random[0.005];Software-Product;1869;0;180;4192255;1.000;0.912;0.954
+RandomForest;Random[0.005];Software-Product;217;0;1832;4192255;1.000;0.106;0.192
+RandomForest;Random[0.005];Software-Product;173;0;1876;4192255;1.000;0.084;0.156
+RandomCommittee;Random[0.005];Software-Product;1714;28;335;4192227;0.984;0.837;0.904
+RandomCommittee;Random[0.005];Software-Product;978;2;1071;4192253;0.998;0.477;0.646
+REPTree;Random[0.005];Software-Product;2048;0;1;4192255;1.000;1.000;1.000
+REPTree;Random[0.005];Software-Product;2048;0;1;4192255;1.000;1.000;1.000
+LogisticModelTree;Random[0.005];Software-Product;2048;0;1;4192255;1.000;1.000;1.000
+LogisticModelTree;Random[0.005];Software-Product;2048;0;1;4192255;1.000;1.000;1.000
+J48;Random[0.005];Software-Product;0;0;2049;4192255;NaN;0.000;NaN
+J48;Random[0.005];Software-Product;0;0;2049;4192255;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[0.005];Software-Product;238;0;1811;4192255;1.000;0.116;0.208
+NaiveBayesUpdateable;Random[0.005];Software-Product;236;0;1813;4192255;1.000;0.115;0.207
+HoeffdingTree;Random[0.005];Software-Product;1;2097151;2048;2095104;0.000;0.000;0.000
+HoeffdingTree;Random[0.005];Software-Product;1;2097151;2048;2095104;0.000;0.000;0.000
+StochasticGradientDescend;Random[0.005];Software-Product;0;0;2049;4192255;NaN;0.000;NaN
+StochasticGradientDescend;Random[0.005];Software-Product;0;0;2049;4192255;NaN;0.000;NaN
