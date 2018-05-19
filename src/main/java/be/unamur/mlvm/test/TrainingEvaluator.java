@@ -26,9 +26,9 @@ public class TrainingEvaluator {
         public final Integer kFold;
         public final EvaluationResult result;
 
-        public MultiEvaluationResult(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator generator, Integer kFold, EvaluationResult result) {
+        public MultiEvaluationResult(VariabilityModel model, ClassifierFactory classifierFactor, SampleGenerator generator, Integer kFold, EvaluationResult result) {
             this.model = model;
-            this.classifier = classifierFactory.getLabel();
+            this.classifier = classifierFactor.getLabel();
             this.generator = generator.getLabel();
             this.kFold = kFold;
             this.result = result;

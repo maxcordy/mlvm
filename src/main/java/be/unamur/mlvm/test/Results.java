@@ -150,6 +150,10 @@ public class Results {
         return new Results(l);
     }
 
+    public void addResult(TrainingEvaluator.MultiEvaluationResult v) {
+        results.add(v);
+    }
+
     private static class Stats {
         private DoubleSummaryStatistics precision = new DoubleSummaryStatistics();
         private DoubleSummaryStatistics recall = new DoubleSummaryStatistics();
