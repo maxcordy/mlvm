@@ -16,6 +16,19 @@ public class IndexedConfiguration implements Configuration {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        IndexedConfiguration that = (IndexedConfiguration) o;
+        return Arrays.equals(values, that.values);
+    }
+
+    @Override
+    public int hashCode() {
+        return Arrays.hashCode(values);
+    }
+
+    @Override
     public FeatureValue valueOf(FeatureId id) {
         return values[id.getIndex()];
     }

@@ -1,0 +1,59 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+Logistic;Combinatorial[0];Aircraft PL;90;114;225;7763;0.441;0.286;0.347
+Logistic;Combinatorial[0];CFDP Library;174;49;145;7824;0.780;0.545;0.642
+Logistic;Combinatorial[0];CFDP Library;335;60;289;7508;0.848;0.537;0.658
+Logistic;Combinatorial[0];Tata Cars;0;8;24;8160;0.000;0.000;NaN
+Logistic;Combinatorial[0];KIModel;6;2;6;8178;0.750;0.500;0.600
+Logistic;Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+Logistic;Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+Logistic;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];Veículo;0;32;80;8080;0.000;0.000;NaN
+Logistic;Combinatorial[0];Car;14;14;28;8136;0.500;0.333;0.400
+Logistic;Combinatorial[0];Homepage based on wiki;0;0;28;8164;NaN;0.000;NaN
+Logistic;Combinatorial[0];Toyota Feature Model;1;1;15;8175;0.500;0.063;0.111
+Logistic;Combinatorial[0];NCV_Simulation;0;0;18;8174;NaN;0.000;NaN
+Logistic;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+Logistic;Combinatorial[0];MiniRPG;16;0;0;8176;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Media;0;0;24;8168;NaN;0.000;NaN
+Logistic;Combinatorial[0];Analisis;0;0;8;8184;NaN;0.000;NaN
+Logistic;Combinatorial[0];Alarm System;0;0;42;8150;NaN;0.000;NaN
+Logistic;Combinatorial[0];LMF;2;0;0;8190;1.000;1.000;1.000
+Logistic;Combinatorial[0];Wewq;1;0;0;8191;1.000;1.000;1.000
+Logistic;Combinatorial[0];Video On Demand SPL FM;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];Video On Demand FM;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];MyHolidays;0;0;112;8080;NaN;0.000;NaN
+Logistic;Combinatorial[0];PortafolioLopez;12;32;72;8076;0.273;0.143;0.187
+Logistic;Combinatorial[0];Phone;8;12;68;8104;0.400;0.105;0.167
+Logistic;Combinatorial[0];cell phones SPL;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];FMConfig;0;1;135;8056;0.000;0.000;NaN
+Logistic;Combinatorial[0];Cell-Phone-SPL-2014;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];Cell-Phone-SPL-2014-Part2;1;0;29;8162;1.000;0.033;0.065
+Logistic;Combinatorial[0];Cell-Phone-SPL-2014-Mined;1;2;30;8159;0.333;0.032;0.059
+Logistic;Combinatorial[0];Magister 2014-ROLOG;6;32;90;8064;0.158;0.063;0.090
+Logistic;Combinatorial[0];MarketPlace-Sample;1;0;2;8189;1.000;0.333;0.500
+Logistic;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+Logistic;Combinatorial[0];SPL Studies;0;0;45;8147;NaN;0.000;NaN
+Logistic;Combinatorial[0];Content;173;57;58;7904;0.752;0.749;0.751
+Logistic;Combinatorial[0];Stamppy;28;0;0;8164;1.000;1.000;1.000
+Logistic;Combinatorial[0];search-engine;0;4;108;8080;0.000;0.000;NaN
+Logistic;Combinatorial[0];Javed Test 2;112;144;336;7600;0.438;0.250;0.318
+Logistic;Combinatorial[0];MoviesApp;2;2;52;8136;0.500;0.037;0.069
+Logistic;Combinatorial[0];Movie System;0;0;24;8168;NaN;0.000;NaN
+Logistic;Combinatorial[0];SmartHotel;0;28;102;8062;0.000;0.000;NaN
+Logistic;Combinatorial[0];Smart Queue;4;0;0;8188;1.000;1.000;1.000
+Logistic;Combinatorial[0];Online shopping software;0;0;2;8190;NaN;0.000;NaN
+Logistic;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;49;8;0;8135;0.860;1.000;0.925
+Logistic;Combinatorial[0];Visit Indonesia Apps;28;28;56;8080;0.500;0.333;0.400
+Logistic;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+Logistic;Combinatorial[0];Home;64;32;60;8036;0.667;0.516;0.582
+Logistic;Combinatorial[0];Windows .NET;16;0;0;8176;1.000;1.000;1.000
+Logistic;Combinatorial[0];HADAS-security;9;1;0;8182;0.900;1.000;0.947
+Logistic;Combinatorial[0];Ligne de produits de Eshop;0;2;20;8170;0.000;0.000;NaN
+Logistic;Combinatorial[0];MobilePhone;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];smartPhone;93;1;0;8098;0.989;1.000;0.995
+Logistic;Combinatorial[0];MPES2016-2.Reuso2;0;0;6;8186;NaN;0.000;NaN
+Logistic;Combinatorial[0];Tripeo;12;0;0;8180;1.000;1.000;1.000
+Logistic;Combinatorial[0];search-engine;0;4;76;8112;0.000;0.000;NaN
+Logistic;Combinatorial[0];depresija;127;0;0;8065;1.000;1.000;1.000
+Logistic;Combinatorial[0];MoviesApp PL;0;0;24;8168;NaN;0.000;NaN

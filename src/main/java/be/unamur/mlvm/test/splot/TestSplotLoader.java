@@ -45,20 +45,31 @@ public class TestSplotLoader {
         };
 
 
-        List<FeatureId> fields = Stream.of("_r_2_5_6", "_r_1", "_r_11_12_14", "_r_2_5_7", "_r_2", "_r_3", "_r_2_5_8", "_r_11_12_13", "_r_11", "_r")
-                .map(FeatureId::new)
+        List<String> fields = Stream.of("_r_2_5_6", "_r_1", "_r_11_12_14", "_r_2_5_7", "_r_2", "_r_3", "_r_2_5_8", "_r_11_12_13", "_r_11", "_r")
                 .collect(Collectors.toList());
+
+        Map<String, FeatureId> featuresMap = model.features().stream().collect(Collectors.toMap(x -> x.getId(), x -> x));
 
         for (int i1 = 0; i1 < samples.length; i1++) {
             String[] sample = samples[i1];
             Map<FeatureId, FeatureValue> values = new HashMap<>();
-            values.put(new FeatureId("_r"), FeatureValue.parse("true"));
+//            values.put(new FeatureId("_r"), FeatureValue.parse("true"));
 
             for (int i = 0; i < fields.size(); i++) {
-                values.put(fields.get(i), FeatureValue.parse(sample[i]));
+                values.put(featuresMap.get(fields.get(i)), FeatureValue.parse(sample[i]));
             }
+
+            values.put(featuresMap.get("_r_2_5"), values.get(featuresMap.get("_r_2")));
+            values.put(featuresMap.get("_r_11_12"), values.get(featuresMap.get("_r_11")));
+
+            model.features().forEach(f ->
+            {
+                if(!values.containsKey(f))
+                    System.out.println("Missing " + f);
+            });
+
             Configuration c = new IndexedConfiguration(model, values);
-            if (Boolean.parseBoolean(sample[fields.size()]) && !model.isValid(c)) {
+            if (Boolean.parseBoolean(sample[fields.size()]) != model.isValid(c)) {
                 System.out.println("Error with configuration " + i1);
                 model.failures(c).forEach(System.out::println);
                 System.out.println();

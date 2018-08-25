@@ -26,7 +26,7 @@ public class ScadModelsResultsGenerator {
     private static final Path SCAD_FILES_ROOT = Paths.get("D:", "scadFiles");
 
     private static final int RANGE_PARTITION = 20;
-    private static final int TIMEOUT = 10 * 60 * 1000; // 10 mins
+    private static final int TIMEOUT = 300 * 60 * 1000; // 10 mins
 
     public static void main(String[] args) throws IOException {
 
@@ -71,7 +71,7 @@ public class ScadModelsResultsGenerator {
         }
     }
 
-    private static Stream<Path> listAllScadFiles() {
+    static Stream<Path> listAllScadFiles() {
         return listFiles(SCAD_FILES_ROOT)
                 .flatMap(ScadModelsResultsGenerator::listFiles)
                 .filter(x -> x.getFileName().toString().endsWith(".scad"));
@@ -89,21 +89,21 @@ public class ScadModelsResultsGenerator {
     }
 
 
-    private static class Workers {
+    static class Workers {
 
         private final Object mutex = new Object();
         private final List<VariabilityModel> models;
-        private final int RANGE_PARTITION;
+        private final int rangePartition;
         private final int total;
 
         private AtomicInteger done = new AtomicInteger();
         private AtomicInteger timeouted = new AtomicInteger();
         private AtomicInteger runningWorkers = new AtomicInteger();
 
-        private Workers(List<VariabilityModel> models, int range_partition) {
+        Workers(List<VariabilityModel> models, int range_partition) {
             this.models = models;
             total = models.size();
-            RANGE_PARTITION = range_partition;
+            rangePartition = range_partition;
         }
 
         public void runWorkers(int count) {
@@ -121,7 +121,7 @@ public class ScadModelsResultsGenerator {
                         break;
                     p = models.remove(models.size() - 1);
                 }
-                boolean timeout = !generateModelResults(p, RANGE_PARTITION, TIMEOUT);
+                boolean timeout = !generateModelResults(p, rangePartition, TIMEOUT);
                 synchronized (mutex) {
                     int value = done.incrementAndGet();
                     if (timeout)
@@ -144,10 +144,12 @@ public class ScadModelsResultsGenerator {
             return value * 100 / total;
         }
 
-        private boolean generateModelResults(VariabilityModel model, int RANGE_PARTITION, int timeout) {
-            CombinatorialSampleGenerator gen = new CombinatorialSampleGenerator(RANGE_PARTITION);
+        private boolean generateModelResults(VariabilityModel model, int rangePartition, int timeout) {
+            CombinatorialSampleGenerator gen = new CombinatorialSampleGenerator(rangePartition);
 
             ScadConfigurationEvaluator ev = new ScadConfigurationEvaluator(OPENSCAD_PATH, SLIC3R_PATH, SCAD_FILES_ROOT.resolve(model.getName()), model, TIMEOUT);
+
+            if (!hasCached(model, gen, ev)) return false;
 
             long start = System.currentTimeMillis();
             try {
@@ -159,6 +161,18 @@ public class ScadModelsResultsGenerator {
                 return true;
             } catch (RuntimeException e) {
                 return false;
+            }
+        }
+
+        private boolean hasCached(VariabilityModel model, CombinatorialSampleGenerator gen, ScadConfigurationEvaluator ev) {
+            try {
+                gen.generateSamples(model, configuration -> {
+                    if (ev.isCached(configuration))
+                        throw new RuntimeException();
+                });
+                return false;
+            } catch (RuntimeException e) {
+                return true;
             }
         }
     }

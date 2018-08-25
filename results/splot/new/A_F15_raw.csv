@@ -1,0 +1,343 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Cell Phone;61;0;0;32707;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Cell Phone;61;0;0;32707;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Cell Phone;61;43;0;32664;0.587;1.000;0.739
+REPTree;Combinatorial[0];Cell Phone;36;0;25;32707;1.000;0.590;0.742
+LogisticModelTree;Combinatorial[0];Cell Phone;25;20;36;32687;0.556;0.410;0.472
+MultilayerPerceptron[a];Combinatorial[0];Cell Phone;61;0;0;32707;1.000;1.000;1.000
+J48;Combinatorial[0];Cell Phone;0;0;61;32707;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Cell Phone;0;0;61;32707;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Cell Phone;0;0;61;32707;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Web Content Delivery;23;0;0;32745;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Web Content Delivery;23;0;0;32745;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Web Content Delivery;19;0;4;32745;1.000;0.826;0.905
+REPTree;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Web Content Delivery;11;0;12;32745;1.000;0.478;0.647
+J48;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+REPTree;Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+J48;Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];Coff Feature Model;392;8;1120;31248;0.980;0.259;0.410
+StochasticGradientDescend;Combinatorial[0];Coff Feature Model;1457;14649;55;16607;0.090;0.964;0.165
+SVM_Poly[3,2.0,0.5];Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+RandomForest;Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+REPTree;Combinatorial[0];VMS;44;4;0;32720;0.917;1.000;0.957
+LogisticModelTree;Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+J48;Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];VMS;0;0;44;32724;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];VMS;44;16533;0;16191;0.003;1.000;0.005
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Test;60;0;0;32708;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Test;60;0;0;32708;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Test;60;20;0;32688;0.750;1.000;0.857
+REPTree;Combinatorial[0];Test;57;11;3;32697;0.838;0.950;0.891
+LogisticModelTree;Combinatorial[0];Test;0;0;60;32708;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Test;60;0;0;32708;1.000;1.000;1.000
+J48;Combinatorial[0];Test;0;0;60;32708;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Test;0;0;60;32708;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Test;0;0;60;32708;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Venza;4;0;0;32764;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Venza;4;0;0;32764;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+REPTree;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+J48;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];SD Voter pattern feature model;120;0;0;32648;1.000;1.000;1.000
+RandomForest;Combinatorial[0];SD Voter pattern feature model;120;0;0;32648;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SD Voter pattern feature model;88;0;32;32648;1.000;0.733;0.846
+REPTree;Combinatorial[0];SD Voter pattern feature model;48;8;72;32640;0.857;0.400;0.545
+LogisticModelTree;Combinatorial[0];SD Voter pattern feature model;56;32;64;32616;0.636;0.467;0.538
+MultilayerPerceptron[a];Combinatorial[0];SD Voter pattern feature model;120;0;0;32648;1.000;1.000;1.000
+J48;Combinatorial[0];SD Voter pattern feature model;0;0;120;32648;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];SD Voter pattern feature model;0;8;120;32640;0.000;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];SD Voter pattern feature model;0;0;120;32648;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Technical Solution Process;52;0;0;32716;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Technical Solution Process;52;0;0;32716;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Technical Solution Process;52;12;0;32704;0.813;1.000;0.897
+REPTree;Combinatorial[0];Technical Solution Process;52;0;0;32716;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Technical Solution Process;32;12;20;32704;0.727;0.615;0.667
+MultilayerPerceptron[a];Combinatorial[0];Technical Solution Process;48;0;4;32716;1.000;0.923;0.960
+J48;Combinatorial[0];Technical Solution Process;24;0;28;32716;1.000;0.462;0.632
+NaiveBayesUpdateable;Combinatorial[0];Technical Solution Process;0;4;52;32712;0.000;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Technical Solution Process;0;0;52;32716;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];iNavBasic;4;0;0;32764;1.000;1.000;1.000
+RandomForest;Combinatorial[0];iNavBasic;4;0;0;32764;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];iNavBasic;4;0;0;32764;1.000;1.000;1.000
+REPTree;Combinatorial[0];iNavBasic;0;0;4;32764;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];iNavBasic;4;0;0;32764;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];iNavBasic;4;0;0;32764;1.000;1.000;1.000
+J48;Combinatorial[0];iNavBasic;0;0;4;32764;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];iNavBasic;0;0;4;32764;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];iNavBasic;0;0;4;32764;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Transmission;44;0;0;32724;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Transmission;44;0;0;32724;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Transmission;2;0;42;32724;1.000;0.045;0.087
+REPTree;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Transmission;32;0;12;32724;1.000;0.727;0.842
+J48;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Agile Simules;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Agile Simules;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Agile Simules;24;0;0;32744;1.000;1.000;1.000
+REPTree;Combinatorial[0];Agile Simules;10;2;14;32742;0.833;0.417;0.556
+LogisticModelTree;Combinatorial[0];Agile Simules;24;0;0;32744;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Agile Simules;24;0;0;32744;1.000;1.000;1.000
+J48;Combinatorial[0];Agile Simules;0;0;24;32744;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Agile Simules;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Agile Simules;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];MobileMedia_Lenita;6;0;0;32762;1.000;1.000;1.000
+RandomForest;Combinatorial[0];MobileMedia_Lenita;6;0;0;32762;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MobileMedia_Lenita;6;0;0;32762;1.000;1.000;1.000
+REPTree;Combinatorial[0];MobileMedia_Lenita;0;0;6;32762;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];MobileMedia_Lenita;0;0;6;32762;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];MobileMedia_Lenita;6;0;0;32762;1.000;1.000;1.000
+J48;Combinatorial[0];MobileMedia_Lenita;0;0;6;32762;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];MobileMedia_Lenita;0;0;6;32762;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];MobileMedia_Lenita;0;0;6;32762;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Estudo Experimental 2;6;0;0;32762;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Estudo Experimental 2;6;0;0;32762;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Estudo Experimental 2;6;0;0;32762;1.000;1.000;1.000
+REPTree;Combinatorial[0];Estudo Experimental 2;0;0;6;32762;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Estudo Experimental 2;0;0;6;32762;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Estudo Experimental 2;6;0;0;32762;1.000;1.000;1.000
+J48;Combinatorial[0];Estudo Experimental 2;0;0;6;32762;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Estudo Experimental 2;0;0;6;32762;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Estudo Experimental 2;0;0;6;32762;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Flight Reservations;126;0;0;32642;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Flight Reservations;126;0;0;32642;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Flight Reservations;76;0;50;32642;1.000;0.603;0.752
+REPTree;Combinatorial[0];Flight Reservations;78;2;48;32640;0.975;0.619;0.757
+LogisticModelTree;Combinatorial[0];Flight Reservations;18;0;108;32642;1.000;0.143;0.250
+MultilayerPerceptron[a];Combinatorial[0];Flight Reservations;126;0;0;32642;1.000;1.000;1.000
+J48;Combinatorial[0];Flight Reservations;0;0;126;32642;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Flight Reservations;0;0;126;32642;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Flight Reservations;0;0;126;32642;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+REPTree;Combinatorial[0];MobileMedia_Ibraim;20;0;4;32744;1.000;0.833;0.909
+LogisticModelTree;Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+J48;Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];MobileMedia_Ibraim;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];MobileMedia_Ibraim;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];MobileMedia_LeonardoVasconcelos;48;0;0;32720;1.000;1.000;1.000
+RandomForest;Combinatorial[0];MobileMedia_LeonardoVasconcelos;48;0;0;32720;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+REPTree;Combinatorial[0];MobileMedia_LeonardoVasconcelos;12;0;36;32720;1.000;0.250;0.400
+LogisticModelTree;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];MobileMedia_LeonardoVasconcelos;48;0;0;32720;1.000;1.000;1.000
+J48;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+REPTree;Combinatorial[0];MobileMedia_Bruno;20;0;4;32744;1.000;0.833;0.909
+LogisticModelTree;Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+J48;Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];MobileMedia_Bruno;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];MobileMedia_Bruno;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+REPTree;Combinatorial[0];MobileMedia_MarinaMB;20;0;4;32744;1.000;0.833;0.909
+LogisticModelTree;Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+J48;Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];MobileMedia_MarinaMB;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];MobileMedia_MarinaMB;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+REPTree;Combinatorial[0];Mobile Media;20;0;4;32744;1.000;0.833;0.909
+LogisticModelTree;Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+J48;Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];Mobile Media;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Mobile Media;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+REPTree;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;20;0;4;32744;1.000;0.833;0.909
+LogisticModelTree;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+J48;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Mobile media v5;8;0;0;32760;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Mobile media v5;8;0;0;32760;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+REPTree;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Mobile media v5;8;0;0;32760;1.000;1.000;1.000
+J48;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ACARLOS_car;72;0;0;32696;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ACARLOS_car;72;0;0;32696;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ACARLOS_car;18;0;54;32696;1.000;0.250;0.400
+REPTree;Combinatorial[0];ACARLOS_car;48;0;24;32696;1.000;0.667;0.800
+LogisticModelTree;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ACARLOS_car;64;0;8;32696;1.000;0.889;0.941
+J48;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Cars xpto;72;0;0;32696;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Cars xpto;72;0;0;32696;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Cars xpto;19;0;53;32696;1.000;0.264;0.418
+REPTree;Combinatorial[0];Cars xpto;32;8;40;32688;0.800;0.444;0.571
+LogisticModelTree;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Cars xpto;64;0;8;32696;1.000;0.889;0.941
+J48;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];UPT TAM;40;0;0;32728;1.000;1.000;1.000
+RandomForest;Combinatorial[0];UPT TAM;40;0;0;32728;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];UPT TAM;6;0;34;32728;1.000;0.150;0.261
+REPTree;Combinatorial[0];UPT TAM;8;4;32;32724;0.667;0.200;0.308
+LogisticModelTree;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];UPT TAM;32;0;8;32728;1.000;0.800;0.889
+J48;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+REPTree;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+J48;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+NaiveBayesUpdateable;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+StochasticGradientDescend;Combinatorial[0];Software-Product;198;4110;58;28402;0.046;0.773;0.087
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas Booleanas;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas Booleanas;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Pruebas Booleanas;24;0;0;32744;1.000;1.000;1.000
+J48;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];e-commerce;213;0;0;32555;1.000;1.000;1.000
+RandomForest;Combinatorial[0];e-commerce;213;0;0;32555;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];e-commerce;213;71;0;32484;0.750;1.000;0.857
+REPTree;Combinatorial[0];e-commerce;199;21;14;32534;0.905;0.934;0.919
+LogisticModelTree;Combinatorial[0];e-commerce;207;136;6;32419;0.603;0.972;0.745
+MultilayerPerceptron[a];Combinatorial[0];e-commerce;213;0;0;32555;1.000;1.000;1.000
+J48;Combinatorial[0];e-commerce;192;128;21;32427;0.600;0.901;0.720
+NaiveBayesUpdateable;Combinatorial[0];e-commerce;0;20;213;32535;0.000;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];e-commerce;0;1;213;32554;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];testmodel1;18;0;0;32750;1.000;1.000;1.000
+RandomForest;Combinatorial[0];testmodel1;18;0;0;32750;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+REPTree;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];testmodel1;18;0;0;32750;1.000;1.000;1.000
+J48;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];robot experiment;10;0;0;32758;1.000;1.000;1.000
+RandomForest;Combinatorial[0];robot experiment;10;0;0;32758;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];robot experiment;10;0;0;32758;1.000;1.000;1.000
+REPTree;Combinatorial[0];robot experiment;0;0;10;32758;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];robot experiment;0;0;10;32758;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];robot experiment;10;0;0;32758;1.000;1.000;1.000
+J48;Combinatorial[0];robot experiment;0;0;10;32758;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];robot experiment;0;0;10;32758;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];robot experiment;0;0;10;32758;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Proceso Analisis;5;0;0;32763;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Proceso Analisis;5;0;0;32763;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Proceso Analisis;5;0;0;32763;1.000;1.000;1.000
+REPTree;Combinatorial[0];Proceso Analisis;0;0;5;32763;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Proceso Analisis;0;0;5;32763;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Proceso Analisis;3;0;2;32763;1.000;0.600;0.750
+J48;Combinatorial[0];Proceso Analisis;0;0;5;32763;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Proceso Analisis;0;0;5;32763;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Proceso Analisis;0;0;5;32763;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Metadata;511;0;0;32257;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Metadata;511;0;0;32257;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Metadata;511;0;0;32257;1.000;1.000;1.000
+REPTree;Combinatorial[0];Metadata;497;43;14;32214;0.920;0.973;0.946
+LogisticModelTree;Combinatorial[0];Metadata;511;0;0;32257;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Metadata;504;0;7;32257;1.000;0.986;0.993
+J48;Combinatorial[0];Metadata;504;16;7;32241;0.969;0.986;0.978
+NaiveBayesUpdateable;Combinatorial[0];Metadata;0;0;511;32257;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Metadata;446;16221;65;16036;0.027;0.873;0.052
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Urna eletronica Vinicius Cesar;6;0;0;32762;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Urna eletronica Vinicius Cesar;6;0;0;32762;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Urna eletronica Vinicius Cesar;5;0;1;32762;1.000;0.833;0.909
+REPTree;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+J48;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];markke core asset testing;24;0;0;32744;1.000;1.000;1.000
+RandomForest;Combinatorial[0];markke core asset testing;24;0;0;32744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+REPTree;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];markke core asset testing;16;0;8;32744;1.000;0.667;0.800
+J48;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Automóvil;48;0;0;32720;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Automóvil;48;0;0;32720;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+REPTree;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Automóvil;48;0;0;32720;1.000;1.000;1.000
+J48;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];CPS;72;0;0;32696;1.000;1.000;1.000
+RandomForest;Combinatorial[0];CPS;72;0;0;32696;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];CPS;18;0;54;32696;1.000;0.250;0.400
+REPTree;Combinatorial[0];CPS;48;0;24;32696;1.000;0.667;0.800
+LogisticModelTree;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];CPS;64;0;8;32696;1.000;0.889;0.941
+J48;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];smart phone;116;0;0;32652;1.000;1.000;1.000
+RandomForest;Combinatorial[0];smart phone;116;0;0;32652;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];smart phone;116;116;0;32536;0.500;1.000;0.667
+REPTree;Combinatorial[0];smart phone;27;13;89;32639;0.675;0.233;0.346
+LogisticModelTree;Combinatorial[0];smart phone;0;0;116;32652;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];smart phone;98;0;18;32652;1.000;0.845;0.916
+J48;Combinatorial[0];smart phone;0;0;116;32652;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];smart phone;0;0;116;32652;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];smart phone;0;0;116;32652;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Audio Player;12;0;0;32756;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Audio Player;12;0;0;32756;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Audio Player;12;4;0;32752;0.750;1.000;0.857
+REPTree;Combinatorial[0];Audio Player;8;0;4;32756;1.000;0.667;0.800
+LogisticModelTree;Combinatorial[0];Audio Player;0;0;12;32756;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Audio Player;12;0;0;32756;1.000;1.000;1.000
+J48;Combinatorial[0];Audio Player;0;0;12;32756;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Audio Player;0;0;12;32756;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Audio Player;0;0;12;32756;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];SlotsForModules;6;0;0;32762;1.000;1.000;1.000
+RandomForest;Combinatorial[0];SlotsForModules;6;0;0;32762;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SlotsForModules;4;0;2;32762;1.000;0.667;0.800
+REPTree;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+J48;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN

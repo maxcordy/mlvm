@@ -1,0 +1,61 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Random[0.8];Text Editor;8;0;3;4085;1.000;0.727;0.842
+SVM_RBF[5.0];Random[0.8];Text Editor;8;0;3;4085;1.000;0.727;0.842
+SVM_RBF[5.0];Random[0.8];Text Editor;8;0;3;4085;1.000;0.727;0.842
+SVM_RBF[5.0];Random[0.8];Text Editor;8;0;3;4085;1.000;0.727;0.842
+SVM_RBF[5.0];Random[0.8];Text Editor;8;0;3;4085;1.000;0.727;0.842
+SVM_RBF[5.0];Random[0.8];Text Editor;8;0;3;4085;1.000;0.727;0.842
+SVM_Puk[1.0, 0.1];Random[0.8];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_Puk[1.0, 0.1];Random[0.8];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_Puk[1.0, 0.1];Random[0.8];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_Puk[1.0, 0.1];Random[0.8];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_Puk[1.0, 0.1];Random[0.8];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_Puk[1.0, 0.1];Random[0.8];Text Editor;10;0;1;4085;1.000;0.909;0.952
+LogisticModelTree;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+MultilayerPerceptron[a];Random[0.8];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];Text Editor;11;0;0;4085;1.000;1.000;1.000
+KStar;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Random[0.8];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_RBF[5.0];Random[0.8];mon model;18;0;6;4072;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];mon model;18;0;6;4072;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];mon model;18;0;6;4072;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];mon model;18;0;6;4072;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];mon model;18;0;6;4072;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];mon model;18;0;6;4072;1.000;0.750;0.857
+SVM_Puk[1.0, 0.1];Random[0.8];mon model;19;0;5;4072;1.000;0.792;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];mon model;19;0;5;4072;1.000;0.792;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];mon model;19;0;5;4072;1.000;0.792;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];mon model;19;0;5;4072;1.000;0.792;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];mon model;19;0;5;4072;1.000;0.792;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];mon model;19;0;5;4072;1.000;0.792;0.884
+LogisticModelTree;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+MultilayerPerceptron[a];Random[0.8];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.8];mon model;24;0;0;4072;1.000;1.000;1.000
+KStar;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Random[0.8];mon model;0;0;24;4072;NaN;0.000;NaN

@@ -23,4 +23,17 @@ public class SplotUtils {
             throw new RuntimeException(e);
         }
     }
+
+    public static Stream<VariabilityModel> loadSamplesDirectoryWithSplitConstraints(String s) throws Exception {
+        return Files.list(Paths.get(SplotUtils.class.getResource("/samples/" + s).toURI()))
+                .map(SplotUtils::loadFileWithSplitConstraints);
+    }
+
+    public static VariabilityModel loadFileWithSplitConstraints(Path file) {
+        try {
+            return SplotModelLoader.parseWithSplitConstraints(file.toString());
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
 }

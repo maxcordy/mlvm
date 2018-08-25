@@ -1,0 +1,1149 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+JRip;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+PART;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+ZeroR;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+OneR;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Game;135;9;0;880;0.938;1.000;0.968
+PART;Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Mobile Game;0;0;135;889;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Game;0;0;135;889;NaN;0.000;NaN
+JRip;Combinatorial[0];VODPlayer;16;16;32;960;0.500;0.333;0.400
+PART;Combinatorial[0];VODPlayer;16;0;32;976;1.000;0.333;0.500
+ZeroR;Combinatorial[0];VODPlayer;0;0;48;976;NaN;0.000;NaN
+OneR;Combinatorial[0];VODPlayer;0;0;48;976;NaN;0.000;NaN
+JRip;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+PART;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+ZeroR;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+OneR;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+JRip;Combinatorial[0];AvionFEatures;12;8;0;1004;0.600;1.000;0.750
+PART;Combinatorial[0];AvionFEatures;10;4;2;1008;0.714;0.833;0.769
+ZeroR;Combinatorial[0];AvionFEatures;0;0;12;1012;NaN;0.000;NaN
+OneR;Combinatorial[0];AvionFEatures;0;0;12;1012;NaN;0.000;NaN
+JRip;Combinatorial[0];Phone sple;27;5;0;992;0.844;1.000;0.915
+PART;Combinatorial[0];Phone sple;27;5;0;992;0.844;1.000;0.915
+ZeroR;Combinatorial[0];Phone sple;0;0;27;997;NaN;0.000;NaN
+OneR;Combinatorial[0];Phone sple;0;0;27;997;NaN;0.000;NaN
+JRip;Combinatorial[0];Phone;44;0;2;978;1.000;0.957;0.978
+PART;Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Phone;0;0;46;978;NaN;0.000;NaN
+OneR;Combinatorial[0];Phone;0;0;46;978;NaN;0.000;NaN
+JRip;Combinatorial[0];Ökonomische Merkmale;24;5;0;995;0.828;1.000;0.906
+PART;Combinatorial[0];Ökonomische Merkmale;24;6;0;994;0.800;1.000;0.889
+ZeroR;Combinatorial[0];Ökonomische Merkmale;0;0;24;1000;NaN;0.000;NaN
+OneR;Combinatorial[0];Ökonomische Merkmale;0;0;24;1000;NaN;0.000;NaN
+JRip;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+PART;Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+ZeroR;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+OneR;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+JRip;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+PART;Combinatorial[0];MyFM;2;0;17;1005;1.000;0.105;0.190
+ZeroR;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+OneR;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+JRip;Combinatorial[0];rtrt;20;0;0;1004;1.000;1.000;1.000
+PART;Combinatorial[0];rtrt;20;0;0;1004;1.000;1.000;1.000
+ZeroR;Combinatorial[0];rtrt;0;0;20;1004;NaN;0.000;NaN
+OneR;Combinatorial[0];rtrt;0;0;20;1004;NaN;0.000;NaN
+JRip;Combinatorial[0];FeatureModel1;16;0;0;1008;1.000;1.000;1.000
+PART;Combinatorial[0];FeatureModel1;16;0;0;1008;1.000;1.000;1.000
+ZeroR;Combinatorial[0];FeatureModel1;0;0;16;1008;NaN;0.000;NaN
+OneR;Combinatorial[0];FeatureModel1;0;0;16;1008;NaN;0.000;NaN
+JRip;Combinatorial[0];Example Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+PART;Combinatorial[0];Example Mobile Phone;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Example Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Example Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];testISA2012;0;0;14;1010;NaN;0.000;NaN
+PART;Combinatorial[0];testISA2012;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];testISA2012;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];testISA2012;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile-Phone;0;0;14;1010;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile-Phone;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Mobile-Phone;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile-Phone;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile phone (lenita);0;0;14;1010;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile phone (lenita);8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Mobile phone (lenita);0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile phone (lenita);0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone GF;6;2;8;1008;0.750;0.429;0.545
+PART;Combinatorial[0];Mobile Phone GF;10;0;4;1010;1.000;0.714;0.833
+ZeroR;Combinatorial[0];Mobile Phone GF;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Phone GF;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Example Product Line Course Using SPLOT;0;0;14;1010;NaN;0.000;NaN
+PART;Combinatorial[0];Example Product Line Course Using SPLOT;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Example Product Line Course Using SPLOT;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Example Product Line Course Using SPLOT;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Guad gmocht!;20;4;0;1000;0.833;1.000;0.909
+PART;Combinatorial[0];Guad gmocht!;20;0;0;1004;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Guad gmocht!;0;0;20;1004;NaN;0.000;NaN
+OneR;Combinatorial[0];Guad gmocht!;0;0;20;1004;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia;28;4;0;992;0.875;1.000;0.933
+PART;Combinatorial[0];MobileMedia;28;0;0;996;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MobileMedia;0;0;28;996;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia;0;0;28;996;NaN;0.000;NaN
+JRip;Combinatorial[0];Simnumero;6;2;2;1014;0.750;0.750;0.750
+PART;Combinatorial[0];Simnumero;3;1;5;1015;0.750;0.375;0.500
+ZeroR;Combinatorial[0];Simnumero;0;0;8;1016;NaN;0.000;NaN
+OneR;Combinatorial[0];Simnumero;0;0;8;1016;NaN;0.000;NaN
+JRip;Combinatorial[0];isolation;3;1;0;1020;0.750;1.000;0.857
+PART;Combinatorial[0];isolation;3;1;0;1020;0.750;1.000;0.857
+ZeroR;Combinatorial[0];isolation;0;0;3;1021;NaN;0.000;NaN
+OneR;Combinatorial[0];isolation;0;0;3;1021;NaN;0.000;NaN
+JRip;Combinatorial[0];AllSports Feature Model;24;5;0;995;0.828;1.000;0.906
+PART;Combinatorial[0];AllSports Feature Model;24;6;0;994;0.800;1.000;0.889
+ZeroR;Combinatorial[0];AllSports Feature Model;0;0;24;1000;NaN;0.000;NaN
+OneR;Combinatorial[0];AllSports Feature Model;0;0;24;1000;NaN;0.000;NaN
+JRip;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+PART;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+OneR;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia;24;2;6;992;0.923;0.800;0.857
+PART;Combinatorial[0];MobileMedia;22;12;8;982;0.647;0.733;0.688
+ZeroR;Combinatorial[0];MobileMedia;0;0;30;994;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia;0;0;30;994;NaN;0.000;NaN
+JRip;Combinatorial[0];WebApp;160;0;0;864;1.000;1.000;1.000
+PART;Combinatorial[0];WebApp;160;0;0;864;1.000;1.000;1.000
+ZeroR;Combinatorial[0];WebApp;0;0;160;864;NaN;0.000;NaN
+OneR;Combinatorial[0];WebApp;0;0;160;864;NaN;0.000;NaN
+JRip;Combinatorial[0];abcdefg;2;0;4;1018;1.000;0.333;0.500
+PART;Combinatorial[0];abcdefg;2;0;4;1018;1.000;0.333;0.500
+ZeroR;Combinatorial[0];abcdefg;0;0;6;1018;NaN;0.000;NaN
+OneR;Combinatorial[0];abcdefg;0;0;6;1018;NaN;0.000;NaN
+JRip;Combinatorial[0];Disenio;2;0;2;1020;1.000;0.500;0.667
+PART;Combinatorial[0];Disenio;0;0;4;1020;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Disenio;0;0;4;1020;NaN;0.000;NaN
+OneR;Combinatorial[0];Disenio;0;0;4;1020;NaN;0.000;NaN
+JRip;Combinatorial[0];sasgd;20;0;0;1004;1.000;1.000;1.000
+PART;Combinatorial[0];sasgd;20;0;0;1004;1.000;1.000;1.000
+ZeroR;Combinatorial[0];sasgd;0;0;20;1004;NaN;0.000;NaN
+OneR;Combinatorial[0];sasgd;0;0;20;1004;NaN;0.000;NaN
+JRip;Combinatorial[0];anlisis II;16;0;12;996;1.000;0.571;0.727
+PART;Combinatorial[0];anlisis II;20;0;8;996;1.000;0.714;0.833
+ZeroR;Combinatorial[0];anlisis II;0;0;28;996;NaN;0.000;NaN
+OneR;Combinatorial[0];anlisis II;0;0;28;996;NaN;0.000;NaN
+JRip;Combinatorial[0];disenio II;30;4;0;990;0.882;1.000;0.938
+PART;Combinatorial[0];disenio II;30;0;0;994;1.000;1.000;1.000
+ZeroR;Combinatorial[0];disenio II;0;0;30;994;NaN;0.000;NaN
+OneR;Combinatorial[0];disenio II;0;0;30;994;NaN;0.000;NaN
+JRip;Combinatorial[0];AA;15;4;1;1004;0.789;0.938;0.857
+PART;Combinatorial[0];AA;16;0;0;1008;1.000;1.000;1.000
+ZeroR;Combinatorial[0];AA;0;0;16;1008;NaN;0.000;NaN
+OneR;Combinatorial[0];AA;0;0;16;1008;NaN;0.000;NaN
+JRip;Combinatorial[0];Modelo;2;0;2;1020;1.000;0.500;0.667
+PART;Combinatorial[0];Modelo;0;0;4;1020;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Modelo;0;0;4;1020;NaN;0.000;NaN
+OneR;Combinatorial[0];Modelo;0;0;4;1020;NaN;0.000;NaN
+JRip;Combinatorial[0];TEST_NAme;36;0;0;988;1.000;1.000;1.000
+PART;Combinatorial[0];TEST_NAme;36;0;0;988;1.000;1.000;1.000
+ZeroR;Combinatorial[0];TEST_NAme;0;0;36;988;NaN;0.000;NaN
+OneR;Combinatorial[0];TEST_NAme;0;0;36;988;NaN;0.000;NaN
+JRip;Combinatorial[0];Test;9;5;7;1003;0.643;0.563;0.600
+PART;Combinatorial[0];Test;8;4;8;1004;0.667;0.500;0.571
+ZeroR;Combinatorial[0];Test;0;0;16;1008;NaN;0.000;NaN
+OneR;Combinatorial[0];Test;0;0;16;1008;NaN;0.000;NaN
+JRip;Combinatorial[0];UPT_RM_MOBILE;6;2;8;1008;0.750;0.429;0.545
+PART;Combinatorial[0];UPT_RM_MOBILE;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];UPT_RM_MOBILE;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];UPT_RM_MOBILE;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];acarlos_trab2_mobile;6;2;8;1008;0.750;0.429;0.545
+PART;Combinatorial[0];acarlos_trab2_mobile;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];acarlos_trab2_mobile;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];acarlos_trab2_mobile;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Prontuário Eletrônico de Pacientes;10;0;0;1014;1.000;1.000;1.000
+PART;Combinatorial[0];Prontuário Eletrônico de Pacientes;10;0;0;1014;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Prontuário Eletrônico de Pacientes;0;0;10;1014;NaN;0.000;NaN
+OneR;Combinatorial[0];Prontuário Eletrônico de Pacientes;0;0;10;1014;NaN;0.000;NaN
+JRip;Combinatorial[0];test gv;32;0;0;992;1.000;1.000;1.000
+PART;Combinatorial[0];test gv;32;0;0;992;1.000;1.000;1.000
+ZeroR;Combinatorial[0];test gv;0;0;32;992;NaN;0.000;NaN
+OneR;Combinatorial[0];test gv;0;0;32;992;NaN;0.000;NaN
+JRip;Combinatorial[0];Dental Surgery;2;0;0;1022;1.000;1.000;1.000
+PART;Combinatorial[0];Dental Surgery;2;0;0;1022;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Dental Surgery;0;0;2;1022;NaN;0.000;NaN
+OneR;Combinatorial[0];Dental Surgery;0;0;2;1022;NaN;0.000;NaN
+JRip;Combinatorial[0];Cell-Phone-SPL-2014-without;48;0;0;976;1.000;1.000;1.000
+PART;Combinatorial[0];Cell-Phone-SPL-2014-without;0;0;48;976;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Cell-Phone-SPL-2014-without;0;0;48;976;NaN;0.000;NaN
+OneR;Combinatorial[0];Cell-Phone-SPL-2014-without;0;0;48;976;NaN;0.000;NaN
+JRip;Combinatorial[0];Computer Selection;0;0;2;1022;NaN;0.000;NaN
+PART;Combinatorial[0];Computer Selection;2;0;0;1022;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Computer Selection;0;0;2;1022;NaN;0.000;NaN
+OneR;Combinatorial[0];Computer Selection;0;0;2;1022;NaN;0.000;NaN
+JRip;Combinatorial[0];Rotary_Element;0;0;12;1012;NaN;0.000;NaN
+PART;Combinatorial[0];Rotary_Element;4;0;8;1012;1.000;0.333;0.500
+ZeroR;Combinatorial[0];Rotary_Element;0;0;12;1012;NaN;0.000;NaN
+OneR;Combinatorial[0];Rotary_Element;0;0;12;1012;NaN;0.000;NaN
+JRip;Combinatorial[0];E-Shop, magister2014;12;4;6;1002;0.750;0.667;0.706
+PART;Combinatorial[0];E-Shop, magister2014;0;0;18;1006;NaN;0.000;NaN
+ZeroR;Combinatorial[0];E-Shop, magister2014;0;0;18;1006;NaN;0.000;NaN
+OneR;Combinatorial[0];E-Shop, magister2014;0;0;18;1006;NaN;0.000;NaN
+JRip;Combinatorial[0];eshop;9;1;0;1014;0.900;1.000;0.947
+PART;Combinatorial[0];eshop;8;0;1;1015;1.000;0.889;0.941
+ZeroR;Combinatorial[0];eshop;0;0;9;1015;NaN;0.000;NaN
+OneR;Combinatorial[0];eshop;0;0;9;1015;NaN;0.000;NaN
+JRip;Combinatorial[0];Nudelsalat;6;0;6;1012;1.000;0.500;0.667
+PART;Combinatorial[0];Nudelsalat;12;0;0;1012;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Nudelsalat;0;0;12;1012;NaN;0.000;NaN
+OneR;Combinatorial[0];Nudelsalat;0;0;12;1012;NaN;0.000;NaN
+JRip;Combinatorial[0];MK Andes;4;0;0;1020;1.000;1.000;1.000
+PART;Combinatorial[0];MK Andes;4;0;0;1020;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MK Andes;0;0;4;1020;NaN;0.000;NaN
+OneR;Combinatorial[0];MK Andes;0;0;4;1020;NaN;0.000;NaN
+JRip;Combinatorial[0];SPL Studies;42;2;20;960;0.955;0.677;0.792
+PART;Combinatorial[0];SPL Studies;0;0;62;962;NaN;0.000;NaN
+ZeroR;Combinatorial[0];SPL Studies;0;0;62;962;NaN;0.000;NaN
+OneR;Combinatorial[0];SPL Studies;0;0;62;962;NaN;0.000;NaN
+JRip;Combinatorial[0];Telefono;0;0;7;1017;NaN;0.000;NaN
+PART;Combinatorial[0];Telefono;0;0;7;1017;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Telefono;0;0;7;1017;NaN;0.000;NaN
+OneR;Combinatorial[0];Telefono;0;0;7;1017;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Phone;2;0;12;1010;1.000;0.143;0.250
+ZeroR;Combinatorial[0];Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];jjjjj;18;2;0;1004;0.900;1.000;0.947
+PART;Combinatorial[0];jjjjj;14;8;4;998;0.636;0.778;0.700
+ZeroR;Combinatorial[0];jjjjj;0;0;18;1006;NaN;0.000;NaN
+OneR;Combinatorial[0];jjjjj;0;0;18;1006;NaN;0.000;NaN
+JRip;Combinatorial[0];celular;0;0;11;1013;NaN;0.000;NaN
+PART;Combinatorial[0];celular;0;0;11;1013;NaN;0.000;NaN
+ZeroR;Combinatorial[0];celular;0;0;11;1013;NaN;0.000;NaN
+OneR;Combinatorial[0];celular;0;0;11;1013;NaN;0.000;NaN
+JRip;Combinatorial[0];Bandymas;18;4;0;1002;0.818;1.000;0.900
+PART;Combinatorial[0];Bandymas;18;0;0;1006;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Bandymas;0;0;18;1006;NaN;0.000;NaN
+OneR;Combinatorial[0];Bandymas;0;0;18;1006;NaN;0.000;NaN
+JRip;Combinatorial[0];test 3;24;4;8;988;0.857;0.750;0.800
+PART;Combinatorial[0];test 3;16;4;16;988;0.800;0.500;0.615
+ZeroR;Combinatorial[0];test 3;0;0;32;992;NaN;0.000;NaN
+OneR;Combinatorial[0];test 3;0;0;32;992;NaN;0.000;NaN
+JRip;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+PART;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+ZeroR;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+OneR;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+JRip;Combinatorial[0];Feature Tree Example;8;0;0;1016;1.000;1.000;1.000
+PART;Combinatorial[0];Feature Tree Example;8;8;0;1008;0.500;1.000;0.667
+ZeroR;Combinatorial[0];Feature Tree Example;0;0;8;1016;NaN;0.000;NaN
+OneR;Combinatorial[0];Feature Tree Example;0;0;8;1016;NaN;0.000;NaN
+JRip;Combinatorial[0];Sample;32;0;0;992;1.000;1.000;1.000
+PART;Combinatorial[0];Sample;0;0;32;992;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Sample;0;0;32;992;NaN;0.000;NaN
+OneR;Combinatorial[0];Sample;0;0;32;992;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Tourist Planner;0;0;28;996;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Tourist Planner;0;0;28;996;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Mobile Tourist Planner;0;0;28;996;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Tourist Planner;0;0;28;996;NaN;0.000;NaN
+JRip;Combinatorial[0];votacao eletronica;7;1;0;1016;0.875;1.000;0.933
+PART;Combinatorial[0];votacao eletronica;7;1;0;1016;0.875;1.000;0.933
+ZeroR;Combinatorial[0];votacao eletronica;0;0;7;1017;NaN;0.000;NaN
+OneR;Combinatorial[0];votacao eletronica;0;0;7;1017;NaN;0.000;NaN
+JRip;Combinatorial[0];Car;24;0;0;1000;1.000;1.000;1.000
+PART;Combinatorial[0];Car;0;0;24;1000;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Car;0;0;24;1000;NaN;0.000;NaN
+OneR;Combinatorial[0];Car;0;0;24;1000;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone;6;2;8;1008;0.750;0.429;0.545
+PART;Combinatorial[0];Mobile Phone;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Test1;8;0;0;1016;1.000;1.000;1.000
+PART;Combinatorial[0];Test1;0;0;8;1016;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Test1;0;0;8;1016;NaN;0.000;NaN
+OneR;Combinatorial[0];Test1;0;0;8;1016;NaN;0.000;NaN
+JRip;Combinatorial[0];Maquina de Cae;8;0;28;988;1.000;0.222;0.364
+PART;Combinatorial[0];Maquina de Cae;36;0;0;988;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Maquina de Cae;0;0;36;988;NaN;0.000;NaN
+OneR;Combinatorial[0];Maquina de Cae;0;0;36;988;NaN;0.000;NaN
+JRip;Combinatorial[0];Autosoft;122;0;0;902;1.000;1.000;1.000
+PART;Combinatorial[0];Autosoft;122;0;0;902;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Autosoft;0;0;122;902;NaN;0.000;NaN
+OneR;Combinatorial[0];Autosoft;0;0;122;902;NaN;0.000;NaN
+JRip;Combinatorial[0];Minimalistic PC Feature Model;4;0;0;1020;1.000;1.000;1.000
+PART;Combinatorial[0];Minimalistic PC Feature Model;0;0;4;1020;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Minimalistic PC Feature Model;0;0;4;1020;NaN;0.000;NaN
+OneR;Combinatorial[0];Minimalistic PC Feature Model;0;0;4;1020;NaN;0.000;NaN
+JRip;Combinatorial[0];Match engine;16;0;0;1008;1.000;1.000;1.000
+PART;Combinatorial[0];Match engine;16;0;0;1008;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Match engine;0;0;16;1008;NaN;0.000;NaN
+OneR;Combinatorial[0];Match engine;0;0;16;1008;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone UPT;6;2;8;1008;0.750;0.429;0.545
+PART;Combinatorial[0];Mobile Phone UPT;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Mobile Phone UPT;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Phone UPT;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone UPT - 18413;6;2;8;1008;0.750;0.429;0.545
+PART;Combinatorial[0];Mobile Phone UPT - 18413;8;4;6;1006;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Mobile Phone UPT - 18413;0;0;14;1010;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Phone UPT - 18413;0;0;14;1010;NaN;0.000;NaN
+JRip;Combinatorial[0];Manuel;6;2;3;1013;0.750;0.667;0.706
+PART;Combinatorial[0];Manuel;8;0;1;1015;1.000;0.889;0.941
+ZeroR;Combinatorial[0];Manuel;0;0;9;1015;NaN;0.000;NaN
+OneR;Combinatorial[0];Manuel;0;0;9;1015;NaN;0.000;NaN
+JRip;Combinatorial[0];Telefonia Celular;31;6;5;982;0.838;0.861;0.849
+PART;Combinatorial[0];Telefonia Celular;18;0;18;988;1.000;0.500;0.667
+ZeroR;Combinatorial[0];Telefonia Celular;0;0;36;988;NaN;0.000;NaN
+OneR;Combinatorial[0];Telefonia Celular;0;0;36;988;NaN;0.000;NaN
+JRip;Combinatorial[0];E-SHOP;0;0;8;1016;NaN;0.000;NaN
+PART;Combinatorial[0];E-SHOP;8;0;0;1016;1.000;1.000;1.000
+ZeroR;Combinatorial[0];E-SHOP;0;0;8;1016;NaN;0.000;NaN
+OneR;Combinatorial[0];E-SHOP;0;0;8;1016;NaN;0.000;NaN
+JRip;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+PART;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+OneR;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+JRip;Combinatorial[0];Hello World;35;3;0;986;0.921;1.000;0.959
+PART;Combinatorial[0];Hello World;7;1;28;988;0.875;0.200;0.326
+ZeroR;Combinatorial[0];Hello World;0;0;35;989;NaN;0.000;NaN
+OneR;Combinatorial[0];Hello World;0;0;35;989;NaN;0.000;NaN
+JRip;Combinatorial[0];hhhhhhh;0;0;4;1020;NaN;0.000;NaN
+PART;Combinatorial[0];hhhhhhh;0;0;4;1020;NaN;0.000;NaN
+ZeroR;Combinatorial[0];hhhhhhh;0;0;4;1020;NaN;0.000;NaN
+OneR;Combinatorial[0];hhhhhhh;0;0;4;1020;NaN;0.000;NaN
+JRip;Combinatorial[0];drupal sawsen;8;0;0;1016;1.000;1.000;1.000
+PART;Combinatorial[0];drupal sawsen;8;0;0;1016;1.000;1.000;1.000
+ZeroR;Combinatorial[0];drupal sawsen;0;0;8;1016;NaN;0.000;NaN
+OneR;Combinatorial[0];drupal sawsen;0;0;8;1016;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile phone;4;0;6;1014;1.000;0.400;0.571
+PART;Combinatorial[0];Mobile phone;4;0;6;1014;1.000;0.400;0.571
+ZeroR;Combinatorial[0];Mobile phone;0;0;10;1014;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile phone;0;0;10;1014;NaN;0.000;NaN
+JRip;Combinatorial[0];mobile phone;11;1;15;997;0.917;0.423;0.579
+PART;Combinatorial[0];mobile phone;18;2;8;996;0.900;0.692;0.783
+ZeroR;Combinatorial[0];mobile phone;0;0;26;998;NaN;0.000;NaN
+OneR;Combinatorial[0];mobile phone;0;0;26;998;NaN;0.000;NaN
+JRip;Combinatorial[0];E-portal;16;0;0;2032;1.000;1.000;1.000
+PART;Combinatorial[0];E-portal;16;8;0;2024;0.667;1.000;0.800
+ZeroR;Combinatorial[0];E-portal;0;0;16;2032;NaN;0.000;NaN
+OneR;Combinatorial[0];E-portal;0;0;16;2032;NaN;0.000;NaN
+JRip;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+PART;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+ZeroR;Combinatorial[0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+OneR;Combinatorial[0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+JRip;Combinatorial[0];Asghar;31;5;1;2011;0.861;0.969;0.912
+PART;Combinatorial[0];Asghar;16;0;16;2016;1.000;0.500;0.667
+ZeroR;Combinatorial[0];Asghar;0;0;32;2016;NaN;0.000;NaN
+OneR;Combinatorial[0];Asghar;0;0;32;2016;NaN;0.000;NaN
+JRip;Combinatorial[0];MyFeatureModel;35;13;0;2000;0.729;1.000;0.843
+PART;Combinatorial[0];MyFeatureModel;19;0;16;2013;1.000;0.543;0.704
+ZeroR;Combinatorial[0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+OneR;Combinatorial[0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+JRip;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+PART;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+ZeroR;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+OneR;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+JRip;Combinatorial[0];ETRobocon;120;8;0;1920;0.938;1.000;0.968
+PART;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+ZeroR;Combinatorial[0];ETRobocon;0;0;120;1928;NaN;0.000;NaN
+OneR;Combinatorial[0];ETRobocon;0;0;120;1928;NaN;0.000;NaN
+JRip;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+PART;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+OneR;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+JRip;Combinatorial[0];ordem;56;0;0;1992;1.000;1.000;1.000
+PART;Combinatorial[0];ordem;56;0;0;1992;1.000;1.000;1.000
+ZeroR;Combinatorial[0];ordem;0;0;56;1992;NaN;0.000;NaN
+OneR;Combinatorial[0];ordem;0;0;56;1992;NaN;0.000;NaN
+JRip;Combinatorial[0];desordem;56;4;0;1988;0.933;1.000;0.966
+PART;Combinatorial[0];desordem;56;0;0;1992;1.000;1.000;1.000
+ZeroR;Combinatorial[0];desordem;0;0;56;1992;NaN;0.000;NaN
+OneR;Combinatorial[0];desordem;0;0;56;1992;NaN;0.000;NaN
+JRip;Combinatorial[0];UPL;14;2;4;2028;0.875;0.778;0.824
+PART;Combinatorial[0];UPL;14;0;4;2030;1.000;0.778;0.875
+ZeroR;Combinatorial[0];UPL;0;0;18;2030;NaN;0.000;NaN
+OneR;Combinatorial[0];UPL;0;0;18;2030;NaN;0.000;NaN
+JRip;Combinatorial[0];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+PART;Combinatorial[0];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Mauricio Alférez;0;0;10;2038;NaN;0.000;NaN
+OneR;Combinatorial[0];Mauricio Alférez;0;0;10;2038;NaN;0.000;NaN
+JRip;Combinatorial[0];Loja Virtual;56;16;0;1976;0.778;1.000;0.875
+PART;Combinatorial[0];Loja Virtual;56;0;0;1992;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Loja Virtual;0;0;56;1992;NaN;0.000;NaN
+OneR;Combinatorial[0];Loja Virtual;0;0;56;1992;NaN;0.000;NaN
+JRip;Combinatorial[0];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+PART;Combinatorial[0];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+ZeroR;Combinatorial[0];SmartHome- Simplified Sample;0;0;10;2038;NaN;0.000;NaN
+OneR;Combinatorial[0];SmartHome- Simplified Sample;0;0;10;2038;NaN;0.000;NaN
+JRip;Combinatorial[0];Ubuntu;0;0;12;2036;NaN;0.000;NaN
+PART;Combinatorial[0];Ubuntu;0;0;12;2036;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Ubuntu;0;0;12;2036;NaN;0.000;NaN
+OneR;Combinatorial[0];Ubuntu;0;0;12;2036;NaN;0.000;NaN
+JRip;Combinatorial[0];Implementacion;0;0;7;2041;NaN;0.000;NaN
+PART;Combinatorial[0];Implementacion;0;0;7;2041;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Implementacion;0;0;7;2041;NaN;0.000;NaN
+OneR;Combinatorial[0];Implementacion;0;0;7;2041;NaN;0.000;NaN
+JRip;Combinatorial[0];Imolementacion II;0;0;3;2045;NaN;0.000;NaN
+PART;Combinatorial[0];Imolementacion II;0;0;3;2045;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Imolementacion II;0;0;3;2045;NaN;0.000;NaN
+OneR;Combinatorial[0];Imolementacion II;0;0;3;2045;NaN;0.000;NaN
+JRip;Combinatorial[0];Basic Car;16;0;0;2032;1.000;1.000;1.000
+PART;Combinatorial[0];Basic Car;16;0;0;2032;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Basic Car;0;0;16;2032;NaN;0.000;NaN
+OneR;Combinatorial[0];Basic Car;0;0;16;2032;NaN;0.000;NaN
+JRip;Combinatorial[0];CarExample;0;0;3;2045;NaN;0.000;NaN
+PART;Combinatorial[0];CarExample;0;0;3;2045;NaN;0.000;NaN
+ZeroR;Combinatorial[0];CarExample;0;0;3;2045;NaN;0.000;NaN
+OneR;Combinatorial[0];CarExample;0;0;3;2045;NaN;0.000;NaN
+JRip;Combinatorial[0];mo;60;0;0;1988;1.000;1.000;1.000
+PART;Combinatorial[0];mo;60;0;0;1988;1.000;1.000;1.000
+ZeroR;Combinatorial[0];mo;0;0;60;1988;NaN;0.000;NaN
+OneR;Combinatorial[0];mo;0;0;60;1988;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Mobile Media v3;0;0;2;2046;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Media v3;0;0;2;2046;NaN;0.000;NaN
+JRip;Combinatorial[0];JDFM;0;0;20;2028;NaN;0.000;NaN
+PART;Combinatorial[0];JDFM;0;0;20;2028;NaN;0.000;NaN
+ZeroR;Combinatorial[0];JDFM;0;0;20;2028;NaN;0.000;NaN
+OneR;Combinatorial[0];JDFM;0;0;20;2028;NaN;0.000;NaN
+JRip;Combinatorial[0];Analisis;0;0;6;2042;NaN;0.000;NaN
+PART;Combinatorial[0];Analisis;6;0;0;2042;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Analisis;0;0;6;2042;NaN;0.000;NaN
+OneR;Combinatorial[0];Analisis;0;0;6;2042;NaN;0.000;NaN
+JRip;Combinatorial[0];Matrix chain multiplication;0;0;15;2033;NaN;0.000;NaN
+PART;Combinatorial[0];Matrix chain multiplication;0;0;15;2033;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Matrix chain multiplication;0;0;15;2033;NaN;0.000;NaN
+OneR;Combinatorial[0];Matrix chain multiplication;0;0;15;2033;NaN;0.000;NaN
+JRip;Combinatorial[0];Observatorio;0;0;8;2040;NaN;0.000;NaN
+PART;Combinatorial[0];Observatorio;0;0;8;2040;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Observatorio;0;0;8;2040;NaN;0.000;NaN
+OneR;Combinatorial[0];Observatorio;0;0;8;2040;NaN;0.000;NaN
+JRip;Combinatorial[0];collapse_view_example;25;3;6;2014;0.893;0.806;0.847
+PART;Combinatorial[0];collapse_view_example;0;0;31;2017;NaN;0.000;NaN
+ZeroR;Combinatorial[0];collapse_view_example;0;0;31;2017;NaN;0.000;NaN
+OneR;Combinatorial[0];collapse_view_example;0;0;31;2017;NaN;0.000;NaN
+JRip;Combinatorial[0];Match de foot;16;0;0;2032;1.000;1.000;1.000
+PART;Combinatorial[0];Match de foot;16;0;0;2032;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Match de foot;0;0;16;2032;NaN;0.000;NaN
+OneR;Combinatorial[0];Match de foot;0;0;16;2032;NaN;0.000;NaN
+JRip;Combinatorial[0];Xor Example;40;0;0;2008;1.000;1.000;1.000
+PART;Combinatorial[0];Xor Example;0;0;40;2008;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Xor Example;0;0;40;2008;NaN;0.000;NaN
+OneR;Combinatorial[0];Xor Example;0;0;40;2008;NaN;0.000;NaN
+JRip;Combinatorial[0];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+PART;Combinatorial[0];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+ZeroR;Combinatorial[0];XOR NEW;0;0;88;1960;NaN;0.000;NaN
+OneR;Combinatorial[0];XOR NEW;0;0;88;1960;NaN;0.000;NaN
+JRip;Combinatorial[0];Xor Example 2;72;0;0;1976;1.000;1.000;1.000
+PART;Combinatorial[0];Xor Example 2;72;0;0;1976;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Xor Example 2;0;0;72;1976;NaN;0.000;NaN
+OneR;Combinatorial[0];Xor Example 2;0;0;72;1976;NaN;0.000;NaN
+JRip;Combinatorial[0];Sylvain Example;5;3;5;2035;0.625;0.500;0.556
+PART;Combinatorial[0];Sylvain Example;7;2;3;2036;0.778;0.700;0.737
+ZeroR;Combinatorial[0];Sylvain Example;0;0;10;2038;NaN;0.000;NaN
+OneR;Combinatorial[0];Sylvain Example;0;0;10;2038;NaN;0.000;NaN
+JRip;Combinatorial[0];ROOT;96;0;0;1952;1.000;1.000;1.000
+PART;Combinatorial[0];ROOT;96;0;0;1952;1.000;1.000;1.000
+ZeroR;Combinatorial[0];ROOT;0;0;96;1952;NaN;0.000;NaN
+OneR;Combinatorial[0];ROOT;0;0;96;1952;NaN;0.000;NaN
+JRip;Combinatorial[0];NovoSiga;4;0;16;2028;1.000;0.200;0.333
+PART;Combinatorial[0];NovoSiga;12;8;8;2020;0.600;0.600;0.600
+ZeroR;Combinatorial[0];NovoSiga;0;0;20;2028;NaN;0.000;NaN
+OneR;Combinatorial[0];NovoSiga;0;0;20;2028;NaN;0.000;NaN
+JRip;Combinatorial[0];asdsfa ewtwwe;4;0;8;2036;1.000;0.333;0.500
+PART;Combinatorial[0];asdsfa ewtwwe;12;0;0;2036;1.000;1.000;1.000
+ZeroR;Combinatorial[0];asdsfa ewtwwe;0;0;12;2036;NaN;0.000;NaN
+OneR;Combinatorial[0];asdsfa ewtwwe;0;0;12;2036;NaN;0.000;NaN
+JRip;Combinatorial[0];Website;64;0;0;1984;1.000;1.000;1.000
+PART;Combinatorial[0];Website;64;0;0;1984;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Website;0;0;64;1984;NaN;0.000;NaN
+OneR;Combinatorial[0];Website;0;0;64;1984;NaN;0.000;NaN
+JRip;Combinatorial[0];1;14;2;0;2032;0.875;1.000;0.933
+PART;Combinatorial[0];1;14;0;0;2034;1.000;1.000;1.000
+ZeroR;Combinatorial[0];1;0;0;14;2034;NaN;0.000;NaN
+OneR;Combinatorial[0];1;0;0;14;2034;NaN;0.000;NaN
+JRip;Combinatorial[0];erewr;0;0;24;2024;NaN;0.000;NaN
+PART;Combinatorial[0];erewr;24;0;0;2024;1.000;1.000;1.000
+ZeroR;Combinatorial[0];erewr;0;0;24;2024;NaN;0.000;NaN
+OneR;Combinatorial[0];erewr;0;0;24;2024;NaN;0.000;NaN
+JRip;Combinatorial[0];Webshop_SPLE2014_Chalmers;8;2;0;2038;0.800;1.000;0.889
+PART;Combinatorial[0];Webshop_SPLE2014_Chalmers;8;0;0;2040;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Webshop_SPLE2014_Chalmers;0;0;8;2040;NaN;0.000;NaN
+OneR;Combinatorial[0];Webshop_SPLE2014_Chalmers;0;0;8;2040;NaN;0.000;NaN
+JRip;Combinatorial[0];poker spl;18;4;3;2023;0.818;0.857;0.837
+PART;Combinatorial[0];poker spl;14;8;7;2019;0.636;0.667;0.651
+ZeroR;Combinatorial[0];poker spl;0;0;21;2027;NaN;0.000;NaN
+OneR;Combinatorial[0];poker spl;0;0;21;2027;NaN;0.000;NaN
+JRip;Combinatorial[0];r;26;2;58;1962;0.929;0.310;0.464
+PART;Combinatorial[0];r;0;0;84;1964;NaN;0.000;NaN
+ZeroR;Combinatorial[0];r;0;0;84;1964;NaN;0.000;NaN
+OneR;Combinatorial[0];r;0;0;84;1964;NaN;0.000;NaN
+JRip;Combinatorial[0];E-shop;29;3;0;2016;0.906;1.000;0.951
+PART;Combinatorial[0];E-shop;27;0;2;2019;1.000;0.931;0.964
+ZeroR;Combinatorial[0];E-shop;0;0;29;2019;NaN;0.000;NaN
+OneR;Combinatorial[0];E-shop;0;0;29;2019;NaN;0.000;NaN
+JRip;Combinatorial[0];PC model;4;0;14;2030;1.000;0.222;0.364
+PART;Combinatorial[0];PC model;18;0;0;2030;1.000;1.000;1.000
+ZeroR;Combinatorial[0];PC model;0;0;18;2030;NaN;0.000;NaN
+OneR;Combinatorial[0];PC model;0;0;18;2030;NaN;0.000;NaN
+JRip;Combinatorial[0];testing;255;1;0;1792;0.996;1.000;0.998
+PART;Combinatorial[0];testing;255;1;0;1792;0.996;1.000;0.998
+ZeroR;Combinatorial[0];testing;0;0;255;1793;NaN;0.000;NaN
+OneR;Combinatorial[0];testing;0;0;255;1793;NaN;0.000;NaN
+JRip;Combinatorial[0];ubuntu;0;0;18;2030;NaN;0.000;NaN
+PART;Combinatorial[0];ubuntu;6;0;12;2030;1.000;0.333;0.500
+ZeroR;Combinatorial[0];ubuntu;0;0;18;2030;NaN;0.000;NaN
+OneR;Combinatorial[0];ubuntu;0;0;18;2030;NaN;0.000;NaN
+JRip;Combinatorial[0];Jogo;4;0;0;2044;1.000;1.000;1.000
+PART;Combinatorial[0];Jogo;4;0;0;2044;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Jogo;0;0;4;2044;NaN;0.000;NaN
+OneR;Combinatorial[0];Jogo;0;0;4;2044;NaN;0.000;NaN
+JRip;Combinatorial[0];Assistente de Compras;16;0;8;2024;1.000;0.667;0.800
+PART;Combinatorial[0];Assistente de Compras;0;0;24;2024;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Assistente de Compras;0;0;24;2024;NaN;0.000;NaN
+OneR;Combinatorial[0];Assistente de Compras;0;0;24;2024;NaN;0.000;NaN
+JRip;Combinatorial[0];HandlingSystem;0;0;1;2047;NaN;0.000;NaN
+PART;Combinatorial[0];HandlingSystem;0;0;1;2047;NaN;0.000;NaN
+ZeroR;Combinatorial[0];HandlingSystem;0;0;1;2047;NaN;0.000;NaN
+OneR;Combinatorial[0];HandlingSystem;0;0;1;2047;NaN;0.000;NaN
+JRip;Combinatorial[0];Autosoft;112;0;0;1936;1.000;1.000;1.000
+PART;Combinatorial[0];Autosoft;0;0;112;1936;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Autosoft;0;0;112;1936;NaN;0.000;NaN
+OneR;Combinatorial[0];Autosoft;0;0;112;1936;NaN;0.000;NaN
+JRip;Combinatorial[0];Rotation1;10;0;0;2038;1.000;1.000;1.000
+PART;Combinatorial[0];Rotation1;10;0;0;2038;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Rotation1;0;0;10;2038;NaN;0.000;NaN
+OneR;Combinatorial[0];Rotation1;0;0;10;2038;NaN;0.000;NaN
+JRip;Combinatorial[0];SPL_e_commerce;54;0;2;1992;1.000;0.964;0.982
+PART;Combinatorial[0];SPL_e_commerce;0;0;56;1992;NaN;0.000;NaN
+ZeroR;Combinatorial[0];SPL_e_commerce;0;0;56;1992;NaN;0.000;NaN
+OneR;Combinatorial[0];SPL_e_commerce;0;0;56;1992;NaN;0.000;NaN
+JRip;Combinatorial[0];ESCA Embeeded System;0;0;10;2038;NaN;0.000;NaN
+PART;Combinatorial[0];ESCA Embeeded System;0;0;10;2038;NaN;0.000;NaN
+ZeroR;Combinatorial[0];ESCA Embeeded System;0;0;10;2038;NaN;0.000;NaN
+OneR;Combinatorial[0];ESCA Embeeded System;0;0;10;2038;NaN;0.000;NaN
+JRip;Combinatorial[0];27-5-207 test;44;2;0;2002;0.957;1.000;0.978
+PART;Combinatorial[0];27-5-207 test;0;0;44;2004;NaN;0.000;NaN
+ZeroR;Combinatorial[0];27-5-207 test;0;0;44;2004;NaN;0.000;NaN
+OneR;Combinatorial[0];27-5-207 test;0;0;44;2004;NaN;0.000;NaN
+JRip;Combinatorial[0];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+PART;Combinatorial[0];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Modelo de Característica para Entidades Urbanas;0;0;512;1536;NaN;0.000;NaN
+OneR;Combinatorial[0];Modelo de Característica para Entidades Urbanas;512;512;0;1024;0.500;1.000;0.667
+JRip;Combinatorial[0];ZMUConcernExample;7;1;1;2039;0.875;0.875;0.875
+PART;Combinatorial[0];ZMUConcernExample;7;1;1;2039;0.875;0.875;0.875
+ZeroR;Combinatorial[0];ZMUConcernExample;0;0;8;2040;NaN;0.000;NaN
+OneR;Combinatorial[0];ZMUConcernExample;0;0;8;2040;NaN;0.000;NaN
+JRip;Combinatorial[0];SimpleModel;0;0;24;2024;NaN;0.000;NaN
+PART;Combinatorial[0];SimpleModel;0;0;24;2024;NaN;0.000;NaN
+ZeroR;Combinatorial[0];SimpleModel;0;0;24;2024;NaN;0.000;NaN
+OneR;Combinatorial[0];SimpleModel;0;0;24;2024;NaN;0.000;NaN
+JRip;Combinatorial[0];Car;11;7;1;2029;0.611;0.917;0.733
+PART;Combinatorial[0];Car;11;0;1;2036;1.000;0.917;0.957
+ZeroR;Combinatorial[0];Car;0;0;12;2036;NaN;0.000;NaN
+OneR;Combinatorial[0];Car;0;0;12;2036;NaN;0.000;NaN
+JRip;Combinatorial[0];Weather Station;28;2;16;2002;0.933;0.636;0.757
+PART;Combinatorial[0];Weather Station;0;0;44;2004;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Weather Station;0;0;44;2004;NaN;0.000;NaN
+OneR;Combinatorial[0];Weather Station;0;0;44;2004;NaN;0.000;NaN
+JRip;Combinatorial[0];Cellphone;0;0;14;2034;NaN;0.000;NaN
+PART;Combinatorial[0];Cellphone;0;0;14;2034;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Cellphone;0;0;14;2034;NaN;0.000;NaN
+OneR;Combinatorial[0];Cellphone;0;0;14;2034;NaN;0.000;NaN
+JRip;Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+PART;Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+ZeroR;Combinatorial[0];IntelligentTutoringSystem;0;0;84;4012;NaN;0.000;NaN
+OneR;Combinatorial[0];IntelligentTutoringSystem;0;0;84;4012;NaN;0.000;NaN
+JRip;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+PART;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+ZeroR;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+OneR;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+JRip;Combinatorial[0];Eshop-ufrj;22;2;26;4046;0.917;0.458;0.611
+PART;Combinatorial[0];Eshop-ufrj;0;0;48;4048;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Eshop-ufrj;0;0;48;4048;NaN;0.000;NaN
+OneR;Combinatorial[0];Eshop-ufrj;0;0;48;4048;NaN;0.000;NaN
+JRip;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+PART;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Doorlopende reisverzekering;0;0;64;4032;NaN;0.000;NaN
+OneR;Combinatorial[0];Doorlopende reisverzekering;0;0;64;4032;NaN;0.000;NaN
+JRip;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+PART;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+OneR;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+JRip;Combinatorial[0];WB2;194;42;6;3854;0.822;0.970;0.890
+PART;Combinatorial[0];WB2;96;24;104;3872;0.800;0.480;0.600
+ZeroR;Combinatorial[0];WB2;0;0;200;3896;NaN;0.000;NaN
+OneR;Combinatorial[0];WB2;0;0;200;3896;NaN;0.000;NaN
+JRip;Combinatorial[0];Text Editor;4;0;7;4085;1.000;0.364;0.533
+PART;Combinatorial[0];Text Editor;10;0;1;4085;1.000;0.909;0.952
+ZeroR;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+OneR;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+JRip;Combinatorial[0];Adams Car;28;4;0;4064;0.875;1.000;0.933
+PART;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+OneR;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+JRip;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+PART;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+ZeroR;Combinatorial[0];CCCMS;0;0;240;3856;NaN;0.000;NaN
+OneR;Combinatorial[0];CCCMS;0;0;240;3856;NaN;0.000;NaN
+JRip;Combinatorial[0];mon model;3;1;21;4071;0.750;0.125;0.214
+PART;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+ZeroR;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+OneR;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+JRip;Combinatorial[0];a;42;6;0;4048;0.875;1.000;0.933
+PART;Combinatorial[0];a;42;0;0;4054;1.000;1.000;1.000
+ZeroR;Combinatorial[0];a;0;0;42;4054;NaN;0.000;NaN
+OneR;Combinatorial[0];a;0;0;42;4054;NaN;0.000;NaN
+JRip;Combinatorial[0];aaaaaa;32;0;0;4064;1.000;1.000;1.000
+PART;Combinatorial[0];aaaaaa;32;0;0;4064;1.000;1.000;1.000
+ZeroR;Combinatorial[0];aaaaaa;0;0;32;4064;NaN;0.000;NaN
+OneR;Combinatorial[0];aaaaaa;0;0;32;4064;NaN;0.000;NaN
+JRip;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+PART;Combinatorial[0];Pruebas;2;0;5;4089;1.000;0.286;0.444
+ZeroR;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+OneR;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+JRip;Combinatorial[0];Address Book;72;0;0;4024;1.000;1.000;1.000
+PART;Combinatorial[0];Address Book;72;0;0;4024;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Address Book;0;0;72;4024;NaN;0.000;NaN
+OneR;Combinatorial[0];Address Book;0;0;72;4024;NaN;0.000;NaN
+JRip;Combinatorial[0];Sisgeo;256;0;1;3839;1.000;0.996;0.998
+PART;Combinatorial[0];Sisgeo;256;0;1;3839;1.000;0.996;0.998
+ZeroR;Combinatorial[0];Sisgeo;0;0;257;3839;NaN;0.000;NaN
+OneR;Combinatorial[0];Sisgeo;0;0;257;3839;NaN;0.000;NaN
+JRip;Combinatorial[0];Multiplicador de n matrices;0;0;18;4078;NaN;0.000;NaN
+PART;Combinatorial[0];Multiplicador de n matrices;0;0;18;4078;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Multiplicador de n matrices;0;0;18;4078;NaN;0.000;NaN
+OneR;Combinatorial[0];Multiplicador de n matrices;0;0;18;4078;NaN;0.000;NaN
+JRip;Combinatorial[0];Movil;8;0;20;4068;1.000;0.286;0.444
+PART;Combinatorial[0];Movil;16;8;12;4060;0.667;0.571;0.615
+ZeroR;Combinatorial[0];Movil;0;0;28;4068;NaN;0.000;NaN
+OneR;Combinatorial[0];Movil;0;0;28;4068;NaN;0.000;NaN
+JRip;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+PART;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+ZeroR;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+OneR;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+JRip;Combinatorial[0];gs;48;0;120;3928;1.000;0.286;0.444
+PART;Combinatorial[0];gs;0;0;168;3928;NaN;0.000;NaN
+ZeroR;Combinatorial[0];gs;0;0;168;3928;NaN;0.000;NaN
+OneR;Combinatorial[0];gs;0;0;168;3928;NaN;0.000;NaN
+JRip;Combinatorial[0];MyDental;42;6;0;4048;0.875;1.000;0.933
+PART;Combinatorial[0];MyDental;42;0;0;4054;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MyDental;0;0;42;4054;NaN;0.000;NaN
+OneR;Combinatorial[0];MyDental;0;0;42;4054;NaN;0.000;NaN
+JRip;Combinatorial[0];FM with optional XOR;21;3;0;4072;0.875;1.000;0.933
+PART;Combinatorial[0];FM with optional XOR;20;2;1;4073;0.909;0.952;0.930
+ZeroR;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+OneR;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+JRip;Combinatorial[0];Final model;9;1;2;4084;0.900;0.818;0.857
+PART;Combinatorial[0];Final model;6;0;5;4085;1.000;0.545;0.706
+ZeroR;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+OneR;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+JRip;Combinatorial[0];Sylvain Example;10;2;1;4083;0.833;0.909;0.870
+PART;Combinatorial[0];Sylvain Example;6;0;5;4085;1.000;0.545;0.706
+ZeroR;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+OneR;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+JRip;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+PART;Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+ZeroR;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+OneR;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+JRip;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+PART;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+ZeroR;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+OneR;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+JRip;Combinatorial[0];Content;91;7;0;3998;0.929;1.000;0.963
+PART;Combinatorial[0];Content;89;0;2;4005;1.000;0.978;0.989
+ZeroR;Combinatorial[0];Content;0;0;91;4005;NaN;0.000;NaN
+OneR;Combinatorial[0];Content;0;0;91;4005;NaN;0.000;NaN
+JRip;Combinatorial[0];Attempt of mine;132;8;0;3956;0.943;1.000;0.971
+PART;Combinatorial[0];Attempt of mine;132;0;0;3964;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Attempt of mine;0;0;132;3964;NaN;0.000;NaN
+OneR;Combinatorial[0];Attempt of mine;0;0;132;3964;NaN;0.000;NaN
+JRip;Combinatorial[0];Content;28;2;17;4049;0.933;0.622;0.747
+PART;Combinatorial[0];Content;44;0;1;4051;1.000;0.978;0.989
+ZeroR;Combinatorial[0];Content;0;0;45;4051;NaN;0.000;NaN
+OneR;Combinatorial[0];Content;0;0;45;4051;NaN;0.000;NaN
+JRip;Combinatorial[0];Content model;91;7;0;3998;0.929;1.000;0.963
+PART;Combinatorial[0];Content model;89;0;2;4005;1.000;0.978;0.989
+ZeroR;Combinatorial[0];Content model;0;0;91;4005;NaN;0.000;NaN
+OneR;Combinatorial[0];Content model;0;0;91;4005;NaN;0.000;NaN
+JRip;Combinatorial[0];eLearning ways;397;7;0;3692;0.983;1.000;0.991
+PART;Combinatorial[0];eLearning ways;397;2;0;3697;0.995;1.000;0.997
+ZeroR;Combinatorial[0];eLearning ways;0;0;397;3699;NaN;0.000;NaN
+OneR;Combinatorial[0];eLearning ways;0;0;397;3699;NaN;0.000;NaN
+JRip;Combinatorial[0];Topology;0;0;16;4080;NaN;0.000;NaN
+PART;Combinatorial[0];Topology;0;0;16;4080;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Topology;0;0;16;4080;NaN;0.000;NaN
+OneR;Combinatorial[0];Topology;0;0;16;4080;NaN;0.000;NaN
+JRip;Combinatorial[0];This is a test;32;0;100;3964;1.000;0.242;0.390
+PART;Combinatorial[0];This is a test;92;48;40;3916;0.657;0.697;0.676
+ZeroR;Combinatorial[0];This is a test;0;0;132;3964;NaN;0.000;NaN
+OneR;Combinatorial[0];This is a test;0;0;132;3964;NaN;0.000;NaN
+JRip;Combinatorial[0];Congress Assistant;16;0;32;4048;1.000;0.333;0.500
+PART;Combinatorial[0];Congress Assistant;48;0;0;4048;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Congress Assistant;0;0;48;4048;NaN;0.000;NaN
+OneR;Combinatorial[0];Congress Assistant;0;0;48;4048;NaN;0.000;NaN
+JRip;Combinatorial[0];JCS;16;0;80;4000;1.000;0.167;0.286
+PART;Combinatorial[0];JCS;96;0;0;4000;1.000;1.000;1.000
+ZeroR;Combinatorial[0];JCS;0;0;96;4000;NaN;0.000;NaN
+OneR;Combinatorial[0];JCS;0;0;96;4000;NaN;0.000;NaN
+JRip;Combinatorial[0];Ooredoo;0;0;18;4078;NaN;0.000;NaN
+PART;Combinatorial[0];Ooredoo;0;0;18;4078;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Ooredoo;0;0;18;4078;NaN;0.000;NaN
+OneR;Combinatorial[0];Ooredoo;0;0;18;4078;NaN;0.000;NaN
+JRip;Combinatorial[0];M-learning Requirements Catalog;139;1;1;3955;0.993;0.993;0.993
+PART;Combinatorial[0];M-learning Requirements Catalog;138;0;2;3956;1.000;0.986;0.993
+ZeroR;Combinatorial[0];M-learning Requirements Catalog;0;0;140;3956;NaN;0.000;NaN
+OneR;Combinatorial[0];M-learning Requirements Catalog;0;0;140;3956;NaN;0.000;NaN
+JRip;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+PART;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+ZeroR;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+OneR;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+JRip;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+PART;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+OneR;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+JRip;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+PART;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+ZeroR;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+OneR;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+JRip;Combinatorial[0];Online Shop Feature Model;14;2;28;4052;0.875;0.333;0.483
+PART;Combinatorial[0];Online Shop Feature Model;0;0;42;4054;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Online Shop Feature Model;0;0;42;4054;NaN;0.000;NaN
+OneR;Combinatorial[0];Online Shop Feature Model;0;0;42;4054;NaN;0.000;NaN
+JRip;Combinatorial[0];ABMS;246;2;0;3848;0.992;1.000;0.996
+PART;Combinatorial[0];ABMS;246;0;0;3850;1.000;1.000;1.000
+ZeroR;Combinatorial[0];ABMS;0;0;246;3850;NaN;0.000;NaN
+OneR;Combinatorial[0];ABMS;0;0;246;3850;NaN;0.000;NaN
+JRip;Combinatorial[0];search engine;28;4;4;4060;0.875;0.875;0.875
+PART;Combinatorial[0];search engine;0;0;32;4064;NaN;0.000;NaN
+ZeroR;Combinatorial[0];search engine;0;0;32;4064;NaN;0.000;NaN
+OneR;Combinatorial[0];search engine;0;0;32;4064;NaN;0.000;NaN
+JRip;Combinatorial[0];Reservation;0;0;9;4087;NaN;0.000;NaN
+PART;Combinatorial[0];Reservation;0;0;9;4087;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Reservation;0;0;9;4087;NaN;0.000;NaN
+OneR;Combinatorial[0];Reservation;0;0;9;4087;NaN;0.000;NaN
+JRip;Combinatorial[0];tab;8;0;8;4080;1.000;0.500;0.667
+PART;Combinatorial[0];tab;0;0;16;4080;NaN;0.000;NaN
+ZeroR;Combinatorial[0];tab;0;0;16;4080;NaN;0.000;NaN
+OneR;Combinatorial[0];tab;0;0;16;4080;NaN;0.000;NaN
+JRip;Combinatorial[0];HDMR-Paper;0;0;7;4089;NaN;0.000;NaN
+PART;Combinatorial[0];HDMR-Paper;0;0;7;4089;NaN;0.000;NaN
+ZeroR;Combinatorial[0];HDMR-Paper;0;0;7;4089;NaN;0.000;NaN
+OneR;Combinatorial[0];HDMR-Paper;0;0;7;4089;NaN;0.000;NaN
+JRip;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+PART;Combinatorial[0];Telecommunication_System;3;1;15;4077;0.750;0.167;0.273
+ZeroR;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+OneR;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+JRip;Combinatorial[0];Aircraft PL;32;0;283;7877;1.000;0.102;0.184
+PART;Combinatorial[0];Aircraft PL;104;0;211;7877;1.000;0.330;0.496
+ZeroR;Combinatorial[0];Aircraft PL;0;0;315;7877;NaN;0.000;NaN
+OneR;Combinatorial[0];Aircraft PL;0;0;315;7877;NaN;0.000;NaN
+JRip;Combinatorial[0];CFDP Library;318;0;1;7873;1.000;0.997;0.998
+PART;Combinatorial[0];CFDP Library;319;1;0;7872;0.997;1.000;0.998
+ZeroR;Combinatorial[0];CFDP Library;0;0;319;7873;NaN;0.000;NaN
+OneR;Combinatorial[0];CFDP Library;0;0;319;7873;NaN;0.000;NaN
+JRip;Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+PART;Combinatorial[0];CFDP Library;624;1;0;7567;0.998;1.000;0.999
+ZeroR;Combinatorial[0];CFDP Library;0;0;624;7568;NaN;0.000;NaN
+OneR;Combinatorial[0];CFDP Library;0;0;624;7568;NaN;0.000;NaN
+JRip;Combinatorial[0];Tata Cars;0;0;24;8168;NaN;0.000;NaN
+PART;Combinatorial[0];Tata Cars;12;0;12;8168;1.000;0.500;0.667
+ZeroR;Combinatorial[0];Tata Cars;0;0;24;8168;NaN;0.000;NaN
+OneR;Combinatorial[0];Tata Cars;0;0;24;8168;NaN;0.000;NaN
+JRip;Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+PART;Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+ZeroR;Combinatorial[0];KIModel;0;0;12;8180;NaN;0.000;NaN
+OneR;Combinatorial[0];KIModel;0;0;12;8180;NaN;0.000;NaN
+JRip;Combinatorial[0];G10-music player;63;1;0;8128;0.984;1.000;0.992
+PART;Combinatorial[0];G10-music player;63;1;0;8128;0.984;1.000;0.992
+ZeroR;Combinatorial[0];G10-music player;0;0;63;8129;NaN;0.000;NaN
+OneR;Combinatorial[0];G10-music player;0;0;63;8129;NaN;0.000;NaN
+JRip;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+PART;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+ZeroR;Combinatorial[0];RE;0;0;96;8096;NaN;0.000;NaN
+OneR;Combinatorial[0];RE;0;0;96;8096;NaN;0.000;NaN
+JRip;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+PART;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+ZeroR;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+OneR;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+JRip;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+PART;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];Veículo;40;0;40;8112;1.000;0.500;0.667
+PART;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+OneR;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+JRip;Combinatorial[0];Car;42;6;0;8144;0.875;1.000;0.933
+PART;Combinatorial[0];Car;0;0;42;8150;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Car;0;0;42;8150;NaN;0.000;NaN
+OneR;Combinatorial[0];Car;0;0;42;8150;NaN;0.000;NaN
+JRip;Combinatorial[0];Homepage based on wiki;20;4;8;8160;0.833;0.714;0.769
+PART;Combinatorial[0];Homepage based on wiki;12;8;16;8156;0.600;0.429;0.500
+ZeroR;Combinatorial[0];Homepage based on wiki;0;0;28;8164;NaN;0.000;NaN
+OneR;Combinatorial[0];Homepage based on wiki;0;0;28;8164;NaN;0.000;NaN
+JRip;Combinatorial[0];Toyota Feature Model;11;5;5;8171;0.688;0.688;0.688
+PART;Combinatorial[0];Toyota Feature Model;11;1;5;8175;0.917;0.688;0.786
+ZeroR;Combinatorial[0];Toyota Feature Model;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];Toyota Feature Model;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];NCV_Simulation;0;0;18;8174;NaN;0.000;NaN
+PART;Combinatorial[0];NCV_Simulation;0;0;18;8174;NaN;0.000;NaN
+ZeroR;Combinatorial[0];NCV_Simulation;0;0;18;8174;NaN;0.000;NaN
+OneR;Combinatorial[0];NCV_Simulation;0;0;18;8174;NaN;0.000;NaN
+JRip;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+PART;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+ZeroR;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+OneR;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+JRip;Combinatorial[0];MiniRPG;16;0;0;8176;1.000;1.000;1.000
+PART;Combinatorial[0];MiniRPG;16;0;0;8176;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MiniRPG;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];MiniRPG;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;4;0;20;8168;1.000;0.167;0.286
+PART;Combinatorial[0];Mobile Media;6;0;18;8168;1.000;0.250;0.400
+ZeroR;Combinatorial[0];Mobile Media;0;0;24;8168;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Media;0;0;24;8168;NaN;0.000;NaN
+JRip;Combinatorial[0];Analisis;0;0;8;8184;NaN;0.000;NaN
+PART;Combinatorial[0];Analisis;0;0;8;8184;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Analisis;0;0;8;8184;NaN;0.000;NaN
+OneR;Combinatorial[0];Analisis;0;0;8;8184;NaN;0.000;NaN
+JRip;Combinatorial[0];Alarm System;7;1;35;8149;0.875;0.167;0.280
+PART;Combinatorial[0];Alarm System;0;0;42;8150;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Alarm System;0;0;42;8150;NaN;0.000;NaN
+OneR;Combinatorial[0];Alarm System;0;0;42;8150;NaN;0.000;NaN
+JRip;Combinatorial[0];LMF;2;0;0;8190;1.000;1.000;1.000
+PART;Combinatorial[0];LMF;2;0;0;8190;1.000;1.000;1.000
+ZeroR;Combinatorial[0];LMF;0;0;2;8190;NaN;0.000;NaN
+OneR;Combinatorial[0];LMF;0;0;2;8190;NaN;0.000;NaN
+JRip;Combinatorial[0];Wewq;0;0;1;8191;NaN;0.000;NaN
+PART;Combinatorial[0];Wewq;0;0;1;8191;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Wewq;0;0;1;8191;NaN;0.000;NaN
+OneR;Combinatorial[0];Wewq;0;0;1;8191;NaN;0.000;NaN
+JRip;Combinatorial[0];Video On Demand SPL FM;9;3;7;8173;0.750;0.563;0.643
+PART;Combinatorial[0];Video On Demand SPL FM;0;0;16;8176;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Video On Demand SPL FM;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];Video On Demand SPL FM;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];Video On Demand FM;9;3;7;8173;0.750;0.563;0.643
+PART;Combinatorial[0];Video On Demand FM;0;0;16;8176;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Video On Demand FM;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];Video On Demand FM;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];MyHolidays;112;8;0;8072;0.933;1.000;0.966
+PART;Combinatorial[0];MyHolidays;0;0;112;8080;NaN;0.000;NaN
+ZeroR;Combinatorial[0];MyHolidays;0;0;112;8080;NaN;0.000;NaN
+OneR;Combinatorial[0];MyHolidays;0;0;112;8080;NaN;0.000;NaN
+JRip;Combinatorial[0];PortafolioLopez;8;0;76;8108;1.000;0.095;0.174
+PART;Combinatorial[0];PortafolioLopez;60;32;24;8076;0.652;0.714;0.682
+ZeroR;Combinatorial[0];PortafolioLopez;0;0;84;8108;NaN;0.000;NaN
+OneR;Combinatorial[0];PortafolioLopez;0;0;84;8108;NaN;0.000;NaN
+JRip;Combinatorial[0];Phone;76;0;0;8116;1.000;1.000;1.000
+PART;Combinatorial[0];Phone;76;0;0;8116;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Phone;0;0;76;8116;NaN;0.000;NaN
+OneR;Combinatorial[0];Phone;0;0;76;8116;NaN;0.000;NaN
+JRip;Combinatorial[0];cell phones SPL;6;2;10;8174;0.750;0.375;0.500
+PART;Combinatorial[0];cell phones SPL;6;0;10;8176;1.000;0.375;0.545
+ZeroR;Combinatorial[0];cell phones SPL;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];cell phones SPL;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];FMConfig;60;0;75;8057;1.000;0.444;0.615
+PART;Combinatorial[0];FMConfig;45;0;90;8057;1.000;0.333;0.500
+ZeroR;Combinatorial[0];FMConfig;0;0;135;8057;NaN;0.000;NaN
+OneR;Combinatorial[0];FMConfig;0;0;135;8057;NaN;0.000;NaN
+JRip;Combinatorial[0];Cell-Phone-SPL-2014;4;0;12;8176;1.000;0.250;0.400
+PART;Combinatorial[0];Cell-Phone-SPL-2014;0;0;16;8176;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Cell-Phone-SPL-2014;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];Cell-Phone-SPL-2014;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];Cell-Phone-SPL-2014-Part2;4;0;26;8162;1.000;0.133;0.235
+PART;Combinatorial[0];Cell-Phone-SPL-2014-Part2;10;8;20;8154;0.556;0.333;0.417
+ZeroR;Combinatorial[0];Cell-Phone-SPL-2014-Part2;0;0;30;8162;NaN;0.000;NaN
+OneR;Combinatorial[0];Cell-Phone-SPL-2014-Part2;0;0;30;8162;NaN;0.000;NaN
+JRip;Combinatorial[0];Cell-Phone-SPL-2014-Mined;0;0;31;8161;NaN;0.000;NaN
+PART;Combinatorial[0];Cell-Phone-SPL-2014-Mined;18;0;13;8161;1.000;0.581;0.735
+ZeroR;Combinatorial[0];Cell-Phone-SPL-2014-Mined;0;0;31;8161;NaN;0.000;NaN
+OneR;Combinatorial[0];Cell-Phone-SPL-2014-Mined;0;0;31;8161;NaN;0.000;NaN
+JRip;Combinatorial[0];Magister 2014-ROLOG;96;0;0;8096;1.000;1.000;1.000
+PART;Combinatorial[0];Magister 2014-ROLOG;32;0;64;8096;1.000;0.333;0.500
+ZeroR;Combinatorial[0];Magister 2014-ROLOG;0;0;96;8096;NaN;0.000;NaN
+OneR;Combinatorial[0];Magister 2014-ROLOG;0;0;96;8096;NaN;0.000;NaN
+JRip;Combinatorial[0];MarketPlace-Sample;2;0;1;8189;1.000;0.667;0.800
+PART;Combinatorial[0];MarketPlace-Sample;2;0;1;8189;1.000;0.667;0.800
+ZeroR;Combinatorial[0];MarketPlace-Sample;0;0;3;8189;NaN;0.000;NaN
+OneR;Combinatorial[0];MarketPlace-Sample;0;0;3;8189;NaN;0.000;NaN
+JRip;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+PART;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+ZeroR;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+OneR;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+JRip;Combinatorial[0];SPL Studies;8;0;37;8147;1.000;0.178;0.302
+PART;Combinatorial[0];SPL Studies;31;17;14;8130;0.646;0.689;0.667
+ZeroR;Combinatorial[0];SPL Studies;0;0;45;8147;NaN;0.000;NaN
+OneR;Combinatorial[0];SPL Studies;0;0;45;8147;NaN;0.000;NaN
+JRip;Combinatorial[0];Content;231;21;0;7940;0.917;1.000;0.957
+PART;Combinatorial[0];Content;231;0;0;7961;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Content;0;0;231;7961;NaN;0.000;NaN
+OneR;Combinatorial[0];Content;0;0;231;7961;NaN;0.000;NaN
+JRip;Combinatorial[0];Stamppy;28;4;0;8160;0.875;1.000;0.933
+PART;Combinatorial[0];Stamppy;28;0;0;8164;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Stamppy;0;0;28;8164;NaN;0.000;NaN
+OneR;Combinatorial[0];Stamppy;0;0;28;8164;NaN;0.000;NaN
+JRip;Combinatorial[0];search-engine;8;0;100;8084;1.000;0.074;0.138
+PART;Combinatorial[0];search-engine;84;48;24;8036;0.636;0.778;0.700
+ZeroR;Combinatorial[0];search-engine;0;0;108;8084;NaN;0.000;NaN
+OneR;Combinatorial[0];search-engine;0;0;108;8084;NaN;0.000;NaN
+JRip;Combinatorial[0];Javed Test 2;448;0;0;7744;1.000;1.000;1.000
+PART;Combinatorial[0];Javed Test 2;320;128;128;7616;0.714;0.714;0.714
+ZeroR;Combinatorial[0];Javed Test 2;0;0;448;7744;NaN;0.000;NaN
+OneR;Combinatorial[0];Javed Test 2;0;0;448;7744;NaN;0.000;NaN
+JRip;Combinatorial[0];MoviesApp;12;0;42;8138;1.000;0.222;0.364
+PART;Combinatorial[0];MoviesApp;0;0;54;8138;NaN;0.000;NaN
+ZeroR;Combinatorial[0];MoviesApp;0;0;54;8138;NaN;0.000;NaN
+OneR;Combinatorial[0];MoviesApp;0;0;54;8138;NaN;0.000;NaN
+JRip;Combinatorial[0];Movie System;8;0;16;8168;1.000;0.333;0.500
+PART;Combinatorial[0];Movie System;0;0;24;8168;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Movie System;0;0;24;8168;NaN;0.000;NaN
+OneR;Combinatorial[0];Movie System;0;0;24;8168;NaN;0.000;NaN
+JRip;Combinatorial[0];SmartHotel;46;4;56;8086;0.920;0.451;0.605
+PART;Combinatorial[0];SmartHotel;46;16;56;8074;0.742;0.451;0.561
+ZeroR;Combinatorial[0];SmartHotel;0;0;102;8090;NaN;0.000;NaN
+OneR;Combinatorial[0];SmartHotel;0;0;102;8090;NaN;0.000;NaN
+JRip;Combinatorial[0];Smart Queue;4;0;0;8188;1.000;1.000;1.000
+PART;Combinatorial[0];Smart Queue;4;0;0;8188;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Smart Queue;0;0;4;8188;NaN;0.000;NaN
+OneR;Combinatorial[0];Smart Queue;0;0;4;8188;NaN;0.000;NaN
+JRip;Combinatorial[0];Online shopping software;0;0;2;8190;NaN;0.000;NaN
+PART;Combinatorial[0];Online shopping software;0;0;2;8190;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Online shopping software;0;0;2;8190;NaN;0.000;NaN
+OneR;Combinatorial[0];Online shopping software;0;0;2;8190;NaN;0.000;NaN
+JRip;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;49;15;0;8128;0.766;1.000;0.867
+PART;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;49;0;0;8143;1.000;1.000;1.000
+ZeroR;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;0;0;49;8143;NaN;0.000;NaN
+OneR;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;0;0;49;8143;NaN;0.000;NaN
+JRip;Combinatorial[0];Visit Indonesia Apps;0;0;84;8108;NaN;0.000;NaN
+PART;Combinatorial[0];Visit Indonesia Apps;0;0;84;8108;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Visit Indonesia Apps;0;0;84;8108;NaN;0.000;NaN
+OneR;Combinatorial[0];Visit Indonesia Apps;0;0;84;8108;NaN;0.000;NaN
+JRip;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+PART;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+OneR;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+JRip;Combinatorial[0];Home;96;4;28;8064;0.960;0.774;0.857
+PART;Combinatorial[0];Home;92;32;32;8036;0.742;0.742;0.742
+ZeroR;Combinatorial[0];Home;0;0;124;8068;NaN;0.000;NaN
+OneR;Combinatorial[0];Home;0;0;124;8068;NaN;0.000;NaN
+JRip;Combinatorial[0];Windows .NET;16;0;0;8176;1.000;1.000;1.000
+PART;Combinatorial[0];Windows .NET;16;0;0;8176;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Windows .NET;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];Windows .NET;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];HADAS-security;0;0;9;8183;NaN;0.000;NaN
+PART;Combinatorial[0];HADAS-security;0;0;9;8183;NaN;0.000;NaN
+ZeroR;Combinatorial[0];HADAS-security;0;0;9;8183;NaN;0.000;NaN
+OneR;Combinatorial[0];HADAS-security;0;0;9;8183;NaN;0.000;NaN
+JRip;Combinatorial[0];Ligne de produits de Eshop;0;0;20;8172;NaN;0.000;NaN
+PART;Combinatorial[0];Ligne de produits de Eshop;0;0;20;8172;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Ligne de produits de Eshop;0;0;20;8172;NaN;0.000;NaN
+OneR;Combinatorial[0];Ligne de produits de Eshop;0;0;20;8172;NaN;0.000;NaN
+JRip;Combinatorial[0];MobilePhone;4;0;12;8176;1.000;0.250;0.400
+PART;Combinatorial[0];MobilePhone;0;0;16;8176;NaN;0.000;NaN
+ZeroR;Combinatorial[0];MobilePhone;0;0;16;8176;NaN;0.000;NaN
+OneR;Combinatorial[0];MobilePhone;0;0;16;8176;NaN;0.000;NaN
+JRip;Combinatorial[0];smartPhone;93;3;0;8096;0.969;1.000;0.984
+PART;Combinatorial[0];smartPhone;91;0;2;8099;1.000;0.978;0.989
+ZeroR;Combinatorial[0];smartPhone;0;0;93;8099;NaN;0.000;NaN
+OneR;Combinatorial[0];smartPhone;0;0;93;8099;NaN;0.000;NaN
+JRip;Combinatorial[0];MPES2016-2.Reuso2;6;2;0;8184;0.750;1.000;0.857
+PART;Combinatorial[0];MPES2016-2.Reuso2;0;0;6;8186;NaN;0.000;NaN
+ZeroR;Combinatorial[0];MPES2016-2.Reuso2;0;0;6;8186;NaN;0.000;NaN
+OneR;Combinatorial[0];MPES2016-2.Reuso2;0;0;6;8186;NaN;0.000;NaN
+JRip;Combinatorial[0];Tripeo;12;4;0;8176;0.750;1.000;0.857
+PART;Combinatorial[0];Tripeo;12;0;0;8180;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Tripeo;0;0;12;8180;NaN;0.000;NaN
+OneR;Combinatorial[0];Tripeo;0;0;12;8180;NaN;0.000;NaN
+JRip;Combinatorial[0];search-engine;68;4;8;8112;0.944;0.895;0.919
+PART;Combinatorial[0];search-engine;52;0;24;8116;1.000;0.684;0.813
+ZeroR;Combinatorial[0];search-engine;0;0;76;8116;NaN;0.000;NaN
+OneR;Combinatorial[0];search-engine;0;0;76;8116;NaN;0.000;NaN
+JRip;Combinatorial[0];depresija;127;1;0;8064;0.992;1.000;0.996
+PART;Combinatorial[0];depresija;127;1;0;8064;0.992;1.000;0.996
+ZeroR;Combinatorial[0];depresija;0;0;127;8065;NaN;0.000;NaN
+OneR;Combinatorial[0];depresija;0;0;127;8065;NaN;0.000;NaN
+JRip;Combinatorial[0];MoviesApp PL;8;0;16;8168;1.000;0.333;0.500
+PART;Combinatorial[0];MoviesApp PL;0;0;24;8168;NaN;0.000;NaN
+ZeroR;Combinatorial[0];MoviesApp PL;0;0;24;8168;NaN;0.000;NaN
+OneR;Combinatorial[0];MoviesApp PL;0;0;24;8168;NaN;0.000;NaN
+JRip;Combinatorial[0];Car PL;8;0;80;16296;1.000;0.091;0.167
+PART;Combinatorial[0];Car PL;64;20;24;16276;0.762;0.727;0.744
+ZeroR;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+OneR;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+JRip;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+PART;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+ZeroR;Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+OneR;Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+JRip;Combinatorial[0];WB;640;120;0;15624;0.842;1.000;0.914
+PART;Combinatorial[0];WB;512;128;128;15616;0.800;0.800;0.800
+ZeroR;Combinatorial[0];WB;0;0;640;15744;NaN;0.000;NaN
+OneR;Combinatorial[0];WB;0;0;640;15744;NaN;0.000;NaN
+JRip;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+PART;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MiniTV;0;0;248;16136;NaN;0.000;NaN
+OneR;Combinatorial[0];MiniTV;0;0;248;16136;NaN;0.000;NaN
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+OneR;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+JRip;Combinatorial[0];CTOS MODEL;14;4;4;16362;0.778;0.778;0.778
+PART;Combinatorial[0];CTOS MODEL;14;8;4;16358;0.636;0.778;0.700
+ZeroR;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+OneR;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];ELPS - ISE;462;34;0;15888;0.931;1.000;0.965
+PART;Combinatorial[0];ELPS - ISE;0;0;462;15922;NaN;0.000;NaN
+ZeroR;Combinatorial[0];ELPS - ISE;0;0;462;15922;NaN;0.000;NaN
+OneR;Combinatorial[0];ELPS - ISE;0;0;462;15922;NaN;0.000;NaN
+JRip;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+PART;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+ZeroR;Combinatorial[0];UML-IDE-TOOL;0;0;1536;14848;NaN;0.000;NaN
+OneR;Combinatorial[0];UML-IDE-TOOL;0;0;1536;14848;NaN;0.000;NaN
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;32;88;16208;0.636;0.389;0.483
+ZeroR;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+OneR;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+JRip;Combinatorial[0];Car demo;48;0;0;16336;1.000;1.000;1.000
+PART;Combinatorial[0];Car demo;0;0;48;16336;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Car demo;0;0;48;16336;NaN;0.000;NaN
+OneR;Combinatorial[0];Car demo;0;0;48;16336;NaN;0.000;NaN
+JRip;Combinatorial[0];Simple Drawing Tools;1905;15;0;14464;0.992;1.000;0.996
+PART;Combinatorial[0];Simple Drawing Tools;1905;0;0;14479;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Simple Drawing Tools;0;0;1905;14479;NaN;0.000;NaN
+OneR;Combinatorial[0];Simple Drawing Tools;0;0;1905;14479;NaN;0.000;NaN
+JRip;Combinatorial[0];pruebapalabras;57;7;15;16305;0.891;0.792;0.838
+PART;Combinatorial[0];pruebapalabras;24;6;48;16306;0.800;0.333;0.471
+ZeroR;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+OneR;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+ZeroR;Combinatorial[0];PhysEval;0;0;54;16330;NaN;0.000;NaN
+OneR;Combinatorial[0];PhysEval;0;0;54;16330;NaN;0.000;NaN
+JRip;Combinatorial[0];JhotDrawn;1027;9;1;15347;0.991;0.999;0.995
+PART;Combinatorial[0];JhotDrawn;498;16;530;15340;0.969;0.484;0.646
+ZeroR;Combinatorial[0];JhotDrawn;0;0;1028;15356;NaN;0.000;NaN
+OneR;Combinatorial[0];JhotDrawn;0;0;1028;15356;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];User Model;104;8;40;16232;0.929;0.722;0.813
+PART;Combinatorial[0];User Model;144;36;0;16204;0.800;1.000;0.889
+ZeroR;Combinatorial[0];User Model;0;0;144;16240;NaN;0.000;NaN
+OneR;Combinatorial[0];User Model;0;0;144;16240;NaN;0.000;NaN
+JRip;Combinatorial[0];Buzzard Radio play DB;448;0;0;15936;1.000;1.000;1.000
+PART;Combinatorial[0];Buzzard Radio play DB;448;0;0;15936;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Buzzard Radio play DB;0;0;448;15936;NaN;0.000;NaN
+OneR;Combinatorial[0];Buzzard Radio play DB;0;0;448;15936;NaN;0.000;NaN
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+ZeroR;Combinatorial[0];RE Process;0;0;8;16376;NaN;0.000;NaN
+OneR;Combinatorial[0];RE Process;0;0;8;16376;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Mobile Media JULIO;0;0;24;16360;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Media JULIO;0;0;24;16360;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+ZeroR;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+OneR;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+ZeroR;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+JRip;Combinatorial[0];Celular;16;0;80;16288;1.000;0.167;0.286
+PART;Combinatorial[0];Celular;40;16;56;16272;0.714;0.417;0.526
+ZeroR;Combinatorial[0];Celular;0;0;96;16288;NaN;0.000;NaN
+OneR;Combinatorial[0];Celular;0;0;96;16288;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+OneR;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+ZeroR;Combinatorial[0];AGORA;0;0;120;16264;NaN;0.000;NaN
+OneR;Combinatorial[0];AGORA;0;0;120;16264;NaN;0.000;NaN
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+ZeroR;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+OneR;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+ZeroR;Combinatorial[0];BSS_CS5702_G3;0;0;8;16376;NaN;0.000;NaN
+OneR;Combinatorial[0];BSS_CS5702_G3;0;0;8;16376;NaN;0.000;NaN
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+OneR;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+JRip;Combinatorial[0];Scenario Application;0;0;56;16328;NaN;0.000;NaN
+PART;Combinatorial[0];Scenario Application;0;0;56;16328;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Scenario Application;0;0;56;16328;NaN;0.000;NaN
+OneR;Combinatorial[0];Scenario Application;0;0;56;16328;NaN;0.000;NaN
+JRip;Combinatorial[0];Simplified Smart Hotel;124;0;108;16152;1.000;0.534;0.697
+PART;Combinatorial[0];Simplified Smart Hotel;200;32;32;16120;0.862;0.862;0.862
+ZeroR;Combinatorial[0];Simplified Smart Hotel;0;0;232;16152;NaN;0.000;NaN
+OneR;Combinatorial[0];Simplified Smart Hotel;0;0;232;16152;NaN;0.000;NaN
+JRip;Combinatorial[0];Content Store;0;0;56;16328;NaN;0.000;NaN
+PART;Combinatorial[0];Content Store;0;0;56;16328;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Content Store;0;0;56;16328;NaN;0.000;NaN
+OneR;Combinatorial[0];Content Store;0;0;56;16328;NaN;0.000;NaN
+JRip;Combinatorial[0];Urna Gleidson;9;3;0;16372;0.750;1.000;0.857
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+ZeroR;Combinatorial[0];Urna Gleidson;0;0;9;16375;NaN;0.000;NaN
+OneR;Combinatorial[0];Urna Gleidson;0;0;9;16375;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+OneR;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+ZeroR;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+OneR;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+ZeroR;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+OneR;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Clinica Medica;11;7;1;16365;0.611;0.917;0.733
+PART;Combinatorial[0];Clinica Medica;12;6;0;16366;0.667;1.000;0.800
+ZeroR;Combinatorial[0];Clinica Medica;0;0;12;16372;NaN;0.000;NaN
+OneR;Combinatorial[0];Clinica Medica;0;0;12;16372;NaN;0.000;NaN
+JRip;Combinatorial[0];Celulares;404;0;0;15980;1.000;1.000;1.000
+PART;Combinatorial[0];Celulares;260;48;144;15932;0.844;0.644;0.730
+ZeroR;Combinatorial[0];Celulares;0;0;404;15980;NaN;0.000;NaN
+OneR;Combinatorial[0];Celulares;0;0;404;15980;NaN;0.000;NaN
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+ZeroR;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+OneR;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+JRip;Combinatorial[0];Pizza;193;43;3;16145;0.818;0.985;0.894
+PART;Combinatorial[0];Pizza;192;0;4;16188;1.000;0.980;0.990
+ZeroR;Combinatorial[0];Pizza;0;0;196;16188;NaN;0.000;NaN
+OneR;Combinatorial[0];Pizza;0;0;196;16188;NaN;0.000;NaN
+JRip;Combinatorial[0];SA;174;14;2;16194;0.926;0.989;0.956
+PART;Combinatorial[0];SA;152;64;24;16144;0.704;0.864;0.776
+ZeroR;Combinatorial[0];SA;0;0;176;16208;NaN;0.000;NaN
+OneR;Combinatorial[0];SA;0;0;176;16208;NaN;0.000;NaN
+JRip;Combinatorial[0];Smartwatch;64;0;0;16320;1.000;1.000;1.000
+PART;Combinatorial[0];Smartwatch;64;0;0;16320;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Smartwatch;0;0;64;16320;NaN;0.000;NaN
+OneR;Combinatorial[0];Smartwatch;0;0;64;16320;NaN;0.000;NaN
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+ZeroR;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+OneR;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+ZeroR;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+OneR;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+OneR;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Virtual_Office_of_the_Future;48;0;0;16336;1.000;1.000;1.000
+PART;Combinatorial[0];Virtual_Office_of_the_Future;0;0;48;16336;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Virtual_Office_of_the_Future;0;0;48;16336;NaN;0.000;NaN
+OneR;Combinatorial[0];Virtual_Office_of_the_Future;0;0;48;16336;NaN;0.000;NaN
+JRip;Combinatorial[0];Search_Engine_PL;108;8;18;16250;0.931;0.857;0.893
+PART;Combinatorial[0];Search_Engine_PL;86;32;40;16226;0.729;0.683;0.705
+ZeroR;Combinatorial[0];Search_Engine_PL;0;0;126;16258;NaN;0.000;NaN
+OneR;Combinatorial[0];Search_Engine_PL;0;0;126;16258;NaN;0.000;NaN
+JRip;Combinatorial[0];JPlug;40;8;40;16296;0.833;0.500;0.625
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+ZeroR;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+OneR;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+JRip;Combinatorial[0];James;68;16;0;16300;0.810;1.000;0.895
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+ZeroR;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+OneR;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN

@@ -1,0 +1,21 @@
+model;features;tree_constraints;cross_constraints;valid;invalid
+FIRE-ALARM;19;16;4;18;524270
+ISA11/12_pgr;19;12;5;72;524216
+Construtora;19;15;2;72;524216
+Test Env;19;11;0;30;524258
+Agencia de Propaganda;19;12;1;945;523343
+WebKit overview;19;10;6;87;524201
+RST Game;19;11;0;1440;522848
+SimulesSPLBruno;19;17;0;8;524280
+Software-Product;19;10;0;512;523776
+Software-Product;19;10;0;512;523776
+Toko;19;9;0;1600;522688
+Siga;19;12;5;192;524096
+Game of war cards;19;14;0;56;524232
+E-Commerce;19;10;1;768;523520
+Nexus DSPL;19;15;7;66;524222
+Eleição para presidente e dois senadores;19;19;0;64;524224
+Urna - Federal;19;13;0;27;524261
+PawelsTestThermometer;19;14;2;50;524238
+Cruise Control SPL;19;10;5;776;523512
+astiag;19;13;0;160;524128

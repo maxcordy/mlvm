@@ -1,0 +1,151 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Random[0.9];IntelligentTutoringSystem;75;0;9;4012;1.000;0.893;0.943
+SVM_RBF[5.0];Random[0.9];IntelligentTutoringSystem;71;0;13;4012;1.000;0.845;0.916
+SVM_RBF[5.0];Random[0.9];IntelligentTutoringSystem;74;0;10;4012;1.000;0.881;0.937
+SVM_RBF[5.0];Random[0.9];IntelligentTutoringSystem;73;0;11;4012;1.000;0.869;0.930
+SVM_RBF[5.0];Random[0.9];IntelligentTutoringSystem;80;0;4;4012;1.000;0.952;0.976
+Logistic;Random[0.9];IntelligentTutoringSystem;58;10;26;4002;0.853;0.690;0.763
+Logistic;Random[0.9];IntelligentTutoringSystem;63;15;21;3997;0.808;0.750;0.778
+Logistic;Random[0.9];IntelligentTutoringSystem;60;10;24;4002;0.857;0.714;0.779
+Logistic;Random[0.9];IntelligentTutoringSystem;65;16;19;3996;0.802;0.774;0.788
+Logistic;Random[0.9];IntelligentTutoringSystem;67;16;17;3996;0.807;0.798;0.802
+SVM_Puk[1.0, 0.1];Random[0.9];IntelligentTutoringSystem;75;0;9;4012;1.000;0.893;0.943
+SVM_Puk[1.0, 0.1];Random[0.9];IntelligentTutoringSystem;76;0;8;4012;1.000;0.905;0.950
+SVM_Puk[1.0, 0.1];Random[0.9];IntelligentTutoringSystem;72;0;12;4012;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.9];IntelligentTutoringSystem;76;0;8;4012;1.000;0.905;0.950
+SVM_Puk[1.0, 0.1];Random[0.9];IntelligentTutoringSystem;79;0;5;4012;1.000;0.940;0.969
+SVM_RBF[5.0];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];test_fm;7;0;1;4088;1.000;0.875;0.933
+SVM_RBF[5.0];Random[0.9];test_fm;7;0;1;4088;1.000;0.875;0.933
+SVM_RBF[5.0];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+Logistic;Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+Logistic;Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+Logistic;Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+Logistic;Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+Logistic;Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];Eshop-ufrj;40;0;8;4048;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.9];Eshop-ufrj;43;0;5;4048;1.000;0.896;0.945
+SVM_RBF[5.0];Random[0.9];Eshop-ufrj;40;0;8;4048;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.9];Eshop-ufrj;44;0;4;4048;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.9];Eshop-ufrj;42;0;6;4048;1.000;0.875;0.933
+Logistic;Random[0.9];Eshop-ufrj;14;18;34;4030;0.438;0.292;0.350
+Logistic;Random[0.9];Eshop-ufrj;14;18;34;4030;0.438;0.292;0.350
+Logistic;Random[0.9];Eshop-ufrj;13;18;35;4030;0.419;0.271;0.329
+Logistic;Random[0.9];Eshop-ufrj;10;14;38;4034;0.417;0.208;0.278
+Logistic;Random[0.9];Eshop-ufrj;9;15;39;4033;0.375;0.188;0.250
+SVM_Puk[1.0, 0.1];Random[0.9];Eshop-ufrj;44;0;4;4048;1.000;0.917;0.957
+SVM_Puk[1.0, 0.1];Random[0.9];Eshop-ufrj;45;0;3;4048;1.000;0.938;0.968
+SVM_Puk[1.0, 0.1];Random[0.9];Eshop-ufrj;44;0;4;4048;1.000;0.917;0.957
+SVM_Puk[1.0, 0.1];Random[0.9];Eshop-ufrj;45;0;3;4048;1.000;0.938;0.968
+SVM_Puk[1.0, 0.1];Random[0.9];Eshop-ufrj;45;0;3;4048;1.000;0.938;0.968
+SVM_RBF[5.0];Random[0.9];Doorlopende reisverzekering;58;0;6;4032;1.000;0.906;0.951
+SVM_RBF[5.0];Random[0.9];Doorlopende reisverzekering;56;0;8;4032;1.000;0.875;0.933
+SVM_RBF[5.0];Random[0.9];Doorlopende reisverzekering;61;0;3;4032;1.000;0.953;0.976
+SVM_RBF[5.0];Random[0.9];Doorlopende reisverzekering;58;0;6;4032;1.000;0.906;0.951
+SVM_RBF[5.0];Random[0.9];Doorlopende reisverzekering;59;0;5;4032;1.000;0.922;0.959
+Logistic;Random[0.9];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+Logistic;Random[0.9];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+Logistic;Random[0.9];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+Logistic;Random[0.9];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+Logistic;Random[0.9];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];Doorlopende reisverzekering;57;0;7;4032;1.000;0.891;0.942
+SVM_Puk[1.0, 0.1];Random[0.9];Doorlopende reisverzekering;55;0;9;4032;1.000;0.859;0.924
+SVM_Puk[1.0, 0.1];Random[0.9];Doorlopende reisverzekering;56;0;8;4032;1.000;0.875;0.933
+SVM_Puk[1.0, 0.1];Random[0.9];Doorlopende reisverzekering;59;0;5;4032;1.000;0.922;0.959
+SVM_Puk[1.0, 0.1];Random[0.9];Doorlopende reisverzekering;58;0;6;4032;1.000;0.906;0.951
+SVM_RBF[5.0];Random[0.9];Dummy Car;8;0;1;4087;1.000;0.889;0.941
+SVM_RBF[5.0];Random[0.9];Dummy Car;7;0;2;4087;1.000;0.778;0.875
+SVM_RBF[5.0];Random[0.9];Dummy Car;8;0;1;4087;1.000;0.889;0.941
+SVM_RBF[5.0];Random[0.9];Dummy Car;8;0;1;4087;1.000;0.889;0.941
+SVM_RBF[5.0];Random[0.9];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+Logistic;Random[0.9];Dummy Car;0;1;9;4086;0.000;0.000;NaN
+Logistic;Random[0.9];Dummy Car;0;1;9;4086;0.000;0.000;NaN
+Logistic;Random[0.9];Dummy Car;0;1;9;4086;0.000;0.000;NaN
+Logistic;Random[0.9];Dummy Car;0;1;9;4086;0.000;0.000;NaN
+Logistic;Random[0.9];Dummy Car;0;1;9;4086;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Random[0.9];Dummy Car;6;0;3;4087;1.000;0.667;0.800
+SVM_Puk[1.0, 0.1];Random[0.9];Dummy Car;8;0;1;4087;1.000;0.889;0.941
+SVM_Puk[1.0, 0.1];Random[0.9];Dummy Car;8;0;1;4087;1.000;0.889;0.941
+SVM_Puk[1.0, 0.1];Random[0.9];Dummy Car;7;0;2;4087;1.000;0.778;0.875
+SVM_Puk[1.0, 0.1];Random[0.9];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];WB2;183;0;17;3896;1.000;0.915;0.956
+SVM_RBF[5.0];Random[0.9];WB2;182;0;18;3896;1.000;0.910;0.953
+SVM_RBF[5.0];Random[0.9];WB2;180;0;20;3896;1.000;0.900;0.947
+SVM_RBF[5.0];Random[0.9];WB2;180;0;20;3896;1.000;0.900;0.947
+SVM_RBF[5.0];Random[0.9];WB2;180;0;20;3896;1.000;0.900;0.947
+Logistic;Random[0.9];WB2;58;30;142;3866;0.659;0.290;0.403
+Logistic;Random[0.9];WB2;58;30;142;3866;0.659;0.290;0.403
+Logistic;Random[0.9];WB2;58;30;142;3866;0.659;0.290;0.403
+Logistic;Random[0.9];WB2;58;30;142;3866;0.659;0.290;0.403
+Logistic;Random[0.9];WB2;58;30;142;3866;0.659;0.290;0.403
+SVM_Puk[1.0, 0.1];Random[0.9];WB2;177;0;23;3896;1.000;0.885;0.939
+SVM_Puk[1.0, 0.1];Random[0.9];WB2;181;0;19;3896;1.000;0.905;0.950
+SVM_Puk[1.0, 0.1];Random[0.9];WB2;182;0;18;3896;1.000;0.910;0.953
+SVM_Puk[1.0, 0.1];Random[0.9];WB2;186;0;14;3896;1.000;0.930;0.964
+SVM_Puk[1.0, 0.1];Random[0.9];WB2;176;0;24;3896;1.000;0.880;0.936
+SVM_RBF[5.0];Random[0.9];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_RBF[5.0];Random[0.9];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_RBF[5.0];Random[0.9];Text Editor;7;0;4;4085;1.000;0.636;0.778
+SVM_RBF[5.0];Random[0.9];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_RBF[5.0];Random[0.9];Text Editor;9;0;2;4085;1.000;0.818;0.900
+Logistic;Random[0.9];Text Editor;8;4;3;4081;0.667;0.727;0.696
+Logistic;Random[0.9];Text Editor;3;3;8;4082;0.500;0.273;0.353
+Logistic;Random[0.9];Text Editor;2;3;9;4082;0.400;0.182;0.250
+Logistic;Random[0.9];Text Editor;2;2;9;4083;0.500;0.182;0.267
+Logistic;Random[0.9];Text Editor;4;4;7;4081;0.500;0.364;0.421
+SVM_Puk[1.0, 0.1];Random[0.9];Text Editor;9;0;2;4085;1.000;0.818;0.900
+SVM_Puk[1.0, 0.1];Random[0.9];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_Puk[1.0, 0.1];Random[0.9];Text Editor;10;0;1;4085;1.000;0.909;0.952
+SVM_Puk[1.0, 0.1];Random[0.9];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];Adams Car;26;0;2;4068;1.000;0.929;0.963
+SVM_RBF[5.0];Random[0.9];Adams Car;26;0;2;4068;1.000;0.929;0.963
+SVM_RBF[5.0];Random[0.9];Adams Car;24;0;4;4068;1.000;0.857;0.923
+SVM_RBF[5.0];Random[0.9];Adams Car;27;0;1;4068;1.000;0.964;0.982
+SVM_RBF[5.0];Random[0.9];Adams Car;25;0;3;4068;1.000;0.893;0.943
+Logistic;Random[0.9];Adams Car;0;0;28;4068;NaN;0.000;NaN
+Logistic;Random[0.9];Adams Car;0;0;28;4068;NaN;0.000;NaN
+Logistic;Random[0.9];Adams Car;0;0;28;4068;NaN;0.000;NaN
+Logistic;Random[0.9];Adams Car;0;0;28;4068;NaN;0.000;NaN
+Logistic;Random[0.9];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Random[0.9];Adams Car;26;0;2;4068;1.000;0.929;0.963
+SVM_Puk[1.0, 0.1];Random[0.9];Adams Car;27;0;1;4068;1.000;0.964;0.982
+SVM_Puk[1.0, 0.1];Random[0.9];Adams Car;26;0;2;4068;1.000;0.929;0.963
+SVM_Puk[1.0, 0.1];Random[0.9];Adams Car;25;0;3;4068;1.000;0.893;0.943
+SVM_Puk[1.0, 0.1];Random[0.9];Adams Car;27;0;1;4068;1.000;0.964;0.982
+SVM_RBF[5.0];Random[0.9];CCCMS;211;0;29;3856;1.000;0.879;0.936
+SVM_RBF[5.0];Random[0.9];CCCMS;220;0;20;3856;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.9];CCCMS;218;0;22;3856;1.000;0.908;0.952
+SVM_RBF[5.0];Random[0.9];CCCMS;213;0;27;3856;1.000;0.888;0.940
+SVM_RBF[5.0];Random[0.9];CCCMS;212;0;28;3856;1.000;0.883;0.938
+Logistic;Random[0.9];CCCMS;240;0;0;3856;1.000;1.000;1.000
+Logistic;Random[0.9];CCCMS;240;0;0;3856;1.000;1.000;1.000
+Logistic;Random[0.9];CCCMS;240;0;0;3856;1.000;1.000;1.000
+Logistic;Random[0.9];CCCMS;240;0;0;3856;1.000;1.000;1.000
+Logistic;Random[0.9];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];CCCMS;206;0;34;3856;1.000;0.858;0.924
+SVM_Puk[1.0, 0.1];Random[0.9];CCCMS;219;0;21;3856;1.000;0.913;0.954
+SVM_Puk[1.0, 0.1];Random[0.9];CCCMS;224;0;16;3856;1.000;0.933;0.966
+SVM_Puk[1.0, 0.1];Random[0.9];CCCMS;217;0;23;3856;1.000;0.904;0.950
+SVM_Puk[1.0, 0.1];Random[0.9];CCCMS;217;0;23;3856;1.000;0.904;0.950
+SVM_RBF[5.0];Random[0.9];mon model;22;0;2;4072;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.9];mon model;23;0;1;4072;1.000;0.958;0.979
+SVM_RBF[5.0];Random[0.9];mon model;20;0;4;4072;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.9];mon model;22;0;2;4072;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.9];mon model;19;0;5;4072;1.000;0.792;0.884
+Logistic;Random[0.9];mon model;0;0;24;4072;NaN;0.000;NaN
+Logistic;Random[0.9];mon model;0;0;24;4072;NaN;0.000;NaN
+Logistic;Random[0.9];mon model;0;0;24;4072;NaN;0.000;NaN
+Logistic;Random[0.9];mon model;0;0;24;4072;NaN;0.000;NaN
+Logistic;Random[0.9];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Random[0.9];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];mon model;21;0;3;4072;1.000;0.875;0.933
+SVM_Puk[1.0, 0.1];Random[0.9];mon model;21;0;3;4072;1.000;0.875;0.933
+SVM_Puk[1.0, 0.1];Random[0.9];mon model;21;0;3;4072;1.000;0.875;0.933
+SVM_Puk[1.0, 0.1];Random[0.9];mon model;21;0;3;4072;1.000;0.875;0.933

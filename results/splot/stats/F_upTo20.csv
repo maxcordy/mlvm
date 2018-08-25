@@ -1,0 +1,484 @@
+model;features;tree_constraints;cross_constraints;valid;invalid
+SAL;10;7;1;12;1012
+Mobile Game;10;5;0;135;889
+VODPlayer;10;5;0;48;976
+CIMS PL;10;10;0;1;1023
+AvionFEatures;10;8;0;12;1012
+Phone sple;10;8;3;27;997
+Phone;10;4;3;46;978
+Ökonomische Merkmale;10;7;0;24;1000
+carpl;10;9;0;2;1022
+MyFM;10;5;2;19;1005
+rtrt;10;6;1;20;1004
+FeatureModel1;10;6;0;16;1008
+Example Mobile Phone;10;6;2;14;1010
+testISA2012;10;6;2;14;1010
+Mobile-Phone;10;6;2;14;1010
+Mobile phone (lenita);10;6;2;14;1010
+Mobile Phone GF;10;6;2;14;1010
+Example Product Line Course Using SPLOT;10;6;2;14;1010
+Guad gmocht!;10;6;1;20;1004
+MobileMedia;10;6;1;28;996
+Simnumero;10;9;0;8;1016
+isolation;10;9;0;3;1021
+AllSports Feature Model;10;7;1;24;1000
+Bicis_Feature_Model;10;7;1;6;1018
+MobileMedia;10;5;0;30;994
+WebApp;10;3;0;160;864
+abcdefg;10;8;0;6;1018
+Disenio;10;9;3;4;1020
+sasgd;10;8;0;20;1004
+anlisis II;10;3;3;28;996
+disenio II;10;6;1;30;994
+AA;10;8;0;16;1008
+Modelo;10;10;3;4;1020
+TEST_NAme;10;6;0;36;988
+Test;10;8;0;16;1008
+UPT_RM_MOBILE;10;6;2;14;1010
+acarlos_trab2_mobile;10;6;2;14;1010
+Prontuário Eletrônico de Pacientes;10;7;0;10;1014
+test gv;10;5;0;32;992
+Dental Surgery;10;9;0;2;1022
+Cell-Phone-SPL-2014-without;10;5;0;48;976
+Computer Selection;10;9;0;2;1022
+Rotary_Element;10;7;0;12;1012
+E-Shop, magister2014;10;7;0;18;1006
+eshop;10;7;2;9;1015
+Nudelsalat;10;4;0;12;1012
+MK Andes;10;8;0;4;1020
+SPL Studies;10;6;0;62;962
+Telefono;10;6;3;7;1017
+Mobile Phone;10;6;2;14;1010
+jjjjj;10;6;2;18;1006
+celular;10;6;2;11;1013
+Bandymas;10;6;2;18;1006
+test 3;10;5;1;32;992
+LXEP;10;10;0;2;1022
+Feature Tree Example;10;7;2;8;1016
+Sample;10;5;0;32;992
+Mobile Tourist Planner;10;6;0;28;996
+votacao eletronica;10;8;1;7;1017
+Car;10;6;0;24;1000
+Mobile Phone;10;6;2;14;1010
+Test1;10;7;2;8;1016
+Maquina de Cae;10;5;0;36;988
+Autosoft;10;4;0;122;902
+Minimalistic PC Feature Model;10;7;2;4;1020
+Match engine;10;6;0;16;1008
+Mobile Phone UPT;10;6;2;14;1010
+Mobile Phone UPT - 18413;10;6;2;14;1010
+Manuel;10;6;2;9;1015
+Telefonia Celular;10;5;2;36;988
+E-SHOP;10;6;2;8;1016
+Eval_board;10;10;0;2;1022
+Hello World;10;6;1;35;989
+hhhhhhh;10;8;1;4;1020
+drupal sawsen;10;9;1;8;1016
+Mobile phone;10;6;2;10;1014
+mobile phone;10;6;2;26;998
+E-portal;11;8;0;16;2032
+VOD feature model;11;6;3;32;2016
+Asghar;11;8;0;32;2016
+MyFeatureModel;11;8;0;35;2013
+SmartHome_vConejero_r1;11;10;0;2;2046
+ETRobocon;11;5;0;120;1928
+Test;11;8;2;7;2041
+ordem;11;8;0;56;1992
+desordem;11;8;0;56;1992
+UPL;11;8;0;18;2030
+Mauricio Alférez;11;8;1;10;2038
+Loja Virtual;11;6;2;56;1992
+SmartHome- Simplified Sample;11;8;1;10;2038
+Ubuntu;11;8;1;12;2036
+Implementacion;11;7;7;7;2041
+Imolementacion II;11;9;0;3;2045
+Basic Car;11;8;2;16;2032
+CarExample;11;10;1;3;2045
+mo;11;5;2;60;1988
+Mobile Media v3;11;10;0;2;2046
+JDFM;11;6;0;20;2028
+Analisis;11;8;0;6;2042
+Matrix chain multiplication;11;7;2;15;2033
+Observatorio;11;10;0;8;2040
+collapse_view_example;11;10;0;31;2017
+Match de foot;11;7;0;16;2032
+Xor Example;11;3;8;40;2008
+XOR NEW;11;3;10;88;1960
+Xor Example 2;11;3;10;72;1976
+Sylvain Example;11;7;11;10;2038
+ROOT;11;4;1;96;1952
+NovoSiga;11;7;1;20;2028
+asdsfa ewtwwe;11;7;1;12;2036
+Website;11;5;0;64;1984
+1;11;7;1;14;2034
+erewr;11;9;0;24;2024
+Webshop_SPLE2014_Chalmers;11;8;1;8;2040
+poker spl;11;7;0;21;2027
+r;11;6;0;84;1964
+E-shop;11;7;2;29;2019
+PC model;11;7;1;18;2030
+testing;11;4;0;255;1793
+ubuntu;11;8;1;18;2030
+Jogo;11;9;0;4;2044
+Assistente de Compras;11;8;0;24;2024
+HandlingSystem;11;15;0;1;2047
+Autosoft;11;6;1;112;1936
+Rotation1;11;12;0;10;2038
+SPL_e_commerce;11;6;2;56;1992
+ESCA Embeeded System;11;6;0;10;2038
+27-5-207 test;11;7;4;44;2004
+Modelo de Característica para Entidades Urbanas;11;2;0;512;1536
+ZMUConcernExample;11;8;2;8;2040
+SimpleModel;11;7;0;24;2024
+Car;11;6;3;12;2036
+Weather Station;11;7;1;44;2004
+Cellphone;11;7;2;14;2034
+IntelligentTutoringSystem;12;7;1;84;4012
+test_fm;12;9;0;8;4088
+Eshop-ufrj;12;8;0;48;4048
+Doorlopende reisverzekering;12;6;0;64;4032
+Dummy Car;12;8;0;9;4087
+WB2;12;5;4;200;3896
+Text Editor;12;8;2;11;4085
+Adams Car;12;8;0;28;4068
+CCCMS;12;5;0;240;3856
+mon model;12;9;1;24;4072
+a;12;9;0;42;4054
+aaaaaa;12;7;1;32;4064
+Pruebas;12;11;7;7;4089
+Address Book;12;6;0;72;4024
+Sisgeo;12;4;0;257;3839
+Multiplicador de n matrices;12;7;2;18;4078
+Movil;12;7;2;28;4068
+ID;12;15;0;1;4095
+gs;12;5;0;168;3928
+MyDental;12;8;0;42;4054
+FM with optional XOR;12;7;7;21;4075
+Final model;12;6;12;11;4085
+Sylvain Example;12;6;12;11;4085
+E-commerce system1;12;11;0;3;4093
+FeatureModelName;12;9;1;8;4088
+Content;12;7;2;91;4005
+Attempt of mine;12;7;2;132;3964
+Content;12;7;2;45;4051
+Content model;12;7;2;91;4005
+eLearning ways;12;4;1;397;3699
+Topology;12;7;1;16;4080
+This is a test;12;5;1;132;3964
+Congress Assistant;12;7;0;48;4048
+JCS;12;5;3;96;4000
+Ooredoo;12;5;0;18;4078
+M-learning Requirements Catalog;12;5;0;140;3956
+TW SPL Hard Choices;12;10;0;4;4092
+Jogo;12;11;1;2;4094
+rotation;12;16;0;3;4093
+Online Shop Feature Model;12;7;0;42;4054
+ABMS;12;5;0;246;3850
+search engine;12;8;0;32;4064
+Reservation;12;6;0;9;4087
+tab;12;8;0;16;4080
+HDMR-Paper;12;6;1;7;4089
+Telecommunication_System;12;8;2;18;4078
+Aircraft PL;13;7;0;315;7877
+CFDP Library;13;6;5;319;7873
+CFDP Library;13;6;0;624;7568
+Tata Cars;13;9;0;24;8168
+KIModel;13;10;0;12;8180
+G10-music player;13;8;0;63;8129
+RE;13;7;0;96;8096
+FM1;13;13;0;1;8191
+Parking lot Manager;13;9;2;16;8176
+Veículo;13;5;0;80;8112
+Car;13;9;0;42;8150
+Homepage based on wiki;13;9;0;28;8164
+Toyota Feature Model;13;8;1;16;8176
+NCV_Simulation;13;11;0;18;8174
+i18n;13;8;0;18;8174
+MiniRPG;13;9;0;16;8176
+Mobile Media;13;9;2;24;8168
+Analisis;13;10;5;8;8184
+Alarm System;13;9;2;42;8150
+LMF;13;12;0;2;8190
+Wewq;13;13;0;1;8191
+Video On Demand SPL FM;13;10;4;16;8176
+Video On Demand FM;13;10;4;16;8176
+MyHolidays;13;7;0;112;8080
+PortafolioLopez;13;8;0;84;8108
+Phone;13;6;3;76;8116
+cell phones SPL;13;10;3;16;8176
+FMConfig;13;6;2;135;8057
+Cell-Phone-SPL-2014;13;10;3;16;8176
+Cell-Phone-SPL-2014-Part2;13;8;9;30;8162
+Cell-Phone-SPL-2014-Mined;13;7;9;31;8161
+Magister 2014-ROLOG;13;7;0;96;8096
+MarketPlace-Sample;13;12;0;3;8189
+teste;13;10;0;12;8180
+SPL Studies;13;11;0;45;8147
+Content;13;7;1;231;7961
+Stamppy;13;9;0;28;8164
+search-engine;13;6;2;108;8084
+Javed Test 2;13;6;0;448;7744
+MoviesApp;13;10;0;54;8138
+Movie System;13;10;0;24;8168
+SmartHotel;13;7;1;102;8090
+Smart Queue;13;13;0;4;8188
+Online shopping software;13;13;1;2;8190
+2 - Eleição de um prefeito e um Vereador;13;9;0;49;8143
+Visit Indonesia Apps;13;8;2;84;8108
+Priscilinha;13;13;0;2;8190
+Home;13;6;1;124;8068
+Windows .NET;13;9;0;16;8176
+HADAS-security;13;5;0;9;8183
+Ligne de produits de Eshop;13;8;1;20;8172
+MobilePhone;13;10;3;16;8176
+smartPhone;13;8;1;93;8099
+MPES2016-2.Reuso2;13;10;2;6;8186
+Tripeo;13;10;0;12;8180
+search-engine;13;7;2;76;8116
+depresija;13;7;0;127;8065
+MoviesApp PL;13;10;0;24;8168
+Car PL;14;7;2;88;16296
+IDE4OCL;14;8;0;64;16320
+WB;14;5;4;640;15744
+MiniTV;14;7;0;248;16136
+Carro Model;14;8;2;30;16354
+CTOS MODEL;14;9;1;18;16366
+Mobile Phone, until relase 5;14;10;0;16;16368
+ELPS - ISE;14;6;0;462;15922
+UML-IDE-TOOL;14;4;0;1536;14848
+Linha de produtos - SimulES e PnP;14;9;2;144;16240
+Car demo;14;9;0;48;16336
+Simple Drawing Tools;14;5;0;1905;14479
+pruebapalabras;14;11;0;72;16312
+PhysEval;14;10;1;54;16330
+JhotDrawn;14;6;0;1028;15356
+Mobile Media;14;12;1;6;16378
+User Model;14;7;2;144;16240
+Buzzard Radio play DB;14;8;1;448;15936
+RE Process;14;11;0;8;16376
+Mobile Media JULIO;14;9;2;24;16360
+matrices;14;9;3;20;16364
+Mobile media v4;14;13;0;4;16380
+Mobile Phone Software;14;9;2;52;16332
+Celular;14;8;1;96;16288
+Pip;14;14;0;1;16383
+AGORA;14;10;0;120;16264
+SHIFT QAs;14;10;0;24;16360
+BSS_CS5702_G3;14;11;0;8;16376
+Smart-phone;14;10;2;8;16376
+Scenario Application;14;9;0;56;16328
+Simplified Smart Hotel;14;7;1;232;16152
+Content Store;14;9;0;56;16328
+Urna Gleidson;14;10;3;9;16375
+Eleição de um prefeito e um vereador;14;14;0;16;16368
+LeSE - Learning Software Engineering;14;11;0;24;16360
+LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);14;11;0;16;16368
+Clinica Medica;14;11;1;12;16372
+Celulares;14;8;0;404;15980
+video on demand;14;10;0;32;16352
+Pizza;14;7;1;196;16188
+SA;14;8;1;176;16208
+Smartwatch;14;8;0;64;16320
+TVSmart;14;10;4;10;16374
+catalogo;14;12;0;6;16378
+Farnaz koohestani;14;14;0;1;16383
+Virtual_Office_of_the_Future;14;9;0;48;16336
+Search_Engine_PL;14;7;2;126;16258
+JPlug;14;9;2;80;16304
+James;14;8;2;68;16316
+Cell Phone;15;10;2;61;32707
+Web Content Delivery;15;9;6;23;32745
+Coff Feature Model;15;7;0;1512;31256
+VMS;15;11;0;44;32724
+Test;15;9;3;60;32708
+Venza;15;11;4;4;32764
+SD Voter pattern feature model;15;10;1;120;32648
+Technical Solution Process;15;9;1;52;32716
+iNavBasic;15;13;0;4;32764
+Transmission;15;9;1;44;32724
+Agile Simules;15;11;1;24;32744
+MobileMedia_Lenita;15;13;2;6;32762
+Estudo Experimental 2;15;13;2;6;32762
+Flight Reservations;15;12;1;126;32642
+MobileMedia_Ibraim;15;10;2;24;32744
+MobileMedia_LeonardoVasconcelos;15;10;2;48;32720
+MobileMedia_Bruno;15;10;2;24;32744
+MobileMedia_MarinaMB;15;10;2;24;32744
+Mobile Media;15;10;2;24;32744
+MobileMedia_CarlosEduardoPaulinoSilva;15;10;2;24;32744
+Mobile media v5;15;13;0;8;32760
+ACARLOS_car;15;12;0;72;32696
+Cars xpto;15;12;0;72;32696
+UPT TAM;15;13;0;40;32728
+Software-Product;15;7;0;256;32512
+Pruebas Booleanas;15;12;0;24;32744
+e-commerce;15;8;0;213;32555
+testmodel1;15;9;1;18;32750
+robot experiment;15;13;2;10;32758
+Proceso Analisis;15;12;3;5;32763
+Metadata;15;11;0;511;32257
+Urna eletronica Vinicius Cesar;15;13;0;6;32762
+markke core asset testing;15;10;0;24;32744
+Automóvil;15;8;1;48;32720
+CPS;15;12;0;72;32696
+smart phone;15;10;2;116;32652
+Audio Player;15;12;0;12;32756
+SlotsForModules;15;7;16;6;32762
+Mobile Games;16;8;1;3645;61891
+SoftwareClassification;16;11;0;28;65508
+GoPhone Inc;16;6;0;3150;62386
+Web Game;16;12;2;84;65452
+Simaldores de Engenharia de Software;16;9;0;96;65440
+Disciplina;16;11;7;16;65520
+Mobile Media Bruno R;16;10;0;280;65256
+MobileMedia_Marcelo;16;11;0;140;65396
+Mobile Media;16;11;0;140;65396
+MobileMedia_VitorSales;16;11;0;140;65396
+Mobile Media;16;11;0;140;65396
+mobile_media_thom;16;11;0;140;65396
+MobileMedia_BrunoMartins;16;11;1;140;65396
+MobileMedia_Pedro_Pires;16;11;0;140;65396
+MobileMedia_HudsonSilvaBorges;16;11;0;140;65396
+Henrique Gomes Nunes;16;11;0;140;65396
+Mobile Media;16;10;0;280;65256
+Mobile  Model;16;13;2;15;65521
+modelo celular;16;13;2;15;65521
+mobile media;16;12;2;66;65470
+MobileMedia7;16;11;2;60;65476
+modelo mobilemedia;16;13;2;12;65524
+Mobile  Model;16;13;2;15;65521
+Mobile Media;16;13;2;12;65524
+Exercicio Experimento 1;16;11;0;140;65396
+Requisitos II;16;11;4;14;65522
+Pruebas II;16;10;3;12;65524
+Test Collaboration System;16;9;1;936;64600
+notebook;16;10;0;96;65440
+Mobile Media Test;16;10;2;48;65488
+teste puc;16;10;1;72;65464
+MobileMedia-Bruno-ExpUFMG;16;10;1;48;65488
+MobileMedia_mgarnier;16;10;1;48;65488
+MobileMedia_Diego;16;10;2;99;65437
+MobileMedia_Luciano;16;10;2;90;65446
+Sisgeo;16;7;1;1337;64199
+MobileMedia_Cleice;16;11;2;24;65512
+MobileMedia_Thanis;16;10;2;72;65464
+Mobile Media_LeonardoSilva;16;10;1;48;65488
+MobileMedia_DiegoTavares;16;10;2;72;65464
+MobileMedia_JulianaPadilha;16;11;2;18;65518
+Mobile_Media_Gabriela;16;13;1;6;65530
+Mobile Media Thiago;16;10;1;48;65488
+myHolidays;16;11;1;32;65504
+Data Collection Model;16;11;0;84;65452
+MobilePhone;16;10;2;168;65368
+a;16;11;0;558;64978
+Middle Office;16;15;0;2;65534
+IoT-MPL;16;10;0;180;65356
+Smart Phone Feature Model;16;8;2;168;65368
+Navigation Protocol;16;13;0;56;65480
+Urna - Municipal;16;12;0;9;65527
+SIXL;16;9;2;294;65242
+dinner;16;11;3;77;65459
+Features Computador;16;6;0;320;65216
+Small Graph Product Line;17;10;3;308;130764
+AudioPlayer;17;12;0;96;130976
+Mobile Media until relase 7;17;11;0;112;130960
+SMS a Cobrar / Resposta paga;17;13;3;96;130976
+Basic Text Editor;17;11;0;96;130976
+GuideAgent;17;14;3;11;131061
+Mobile Media;17;12;1;126;130946
+Mobile Media Adriano Lages;17;10;1;420;130652
+daniel souza;17;10;0;420;130652
+MobileMedia_BrunoAquino;17;10;0;420;130652
+MobileMedia_Gustavo;17;10;0;420;130652
+celular;17;16;1;6;131066
+Modelo de Celulares;17;14;2;15;131057
+Mobile  Model;17;12;1;126;130946
+Willian Oizumi - Mobile Media;17;10;1;72;131000
+Gsist;17;12;0;84;130988
+SmartPhone Device;17;9;2;192;130880
+DiegoMobileMedia;17;10;1;378;130694
+Mobile_Media_Gabriela;17;14;1;12;131060
+EventosPerez;17;7;1;1792;129280
+variabilidad;17;13;3;16;131056
+SIGA-lctf-fta;17;12;0;196;130876
+MISO Uniandes 201411102;17;11;0;120;130952
+BuurtPensioen;17;10;0;1524;129548
+LscSpecSemantics;17;12;0;40;131032
+Tienda Virtual PUJ;17;7;0;816;130256
+SysML Model;17;11;0;48;131024
+Master;17;10;1;252;130820
+PPU;17;13;2;54;131018
+Urna-EMF;17;10;9;27;131045
+MobiLine;17;11;1;112;130960
+Hastane Randevu Sistemi;17;9;1;216;130856
+Mobile Phone Product Line;17;12;0;168;130904
+Graph Product Line;17;9;13;79;130993
+Monitor_Engine_System;17;13;1;28;131044
+Project Portal Suite;18;4;0;16384;245760
+Car Software System;18;14;1;70;262074
+IDE4OCL;18;9;0;896;261248
+Software Engineering Course;18;14;3;6;262138
+ISPW-6;18;13;2;24;262120
+Editor de imagem;18;9;1;464;261680
+Requirements Proces Variability;18;12;9;12;262132
+OnlineExamPL;18;16;1;10;262134
+dfffffffffff;18;10;0;252;261892
+Mobile media v6;18;16;0;16;262128
+myHolidays;18;11;1;128;262016
+myHolidays;18;11;1;128;262016
+ComputationalThinking;18;13;0;6;262138
+Visual Data Graph;18;9;0;1792;260352
+IRIS;18;9;3;2352;259792
+Telefonos Moviles;18;12;4;88;262056
+computers;18;12;0;4095;258049
+Amazon web services;18;9;0;8191;253953
+MobilePhone;18;15;5;8;262136
+depresija1;18;10;16;127;262017
+Text_Editor;18;11;0;396;261748
+FIRE-ALARM;19;16;4;18;524270
+ISA11/12_pgr;19;12;5;72;524216
+Construtora;19;15;2;72;524216
+Test Env;19;11;0;30;524258
+Agencia de Propaganda;19;12;1;945;523343
+WebKit overview;19;10;6;87;524201
+RST Game;19;11;0;1440;522848
+SimulesSPLBruno;19;17;0;8;524280
+Software-Product;19;10;0;512;523776
+Software-Product;19;10;0;512;523776
+Toko;19;9;0;1600;522688
+Siga;19;12;5;192;524096
+Game of war cards;19;14;0;56;524232
+E-Commerce;19;10;1;768;523520
+Nexus DSPL;19;15;7;66;524222
+Eleição para presidente e dois senadores;19;19;0;64;524224
+Urna - Federal;19;13;0;27;524261
+PawelsTestThermometer;19;14;2;50;524238
+Cruise Control SPL;19;10;5;776;523512
+astiag;19;13;0;160;524128
+Connector PL;20;18;0;18;1048558
+EC2;20;15;0;32;1048544
+Context Feature Model;20;12;0;4800;1043776
+Mobile Phone;20;14;1;162;1048414
+Stacja Pogodowa;20;13;0;448;1048128
+Card Product;20;11;0;640;1047936
+Respaldo de base de datos (Poda);20;20;0;2;1048574
+Monitor Engine;20;19;0;4;1048572
+Scheduler;20;15;0;60;1048516
+Jogo de Engenharia de Software;20;11;2;896;1047680
+MKT;20;16;1;160;1048416
+historioa clinica;20;15;0;48;1048528
+poratfolios1;20;11;1;896;1047680
+Equation_LO;20;11;1;66;1048510
+ReallyConsistentQuestion;20;23;0;4;1048572
+COBI;20;14;0;992;1047584
+Lampiro;20;2;14;2048;1046528
+Dynamic Software Product Lines for Service-Based Systems;20;16;6;18;1048558
+ConferenceContext;20;14;0;2496;1046080
+Cloud Storage Software;20;14;0;102;1048474
+Online shopping software;20;18;7;11;1048565
+urna1_Padia;20;17;0;6;1048570
+urna2_Padia;20;17;4;6;1048570
+PawelRobo;20;16;3;32;1048544
+Connecterra design;20;8;0;4096;1044480
+bib1;20;15;0;147;1048429
+smartAppConcernTest;20;12;1;124;1048452

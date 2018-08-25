@@ -35,12 +35,25 @@ public class Equality implements Constraint {
 
     @Override
     public boolean fulfil(Configuration configuration) {
-        return Optional.ofNullable(fa).map(configuration::valueOf).orElse(c)
-                .equals(Optional.ofNullable(fb).map(configuration::valueOf).orElse(c));
+        if (fa != null && fb != null)
+            return configuration.valueOf(fa).equals(configuration.valueOf(fb));
+        else if (fa != null)
+            return configuration.valueOf(fa).equals(c);
+        else
+        return configuration.valueOf(fb).equals(c);
+
+
+//        return Optional.ofNullable(fa).map(configuration::valueOf).orElse(c)
+//                .equals(Optional.ofNullable(fb).map(configuration::valueOf).orElse(c));
     }
 
     @Override
     public String toString() {
-        return Optional.<Object>ofNullable(fa).orElse(c) + " == " + Optional.<Object>ofNullable(fb).orElse(c);
+        return getEither(fa, c) + " == " + getEither(fb, c);
+    }
+
+    private String getEither(FeatureId f, FeatureValue c) {
+        if (f != null) return f.getId();
+        return c.toString();
     }
 }

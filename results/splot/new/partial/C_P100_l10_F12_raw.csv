@@ -1,0 +1,31 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+Logistic;Combinatorial[0];IntelligentTutoringSystem;56;8;28;4004;0.875;0.667;0.757
+SVM_Puk[1.0, 0.1];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+Logistic;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+Logistic;Combinatorial[0];Eshop-ufrj;14;18;34;4030;0.438;0.292;0.350
+SVM_Puk[1.0, 0.1];Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+Logistic;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+Logistic;Combinatorial[0];Dummy Car;0;1;9;4086;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+Logistic;Combinatorial[0];WB2;58;30;142;3866;0.659;0.290;0.403
+SVM_Puk[1.0, 0.1];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+Logistic;Combinatorial[0];Text Editor;2;3;9;4082;0.400;0.182;0.250
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+Logistic;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+Logistic;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+Logistic;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000

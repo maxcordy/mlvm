@@ -1,0 +1,31 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Combinatorial[0];Aircraft PL;315;0;0;7877;1.000;1.000;1.000
+Logistic;Combinatorial[0];Aircraft PL;90;114;225;7763;0.441;0.286;0.347
+SVM_Puk[1.0, 0.1];Combinatorial[0];Aircraft PL;315;0;0;7877;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+Logistic;Combinatorial[0];CFDP Library;174;49;145;7824;0.780;0.545;0.642
+SVM_Puk[1.0, 0.1];Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+Logistic;Combinatorial[0];CFDP Library;335;60;289;7508;0.848;0.537;0.658
+SVM_Puk[1.0, 0.1];Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Tata Cars;24;0;0;8168;1.000;1.000;1.000
+Logistic;Combinatorial[0];Tata Cars;0;8;24;8160;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Tata Cars;24;0;0;8168;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+Logistic;Combinatorial[0];KIModel;6;2;6;8178;0.750;0.500;0.600
+SVM_Puk[1.0, 0.1];Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+Logistic;Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+Logistic;Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Parking lot Manager;16;0;0;8176;1.000;1.000;1.000
+Logistic;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Parking lot Manager;16;0;0;8176;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Veículo;80;0;0;8112;1.000;1.000;1.000
+Logistic;Combinatorial[0];Veículo;0;32;80;8080;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Veículo;80;0;0;8112;1.000;1.000;1.000

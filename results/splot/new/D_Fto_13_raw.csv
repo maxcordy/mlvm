@@ -1,0 +1,239 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+Logistic;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Game;119;27;16;862;0.815;0.881;0.847
+Logistic;Combinatorial[0];VODPlayer;21;16;27;960;0.568;0.438;0.494
+Logistic;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+Logistic;Combinatorial[0];AvionFEatures;9;3;3;1009;0.750;0.750;0.750
+Logistic;Combinatorial[0];Phone sple;4;0;23;997;1.000;0.148;0.258
+Logistic;Combinatorial[0];Phone;38;8;8;970;0.826;0.826;0.826
+Logistic;Combinatorial[0];Ökonomische Merkmale;21;3;3;997;0.875;0.875;0.875
+Logistic;Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+Logistic;Combinatorial[0];MyFM;0;4;19;1001;0.000;0.000;NaN
+Logistic;Combinatorial[0];rtrt;20;0;0;1004;1.000;1.000;1.000
+Logistic;Combinatorial[0];FeatureModel1;16;0;0;1008;1.000;1.000;1.000
+Logistic;Combinatorial[0];Example Mobile Phone;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];testISA2012;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Mobile-Phone;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Mobile phone (lenita);1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Mobile Phone GF;4;2;10;1008;0.667;0.286;0.400
+Logistic;Combinatorial[0];Example Product Line Course Using SPLOT;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Guad gmocht!;12;6;8;998;0.667;0.600;0.632
+Logistic;Combinatorial[0];MobileMedia;28;0;0;996;1.000;1.000;1.000
+Logistic;Combinatorial[0];Simnumero;0;0;8;1016;NaN;0.000;NaN
+Logistic;Combinatorial[0];isolation;3;0;0;1021;1.000;1.000;1.000
+Logistic;Combinatorial[0];AllSports Feature Model;21;3;3;997;0.875;0.875;0.875
+Logistic;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+Logistic;Combinatorial[0];MobileMedia;6;8;24;986;0.429;0.200;0.273
+Logistic;Combinatorial[0];WebApp;160;0;0;864;1.000;1.000;1.000
+Logistic;Combinatorial[0];abcdefg;3;2;3;1016;0.600;0.500;0.545
+Logistic;Combinatorial[0];Disenio;0;0;4;1020;NaN;0.000;NaN
+Logistic;Combinatorial[0];sasgd;4;0;16;1004;1.000;0.200;0.333
+Logistic;Combinatorial[0];anlisis II;8;4;20;992;0.667;0.286;0.400
+Logistic;Combinatorial[0];disenio II;28;4;2;990;0.875;0.933;0.903
+Logistic;Combinatorial[0];AA;12;8;4;1000;0.600;0.750;0.667
+Logistic;Combinatorial[0];Modelo;0;0;4;1020;NaN;0.000;NaN
+Logistic;Combinatorial[0];TEST_NAme;16;8;20;980;0.667;0.444;0.533
+Logistic;Combinatorial[0];Test;9;7;7;1001;0.563;0.563;0.563
+Logistic;Combinatorial[0];UPT_RM_MOBILE;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];acarlos_trab2_mobile;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Prontuário Eletrônico de Pacientes;10;0;0;1014;1.000;1.000;1.000
+Logistic;Combinatorial[0];test gv;32;0;0;992;1.000;1.000;1.000
+Logistic;Combinatorial[0];Dental Surgery;2;0;0;1022;1.000;1.000;1.000
+Logistic;Combinatorial[0];Cell-Phone-SPL-2014-without;0;0;48;976;NaN;0.000;NaN
+Logistic;Combinatorial[0];Computer Selection;2;0;0;1022;1.000;1.000;1.000
+Logistic;Combinatorial[0];Rotary_Element;0;0;12;1012;NaN;0.000;NaN
+Logistic;Combinatorial[0];E-Shop, magister2014;2;2;16;1004;0.500;0.111;0.182
+Logistic;Combinatorial[0];eshop;4;0;5;1015;1.000;0.444;0.615
+Logistic;Combinatorial[0];Nudelsalat;12;2;0;1010;0.857;1.000;0.923
+Logistic;Combinatorial[0];MK Andes;4;0;0;1020;1.000;1.000;1.000
+Logistic;Combinatorial[0];SPL Studies;0;0;62;962;NaN;0.000;NaN
+Logistic;Combinatorial[0];Telefono;0;0;7;1017;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone;4;2;10;1008;0.667;0.286;0.400
+Logistic;Combinatorial[0];jjjjj;6;6;12;1000;0.500;0.333;0.400
+Logistic;Combinatorial[0];celular;0;1;11;1012;0.000;0.000;NaN
+Logistic;Combinatorial[0];Bandymas;18;4;0;1002;0.818;1.000;0.900
+Logistic;Combinatorial[0];test 3;6;10;26;982;0.375;0.188;0.250
+Logistic;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+Logistic;Combinatorial[0];Feature Tree Example;4;4;4;1012;0.500;0.500;0.500
+Logistic;Combinatorial[0];Sample;16;16;16;976;0.500;0.500;0.500
+Logistic;Combinatorial[0];Mobile Tourist Planner;4;4;24;992;0.500;0.143;0.222
+Logistic;Combinatorial[0];votacao eletronica;7;0;0;1017;1.000;1.000;1.000
+Logistic;Combinatorial[0];Car;8;8;16;992;0.500;0.333;0.400
+Logistic;Combinatorial[0];Mobile Phone;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Test1;0;0;8;1016;NaN;0.000;NaN
+Logistic;Combinatorial[0];Maquina de Cae;12;12;24;976;0.500;0.333;0.400
+Logistic;Combinatorial[0];Autosoft;98;24;24;878;0.803;0.803;0.803
+Logistic;Combinatorial[0];Minimalistic PC Feature Model;0;0;4;1020;NaN;0.000;NaN
+Logistic;Combinatorial[0];Match engine;16;0;0;1008;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone UPT;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Mobile Phone UPT - 18413;1;1;13;1009;0.500;0.071;0.125
+Logistic;Combinatorial[0];Manuel;4;1;5;1014;0.800;0.444;0.571
+Logistic;Combinatorial[0];Telefonia Celular;3;1;33;987;0.750;0.083;0.150
+Logistic;Combinatorial[0];E-SHOP;8;2;0;1014;0.800;1.000;0.889
+Logistic;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+Logistic;Combinatorial[0];Hello World;10;13;25;976;0.435;0.286;0.345
+Logistic;Combinatorial[0];hhhhhhh;2;2;2;1018;0.500;0.500;0.500
+Logistic;Combinatorial[0];drupal sawsen;8;0;0;1016;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile phone;4;2;6;1012;0.667;0.400;0.500
+Logistic;Combinatorial[0];mobile phone;6;7;20;991;0.462;0.231;0.308
+Logistic;Combinatorial[0];E-portal;12;4;4;2028;0.750;0.750;0.750
+Logistic;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+Logistic;Combinatorial[0];Asghar;21;11;11;2005;0.656;0.656;0.656
+Logistic;Combinatorial[0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+Logistic;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+Logistic;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+Logistic;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+Logistic;Combinatorial[0];ordem;12;4;44;1988;0.750;0.214;0.333
+Logistic;Combinatorial[0];desordem;12;4;44;1988;0.750;0.214;0.333
+Logistic;Combinatorial[0];UPL;14;2;4;2028;0.875;0.778;0.824
+Logistic;Combinatorial[0];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+Logistic;Combinatorial[0];Loja Virtual;49;11;7;1981;0.817;0.875;0.845
+Logistic;Combinatorial[0];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+Logistic;Combinatorial[0];Ubuntu;0;0;12;2036;NaN;0.000;NaN
+Logistic;Combinatorial[0];Implementacion;0;0;7;2041;NaN;0.000;NaN
+Logistic;Combinatorial[0];Imolementacion II;3;1;0;2044;0.750;1.000;0.857
+Logistic;Combinatorial[0];Basic Car;15;8;1;2024;0.652;0.938;0.769
+Logistic;Combinatorial[0];CarExample;0;0;3;2045;NaN;0.000;NaN
+Logistic;Combinatorial[0];mo;52;12;8;1976;0.813;0.867;0.839
+Logistic;Combinatorial[0];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+Logistic;Combinatorial[0];JDFM;0;4;20;2024;0.000;0.000;NaN
+Logistic;Combinatorial[0];Analisis;3;2;3;2040;0.600;0.500;0.545
+Logistic;Combinatorial[0];Matrix chain multiplication;0;0;15;2033;NaN;0.000;NaN
+Logistic;Combinatorial[0];Observatorio;0;0;8;2040;NaN;0.000;NaN
+Logistic;Combinatorial[0];collapse_view_example;0;0;31;2017;NaN;0.000;NaN
+Logistic;Combinatorial[0];Match de foot;16;0;0;2032;1.000;1.000;1.000
+Logistic;Combinatorial[0];Xor Example;0;0;40;2008;NaN;0.000;NaN
+Logistic;Combinatorial[0];XOR NEW;56;8;32;1952;0.875;0.636;0.737
+Logistic;Combinatorial[0];Xor Example 2;24;0;48;1976;1.000;0.333;0.500
+Logistic;Combinatorial[0];Sylvain Example;3;1;7;2037;0.750;0.300;0.429
+Logistic;Combinatorial[0];ROOT;96;0;0;1952;1.000;1.000;1.000
+Logistic;Combinatorial[0];NovoSiga;0;4;20;2024;0.000;0.000;NaN
+Logistic;Combinatorial[0];asdsfa ewtwwe;6;4;6;2032;0.600;0.500;0.545
+Logistic;Combinatorial[0];Website;64;0;0;1984;1.000;1.000;1.000
+Logistic;Combinatorial[0];1;14;0;0;2034;1.000;1.000;1.000
+Logistic;Combinatorial[0];erewr;4;0;20;2024;1.000;0.167;0.286
+Logistic;Combinatorial[0];Webshop_SPLE2014_Chalmers;4;0;4;2040;1.000;0.500;0.667
+Logistic;Combinatorial[0];poker spl;9;5;12;2022;0.643;0.429;0.514
+Logistic;Combinatorial[0];r;0;0;84;1964;NaN;0.000;NaN
+Logistic;Combinatorial[0];E-shop;12;7;17;2012;0.632;0.414;0.500
+Logistic;Combinatorial[0];PC model;2;0;16;2030;1.000;0.111;0.200
+Logistic;Combinatorial[0];testing;255;0;0;1793;1.000;1.000;1.000
+Logistic;Combinatorial[0];ubuntu;6;6;12;2024;0.500;0.333;0.400
+Logistic;Combinatorial[0];Jogo;4;0;0;2044;1.000;1.000;1.000
+Logistic;Combinatorial[0];Assistente de Compras;0;0;24;2024;NaN;0.000;NaN
+Logistic;Combinatorial[0];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+Logistic;Combinatorial[0];Autosoft;40;40;72;1896;0.500;0.357;0.417
+Logistic;Combinatorial[0];Rotation1;6;0;4;2038;1.000;0.600;0.750
+Logistic;Combinatorial[0];SPL_e_commerce;0;0;56;1992;NaN;0.000;NaN
+Logistic;Combinatorial[0];ESCA Embeeded System;0;4;10;2034;0.000;0.000;NaN
+Logistic;Combinatorial[0];27-5-207 test;16;16;28;1988;0.500;0.364;0.421
+Logistic;Combinatorial[0];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+Logistic;Combinatorial[0];ZMUConcernExample;7;1;1;2039;0.875;0.875;0.875
+Logistic;Combinatorial[0];SimpleModel;0;4;24;2020;0.000;0.000;NaN
+Logistic;Combinatorial[0];Car;6;0;6;2036;1.000;0.500;0.667
+Logistic;Combinatorial[0];Weather Station;4;4;40;2000;0.500;0.091;0.154
+Logistic;Combinatorial[0];Cellphone;0;0;14;2034;NaN;0.000;NaN
+Logistic;Combinatorial[0];IntelligentTutoringSystem;56;8;28;4004;0.875;0.667;0.757
+Logistic;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+Logistic;Combinatorial[0];Eshop-ufrj;14;18;34;4030;0.438;0.292;0.350
+Logistic;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+Logistic;Combinatorial[0];Dummy Car;0;1;9;4086;0.000;0.000;NaN
+Logistic;Combinatorial[0];WB2;58;30;142;3866;0.659;0.290;0.403
+Logistic;Combinatorial[0];Text Editor;2;3;9;4082;0.400;0.182;0.250
+Logistic;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+Logistic;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+Logistic;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+Logistic;Combinatorial[0];a;0;0;42;4054;NaN;0.000;NaN
+Logistic;Combinatorial[0];aaaaaa;32;0;0;4064;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+Logistic;Combinatorial[0];Address Book;72;0;0;4024;1.000;1.000;1.000
+Logistic;Combinatorial[0];Sisgeo;256;0;1;3839;1.000;0.996;0.998
+Logistic;Combinatorial[0];Multiplicador de n matrices;0;0;18;4078;NaN;0.000;NaN
+Logistic;Combinatorial[0];Movil;2;2;26;4066;0.500;0.071;0.125
+Logistic;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+Logistic;Combinatorial[0];gs;0;16;168;3912;0.000;0.000;NaN
+Logistic;Combinatorial[0];MyDental;42;4;0;4050;0.913;1.000;0.955
+Logistic;Combinatorial[0];FM with optional XOR;11;1;10;4074;0.917;0.524;0.667
+Logistic;Combinatorial[0];Final model;1;3;10;4082;0.250;0.091;0.133
+Logistic;Combinatorial[0];Sylvain Example;1;3;10;4082;0.250;0.091;0.133
+Logistic;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+Logistic;Combinatorial[0];FeatureModelName;4;4;4;4084;0.500;0.500;0.500
+Logistic;Combinatorial[0];Content;58;22;33;3983;0.725;0.637;0.678
+Logistic;Combinatorial[0];Attempt of mine;112;25;20;3939;0.818;0.848;0.833
+Logistic;Combinatorial[0];Content;12;15;33;4036;0.444;0.267;0.333
+Logistic;Combinatorial[0];Content model;58;22;33;3983;0.725;0.637;0.678
+Logistic;Combinatorial[0];eLearning ways;302;24;95;3675;0.926;0.761;0.835
+Logistic;Combinatorial[0];Topology;0;0;16;4080;NaN;0.000;NaN
+Logistic;Combinatorial[0];This is a test;48;44;84;3920;0.522;0.364;0.429
+Logistic;Combinatorial[0];Congress Assistant;0;12;48;4036;0.000;0.000;NaN
+Logistic;Combinatorial[0];JCS;0;0;96;4000;NaN;0.000;NaN
+Logistic;Combinatorial[0];Ooredoo;0;4;18;4074;0.000;0.000;NaN
+Logistic;Combinatorial[0];M-learning Requirements Catalog;128;0;12;3956;1.000;0.914;0.955
+Logistic;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+Logistic;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+Logistic;Combinatorial[0];rotation;1;2;2;4091;0.333;0.333;0.333
+Logistic;Combinatorial[0];Online Shop Feature Model;0;4;42;4050;0.000;0.000;NaN
+Logistic;Combinatorial[0];ABMS;186;28;60;3822;0.869;0.756;0.809
+Logistic;Combinatorial[0];search engine;0;0;32;4064;NaN;0.000;NaN
+Logistic;Combinatorial[0];Reservation;0;3;9;4084;0.000;0.000;NaN
+Logistic;Combinatorial[0];tab;0;0;16;4080;NaN;0.000;NaN
+Logistic;Combinatorial[0];HDMR-Paper;1;3;6;4086;0.250;0.143;0.182
+Logistic;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+Logistic;Combinatorial[0];Aircraft PL;90;114;225;7763;0.441;0.286;0.347
+Logistic;Combinatorial[0];CFDP Library;174;49;145;7824;0.780;0.545;0.642
+Logistic;Combinatorial[0];CFDP Library;335;60;289;7508;0.848;0.537;0.658
+Logistic;Combinatorial[0];Tata Cars;0;8;24;8160;0.000;0.000;NaN
+Logistic;Combinatorial[0];KIModel;6;2;6;8178;0.750;0.500;0.600
+Logistic;Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+Logistic;Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+Logistic;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];Veículo;0;32;80;8080;0.000;0.000;NaN
+Logistic;Combinatorial[0];Car;14;14;28;8136;0.500;0.333;0.400
+Logistic;Combinatorial[0];Homepage based on wiki;0;0;28;8164;NaN;0.000;NaN
+Logistic;Combinatorial[0];Toyota Feature Model;1;1;15;8175;0.500;0.063;0.111
+Logistic;Combinatorial[0];NCV_Simulation;0;0;18;8174;NaN;0.000;NaN
+Logistic;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+Logistic;Combinatorial[0];MiniRPG;16;0;0;8176;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Media;0;0;24;8168;NaN;0.000;NaN
+Logistic;Combinatorial[0];Analisis;0;0;8;8184;NaN;0.000;NaN
+Logistic;Combinatorial[0];Alarm System;0;0;42;8150;NaN;0.000;NaN
+Logistic;Combinatorial[0];LMF;2;0;0;8190;1.000;1.000;1.000
+Logistic;Combinatorial[0];Wewq;1;0;0;8191;1.000;1.000;1.000
+Logistic;Combinatorial[0];Video On Demand SPL FM;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];Video On Demand FM;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];MyHolidays;0;0;112;8080;NaN;0.000;NaN
+Logistic;Combinatorial[0];PortafolioLopez;12;32;72;8076;0.273;0.143;0.187
+Logistic;Combinatorial[0];Phone;8;12;68;8104;0.400;0.105;0.167
+Logistic;Combinatorial[0];cell phones SPL;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];FMConfig;0;1;135;8056;0.000;0.000;NaN
+Logistic;Combinatorial[0];Cell-Phone-SPL-2014;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];Cell-Phone-SPL-2014-Part2;1;0;29;8162;1.000;0.033;0.065
+Logistic;Combinatorial[0];Cell-Phone-SPL-2014-Mined;1;2;30;8159;0.333;0.032;0.059
+Logistic;Combinatorial[0];Magister 2014-ROLOG;6;32;90;8064;0.158;0.063;0.090
+Logistic;Combinatorial[0];MarketPlace-Sample;1;0;2;8189;1.000;0.333;0.500
+Logistic;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+Logistic;Combinatorial[0];SPL Studies;0;0;45;8147;NaN;0.000;NaN
+Logistic;Combinatorial[0];Content;173;57;58;7904;0.752;0.749;0.751
+Logistic;Combinatorial[0];Stamppy;28;0;0;8164;1.000;1.000;1.000
+Logistic;Combinatorial[0];search-engine;0;4;108;8080;0.000;0.000;NaN
+Logistic;Combinatorial[0];Javed Test 2;112;144;336;7600;0.438;0.250;0.318
+Logistic;Combinatorial[0];MoviesApp;2;2;52;8136;0.500;0.037;0.069
+Logistic;Combinatorial[0];Movie System;0;0;24;8168;NaN;0.000;NaN
+Logistic;Combinatorial[0];SmartHotel;0;28;102;8062;0.000;0.000;NaN
+Logistic;Combinatorial[0];Smart Queue;4;0;0;8188;1.000;1.000;1.000
+Logistic;Combinatorial[0];Online shopping software;0;0;2;8190;NaN;0.000;NaN
+Logistic;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;49;8;0;8135;0.860;1.000;0.925
+Logistic;Combinatorial[0];Visit Indonesia Apps;28;28;56;8080;0.500;0.333;0.400
+Logistic;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+Logistic;Combinatorial[0];Home;64;32;60;8036;0.667;0.516;0.582
+Logistic;Combinatorial[0];Windows .NET;16;0;0;8176;1.000;1.000;1.000
+Logistic;Combinatorial[0];HADAS-security;9;1;0;8182;0.900;1.000;0.947
+Logistic;Combinatorial[0];Ligne de produits de Eshop;0;2;20;8170;0.000;0.000;NaN
+Logistic;Combinatorial[0];MobilePhone;0;0;16;8176;NaN;0.000;NaN
+Logistic;Combinatorial[0];smartPhone;93;1;0;8098;0.989;1.000;0.995
+Logistic;Combinatorial[0];MPES2016-2.Reuso2;0;0;6;8186;NaN;0.000;NaN
+Logistic;Combinatorial[0];Tripeo;12;0;0;8180;1.000;1.000;1.000
+Logistic;Combinatorial[0];search-engine;0;4;76;8112;0.000;0.000;NaN
+Logistic;Combinatorial[0];depresija;127;0;0;8065;1.000;1.000;1.000
+Logistic;Combinatorial[0];MoviesApp PL;0;0;24;8168;NaN;0.000;NaN

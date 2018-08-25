@@ -9,7 +9,9 @@ import weka.classifiers.functions.*;
 import weka.classifiers.functions.supportVector.*;
 import weka.classifiers.lazy.IBk;
 import weka.classifiers.lazy.KStar;
+import weka.classifiers.lazy.LWL;
 import weka.classifiers.meta.RandomCommittee;
+import weka.classifiers.rules.*;
 import weka.classifiers.trees.*;
 import weka.classifiers.trees.j48.NBTreeClassifierTree;
 import weka.core.Drawable;
@@ -23,6 +25,40 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class Classifiers {
+
+    public static ClassifierFactory ZeroR() {
+        return createFactory("ZeroR", ZeroR::new);
+    }
+
+    public static ClassifierFactory OneR() {
+        return createFactory("OneR", OneR::new);
+    }
+
+    public static ClassifierFactory PART() {
+
+        return createFactory("PART", () -> {
+            PART x = new PART();
+            try {
+                x.setOptions(new String[]{"-U"});
+            } catch (Exception e) {
+                throw new RuntimeException(e);
+            }
+            return x;
+        });
+    }
+
+    public static ClassifierFactory JRip() {
+        return createFactory("JRip", () -> {
+            JRip x = new JRip();
+            try {
+                x.setOptions(new String[]{"-E"});
+            } catch (Exception e) {
+                throw new RuntimeException(e);
+            }
+            return x;
+        });
+    }
+
 
 
     public static ClassifierFactory J48() {
@@ -57,10 +93,6 @@ public class Classifiers {
 
     public static ClassifierFactory KStar() {
         return createUpdatableFactory("KStar", KStar::new);
-    }
-
-    public static ClassifierFactory LWL() {
-        return createUpdatableFactory("LWL", KStar::new);
     }
 
     public static ClassifierFactory LogisticModelTree() {
@@ -140,13 +172,15 @@ public class Classifiers {
     }
 
     private static Supplier<Classifier> LibSVM(String options) {
-        LibSVM svm = new LibSVM();
-        try {
-            svm.setOptions(options.split(" "));
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
-        return () -> svm;
+        return () -> {
+            LibSVM svm = new LibSVM();
+            try {
+                svm.setOptions(options.split(" "));
+            } catch (Exception e) {
+                throw new RuntimeException(e);
+            }
+            return svm;
+        };
     }
 
     private static ClassifierFactory createFactory(String label, Supplier<Classifier> supplier) {
@@ -185,7 +219,6 @@ public class Classifiers {
         private Instances instances;
 
         public ClassifierBuilderImpl(Supplier<Classifier> supplier) {
-
             this.supplier = supplier;
         }
 

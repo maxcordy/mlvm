@@ -54,7 +54,10 @@ public class LearningModelEvaluator {
 
 //        System.out.println("Validating classifier");
         LearningModelValidator validator = new LearningModelValidator(validationOracle, learnedModel);
+        long startTime = System.currentTimeMillis();
         validationGenerator.generateSamples(vm, validator);
+        long time = System.currentTimeMillis() - startTime;
+        System.out.println("Validation time : " + (time * 1.0 / validator.getResults().getCount()));
         return validator.getResults();
     }
 

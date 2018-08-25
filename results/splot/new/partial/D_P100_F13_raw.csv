@@ -1,0 +1,59 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+RandomCommittee;Combinatorial[0];Aircraft PL;315;105;0;7772;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Tata Cars;24;8;0;8160;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Parking lot Manager;4;4;12;8172;0.500;0.250;0.333
+RandomCommittee;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Car;42;42;0;8108;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Homepage based on wiki;28;0;0;8164;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Toyota Feature Model;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];NCV_Simulation;18;18;0;8156;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];MiniRPG;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Media;10;4;14;8164;0.714;0.417;0.526
+RandomCommittee;Combinatorial[0];Analisis;2;0;6;8184;1.000;0.250;0.400
+RandomCommittee;Combinatorial[0];Alarm System;12;12;30;8138;0.500;0.286;0.364
+RandomCommittee;Combinatorial[0];LMF;2;0;0;8190;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Wewq;1;0;0;8191;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Video On Demand SPL FM;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Video On Demand FM;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MyHolidays;0;0;112;8080;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];PortafolioLopez;84;28;0;8080;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Phone;76;0;0;8116;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];cell phones SPL;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FMConfig;89;5;46;8052;0.947;0.659;0.777
+RandomCommittee;Combinatorial[0];Cell-Phone-SPL-2014;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Cell-Phone-SPL-2014-Part2;10;8;20;8154;0.556;0.333;0.417
+RandomCommittee;Combinatorial[0];Cell-Phone-SPL-2014-Mined;13;8;18;8153;0.619;0.419;0.500
+RandomCommittee;Combinatorial[0];Magister 2014-ROLOG;96;32;0;8064;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];MarketPlace-Sample;3;0;0;8189;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];SPL Studies;15;0;30;8147;1.000;0.333;0.500
+RandomCommittee;Combinatorial[0];Content;231;0;0;7961;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Stamppy;28;0;0;8164;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];search-engine;66;12;42;8072;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Javed Test 2;448;0;0;7744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MoviesApp;18;18;36;8120;0.500;0.333;0.400
+RandomCommittee;Combinatorial[0];Movie System;0;0;24;8168;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];SmartHotel;102;18;0;8072;0.850;1.000;0.919
+RandomCommittee;Combinatorial[0];Smart Queue;4;0;0;8188;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Online shopping software;2;2;0;8188;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;49;0;0;8143;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Visit Indonesia Apps;84;84;0;8024;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Home;124;29;0;8039;0.810;1.000;0.895
+RandomCommittee;Combinatorial[0];Windows .NET;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];HADAS-security;9;1;0;8182;0.900;1.000;0.947
+RandomCommittee;Combinatorial[0];Ligne de produits de Eshop;18;2;2;8170;0.900;0.900;0.900
+RandomCommittee;Combinatorial[0];MobilePhone;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];smartPhone;93;0;0;8099;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MPES2016-2.Reuso2;0;0;6;8186;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Tripeo;12;0;0;8180;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];search-engine;68;48;8;8068;0.586;0.895;0.708
+RandomCommittee;Combinatorial[0];depresija;127;0;0;8065;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MoviesApp PL;0;0;24;8168;NaN;0.000;NaN

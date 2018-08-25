@@ -1,0 +1,1431 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;1;11;4084;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;3;11;4082;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;3;11;4082;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;13;11;4072;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;15;11;4070;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;15;11;4070;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Text Editor;0;5;11;4080;0.000;0.000;NaN
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;128;11;3957;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;128;11;3957;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;1024;11;3061;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;16;11;4069;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;320;11;3765;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;16;11;4069;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;192;11;3893;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;16;11;4069;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Text Editor;0;24;11;4061;0.000;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;3;24;4069;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;9;24;4063;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;8;24;4064;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;3;24;4069;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;9;24;4063;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;2;24;4070;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];mon model;0;4;24;4068;0.000;0.000;NaN
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomForest;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+REPTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+J48;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;128;24;3944;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;192;24;3880;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;64;24;4008;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;16;24;4056;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;240;24;3832;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];mon model;0;128;24;3944;0.000;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;1;7;4088;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;1;7;4088;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Pruebas;0;1;7;4088;0.000;0.000;NaN
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Pruebas;7;0;0;4089;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+REPTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+LogisticModelTree;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+MultilayerPerceptron[a];Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+J48;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;108;7;3981;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;48;7;4041;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;208;7;3881;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;32;7;4057;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;416;7;3673;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;144;7;3945;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Pruebas;0;0;7;4089;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;1;1;4094;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;2;1;4093;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;3;1;4092;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;1;1;4094;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;1;1;4094;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];ID;0;4;1;4091;0.000;0.000;NaN
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomForest;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+REPTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+J48;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];ID;0;0;1;4095;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;1;20;4074;0.500;0.048;0.087
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;2;20;4073;0.333;0.048;0.083
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;3;20;4072;0.250;0.048;0.080
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;8;20;4067;0.111;0.048;0.067
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;5;20;4070;0.167;0.048;0.074
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;1;20;4074;0.500;0.048;0.087
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;5;20;4070;0.167;0.048;0.074
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;2;20;4073;0.333;0.048;0.083
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;3;20;4072;0.250;0.048;0.080
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;3;20;4072;0.250;0.048;0.080
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FM with optional XOR;1;1;20;4074;0.500;0.048;0.087
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+REPTree;Combinatorial[0];FM with optional XOR;15;0;6;4075;1.000;0.714;0.833
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+REPTree;Combinatorial[0];FM with optional XOR;15;0;6;4075;1.000;0.714;0.833
+REPTree;Combinatorial[0];FM with optional XOR;15;0;6;4075;1.000;0.714;0.833
+REPTree;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+MultilayerPerceptron[a];Combinatorial[0];FM with optional XOR;19;0;2;4075;1.000;0.905;0.950
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;0;6;4075;1.000;0.714;0.833
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;0;6;4075;1.000;0.714;0.833
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+J48;Combinatorial[0];FM with optional XOR;15;1;6;4074;0.938;0.714;0.811
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;256;21;3819;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;448;21;3627;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;384;21;3691;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;96;21;3979;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;240;21;3835;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;24;21;4051;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FM with optional XOR;0;0;21;4075;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;2;11;4083;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;2;11;4083;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;4;11;4081;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;3;11;4082;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;4;11;4081;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Final model;0;2;11;4083;0.000;0.000;NaN
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+REPTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;480;11;3605;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;288;11;3797;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;448;11;3637;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;168;11;3917;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;192;11;3893;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;168;11;3917;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Final model;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;2;11;4083;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;5;11;4080;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;4;11;4081;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;4;11;4081;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;2;11;4083;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;1;11;4084;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;5;11;4080;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;2;11;4083;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Sylvain Example;0;1;11;4084;0.000;0.000;NaN
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+REPTree;Combinatorial[0];Sylvain Example;4;0;7;4085;1.000;0.364;0.533
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+J48;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;160;11;3925;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;192;11;3893;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;512;11;3573;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;168;11;3917;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;132;11;3953;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;544;11;3541;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;88;11;3997;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;176;11;3909;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Sylvain Example;0;320;11;3765;0.000;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Sylvain Example;0;0;11;4085;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;2;3;4091;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;3;3;4090;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;1;3;4092;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;1;3;4092;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;1;3;4092;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];E-commerce system1;0;1;3;4092;0.000;0.000;NaN
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+MultilayerPerceptron[a];Combinatorial[0];E-commerce system1;2;0;1;4093;1.000;0.667;0.800
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;34;3;4059;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;132;3;3961;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;160;3;3933;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;144;3;3949;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];E-commerce system1;0;192;3;3901;0.000;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];E-commerce system1;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;3;8;4085;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;18;8;4070;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;3;8;4085;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;6;8;4082;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;1;8;4087;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;2;8;4086;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;6;8;4082;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;3;8;4085;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;1;8;4087;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;3;8;4085;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];FeatureModelName;0;3;8;4085;0.000;0.000;NaN
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomForest;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+REPTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];FeatureModelName;8;0;0;4088;1.000;1.000;1.000
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+J48;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;256;8;3832;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;128;8;3960;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;192;8;3896;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;128;8;3960;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;256;8;3832;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;128;8;3960;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;192;8;3896;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];FeatureModelName;0;0;8;4088;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;4;4;4088;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;3;4;4089;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;9;4;4083;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;3;4;4089;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;9;4;4083;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;1;4;4091;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;3;4;4089;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;6;4;4086;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;3;4;4089;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];TW SPL Hard Choices;0;3;4;4089;0.000;0.000;NaN
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomForest;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+REPTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+J48;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];TW SPL Hard Choices;0;0;4;4092;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;3;2;4091;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;6;2;4088;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;2;2;4092;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;3;2;4091;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;2;2;4092;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;2;2;4092;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;3;2;4091;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+REPTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+LogisticModelTree;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+J48;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Jogo;0;0;2;4094;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;6;3;4087;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;6;3;4087;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;3;3;4090;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;3;3;4090;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;12;3;4081;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;2;3;4091;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;3;3;4090;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;3;3;4090;0.000;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];rotation;0;3;3;4090;0.000;0.000;NaN
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomForest;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+REPTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+J48;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];rotation;0;0;3;4093;NaN;0.000;NaN
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+SVM_Poly[3,2.0,0.5];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomForest;Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;0;7;4078;1.000;0.611;0.759
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;0;7;4078;1.000;0.611;0.759
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;0;7;4078;1.000;0.611;0.759
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;0;7;4078;1.000;0.611;0.759
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;0;7;4078;1.000;0.611;0.759
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710
+REPTree;Combinatorial[0];Telecommunication_System;3;0;15;4078;1.000;0.167;0.286
+REPTree;Combinatorial[0];Telecommunication_System;3;0;15;4078;1.000;0.167;0.286
+REPTree;Combinatorial[0];Telecommunication_System;3;1;15;4077;0.750;0.167;0.273
+REPTree;Combinatorial[0];Telecommunication_System;3;1;15;4077;0.750;0.167;0.273
+REPTree;Combinatorial[0];Telecommunication_System;3;1;15;4077;0.750;0.167;0.273
+REPTree;Combinatorial[0];Telecommunication_System;3;0;15;4078;1.000;0.167;0.286
+REPTree;Combinatorial[0];Telecommunication_System;3;0;15;4078;1.000;0.167;0.286
+REPTree;Combinatorial[0];Telecommunication_System;3;0;15;4078;1.000;0.167;0.286
+REPTree;Combinatorial[0];Telecommunication_System;3;1;15;4077;0.750;0.167;0.273
+REPTree;Combinatorial[0];Telecommunication_System;3;0;15;4078;1.000;0.167;0.286
+REPTree;Combinatorial[0];Telecommunication_System;3;1;15;4077;0.750;0.167;0.273
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+LogisticModelTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+MultilayerPerceptron[a];Combinatorial[0];Telecommunication_System;18;0;0;4078;1.000;1.000;1.000
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+J48;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+NaiveBayesUpdateable;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;384;18;3694;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;96;18;3982;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;640;18;3438;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;320;18;3758;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;224;18;3854;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;320;18;3758;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;448;18;3630;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;160;18;3918;0.000;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN
+StochasticGradientDescend;Combinatorial[0];Telecommunication_System;0;0;18;4078;NaN;0.000;NaN

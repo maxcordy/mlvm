@@ -4,20 +4,20 @@ import be.unamur.mlvm.util.Assert;
 
 /**
  * Immutable representation of a constraint ID.
- * 
+ *
  * @author mcr
  */
 public class ConstraintId {
 
     private final String id;
-    
+
     public ConstraintId(String s) {
         Assert.notNull(s);
         Assert.notEmpty(s);
-        
+
         this.id = s;
     }
-    
+
     @Override
     public boolean equals(Object o) {
         if (this == o) {
@@ -39,5 +39,12 @@ public class ConstraintId {
 
         return result;
     }
-    
+
+    public String toString() {
+        return "ConstraintId[" + id + "]";
+    }
+
+    public String getId() {
+        return id;
+    }
 }

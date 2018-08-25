@@ -19,10 +19,7 @@ import java.io.PrintStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -31,24 +28,37 @@ public class TestSplotModelsPartial {
     public static void main(String[] args) throws Exception {
 
         // limite le nombre de modeles ayant le meme nombre de features
-        int limit = -1;
-        limit = 5;
+        int limit = 5;
+//        int limit = 10;
 
         List<ClassifierFactory> classifiers = Arrays.asList(
+//                Classifiers.MultilayerPerceptron("a"),
+//                Classifiers.MultilayerPerceptron("i"),
+//                Classifiers.MultilayerPerceptron("i,o"),
+//                Classifiers.MultilayerPerceptron("i,a"),
+//                Classifiers.MultilayerPerceptron("i,6"),
+//                Classifiers.MultilayerPerceptron("a,4")
+
+
 //                Classifiers.SVM_RBF(5),
-                Classifiers.SVM_Poly(3, 2, 0.5),
+//                Classifiers.LogisticRegression(),
+//                Classifiers.SVM_Poly(3, 2, 0.5),
                 Classifiers.RandomForest(),
-//                Classifiers.SVM_Puk(1, 0.1),
+//                Classifiers.SVM_Puk(1, 0.1)
                 Classifiers.RandomCommittee(),
-                Classifiers.REPTree(),
-                Classifiers.LogisticModelTree(),
+//                Classifiers.REPTree()
+//                Classifiers.LogisticModelTree(),
 //                Classifiers.MultilayerPerceptron(),
-                Classifiers.J48(),
-                Classifiers.NaiveBayesUpdateable(),
-                Classifiers.HoeffdingTree(),
+//                Classifiers.J48()
+
+
+//                Classifiers.NaiveBayesUpdateable(),
+//                Classifiers.HoeffdingTree(),
 //                Classifiers.IBk(),
+                Classifiers.PART(),
+                Classifiers.JRip()
 //                Classifiers.KStar(),
-                Classifiers.StochasticGradientDescend()
+//                Classifiers.StochasticGradientDescend(),
 //                Classifiers.LWL()
 
         );
@@ -60,12 +70,14 @@ public class TestSplotModelsPartial {
 
         System.out.println("Loaded " + models.size() + " models");
 
-        double[] partials = new double[]{0.01, 0.005};
-        Results r[] = new Results[partials.length];
+        int[] partials = new int[]{10, 5};
+//        int[] partials = new int[]{5, 50, 200};
+        Results r[] = new Results[201];
 
-        for (int features = 21; features <= 30; features++)
-            for (int partialId = 0; partialId < partials.length; partialId++) {
-                double partial = partials[partialId];
+
+        for (int features = 26; features <= 30; features+=2)
+            for (int partial : partials) {
+
 
                 String filename = "F" + features;
                 String filename2 = "upToF" + features;
@@ -73,13 +85,16 @@ public class TestSplotModelsPartial {
                     filename = "l" + limit + "_" + filename;
                     filename2 = "l" + limit + "_" + filename2;
                 }
-                filename = String.format("partial_big/P%f_%s", partial, filename);
-                filename2 = String.format("partial_big/P%f_%s", partial, filename2);
+                filename = String.format("new/partial_big/D_P%03d_%s", partial, filename);
+                filename2 = String.format("new/partial_big/D_P%03d_%s", partial, filename2);
 
-                List<SampleGenerator> generators = Arrays.asList(
-                        new RandomSampleGenerator(partial, true),
-                        new RandomSampleGenerator(partial, true)
-                );
+                List<SampleGenerator> generators =
+                        Arrays.asList(
+                                new RandomSampleGenerator(partial * 0.001, true),
+                                new RandomSampleGenerator(partial * 0.001, true),
+                                new RandomSampleGenerator(partial * 0.001, true),
+                                new RandomSampleGenerator(partial * 0.001, true),
+                                new RandomSampleGenerator(partial * 0.001, true));
 
 
                 int finalI = features;
@@ -96,9 +111,9 @@ public class TestSplotModelsPartial {
 
                 Path resultsPath = Paths.get("results", "splot", filename + "_raw.csv");
                 Results r1 = TestUtils.trainOrLoad(resultsPath, features, models1, classifiers, generators, new CombinatorialSampleGenerator());
-                r[partialId] = Results.combine(r[partialId], r1);
+                r[partial] = Results.combine(r[partial], r1);
                 TestUtils.saveResults(r1, "splot/" + filename);
-                TestUtils.saveResults(r[partialId], "splot/" + filename2);
+                TestUtils.saveResults(r[partial], "splot/" + filename2);
             }
     }
 }

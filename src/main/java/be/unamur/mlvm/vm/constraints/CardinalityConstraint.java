@@ -1,38 +1,32 @@
 package be.unamur.mlvm.vm.constraints;
 
-import be.unamur.mlvm.vm.Configuration;
-import be.unamur.mlvm.vm.Constraint;
+import be.unamur.mlvm.vm.*;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
 public class CardinalityConstraint implements Constraint {
     private final int minCardinality;
     private final int maxCardinality;
-    private final List<Constraint> constraints;
+    private final List<FeatureId> features;
 
-    public CardinalityConstraint(int minCardinality, int maxCardinality, Constraint ... constraints) {
-        this(minCardinality, maxCardinality, Arrays.asList(constraints));
-    }
-
-    public CardinalityConstraint(int minCardinality, int maxCardinality, List<Constraint>constraints) {
-
+    public CardinalityConstraint(int minCardinality, int maxCardinality, List<FeatureId> features) {
         this.minCardinality = minCardinality;
         this.maxCardinality = maxCardinality;
-        this.constraints = constraints;
+        this.features = features;
     }
 
     @Override
     public boolean fulfil(Configuration configuration) {
-        long count = constraints.stream()
-                .filter(constraint -> constraint.fulfil(configuration))
+        long count = features.stream()
+                .map(configuration::valueOf)
+                .filter(FeatureValues.TRUE::equals)
                 .count();
         return (count >= minCardinality && count <= maxCardinality);
     }
 
     @Override
     public String toString() {
-        return constraints.stream().map(Object::toString).collect(Collectors.joining(", ", "(", "){"+minCardinality+";"+maxCardinality+"}"));
+        return features.stream().map(Object::toString).collect(Collectors.joining(", ", "(", "){"+minCardinality+";"+maxCardinality+"}"));
     }
 }

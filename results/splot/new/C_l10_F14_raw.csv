@@ -1,0 +1,91 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Car PL;16;10224;72;6072;0.002;0.182;0.003
+IBk;Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+KStar;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+LWL;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];IDE4OCL;64;12224;0;4096;0.005;1.000;0.010
+IBk;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+KStar;Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+LWL;Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];WB;5;160;635;15584;0.030;0.008;0.012
+SVM_Linear;Combinatorial[0];WB;392;120;248;15624;0.766;0.613;0.681
+SVM_Puk[1.0, 0.1];Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];WB;544;8336;96;7408;0.061;0.850;0.114
+IBk;Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+KStar;Combinatorial[0];WB;552;0;88;15744;1.000;0.863;0.926
+LWL;Combinatorial[0];WB;552;0;88;15744;1.000;0.863;0.926
+SVM_RBF[5.0];Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];MiniTV;5;4;243;16132;0.556;0.020;0.039
+SVM_Linear;Combinatorial[0];MiniTV;248;8;0;16128;0.969;1.000;0.984
+SVM_Puk[1.0, 0.1];Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];MiniTV;248;11016;0;5120;0.022;1.000;0.043
+IBk;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+KStar;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+LWL;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Carro Model;30;0;0;16354;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Carro Model;16;0;14;16354;1.000;0.533;0.696
+SVM_Sigmoid[0.1];Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Carro Model;30;0;0;16354;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Carro Model;0;8192;30;8162;0.000;0.000;NaN
+IBk;Combinatorial[0];Carro Model;30;0;0;16354;1.000;1.000;1.000
+KStar;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+LWL;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];CTOS MODEL;0;8192;18;8174;0.000;0.000;NaN
+IBk;Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+KStar;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+LWL;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+IBk;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+KStar;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];ELPS - ISE;0;43;462;15879;0.000;0.000;NaN
+SVM_Linear;Combinatorial[0];ELPS - ISE;0;0;462;15922;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];ELPS - ISE;0;8192;462;7730;0.000;0.000;NaN
+IBk;Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+KStar;Combinatorial[0];ELPS - ISE;448;0;14;15922;1.000;0.970;0.985
+LWL;Combinatorial[0];ELPS - ISE;448;0;14;15922;1.000;0.970;0.985
+SVM_RBF[5.0];Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];UML-IDE-TOOL;1255;265;281;14583;0.826;0.817;0.821
+SVM_Linear;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];UML-IDE-TOOL;1536;14848;0;0;0.094;1.000;0.171
+IBk;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+KStar;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+LWL;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Linha de produtos - SimulES e PnP;0;1;144;16239;0.000;0.000;NaN
+SVM_Linear;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Linha de produtos - SimulES e PnP;0;8192;144;8048;0.000;0.000;NaN
+IBk;Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+KStar;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+LWL;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN

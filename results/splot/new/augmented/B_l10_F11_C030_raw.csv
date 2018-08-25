@@ -1,0 +1,111 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;5;2;2041;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;1;2;2045;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;1;2;2045;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;3;2;2043;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;7;2;2039;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;1;2;2045;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;4;2;2042;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;2;2;2044;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;1;2;2045;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;1;2;2045;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN

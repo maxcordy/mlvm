@@ -9,19 +9,20 @@ import be.unamur.mlvm.reasoner.weka.ClassifierFactory;
 import be.unamur.mlvm.reasoner.weka.Classifiers;
 import be.unamur.mlvm.reasoner.weka.WekaLearningModel;
 import be.unamur.mlvm.sampling.CombinatorialSampleGenerator;
+import be.unamur.mlvm.sampling.RandomSampleGenerator;
 import be.unamur.mlvm.sampling.SampleGenerator;
 import be.unamur.mlvm.test.Results;
 import be.unamur.mlvm.test.TestUtils;
 import be.unamur.mlvm.test.TrainingEvaluator;
 import be.unamur.mlvm.vm.Constraint;
 import be.unamur.mlvm.vm.VariabilityModel;
-import com.sun.org.apache.regexp.internal.RE;
 
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
-import java.util.function.Supplier;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
@@ -37,46 +38,35 @@ public class TestSplotModels_Augment {
 
         // limite le nombre de modeles ayant le meme nombre de features
         int limit = -1;
-        int MAX_AUGMENTED = 5;
-//        limit = 10;
+//        int limit = 10;
+        int SAMPLE_COUNT = 10;
+        int AUGMENT_STEPS = 10;
 
         List<ClassifierFactory> classifiers = Arrays.asList(
-                Classifiers.SVM_RBF(5),
-                Classifiers.SVM_Poly(3, 2, 0.5),
-                Classifiers.RandomForest(),
-                Classifiers.SVM_Puk(1, 0.1),
-                Classifiers.RandomCommittee(),
-                Classifiers.REPTree(),
-                Classifiers.LogisticModelTree(),
-                Classifiers.MultilayerPerceptron(),
-                Classifiers.J48(),
-                Classifiers.NaiveBayesUpdateable(),
-                Classifiers.HoeffdingTree(),
-//                Classifiers.IBk(),
-//                Classifiers.KStar(),
-                Classifiers.StochasticGradientDescend()
-//                Classifiers.LWL()
+                Classifiers.SVM_Poly(3,2,0.5)
         );
         List<VariabilityModel> models = new ArrayList<>();
 
-        SplotUtils.loadSamplesDirectory("SPLOT")
+        SplotUtils.loadSamplesDirectoryWithSplitConstraints("SPLOT")
                 .forEach(models::add);
 
 
-        SampleGenerator generator = new CombinatorialSampleGenerator();
+        SampleGenerator validationGenerator = new CombinatorialSampleGenerator();
 
         System.out.println("Loaded " + models.size() + " models");
 
-        Map<Integer, Results> r = new TreeMap<>();
-        for (int features = 0; features <= 21; features++) {
+        Map<Integer, Results> resultsMap = new TreeMap<>();
 
-            final String filename = "augmented/" + (limit >= 0 ? "l" + limit + "_" : "") + "F" + features;
-            final String filename2 = "augmented/" + (limit >= 0 ? "l" + limit + "_" : "") + "upToF" + features;
+        IntStream.rangeClosed(14, 21).forEach(features -> {
+            SampleGenerator trainingGenerator = new CombinatorialSampleGenerator();
+
+            final String filename = "new/augmentedA/" + (limit >= 0 ? "l" + limit + "_" : "") + "F" + features;
+            final String filename2 = "new/augmentedA/" + (limit >= 0 ? "l" + limit + "_" : "") + "Fto_" + features;
 
 
-            int finalFeatures = features;
             Stream<VariabilityModel> modelsStream = models.stream()
-                    .filter(x -> x.features().size() == finalFeatures);
+                    .filter(x -> x.features().size() == features)
+                    .filter(x -> x.constraints().size() > 0);
 
             if (limit >= 0)
                 modelsStream = modelsStream.limit(limit);
@@ -85,40 +75,78 @@ public class TestSplotModels_Augment {
                     .collect(Collectors.toList());
 
             if (models1.isEmpty())
-                continue;
+                return;
 
-
-            List<TrainedModel> trainedModels = models1.stream()
-                    .flatMap(model -> classifiers.stream()
-                            .map(classifier -> new TrainedModel(model, classifier, generator)))
-                    .collect(Collectors.toList());
-
-            System.out.println("Training models");
-            TestUtils.forEach(trainedModels, TrainedModel::train);
-
-            System.out.println("Augmenting models");
-
-
-            List<TrainedModel> augmentedModels = new ArrayList<>();
-
-            TestUtils.forEach(trainedModels, x -> x.getAugmentedModels(MAX_AUGMENTED)
-                    .forEach(augmentedModels::add));
-
-            System.out.println("Evaluating models");
-
+            System.out.println("Loading existing results for [" + Paths.get(filename).getFileName() + "] (F=" + features + ", count=" + models1.size() + ")");
             Map<Integer, Results> results = new TreeMap<>();
-            TestUtils.forEach(augmentedModels, x -> {
-                TrainingEvaluator.MultiEvaluationResult v = x.evaluate(generator);
-                Results r1 = results.computeIfAbsent(x.getAddedConstraintsCount(), i -> new Results(new ArrayList<>()));
-                r1.addResult(v);
-            });
+            Set<Integer> existing = new TreeSet<>();
+
+            IntStream.rangeClosed(1, AUGMENT_STEPS)
+                    .map(i -> i * 100 / AUGMENT_STEPS)
+                    .forEach(c -> {
+                        Path path = Paths.get("results", "splot", filename + "_C" + String.format("%03d", c) + "_raw.csv");
+                        if (Files.exists(path)) {
+                            Results rs = TestUtils.loadResults(path, models1, features);
+                            results.compute(getKey(c), (k, v) -> Results.combine(v, rs));
+                            existing.add(c);
+                            System.out.println("Loading existing " + path.getFileName());
+                        }
+                    });
+
+            Set<Integer> unloaded = IntStream.rangeClosed(1, AUGMENT_STEPS)
+                    .map(i -> i * 100 / AUGMENT_STEPS)
+                    .filter(x -> !existing.contains(x))
+                    .boxed()
+                    .collect(Collectors.toSet());
+
+            if (unloaded.isEmpty()) {
+                System.out.println("All results loaded from files");
+            } else {
+                System.out.println("Missing : " + unloaded.stream().map(Object::toString).collect(Collectors.joining(", ")));
+
+                System.out.println("Running evaluation for [" + Paths.get(filename).getFileName() + "] (F=" + features + ", count=" + models1.size() + ")");
+
+                int minRequired = 10;
+                List<TrainedModel> trainedModels = models1.stream()
+                        .filter(x -> x.constraints().size() >= minRequired)
+                        .flatMap(model -> classifiers.stream()
+                                .map(classifier -> new TrainedModel(model, classifier, trainingGenerator)))
+                        .collect(Collectors.toList());
+
+                System.out.println("Training models");
+                TestUtils.forEach(trainedModels, TrainedModel::train);
+
+                System.out.println("Augmenting models");
+
+
+                List<TrainedModel> augmentedModels = new ArrayList<>();
+
+                TestUtils.forEach(trainedModels, x -> x.getAugmentedModels(AUGMENT_STEPS, SAMPLE_COUNT)
+                        .forEach(augmentedModels::add));
+
+                System.out.println("Evaluating models");
+
+
+                TestUtils.forEach(augmentedModels, x -> {
+                    if (existing.contains(x.getAddedConstraintsStep()* 100 / AUGMENT_STEPS))
+                        return;
+                    TrainingEvaluator.MultiEvaluationResult v = x.evaluate(validationGenerator);
+                    Results r1 = results.computeIfAbsent(getKey(x.getAddedConstraintsStep() * 100 / AUGMENT_STEPS),
+                            i -> new Results(new ArrayList<>()));
+                    r1.addResult(v);
+                });
+            }
 
             results.forEach((i, r1) -> {
-                Results rx = r.compute(i, (i1, v) -> Results.combine(v, r1));
-                TestUtils.saveResults(r1, "splot/" + filename + "_C" + i);
-                TestUtils.saveResults(rx, "splot/" + filename2 + "_C" + i);
+                Results rx = resultsMap.compute(i, (i1, v) -> Results.combine(v, r1));
+                TestUtils.saveResults(r1, "splot/" + filename + "_C" + String.format("%03d", i));
+                TestUtils.saveResults(rx, "splot/" + filename2 + "_C" + String.format("%03d", i));
             });
-        }
+        });
+    }
+
+    private static int getKey(int addedConstraintsCount) {
+        return addedConstraintsCount;
     }
 
 
@@ -127,30 +155,34 @@ public class TestSplotModels_Augment {
         private final VariabilityModel model;
         private final ClassifierFactory classifierFactory;
         private final SampleGenerator traningSetGenerator;
-        private Oracle trainedModel;
+        private final int step;
+        private LearningModel trainedModel;
         private List<Constraint> addedConstraints;
 
-        public TrainedModel(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator generator) {
+        TrainedModel(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator generator) {
             this.model = model;
             this.classifierFactory = classifierFactory;
             this.traningSetGenerator = generator;
+            this.step = 0;
         }
 
 
-        private TrainedModel(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator generator, Oracle trainedModel, List<Constraint> addedConstraints) {
+        private TrainedModel(VariabilityModel model, ClassifierFactory classifierFactory, SampleGenerator generator, LearningModel trainedModel, List<Constraint> addedConstraints, int step) {
             this.model = model;
             this.classifierFactory = classifierFactory;
             this.traningSetGenerator = generator;
             this.trainedModel = trainedModel;
             this.addedConstraints = addedConstraints;
+            this.step = step;
         }
 
-        public void train() {
+        void train() {
             LearningModelTrainer learningModelTrainer = new LearningModelTrainer(model,
                     capacity -> new WekaLearningModel(model, classifierFactory.create(), capacity));
 
             traningSetGenerator.generateSamples(model, learningModelTrainer);
             this.trainedModel = learningModelTrainer.getLearningModel();
+            this.trainedModel.buildClassifier();
         }
 
 
@@ -169,38 +201,22 @@ public class TestSplotModels_Augment {
         }
 
 
-        Stream<TrainedModel> getAugmentedModels(int max) {
-
+        Stream<TrainedModel> getAugmentedModels(int steps, int count) {
             List<Constraint> constraints = model.constraints().stream().map(model::getConstraint).collect(Collectors.toList());
 
-            return getAugmentedModels(constraints, Math.min(max, constraints.size()))
-                    .map(c -> new TrainedModel(model, classifierFactory, traningSetGenerator, trainedModel, c));
-
+            return IntStream.rangeClosed(0, count).boxed()
+                    .flatMap(i -> IntStream.rangeClosed(1, steps)
+                            .mapToObj(j -> new TrainedModel(model, classifierFactory, traningSetGenerator, trainedModel, pick(constraints, j * (constraints.size() - 1) / steps), j)));
 
         }
 
-        private static Stream<List<Constraint>> getAugmentedModels(List<Constraint> constraints, int max) {
-            int[] ids = new int[max];
-            for (int i = 0; i < ids.length; i++) ids[i] = i;
-
-
-            for (int i = ids.length - 1; i >= 0; i--) {
-                if (ids[i] >= constraints.size() - 1)
-                    if (i > 0)
-                        continue;
-                    else
-                        break;
-                ids[i]++;
-                for (int j = i + 1; j < ids.length; j++)
-                    ids[j] = ids[j - 1] + 1;
-            }
-
-            Iterable<List<Constraint>> iterable = () -> new ConstraintListSupplier(constraints, max);
-            return StreamSupport.stream(iterable.spliterator(), false);
+        private static List<Constraint> pick(List<Constraint> constraints, int count) {
+            Collections.shuffle(constraints);
+            return new ArrayList<>(constraints.subList(0, count));
         }
 
-        public int getAddedConstraintsCount() {
-            return addedConstraints.size();
+        int getAddedConstraintsStep() {
+            return step;
         }
     }
 

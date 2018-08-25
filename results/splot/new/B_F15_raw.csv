@@ -1,0 +1,153 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+JRip;Combinatorial[0];Cell Phone;0;0;61;32707;NaN;0.000;NaN
+PART;Combinatorial[0];Cell Phone;52;0;9;32707;1.000;0.852;0.920
+ZeroR;Combinatorial[0];Cell Phone;0;0;61;32707;NaN;0.000;NaN
+OneR;Combinatorial[0];Cell Phone;0;0;61;32707;NaN;0.000;NaN
+JRip;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+PART;Combinatorial[0];Web Content Delivery;6;4;17;32741;0.600;0.261;0.364
+ZeroR;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+OneR;Combinatorial[0];Web Content Delivery;0;0;23;32745;NaN;0.000;NaN
+JRip;Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+PART;Combinatorial[0];Coff Feature Model;1512;0;0;31256;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Coff Feature Model;0;0;1512;31256;NaN;0.000;NaN
+OneR;Combinatorial[0];Coff Feature Model;0;0;1512;31256;NaN;0.000;NaN
+JRip;Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+PART;Combinatorial[0];VMS;44;0;0;32724;1.000;1.000;1.000
+ZeroR;Combinatorial[0];VMS;0;0;44;32724;NaN;0.000;NaN
+OneR;Combinatorial[0];VMS;0;0;44;32724;NaN;0.000;NaN
+JRip;Combinatorial[0];Test;45;3;15;32705;0.938;0.750;0.833
+PART;Combinatorial[0];Test;19;1;41;32707;0.950;0.317;0.475
+ZeroR;Combinatorial[0];Test;0;0;60;32708;NaN;0.000;NaN
+OneR;Combinatorial[0];Test;0;0;60;32708;NaN;0.000;NaN
+JRip;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+PART;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+OneR;Combinatorial[0];Venza;0;0;4;32764;NaN;0.000;NaN
+JRip;Combinatorial[0];SD Voter pattern feature model;4;0;116;32648;1.000;0.033;0.065
+PART;Combinatorial[0];SD Voter pattern feature model;72;32;48;32616;0.692;0.600;0.643
+ZeroR;Combinatorial[0];SD Voter pattern feature model;0;0;120;32648;NaN;0.000;NaN
+OneR;Combinatorial[0];SD Voter pattern feature model;0;0;120;32648;NaN;0.000;NaN
+JRip;Combinatorial[0];Technical Solution Process;8;0;44;32716;1.000;0.154;0.267
+PART;Combinatorial[0];Technical Solution Process;52;0;0;32716;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Technical Solution Process;0;0;52;32716;NaN;0.000;NaN
+OneR;Combinatorial[0];Technical Solution Process;0;0;52;32716;NaN;0.000;NaN
+JRip;Combinatorial[0];iNavBasic;4;0;0;32764;1.000;1.000;1.000
+PART;Combinatorial[0];iNavBasic;4;0;0;32764;1.000;1.000;1.000
+ZeroR;Combinatorial[0];iNavBasic;0;0;4;32764;NaN;0.000;NaN
+OneR;Combinatorial[0];iNavBasic;0;0;4;32764;NaN;0.000;NaN
+JRip;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+PART;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+OneR;Combinatorial[0];Transmission;0;0;44;32724;NaN;0.000;NaN
+JRip;Combinatorial[0];Agile Simules;24;6;0;32738;0.800;1.000;0.889
+PART;Combinatorial[0];Agile Simules;12;0;12;32744;1.000;0.500;0.667
+ZeroR;Combinatorial[0];Agile Simules;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];Agile Simules;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia_Lenita;6;0;0;32762;1.000;1.000;1.000
+PART;Combinatorial[0];MobileMedia_Lenita;6;0;0;32762;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MobileMedia_Lenita;0;0;6;32762;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia_Lenita;0;0;6;32762;NaN;0.000;NaN
+JRip;Combinatorial[0];Estudo Experimental 2;6;0;0;32762;1.000;1.000;1.000
+PART;Combinatorial[0];Estudo Experimental 2;6;0;0;32762;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Estudo Experimental 2;0;0;6;32762;NaN;0.000;NaN
+OneR;Combinatorial[0];Estudo Experimental 2;0;0;6;32762;NaN;0.000;NaN
+JRip;Combinatorial[0];Flight Reservations;126;22;0;32620;0.851;1.000;0.920
+PART;Combinatorial[0];Flight Reservations;126;0;0;32642;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Flight Reservations;0;0;126;32642;NaN;0.000;NaN
+OneR;Combinatorial[0];Flight Reservations;0;0;126;32642;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+PART;Combinatorial[0];MobileMedia_Ibraim;24;0;0;32744;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MobileMedia_Ibraim;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia_Ibraim;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia_LeonardoVasconcelos;48;0;0;32720;1.000;1.000;1.000
+PART;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+ZeroR;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia_LeonardoVasconcelos;0;0;48;32720;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+PART;Combinatorial[0];MobileMedia_Bruno;24;0;0;32744;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MobileMedia_Bruno;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia_Bruno;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+PART;Combinatorial[0];MobileMedia_MarinaMB;24;0;0;32744;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MobileMedia_MarinaMB;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia_MarinaMB;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media;24;0;0;32744;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Mobile Media;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile Media;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+PART;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;24;0;0;32744;1.000;1.000;1.000
+ZeroR;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];MobileMedia_CarlosEduardoPaulinoSilva;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile media v5;8;0;0;32760;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+OneR;Combinatorial[0];Mobile media v5;0;0;8;32760;NaN;0.000;NaN
+JRip;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+PART;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+ZeroR;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+OneR;Combinatorial[0];ACARLOS_car;0;0;72;32696;NaN;0.000;NaN
+JRip;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+PART;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+OneR;Combinatorial[0];Cars xpto;0;0;72;32696;NaN;0.000;NaN
+JRip;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+PART;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+ZeroR;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+OneR;Combinatorial[0];UPT TAM;0;0;40;32728;NaN;0.000;NaN
+JRip;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+PART;Combinatorial[0];Software-Product;256;0;0;32512;1.000;1.000;1.000
+ZeroR;Combinatorial[0];Software-Product;0;0;256;32512;NaN;0.000;NaN
+OneR;Combinatorial[0];Software-Product;0;0;256;32512;NaN;0.000;NaN
+JRip;Combinatorial[0];Pruebas Booleanas;8;0;16;32744;1.000;0.333;0.500
+PART;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];Pruebas Booleanas;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];e-commerce;196;0;17;32555;1.000;0.920;0.958
+PART;Combinatorial[0];e-commerce;71;1;142;32554;0.986;0.333;0.498
+ZeroR;Combinatorial[0];e-commerce;0;0;213;32555;NaN;0.000;NaN
+OneR;Combinatorial[0];e-commerce;0;0;213;32555;NaN;0.000;NaN
+JRip;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+PART;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+ZeroR;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+OneR;Combinatorial[0];testmodel1;0;0;18;32750;NaN;0.000;NaN
+JRip;Combinatorial[0];robot experiment;6;0;4;32758;1.000;0.600;0.750
+PART;Combinatorial[0];robot experiment;10;0;0;32758;1.000;1.000;1.000
+ZeroR;Combinatorial[0];robot experiment;0;0;10;32758;NaN;0.000;NaN
+OneR;Combinatorial[0];robot experiment;0;0;10;32758;NaN;0.000;NaN
+JRip;Combinatorial[0];Proceso Analisis;4;0;1;32763;1.000;0.800;0.889
+PART;Combinatorial[0];Proceso Analisis;2;0;3;32763;1.000;0.400;0.571
+ZeroR;Combinatorial[0];Proceso Analisis;0;0;5;32763;NaN;0.000;NaN
+OneR;Combinatorial[0];Proceso Analisis;0;0;5;32763;NaN;0.000;NaN
+JRip;Combinatorial[0];Metadata;502;48;9;32209;0.913;0.982;0.946
+PART;Combinatorial[0];Metadata;511;1;0;32256;0.998;1.000;0.999
+ZeroR;Combinatorial[0];Metadata;0;0;511;32257;NaN;0.000;NaN
+OneR;Combinatorial[0];Metadata;0;0;511;32257;NaN;0.000;NaN
+JRip;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+PART;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+OneR;Combinatorial[0];Urna eletronica Vinicius Cesar;0;0;6;32762;NaN;0.000;NaN
+JRip;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+PART;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+ZeroR;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+OneR;Combinatorial[0];markke core asset testing;0;0;24;32744;NaN;0.000;NaN
+JRip;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+PART;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+ZeroR;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+OneR;Combinatorial[0];Automóvil;0;0;48;32720;NaN;0.000;NaN
+JRip;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+PART;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+ZeroR;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+OneR;Combinatorial[0];CPS;0;0;72;32696;NaN;0.000;NaN
+JRip;Combinatorial[0];smart phone;73;2;43;32650;0.973;0.629;0.764
+PART;Combinatorial[0];smart phone;0;0;116;32652;NaN;0.000;NaN
+ZeroR;Combinatorial[0];smart phone;0;0;116;32652;NaN;0.000;NaN
+OneR;Combinatorial[0];smart phone;0;0;116;32652;NaN;0.000;NaN
+JRip;Combinatorial[0];Audio Player;0;0;12;32756;NaN;0.000;NaN
+PART;Combinatorial[0];Audio Player;4;0;8;32756;1.000;0.333;0.500
+ZeroR;Combinatorial[0];Audio Player;0;0;12;32756;NaN;0.000;NaN
+OneR;Combinatorial[0];Audio Player;0;0;12;32756;NaN;0.000;NaN
+JRip;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+PART;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+ZeroR;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN
+OneR;Combinatorial[0];SlotsForModules;0;0;6;32762;NaN;0.000;NaN

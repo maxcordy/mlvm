@@ -1,0 +1,58 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+Logistic;Combinatorial[0];E-portal;12;4;4;2028;0.750;0.750;0.750
+Logistic;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+Logistic;Combinatorial[0];Asghar;21;11;11;2005;0.656;0.656;0.656
+Logistic;Combinatorial[0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+Logistic;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+Logistic;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+Logistic;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+Logistic;Combinatorial[0];ordem;12;4;44;1988;0.750;0.214;0.333
+Logistic;Combinatorial[0];desordem;12;4;44;1988;0.750;0.214;0.333
+Logistic;Combinatorial[0];UPL;14;2;4;2028;0.875;0.778;0.824
+Logistic;Combinatorial[0];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+Logistic;Combinatorial[0];Loja Virtual;49;11;7;1981;0.817;0.875;0.845
+Logistic;Combinatorial[0];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+Logistic;Combinatorial[0];Ubuntu;0;0;12;2036;NaN;0.000;NaN
+Logistic;Combinatorial[0];Implementacion;0;0;7;2041;NaN;0.000;NaN
+Logistic;Combinatorial[0];Imolementacion II;3;1;0;2044;0.750;1.000;0.857
+Logistic;Combinatorial[0];Basic Car;15;8;1;2024;0.652;0.938;0.769
+Logistic;Combinatorial[0];CarExample;0;0;3;2045;NaN;0.000;NaN
+Logistic;Combinatorial[0];mo;52;12;8;1976;0.813;0.867;0.839
+Logistic;Combinatorial[0];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+Logistic;Combinatorial[0];JDFM;0;4;20;2024;0.000;0.000;NaN
+Logistic;Combinatorial[0];Analisis;3;2;3;2040;0.600;0.500;0.545
+Logistic;Combinatorial[0];Matrix chain multiplication;0;0;15;2033;NaN;0.000;NaN
+Logistic;Combinatorial[0];Observatorio;0;0;8;2040;NaN;0.000;NaN
+Logistic;Combinatorial[0];collapse_view_example;0;0;31;2017;NaN;0.000;NaN
+Logistic;Combinatorial[0];Match de foot;16;0;0;2032;1.000;1.000;1.000
+Logistic;Combinatorial[0];Xor Example;0;0;40;2008;NaN;0.000;NaN
+Logistic;Combinatorial[0];XOR NEW;56;8;32;1952;0.875;0.636;0.737
+Logistic;Combinatorial[0];Xor Example 2;24;0;48;1976;1.000;0.333;0.500
+Logistic;Combinatorial[0];Sylvain Example;3;1;7;2037;0.750;0.300;0.429
+Logistic;Combinatorial[0];ROOT;96;0;0;1952;1.000;1.000;1.000
+Logistic;Combinatorial[0];NovoSiga;0;4;20;2024;0.000;0.000;NaN
+Logistic;Combinatorial[0];asdsfa ewtwwe;6;4;6;2032;0.600;0.500;0.545
+Logistic;Combinatorial[0];Website;64;0;0;1984;1.000;1.000;1.000
+Logistic;Combinatorial[0];1;14;0;0;2034;1.000;1.000;1.000
+Logistic;Combinatorial[0];erewr;4;0;20;2024;1.000;0.167;0.286
+Logistic;Combinatorial[0];Webshop_SPLE2014_Chalmers;4;0;4;2040;1.000;0.500;0.667
+Logistic;Combinatorial[0];poker spl;9;5;12;2022;0.643;0.429;0.514
+Logistic;Combinatorial[0];r;0;0;84;1964;NaN;0.000;NaN
+Logistic;Combinatorial[0];E-shop;12;7;17;2012;0.632;0.414;0.500
+Logistic;Combinatorial[0];PC model;2;0;16;2030;1.000;0.111;0.200
+Logistic;Combinatorial[0];testing;255;0;0;1793;1.000;1.000;1.000
+Logistic;Combinatorial[0];ubuntu;6;6;12;2024;0.500;0.333;0.400
+Logistic;Combinatorial[0];Jogo;4;0;0;2044;1.000;1.000;1.000
+Logistic;Combinatorial[0];Assistente de Compras;0;0;24;2024;NaN;0.000;NaN
+Logistic;Combinatorial[0];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+Logistic;Combinatorial[0];Autosoft;40;40;72;1896;0.500;0.357;0.417
+Logistic;Combinatorial[0];Rotation1;6;0;4;2038;1.000;0.600;0.750
+Logistic;Combinatorial[0];SPL_e_commerce;0;0;56;1992;NaN;0.000;NaN
+Logistic;Combinatorial[0];ESCA Embeeded System;0;4;10;2034;0.000;0.000;NaN
+Logistic;Combinatorial[0];27-5-207 test;16;16;28;1988;0.500;0.364;0.421
+Logistic;Combinatorial[0];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+Logistic;Combinatorial[0];ZMUConcernExample;7;1;1;2039;0.875;0.875;0.875
+Logistic;Combinatorial[0];SimpleModel;0;4;24;2020;0.000;0.000;NaN
+Logistic;Combinatorial[0];Car;6;0;6;2036;1.000;0.500;0.667
+Logistic;Combinatorial[0];Weather Station;4;4;40;2000;0.500;0.091;0.154
+Logistic;Combinatorial[0];Cellphone;0;0;14;2034;NaN;0.000;NaN

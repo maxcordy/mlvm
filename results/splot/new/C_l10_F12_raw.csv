@@ -1,0 +1,91 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];IntelligentTutoringSystem;0;0;84;4012;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];IntelligentTutoringSystem;66;8;18;4004;0.892;0.786;0.835
+SVM_Puk[1.0, 0.1];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];IntelligentTutoringSystem;60;2410;24;1602;0.024;0.714;0.047
+IBk;Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+KStar;Combinatorial[0];IntelligentTutoringSystem;72;0;12;4012;1.000;0.857;0.923
+LWL;Combinatorial[0];IntelligentTutoringSystem;72;0;12;4012;1.000;0.857;0.923
+SVM_RBF[5.0];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+IBk;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+KStar;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+LWL;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Eshop-ufrj;44;0;4;4048;1.000;0.917;0.957
+SVM_Sigmoid[0.1];Combinatorial[0];Eshop-ufrj;0;0;48;4048;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Eshop-ufrj;0;0;48;4048;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Eshop-ufrj;0;2048;48;2000;0.000;0.000;NaN
+IBk;Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+KStar;Combinatorial[0];Eshop-ufrj;8;0;40;4048;1.000;0.167;0.286
+LWL;Combinatorial[0];Eshop-ufrj;8;0;40;4048;1.000;0.167;0.286
+SVM_RBF[5.0];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Doorlopende reisverzekering;0;0;64;4032;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Doorlopende reisverzekering;64;2656;0;1376;0.024;1.000;0.046
+IBk;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+KStar;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+LWL;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Dummy Car;0;2048;9;2039;0.000;0.000;NaN
+IBk;Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+KStar;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+LWL;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];WB2;0;0;200;3896;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];WB2;98;30;102;3866;0.766;0.490;0.598
+SVM_Puk[1.0, 0.1];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];WB2;128;2336;72;1560;0.052;0.640;0.096
+IBk;Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+KStar;Combinatorial[0];WB2;158;0;42;3896;1.000;0.790;0.883
+LWL;Combinatorial[0];WB2;158;0;42;3896;1.000;0.790;0.883
+SVM_RBF[5.0];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Text Editor;4;0;7;4085;1.000;0.364;0.533
+SVM_Sigmoid[0.1];Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Text Editor;0;2048;11;2037;0.000;0.000;NaN
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Adams Car;0;2048;28;2020;0.000;0.000;NaN
+IBk;Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+KStar;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+LWL;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];CCCMS;235;16;5;3840;0.936;0.979;0.957
+SVM_Linear;Combinatorial[0];CCCMS;240;16;0;3840;0.938;1.000;0.968
+SVM_Puk[1.0, 0.1];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];CCCMS;240;2060;0;1796;0.104;1.000;0.189
+IBk;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+KStar;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+LWL;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];mon model;0;2048;24;2024;0.000;0.000;NaN
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN

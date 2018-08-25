@@ -28,24 +28,33 @@ public class TestSplotModels {
 
         // limite le nombre de modeles ayant le meme nombre de features
         int limit = -1;
-        limit = 10;
+//        limit = 10;
 
         List<ClassifierFactory> classifiers = Arrays.asList(
-//                Classifiers.SVM_RBF(5),
 //                Classifiers.SVM_Poly(3, 2, 0.5),
 //                Classifiers.RandomForest(),
-//                Classifiers.SVM_Puk(1, 0.1),
 //                Classifiers.RandomCommittee(),
 //                Classifiers.REPTree(),
 //                Classifiers.LogisticModelTree(),
-//                Classifiers.MultilayerPerceptron(),
+//                Classifiers.LogisticRegression()
 //                Classifiers.J48(),
-                Classifiers.NaiveBayesUpdateable(),
-                Classifiers.HoeffdingTree(),
-                Classifiers.IBk(),
-                Classifiers.KStar(),
-                Classifiers.StochasticGradientDescend(),
-                Classifiers.LWL()
+//                Classifiers.NaiveBayesUpdateable(),
+//                Classifiers.StochasticGradientDescend()
+//
+//                Classifiers.SVM_RBF(5),
+//                Classifiers.SVM_RBF(2),
+//                Classifiers.SVM_Sigmoid(0.1),
+//                Classifiers.SVM_Linear(),
+//                Classifiers.SVM_Puk(1, 0.1),
+//                Classifiers.HoeffdingTree(),
+//                Classifiers.IBk(),
+//                Classifiers.KStar(),
+//                Classifiers.LWL()
+
+                Classifiers.JRip(),
+                Classifiers.PART()
+//                Classifiers.ZeroR(),
+//                Classifiers.OneR()
         );
         List<VariabilityModel> models = new ArrayList<>();
 
@@ -60,17 +69,20 @@ public class TestSplotModels {
         Results r = null;
         for (int features = 0; features <= 21; features++) {
             String filename, filename2;
+            String prefix = "new/E_";
+
+            filename = "F" + features;
+            filename2 = "Fto_" + features;
+
+
             if (limit >= 0) {
-                filename = "l" + limit + "_F" + features;
-                filename2 = "l" + limit + "_upToF" + features;
-            } else {
-                filename = "F" + features;
-                filename2 = "upToF" + features;
+                filename = "l" + limit + "_" + filename;
+                filename2 = "l" + limit + "_" + filename2;
             }
 
-            filename = "updatable_" + filename;
-            filename2 = "updatable_" + filename2;
 
+            filename = prefix + filename;
+            filename2 = prefix + filename2;
 
             int finalI = features;
             Stream<VariabilityModel> modelsStream = models.stream()

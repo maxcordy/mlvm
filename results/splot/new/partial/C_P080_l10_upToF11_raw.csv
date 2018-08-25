@@ -1,0 +1,301 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Random[0.8];SAL;9;0;3;1012;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];SAL;10;0;2;1012;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.8];SAL;10;0;2;1012;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.8];SAL;11;0;1;1012;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.8];SAL;9;0;3;1012;1.000;0.750;0.857
+Logistic;Random[0.8];SAL;0;0;12;1012;NaN;0.000;NaN
+Logistic;Random[0.8];SAL;0;0;12;1012;NaN;0.000;NaN
+Logistic;Random[0.8];SAL;0;1;12;1011;0.000;0.000;NaN
+Logistic;Random[0.8];SAL;1;1;11;1011;0.500;0.083;0.143
+Logistic;Random[0.8];SAL;0;0;12;1012;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Random[0.8];SAL;10;0;2;1012;1.000;0.833;0.909
+SVM_Puk[1.0, 0.1];Random[0.8];SAL;11;0;1;1012;1.000;0.917;0.957
+SVM_Puk[1.0, 0.1];Random[0.8];SAL;12;0;0;1012;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];SAL;10;0;2;1012;1.000;0.833;0.909
+SVM_Puk[1.0, 0.1];Random[0.8];SAL;10;0;2;1012;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.8];Mobile Game;104;0;31;889;1.000;0.770;0.870
+SVM_RBF[5.0];Random[0.8];Mobile Game;99;0;36;889;1.000;0.733;0.846
+SVM_RBF[5.0];Random[0.8];Mobile Game;103;0;32;889;1.000;0.763;0.866
+SVM_RBF[5.0];Random[0.8];Mobile Game;105;0;30;889;1.000;0.778;0.875
+SVM_RBF[5.0];Random[0.8];Mobile Game;117;0;18;889;1.000;0.867;0.929
+Logistic;Random[0.8];Mobile Game;114;25;21;864;0.820;0.844;0.832
+Logistic;Random[0.8];Mobile Game;118;27;17;862;0.814;0.874;0.843
+Logistic;Random[0.8];Mobile Game;114;27;21;862;0.809;0.844;0.826
+Logistic;Random[0.8];Mobile Game;117;25;18;864;0.824;0.867;0.845
+Logistic;Random[0.8];Mobile Game;119;26;16;863;0.821;0.881;0.850
+SVM_Puk[1.0, 0.1];Random[0.8];Mobile Game;113;0;22;889;1.000;0.837;0.911
+SVM_Puk[1.0, 0.1];Random[0.8];Mobile Game;107;0;28;889;1.000;0.793;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];Mobile Game;102;0;33;889;1.000;0.756;0.861
+SVM_Puk[1.0, 0.1];Random[0.8];Mobile Game;110;0;25;889;1.000;0.815;0.898
+SVM_Puk[1.0, 0.1];Random[0.8];Mobile Game;110;0;25;889;1.000;0.815;0.898
+SVM_RBF[5.0];Random[0.8];VODPlayer;41;0;7;976;1.000;0.854;0.921
+SVM_RBF[5.0];Random[0.8];VODPlayer;44;0;4;976;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.8];VODPlayer;35;0;13;976;1.000;0.729;0.843
+SVM_RBF[5.0];Random[0.8];VODPlayer;39;0;9;976;1.000;0.813;0.897
+SVM_RBF[5.0];Random[0.8];VODPlayer;38;0;10;976;1.000;0.792;0.884
+Logistic;Random[0.8];VODPlayer;13;16;35;960;0.448;0.271;0.338
+Logistic;Random[0.8];VODPlayer;23;16;25;960;0.590;0.479;0.529
+Logistic;Random[0.8];VODPlayer;33;16;15;960;0.673;0.688;0.680
+Logistic;Random[0.8];VODPlayer;24;16;24;960;0.600;0.500;0.545
+Logistic;Random[0.8];VODPlayer;14;16;34;960;0.467;0.292;0.359
+SVM_Puk[1.0, 0.1];Random[0.8];VODPlayer;38;0;10;976;1.000;0.792;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];VODPlayer;39;0;9;976;1.000;0.813;0.897
+SVM_Puk[1.0, 0.1];Random[0.8];VODPlayer;39;0;9;976;1.000;0.813;0.897
+SVM_Puk[1.0, 0.1];Random[0.8];VODPlayer;40;0;8;976;1.000;0.833;0.909
+SVM_Puk[1.0, 0.1];Random[0.8];VODPlayer;39;0;9;976;1.000;0.813;0.897
+SVM_RBF[5.0];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+Logistic;Random[0.8];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+Logistic;Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+Logistic;Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+Logistic;Random[0.8];CIMS PL;1;2;0;1021;0.333;1.000;0.500
+Logistic;Random[0.8];CIMS PL;1;2;0;1021;0.333;1.000;0.500
+SVM_Puk[1.0, 0.1];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];AvionFEatures;11;0;1;1012;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.8];AvionFEatures;9;0;3;1012;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];AvionFEatures;11;0;1;1012;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.8];AvionFEatures;10;0;2;1012;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.8];AvionFEatures;8;0;4;1012;1.000;0.667;0.800
+Logistic;Random[0.8];AvionFEatures;4;2;8;1010;0.667;0.333;0.444
+Logistic;Random[0.8];AvionFEatures;6;3;6;1009;0.667;0.500;0.571
+Logistic;Random[0.8];AvionFEatures;8;4;4;1008;0.667;0.667;0.667
+Logistic;Random[0.8];AvionFEatures;6;2;6;1010;0.750;0.500;0.600
+Logistic;Random[0.8];AvionFEatures;6;2;6;1010;0.750;0.500;0.600
+SVM_Puk[1.0, 0.1];Random[0.8];AvionFEatures;12;0;0;1012;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];AvionFEatures;10;0;2;1012;1.000;0.833;0.909
+SVM_Puk[1.0, 0.1];Random[0.8];AvionFEatures;11;0;1;1012;1.000;0.917;0.957
+SVM_Puk[1.0, 0.1];Random[0.8];AvionFEatures;8;0;4;1012;1.000;0.667;0.800
+SVM_Puk[1.0, 0.1];Random[0.8];AvionFEatures;11;0;1;1012;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.8];Phone sple;22;0;5;997;1.000;0.815;0.898
+SVM_RBF[5.0];Random[0.8];Phone sple;23;0;4;997;1.000;0.852;0.920
+SVM_RBF[5.0];Random[0.8];Phone sple;24;0;3;997;1.000;0.889;0.941
+SVM_RBF[5.0];Random[0.8];Phone sple;18;0;9;997;1.000;0.667;0.800
+SVM_RBF[5.0];Random[0.8];Phone sple;20;0;7;997;1.000;0.741;0.851
+Logistic;Random[0.8];Phone sple;3;0;24;997;1.000;0.111;0.200
+Logistic;Random[0.8];Phone sple;0;0;27;997;NaN;0.000;NaN
+Logistic;Random[0.8];Phone sple;2;0;25;997;1.000;0.074;0.138
+Logistic;Random[0.8];Phone sple;2;2;25;995;0.500;0.074;0.129
+Logistic;Random[0.8];Phone sple;5;0;22;997;1.000;0.185;0.313
+SVM_Puk[1.0, 0.1];Random[0.8];Phone sple;20;0;7;997;1.000;0.741;0.851
+SVM_Puk[1.0, 0.1];Random[0.8];Phone sple;24;0;3;997;1.000;0.889;0.941
+SVM_Puk[1.0, 0.1];Random[0.8];Phone sple;19;0;8;997;1.000;0.704;0.826
+SVM_Puk[1.0, 0.1];Random[0.8];Phone sple;21;0;6;997;1.000;0.778;0.875
+SVM_Puk[1.0, 0.1];Random[0.8];Phone sple;24;0;3;997;1.000;0.889;0.941
+SVM_RBF[5.0];Random[0.8];Phone;32;0;14;978;1.000;0.696;0.821
+SVM_RBF[5.0];Random[0.8];Phone;41;0;5;978;1.000;0.891;0.943
+SVM_RBF[5.0];Random[0.8];Phone;33;0;13;978;1.000;0.717;0.835
+SVM_RBF[5.0];Random[0.8];Phone;35;0;11;978;1.000;0.761;0.864
+SVM_RBF[5.0];Random[0.8];Phone;41;0;5;978;1.000;0.891;0.943
+Logistic;Random[0.8];Phone;40;9;6;969;0.816;0.870;0.842
+Logistic;Random[0.8];Phone;37;7;9;971;0.841;0.804;0.822
+Logistic;Random[0.8];Phone;36;6;10;972;0.857;0.783;0.818
+Logistic;Random[0.8];Phone;36;6;10;972;0.857;0.783;0.818
+Logistic;Random[0.8];Phone;35;6;11;972;0.854;0.761;0.805
+SVM_Puk[1.0, 0.1];Random[0.8];Phone;37;0;9;978;1.000;0.804;0.892
+SVM_Puk[1.0, 0.1];Random[0.8];Phone;34;0;12;978;1.000;0.739;0.850
+SVM_Puk[1.0, 0.1];Random[0.8];Phone;34;0;12;978;1.000;0.739;0.850
+SVM_Puk[1.0, 0.1];Random[0.8];Phone;40;0;6;978;1.000;0.870;0.930
+SVM_Puk[1.0, 0.1];Random[0.8];Phone;40;0;6;978;1.000;0.870;0.930
+SVM_RBF[5.0];Random[0.8];Ökonomische Merkmale;20;0;4;1000;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.8];Ökonomische Merkmale;18;0;6;1000;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];Ökonomische Merkmale;22;0;2;1000;1.000;0.917;0.957
+SVM_RBF[5.0];Random[0.8];Ökonomische Merkmale;21;0;3;1000;1.000;0.875;0.933
+SVM_RBF[5.0];Random[0.8];Ökonomische Merkmale;21;0;3;1000;1.000;0.875;0.933
+Logistic;Random[0.8];Ökonomische Merkmale;21;3;3;997;0.875;0.875;0.875
+Logistic;Random[0.8];Ökonomische Merkmale;22;7;2;993;0.759;0.917;0.830
+Logistic;Random[0.8];Ökonomische Merkmale;21;3;3;997;0.875;0.875;0.875
+Logistic;Random[0.8];Ökonomische Merkmale;21;3;3;997;0.875;0.875;0.875
+Logistic;Random[0.8];Ökonomische Merkmale;21;3;3;997;0.875;0.875;0.875
+SVM_Puk[1.0, 0.1];Random[0.8];Ökonomische Merkmale;20;0;4;1000;1.000;0.833;0.909
+SVM_Puk[1.0, 0.1];Random[0.8];Ökonomische Merkmale;14;0;10;1000;1.000;0.583;0.737
+SVM_Puk[1.0, 0.1];Random[0.8];Ökonomische Merkmale;20;0;4;1000;1.000;0.833;0.909
+SVM_Puk[1.0, 0.1];Random[0.8];Ökonomische Merkmale;19;0;5;1000;1.000;0.792;0.884
+SVM_Puk[1.0, 0.1];Random[0.8];Ökonomische Merkmale;17;0;7;1000;1.000;0.708;0.829
+SVM_RBF[5.0];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];carpl;1;0;1;1022;1.000;0.500;0.667
+SVM_RBF[5.0];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+Logistic;Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+Logistic;Random[0.8];carpl;2;1;0;1021;0.667;1.000;0.800
+Logistic;Random[0.8];carpl;2;2;0;1020;0.500;1.000;0.667
+Logistic;Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+Logistic;Random[0.8];carpl;2;2;0;1020;0.500;1.000;0.667
+SVM_Puk[1.0, 0.1];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];carpl;1;0;1;1022;1.000;0.500;0.667
+SVM_Puk[1.0, 0.1];Random[0.8];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];MyFM;16;0;3;1005;1.000;0.842;0.914
+SVM_RBF[5.0];Random[0.8];MyFM;16;0;3;1005;1.000;0.842;0.914
+SVM_RBF[5.0];Random[0.8];MyFM;14;0;5;1005;1.000;0.737;0.848
+SVM_RBF[5.0];Random[0.8];MyFM;17;0;2;1005;1.000;0.895;0.944
+SVM_RBF[5.0];Random[0.8];MyFM;12;0;7;1005;1.000;0.632;0.774
+Logistic;Random[0.8];MyFM;0;5;19;1000;0.000;0.000;NaN
+Logistic;Random[0.8];MyFM;0;7;19;998;0.000;0.000;NaN
+Logistic;Random[0.8];MyFM;0;2;19;1003;0.000;0.000;NaN
+Logistic;Random[0.8];MyFM;0;4;19;1001;0.000;0.000;NaN
+Logistic;Random[0.8];MyFM;0;2;19;1003;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Random[0.8];MyFM;13;0;6;1005;1.000;0.684;0.813
+SVM_Puk[1.0, 0.1];Random[0.8];MyFM;18;0;1;1005;1.000;0.947;0.973
+SVM_Puk[1.0, 0.1];Random[0.8];MyFM;17;0;2;1005;1.000;0.895;0.944
+SVM_Puk[1.0, 0.1];Random[0.8];MyFM;17;0;2;1005;1.000;0.895;0.944
+SVM_Puk[1.0, 0.1];Random[0.8];MyFM;15;0;4;1005;1.000;0.789;0.882
+SVM_RBF[5.0];Random[0.8];E-portal;13;0;3;2032;1.000;0.813;0.897
+SVM_RBF[5.0];Random[0.8];E-portal;10;0;6;2032;1.000;0.625;0.769
+SVM_RBF[5.0];Random[0.8];E-portal;12;0;4;2032;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];E-portal;12;0;4;2032;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];E-portal;12;0;4;2032;1.000;0.750;0.857
+Logistic;Random[0.8];E-portal;11;1;5;2031;0.917;0.688;0.786
+Logistic;Random[0.8];E-portal;12;4;4;2028;0.750;0.750;0.750
+Logistic;Random[0.8];E-portal;12;2;4;2030;0.857;0.750;0.800
+Logistic;Random[0.8];E-portal;12;4;4;2028;0.750;0.750;0.750
+Logistic;Random[0.8];E-portal;12;4;4;2028;0.750;0.750;0.750
+SVM_Puk[1.0, 0.1];Random[0.8];E-portal;13;0;3;2032;1.000;0.813;0.897
+SVM_Puk[1.0, 0.1];Random[0.8];E-portal;14;0;2;2032;1.000;0.875;0.933
+SVM_Puk[1.0, 0.1];Random[0.8];E-portal;15;0;1;2032;1.000;0.938;0.968
+SVM_Puk[1.0, 0.1];Random[0.8];E-portal;13;0;3;2032;1.000;0.813;0.897
+SVM_Puk[1.0, 0.1];Random[0.8];E-portal;12;0;4;2032;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];VOD feature model;27;0;5;2016;1.000;0.844;0.915
+SVM_RBF[5.0];Random[0.8];VOD feature model;20;0;12;2016;1.000;0.625;0.769
+SVM_RBF[5.0];Random[0.8];VOD feature model;27;0;5;2016;1.000;0.844;0.915
+SVM_RBF[5.0];Random[0.8];VOD feature model;23;0;9;2016;1.000;0.719;0.836
+SVM_RBF[5.0];Random[0.8];VOD feature model;27;0;5;2016;1.000;0.844;0.915
+Logistic;Random[0.8];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+Logistic;Random[0.8];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+Logistic;Random[0.8];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+Logistic;Random[0.8];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+Logistic;Random[0.8];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];VOD feature model;26;0;6;2016;1.000;0.813;0.897
+SVM_Puk[1.0, 0.1];Random[0.8];VOD feature model;27;0;5;2016;1.000;0.844;0.915
+SVM_Puk[1.0, 0.1];Random[0.8];VOD feature model;24;0;8;2016;1.000;0.750;0.857
+SVM_Puk[1.0, 0.1];Random[0.8];VOD feature model;28;0;4;2016;1.000;0.875;0.933
+SVM_Puk[1.0, 0.1];Random[0.8];VOD feature model;21;0;11;2016;1.000;0.656;0.792
+SVM_RBF[5.0];Random[0.8];Asghar;24;0;8;2016;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];Asghar;27;0;5;2016;1.000;0.844;0.915
+SVM_RBF[5.0];Random[0.8];Asghar;24;0;8;2016;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];Asghar;27;0;5;2016;1.000;0.844;0.915
+SVM_RBF[5.0];Random[0.8];Asghar;25;0;7;2016;1.000;0.781;0.877
+Logistic;Random[0.8];Asghar;21;11;11;2005;0.656;0.656;0.656
+Logistic;Random[0.8];Asghar;20;10;12;2006;0.667;0.625;0.645
+Logistic;Random[0.8];Asghar;20;10;12;2006;0.667;0.625;0.645
+Logistic;Random[0.8];Asghar;12;9;20;2007;0.571;0.375;0.453
+Logistic;Random[0.8];Asghar;20;7;12;2009;0.741;0.625;0.678
+SVM_Puk[1.0, 0.1];Random[0.8];Asghar;30;0;2;2016;1.000;0.938;0.968
+SVM_Puk[1.0, 0.1];Random[0.8];Asghar;23;0;9;2016;1.000;0.719;0.836
+SVM_Puk[1.0, 0.1];Random[0.8];Asghar;24;0;8;2016;1.000;0.750;0.857
+SVM_Puk[1.0, 0.1];Random[0.8];Asghar;22;0;10;2016;1.000;0.688;0.815
+SVM_Puk[1.0, 0.1];Random[0.8];Asghar;21;0;11;2016;1.000;0.656;0.792
+SVM_RBF[5.0];Random[0.8];MyFeatureModel;25;0;10;2013;1.000;0.714;0.833
+SVM_RBF[5.0];Random[0.8];MyFeatureModel;31;0;4;2013;1.000;0.886;0.939
+SVM_RBF[5.0];Random[0.8];MyFeatureModel;27;0;8;2013;1.000;0.771;0.871
+SVM_RBF[5.0];Random[0.8];MyFeatureModel;29;0;6;2013;1.000;0.829;0.906
+SVM_RBF[5.0];Random[0.8];MyFeatureModel;27;0;8;2013;1.000;0.771;0.871
+Logistic;Random[0.8];MyFeatureModel;0;1;35;2012;0.000;0.000;NaN
+Logistic;Random[0.8];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+Logistic;Random[0.8];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+Logistic;Random[0.8];MyFeatureModel;0;1;35;2012;0.000;0.000;NaN
+Logistic;Random[0.8];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Random[0.8];MyFeatureModel;30;0;5;2013;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.8];MyFeatureModel;31;0;4;2013;1.000;0.886;0.939
+SVM_Puk[1.0, 0.1];Random[0.8];MyFeatureModel;23;0;12;2013;1.000;0.657;0.793
+SVM_Puk[1.0, 0.1];Random[0.8];MyFeatureModel;30;0;5;2013;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.8];MyFeatureModel;27;0;8;2013;1.000;0.771;0.871
+SVM_RBF[5.0];Random[0.8];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];SmartHome_vConejero_r1;1;0;1;2046;1.000;0.500;0.667
+SVM_RBF[5.0];Random[0.8];SmartHome_vConejero_r1;1;0;1;2046;1.000;0.500;0.667
+SVM_RBF[5.0];Random[0.8];SmartHome_vConejero_r1;1;0;1;2046;1.000;0.500;0.667
+Logistic;Random[0.8];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+Logistic;Random[0.8];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+Logistic;Random[0.8];SmartHome_vConejero_r1;1;2;1;2044;0.333;0.500;0.400
+Logistic;Random[0.8];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+Logistic;Random[0.8];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];SmartHome_vConejero_r1;1;0;1;2046;1.000;0.500;0.667
+SVM_Puk[1.0, 0.1];Random[0.8];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];SmartHome_vConejero_r1;1;0;1;2046;1.000;0.500;0.667
+SVM_Puk[1.0, 0.1];Random[0.8];SmartHome_vConejero_r1;1;0;1;2046;1.000;0.500;0.667
+SVM_RBF[5.0];Random[0.8];ETRobocon;95;0;25;1928;1.000;0.792;0.884
+SVM_RBF[5.0];Random[0.8];ETRobocon;99;0;21;1928;1.000;0.825;0.904
+SVM_RBF[5.0];Random[0.8];ETRobocon;98;0;22;1928;1.000;0.817;0.899
+SVM_RBF[5.0];Random[0.8];ETRobocon;90;0;30;1928;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];ETRobocon;92;0;28;1928;1.000;0.767;0.868
+Logistic;Random[0.8];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+Logistic;Random[0.8];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+Logistic;Random[0.8];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+Logistic;Random[0.8];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+Logistic;Random[0.8];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];ETRobocon;97;0;23;1928;1.000;0.808;0.894
+SVM_Puk[1.0, 0.1];Random[0.8];ETRobocon;91;0;29;1928;1.000;0.758;0.863
+SVM_Puk[1.0, 0.1];Random[0.8];ETRobocon;98;0;22;1928;1.000;0.817;0.899
+SVM_Puk[1.0, 0.1];Random[0.8];ETRobocon;99;0;21;1928;1.000;0.825;0.904
+SVM_Puk[1.0, 0.1];Random[0.8];ETRobocon;99;0;21;1928;1.000;0.825;0.904
+SVM_RBF[5.0];Random[0.8];Test;6;0;1;2041;1.000;0.857;0.923
+SVM_RBF[5.0];Random[0.8];Test;3;0;4;2041;1.000;0.429;0.600
+SVM_RBF[5.0];Random[0.8];Test;5;0;2;2041;1.000;0.714;0.833
+SVM_RBF[5.0];Random[0.8];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];Test;6;0;1;2041;1.000;0.857;0.923
+Logistic;Random[0.8];Test;0;0;7;2041;NaN;0.000;NaN
+Logistic;Random[0.8];Test;0;3;7;2038;0.000;0.000;NaN
+Logistic;Random[0.8];Test;0;0;7;2041;NaN;0.000;NaN
+Logistic;Random[0.8];Test;0;0;7;2041;NaN;0.000;NaN
+Logistic;Random[0.8];Test;0;1;7;2040;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Random[0.8];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.8];Test;5;0;2;2041;1.000;0.714;0.833
+SVM_Puk[1.0, 0.1];Random[0.8];Test;5;0;2;2041;1.000;0.714;0.833
+SVM_Puk[1.0, 0.1];Random[0.8];Test;5;0;2;2041;1.000;0.714;0.833
+SVM_Puk[1.0, 0.1];Random[0.8];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.8];ordem;48;0;8;1992;1.000;0.857;0.923
+SVM_RBF[5.0];Random[0.8];ordem;38;0;18;1992;1.000;0.679;0.809
+SVM_RBF[5.0];Random[0.8];ordem;45;0;11;1992;1.000;0.804;0.891
+SVM_RBF[5.0];Random[0.8];ordem;41;0;15;1992;1.000;0.732;0.845
+SVM_RBF[5.0];Random[0.8];ordem;50;0;6;1992;1.000;0.893;0.943
+Logistic;Random[0.8];ordem;12;2;44;1990;0.857;0.214;0.343
+Logistic;Random[0.8];ordem;12;0;44;1992;1.000;0.214;0.353
+Logistic;Random[0.8];ordem;11;1;45;1991;0.917;0.196;0.324
+Logistic;Random[0.8];ordem;12;3;44;1989;0.800;0.214;0.338
+Logistic;Random[0.8];ordem;12;4;44;1988;0.750;0.214;0.333
+SVM_Puk[1.0, 0.1];Random[0.8];ordem;48;0;8;1992;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.8];ordem;48;0;8;1992;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.8];ordem;49;0;7;1992;1.000;0.875;0.933
+SVM_Puk[1.0, 0.1];Random[0.8];ordem;42;0;14;1992;1.000;0.750;0.857
+SVM_Puk[1.0, 0.1];Random[0.8];ordem;43;0;13;1992;1.000;0.768;0.869
+SVM_RBF[5.0];Random[0.8];desordem;41;0;15;1992;1.000;0.732;0.845
+SVM_RBF[5.0];Random[0.8];desordem;41;0;15;1992;1.000;0.732;0.845
+SVM_RBF[5.0];Random[0.8];desordem;45;0;11;1992;1.000;0.804;0.891
+SVM_RBF[5.0];Random[0.8];desordem;42;0;14;1992;1.000;0.750;0.857
+SVM_RBF[5.0];Random[0.8];desordem;50;0;6;1992;1.000;0.893;0.943
+Logistic;Random[0.8];desordem;12;4;44;1988;0.750;0.214;0.333
+Logistic;Random[0.8];desordem;12;0;44;1992;1.000;0.214;0.353
+Logistic;Random[0.8];desordem;12;2;44;1990;0.857;0.214;0.343
+Logistic;Random[0.8];desordem;12;1;44;1991;0.923;0.214;0.348
+Logistic;Random[0.8];desordem;12;4;44;1988;0.750;0.214;0.333
+SVM_Puk[1.0, 0.1];Random[0.8];desordem;42;0;14;1992;1.000;0.750;0.857
+SVM_Puk[1.0, 0.1];Random[0.8];desordem;48;0;8;1992;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.8];desordem;45;0;11;1992;1.000;0.804;0.891
+SVM_Puk[1.0, 0.1];Random[0.8];desordem;44;0;12;1992;1.000;0.786;0.880
+SVM_Puk[1.0, 0.1];Random[0.8];desordem;41;0;15;1992;1.000;0.732;0.845
+SVM_RBF[5.0];Random[0.8];UPL;15;0;3;2030;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.8];UPL;15;0;3;2030;1.000;0.833;0.909
+SVM_RBF[5.0];Random[0.8];UPL;13;0;5;2030;1.000;0.722;0.839
+SVM_RBF[5.0];Random[0.8];UPL;14;0;4;2030;1.000;0.778;0.875
+SVM_RBF[5.0];Random[0.8];UPL;14;0;4;2030;1.000;0.778;0.875
+Logistic;Random[0.8];UPL;14;2;4;2028;0.875;0.778;0.824
+Logistic;Random[0.8];UPL;14;2;4;2028;0.875;0.778;0.824
+Logistic;Random[0.8];UPL;12;4;6;2026;0.750;0.667;0.706
+Logistic;Random[0.8];UPL;14;2;4;2028;0.875;0.778;0.824
+Logistic;Random[0.8];UPL;14;2;4;2028;0.875;0.778;0.824
+SVM_Puk[1.0, 0.1];Random[0.8];UPL;16;0;2;2030;1.000;0.889;0.941
+SVM_Puk[1.0, 0.1];Random[0.8];UPL;15;0;3;2030;1.000;0.833;0.909
+SVM_Puk[1.0, 0.1];Random[0.8];UPL;14;0;4;2030;1.000;0.778;0.875
+SVM_Puk[1.0, 0.1];Random[0.8];UPL;11;0;7;2030;1.000;0.611;0.759
+SVM_Puk[1.0, 0.1];Random[0.8];UPL;12;0;6;2030;1.000;0.667;0.800

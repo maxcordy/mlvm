@@ -1,0 +1,28 @@
+model;features;tree_constraints;cross_constraints;valid;invalid
+Connector PL;20;18;0;18;1048558
+EC2;20;15;0;32;1048544
+Context Feature Model;20;12;0;4800;1043776
+Mobile Phone;20;14;1;162;1048414
+Stacja Pogodowa;20;13;0;448;1048128
+Card Product;20;11;0;640;1047936
+Respaldo de base de datos (Poda);20;20;0;2;1048574
+Monitor Engine;20;19;0;4;1048572
+Scheduler;20;15;0;60;1048516
+Jogo de Engenharia de Software;20;11;2;896;1047680
+MKT;20;16;1;160;1048416
+historioa clinica;20;15;0;48;1048528
+poratfolios1;20;11;1;896;1047680
+Equation_LO;20;11;1;66;1048510
+ReallyConsistentQuestion;20;23;0;4;1048572
+COBI;20;14;0;992;1047584
+Lampiro;20;2;14;2048;1046528
+Dynamic Software Product Lines for Service-Based Systems;20;16;6;18;1048558
+ConferenceContext;20;14;0;2496;1046080
+Cloud Storage Software;20;14;0;102;1048474
+Online shopping software;20;18;7;11;1048565
+urna1_Padia;20;17;0;6;1048570
+urna2_Padia;20;17;4;6;1048570
+PawelRobo;20;16;3;32;1048544
+Connecterra design;20;8;0;4096;1044480
+bib1;20;15;0;147;1048429
+smartAppConcernTest;20;12;1;124;1048452

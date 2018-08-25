@@ -1,0 +1,155 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+JRip;Combinatorial[0];SAL;4;4;8;1008;0.500;0.333;0.400
+PART;Combinatorial[0];SAL;4;4;8;1008;0.500;0.333;0.400
+JRip;Combinatorial[0];Mobile Game;135;9;0;880;0.938;1.000;0.968
+PART;Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+JRip;Combinatorial[0];VODPlayer;48;32;0;944;0.600;1.000;0.750
+PART;Combinatorial[0];VODPlayer;48;32;0;944;0.600;1.000;0.750
+JRip;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+PART;Combinatorial[0];CIMS PL;1;1;0;1022;0.500;1.000;0.667
+JRip;Combinatorial[0];AvionFEatures;12;8;0;1004;0.600;1.000;0.750
+PART;Combinatorial[0];AvionFEatures;12;6;0;1006;0.667;1.000;0.800
+JRip;Combinatorial[0];Phone sple;27;3;0;994;0.900;1.000;0.947
+PART;Combinatorial[0];Phone sple;27;5;0;992;0.844;1.000;0.915
+JRip;Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+PART;Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+JRip;Combinatorial[0];Ökonomische Merkmale;24;5;0;995;0.828;1.000;0.906
+PART;Combinatorial[0];Ökonomische Merkmale;24;6;0;994;0.800;1.000;0.889
+JRip;Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+PART;Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+JRip;Combinatorial[0];MyFM;12;12;7;993;0.500;0.632;0.558
+PART;Combinatorial[0];MyFM;19;1;0;1004;0.950;1.000;0.974
+JRip;Combinatorial[0];rtrt;20;0;0;1004;1.000;1.000;1.000
+PART;Combinatorial[0];rtrt;20;0;0;1004;1.000;1.000;1.000
+JRip;Combinatorial[0];FeatureModel1;16;0;0;1008;1.000;1.000;1.000
+PART;Combinatorial[0];FeatureModel1;16;0;0;1008;1.000;1.000;1.000
+JRip;Combinatorial[0];Example Mobile Phone;10;6;4;1004;0.625;0.714;0.667
+PART;Combinatorial[0];Example Mobile Phone;14;0;0;1010;1.000;1.000;1.000
+JRip;Combinatorial[0];testISA2012;10;6;4;1004;0.625;0.714;0.667
+PART;Combinatorial[0];testISA2012;14;0;0;1010;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile-Phone;10;6;4;1004;0.625;0.714;0.667
+PART;Combinatorial[0];Mobile-Phone;14;0;0;1010;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile phone (lenita);10;6;4;1004;0.625;0.714;0.667
+PART;Combinatorial[0];Mobile phone (lenita);14;0;0;1010;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone GF;14;12;0;998;0.538;1.000;0.700
+PART;Combinatorial[0];Mobile Phone GF;14;4;0;1006;0.778;1.000;0.875
+JRip;Combinatorial[0];Example Product Line Course Using SPLOT;10;6;4;1004;0.625;0.714;0.667
+PART;Combinatorial[0];Example Product Line Course Using SPLOT;14;0;0;1010;1.000;1.000;1.000
+JRip;Combinatorial[0];Guad gmocht!;20;4;0;1000;0.833;1.000;0.909
+PART;Combinatorial[0];Guad gmocht!;20;0;0;1004;1.000;1.000;1.000
+JRip;Combinatorial[0];MobileMedia;28;4;0;992;0.875;1.000;0.933
+PART;Combinatorial[0];MobileMedia;28;0;0;996;1.000;1.000;1.000
+JRip;Combinatorial[0];Simnumero;6;2;2;1014;0.750;0.750;0.750
+PART;Combinatorial[0];Simnumero;8;1;0;1015;0.889;1.000;0.941
+JRip;Combinatorial[0];isolation;3;1;0;1020;0.750;1.000;0.857
+PART;Combinatorial[0];isolation;3;1;0;1020;0.750;1.000;0.857
+JRip;Combinatorial[0];AllSports Feature Model;24;5;0;995;0.828;1.000;0.906
+PART;Combinatorial[0];AllSports Feature Model;24;6;0;994;0.800;1.000;0.889
+JRip;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+PART;Combinatorial[0];Bicis_Feature_Model;6;6;0;1012;0.500;1.000;0.667
+JRip;Combinatorial[0];MobileMedia;30;20;0;974;0.600;1.000;0.750
+PART;Combinatorial[0];MobileMedia;30;20;0;974;0.600;1.000;0.750
+JRip;Combinatorial[0];WebApp;160;0;0;864;1.000;1.000;1.000
+PART;Combinatorial[0];WebApp;160;0;0;864;1.000;1.000;1.000
+JRip;Combinatorial[0];abcdefg;6;4;0;1014;0.600;1.000;0.750
+PART;Combinatorial[0];abcdefg;6;4;0;1014;0.600;1.000;0.750
+JRip;Combinatorial[0];Disenio;2;0;2;1020;1.000;0.500;0.667
+PART;Combinatorial[0];Disenio;4;2;0;1018;0.667;1.000;0.800
+JRip;Combinatorial[0];sasgd;20;0;0;1004;1.000;1.000;1.000
+PART;Combinatorial[0];sasgd;20;0;0;1004;1.000;1.000;1.000
+JRip;Combinatorial[0];anlisis II;28;8;0;988;0.778;1.000;0.875
+PART;Combinatorial[0];anlisis II;28;8;0;988;0.778;1.000;0.875
+JRip;Combinatorial[0];disenio II;30;4;0;990;0.882;1.000;0.938
+PART;Combinatorial[0];disenio II;30;0;0;994;1.000;1.000;1.000
+JRip;Combinatorial[0];AA;15;4;1;1004;0.789;0.938;0.857
+PART;Combinatorial[0];AA;16;0;0;1008;1.000;1.000;1.000
+JRip;Combinatorial[0];Modelo;2;0;2;1020;1.000;0.500;0.667
+PART;Combinatorial[0];Modelo;0;0;4;1020;NaN;0.000;NaN
+JRip;Combinatorial[0];TEST_NAme;36;0;0;988;1.000;1.000;1.000
+PART;Combinatorial[0];TEST_NAme;36;0;0;988;1.000;1.000;1.000
+JRip;Combinatorial[0];Test;12;12;4;996;0.500;0.750;0.600
+PART;Combinatorial[0];Test;12;8;4;1000;0.600;0.750;0.667
+JRip;Combinatorial[0];UPT_RM_MOBILE;8;8;6;1002;0.500;0.571;0.533
+PART;Combinatorial[0];UPT_RM_MOBILE;14;1;0;1009;0.933;1.000;0.966
+JRip;Combinatorial[0];acarlos_trab2_mobile;12;6;2;1004;0.667;0.857;0.750
+PART;Combinatorial[0];acarlos_trab2_mobile;14;1;0;1009;0.933;1.000;0.966
+JRip;Combinatorial[0];Prontuário Eletrônico de Pacientes;10;0;0;1014;1.000;1.000;1.000
+PART;Combinatorial[0];Prontuário Eletrônico de Pacientes;10;0;0;1014;1.000;1.000;1.000
+JRip;Combinatorial[0];test gv;32;0;0;992;1.000;1.000;1.000
+PART;Combinatorial[0];test gv;32;0;0;992;1.000;1.000;1.000
+JRip;Combinatorial[0];Dental Surgery;2;0;0;1022;1.000;1.000;1.000
+PART;Combinatorial[0];Dental Surgery;2;0;0;1022;1.000;1.000;1.000
+JRip;Combinatorial[0];Cell-Phone-SPL-2014-without;36;0;12;976;1.000;0.750;0.857
+PART;Combinatorial[0];Cell-Phone-SPL-2014-without;48;48;0;928;0.500;1.000;0.667
+JRip;Combinatorial[0];Computer Selection;2;0;0;1022;1.000;1.000;1.000
+PART;Combinatorial[0];Computer Selection;2;0;0;1022;1.000;1.000;1.000
+JRip;Combinatorial[0];Rotary_Element;12;8;0;1004;0.600;1.000;0.750
+PART;Combinatorial[0];Rotary_Element;12;8;0;1004;0.600;1.000;0.750
+JRip;Combinatorial[0];E-Shop, magister2014;18;14;0;992;0.563;1.000;0.720
+PART;Combinatorial[0];E-Shop, magister2014;18;18;0;988;0.500;1.000;0.667
+JRip;Combinatorial[0];eshop;9;1;0;1014;0.900;1.000;0.947
+PART;Combinatorial[0];eshop;9;1;0;1014;0.900;1.000;0.947
+JRip;Combinatorial[0];Nudelsalat;12;8;0;1004;0.600;1.000;0.750
+PART;Combinatorial[0];Nudelsalat;12;0;0;1012;1.000;1.000;1.000
+JRip;Combinatorial[0];MK Andes;4;0;0;1020;1.000;1.000;1.000
+PART;Combinatorial[0];MK Andes;4;0;0;1020;1.000;1.000;1.000
+JRip;Combinatorial[0];SPL Studies;62;2;0;960;0.969;1.000;0.984
+PART;Combinatorial[0];SPL Studies;62;62;0;900;0.500;1.000;0.667
+JRip;Combinatorial[0];Telefono;0;0;7;1017;NaN;0.000;NaN
+PART;Combinatorial[0];Telefono;6;3;1;1014;0.667;0.857;0.750
+JRip;Combinatorial[0];Mobile Phone;8;0;6;1010;1.000;0.571;0.727
+PART;Combinatorial[0];Mobile Phone;14;12;0;998;0.538;1.000;0.700
+JRip;Combinatorial[0];jjjjj;18;4;0;1002;0.818;1.000;0.900
+PART;Combinatorial[0];jjjjj;18;12;0;994;0.600;1.000;0.750
+JRip;Combinatorial[0];celular;8;8;3;1005;0.500;0.727;0.593
+PART;Combinatorial[0];celular;11;5;0;1008;0.688;1.000;0.815
+JRip;Combinatorial[0];Bandymas;18;0;0;1006;1.000;1.000;1.000
+PART;Combinatorial[0];Bandymas;18;0;0;1006;1.000;1.000;1.000
+JRip;Combinatorial[0];test 3;32;6;0;986;0.842;1.000;0.914
+PART;Combinatorial[0];test 3;24;12;8;980;0.667;0.750;0.706
+JRip;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+PART;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+JRip;Combinatorial[0];Feature Tree Example;8;0;0;1016;1.000;1.000;1.000
+PART;Combinatorial[0];Feature Tree Example;8;8;0;1008;0.500;1.000;0.667
+JRip;Combinatorial[0];Sample;32;32;0;960;0.500;1.000;0.667
+PART;Combinatorial[0];Sample;32;32;0;960;0.500;1.000;0.667
+JRip;Combinatorial[0];Mobile Tourist Planner;0;0;28;996;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Tourist Planner;28;28;0;968;0.500;1.000;0.667
+JRip;Combinatorial[0];votacao eletronica;7;1;0;1016;0.875;1.000;0.933
+PART;Combinatorial[0];votacao eletronica;7;1;0;1016;0.875;1.000;0.933
+JRip;Combinatorial[0];Car;24;24;0;976;0.500;1.000;0.667
+PART;Combinatorial[0];Car;24;24;0;976;0.500;1.000;0.667
+JRip;Combinatorial[0];Mobile Phone;8;8;6;1002;0.500;0.571;0.533
+PART;Combinatorial[0];Mobile Phone;14;1;0;1009;0.933;1.000;0.966
+JRip;Combinatorial[0];Test1;8;0;0;1016;1.000;1.000;1.000
+PART;Combinatorial[0];Test1;0;0;8;1016;NaN;0.000;NaN
+JRip;Combinatorial[0];Maquina de Cae;36;24;0;964;0.600;1.000;0.750
+PART;Combinatorial[0];Maquina de Cae;36;0;0;988;1.000;1.000;1.000
+JRip;Combinatorial[0];Autosoft;122;0;0;902;1.000;1.000;1.000
+PART;Combinatorial[0];Autosoft;122;0;0;902;1.000;1.000;1.000
+JRip;Combinatorial[0];Minimalistic PC Feature Model;4;0;0;1020;1.000;1.000;1.000
+PART;Combinatorial[0];Minimalistic PC Feature Model;0;0;4;1020;NaN;0.000;NaN
+JRip;Combinatorial[0];Match engine;16;0;0;1008;1.000;1.000;1.000
+PART;Combinatorial[0];Match engine;16;0;0;1008;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone UPT;12;6;2;1004;0.667;0.857;0.750
+PART;Combinatorial[0];Mobile Phone UPT;14;1;0;1009;0.933;1.000;0.966
+JRip;Combinatorial[0];Mobile Phone UPT - 18413;12;6;2;1004;0.667;0.857;0.750
+PART;Combinatorial[0];Mobile Phone UPT - 18413;14;1;0;1009;0.933;1.000;0.966
+JRip;Combinatorial[0];Manuel;8;4;1;1011;0.667;0.889;0.762
+PART;Combinatorial[0];Manuel;9;1;0;1014;0.900;1.000;0.947
+JRip;Combinatorial[0];Telefonia Celular;34;3;2;985;0.919;0.944;0.932
+PART;Combinatorial[0];Telefonia Celular;36;18;0;970;0.667;1.000;0.800
+JRip;Combinatorial[0];E-SHOP;8;6;0;1010;0.571;1.000;0.727
+PART;Combinatorial[0];E-SHOP;8;0;0;1016;1.000;1.000;1.000
+JRip;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+PART;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+JRip;Combinatorial[0];Hello World;35;5;0;984;0.875;1.000;0.933
+PART;Combinatorial[0];Hello World;35;29;0;960;0.547;1.000;0.707
+JRip;Combinatorial[0];hhhhhhh;4;4;0;1016;0.500;1.000;0.667
+PART;Combinatorial[0];hhhhhhh;4;4;0;1016;0.500;1.000;0.667
+JRip;Combinatorial[0];drupal sawsen;8;0;0;1016;1.000;1.000;1.000
+PART;Combinatorial[0];drupal sawsen;8;0;0;1016;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile phone;8;4;2;1010;0.667;0.800;0.727
+PART;Combinatorial[0];Mobile phone;10;6;0;1008;0.625;1.000;0.769
+JRip;Combinatorial[0];mobile phone;25;19;1;979;0.568;0.962;0.714
+PART;Combinatorial[0];mobile phone;25;0;1;998;1.000;0.962;0.980

@@ -29,7 +29,7 @@ public class TestSplotModelsPartial_10per10 {
 
         // limite le nombre de modeles ayant le meme nombre de features
         int limit = -1;
-        limit = 10;
+//        int limit = 10;
 
         List<ClassifierFactory> classifiers = Arrays.asList(
 //                Classifiers.MultilayerPerceptron("a"),
@@ -40,15 +40,17 @@ public class TestSplotModelsPartial_10per10 {
 //                Classifiers.MultilayerPerceptron("a,4")
 
 
-                Classifiers.SVM_RBF(5),
-                Classifiers.SVM_Poly(3, 2, 0.5),
-                Classifiers.RandomForest(),
-                Classifiers.SVM_Puk(1, 0.1),
-                Classifiers.RandomCommittee(),
-                Classifiers.REPTree(),
-                Classifiers.LogisticModelTree(),
-                Classifiers.MultilayerPerceptron(),
-                Classifiers.J48()
+//                Classifiers.SVM_RBF(5),
+//                Classifiers.LogisticRegression(),
+//                Classifiers.SVM_Poly(3, 2, 0.5),
+//                Classifiers.RandomForest(),
+//                Classifiers.SVM_Puk(1, 0.1)
+//                Classifiers.RandomCommittee()
+//                Classifiers.REPTree()
+//                Classifiers.LogisticModelTree(),
+//                Classifiers.MultilayerPerceptron(),
+//                Classifiers.J48()
+
 
 //                Classifiers.NaiveBayesUpdateable(),
 //                Classifiers.HoeffdingTree(),
@@ -67,8 +69,8 @@ public class TestSplotModelsPartial_10per10 {
         System.out.println("Loaded " + models.size() + " models");
 
         Results r[] = new Results[10];
-        for (int features = 0; features <= 21; features++)
-            for (int partial = 1; partial < 10; partial++) {
+        for (int partial = 1; partial < 10; partial +=10)
+            for (int features = 0; features <= 14; features++) {
 
 
                 String filename = "F" + features;
@@ -77,16 +79,17 @@ public class TestSplotModelsPartial_10per10 {
                     filename = "l" + limit + "_" + filename;
                     filename2 = "l" + limit + "_" + filename2;
                 }
-                filename = String.format("partial/P%03d_%s", 100 - partial * 10, filename);
-                filename2 = String.format("partial/P%03d_%s", 100 - partial * 10, filename2);
+                filename = String.format("new/partial/D_P%03d_%s", 100 - partial * 10, filename);
+                filename2 = String.format("new/partial/D_P%03d_%s", 100 - partial * 10, filename2);
 
-                List<SampleGenerator> generators = Arrays.asList(
-                        new RandomSampleGenerator((10 - partial) * 0.1, true),
-                        new RandomSampleGenerator((10 - partial) * 0.1, true),
-                        new RandomSampleGenerator((10 - partial) * 0.1, true),
-                        new RandomSampleGenerator((10 - partial) * 0.1, true),
-                        new RandomSampleGenerator((10 - partial) * 0.1, true)
-                );
+                List<SampleGenerator> generators = partial == 0 ?
+                        Collections.singletonList(new CombinatorialSampleGenerator()) :
+                        Arrays.asList(
+                                new RandomSampleGenerator((10 - partial) * 0.1, true),
+                                new RandomSampleGenerator((10 - partial) * 0.1, true),
+                                new RandomSampleGenerator((10 - partial) * 0.1, true),
+                                new RandomSampleGenerator((10 - partial) * 0.1, true),
+                                new RandomSampleGenerator((10 - partial) * 0.1, true));
 
 
                 int finalI = features;

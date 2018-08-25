@@ -1,0 +1,35 @@
+model;parameters;numeric;samples;similarity;validity;name
+test/test.scad;2;2;400;0.009070295;0.809750297;test
+11204/116205.scad;2;2;400;0.009070295;0.951248514;Gordian knot 3D puzzle
+37525/115642.scad;1;1;20;0.095238095;0.414634146;Blizzard of Unique Snowflakes 
+46093/125706.scad;1;1;20;0.095238095;0.853658537;Customizable Sphere
+47966/129130.scad;2;2;400;0.009070295;0.90725327;Stamp Handle
+48622/130320.scad;1;0;20;1;0.95;[Parametric] Pyramids
+49838/189693.scad;3;2;800;0.009070295;0.99940547;Dog Leash Hook with Breed Selector
+58022/148934.scad;3;0;48;1;0.833333333;Openstock Classics
+59894/151773.scad;2;2;400;0.009070295;0.763376932;customizable sphere
+74150/174961.scad;2;2;400;0.009070295;0.412604043;Holesphere
+111850/234362.scad;1;1;20;0.095238095;0.780487805;Hopper Upgrade Extension
+183667/345364.scad;3;0;8;1;0.875;Curtain rails as cable/wire ducts
+245478/455319.scad;2;1;40;0.095238095;0.951219512;parametric dice
+342061/606198.scad;2;2;400;0.009070295;0.857312723;Parametric pipe end cap 
+344172/601303.scad;3;2;1200;0.009070295;0.999207293;Customizer Example for Class
+355060/617282.scad;2;1;120;0.095238095;0.991869919;Minecraft Tools 
+462433/771096.scad;2;2;400;0.009070295;0.997621879;Customizeable Wide Cuff Bracelet
+507736/852239.scad;3;1;240;0.095238095;0.916666667;Customizable snow man
+536486/876673.scad;2;0;676;1;0.99704142;Two Letter Sculpture
+736090/1184452.scad;3;2;1600;0.009070295;0.997621879;Customizable Reuleaux Polygon
+852938/1354435.scad;3;2;800;0.009070295;0.99940547;Mirror clip
+886477/1402314.scad;2;2;400;0.009070295;0.998810939;Customizable Captive Sphere
+894903/1419547.scad;2;1;40;0.095238095;0.975609756;Endstop limit switch board for i3PRO and others
+978990/1830826.scad;6;0;128;1;0.75;Case for Raspberry Pi model B+ and 2 B
+1001445/1580745.scad;3;3;8000;8.64E-04;0.137883089;connector for combining multiple Ikea Melltorp tables
+1098217/1730033.scad;3;0;8;1;0.875;Three Eyed Monster
+1179942/1943104.scad;2;2;400;0.009070295;0.997621879;Five Point 1st Layer Print Test for Square Bed
+1212389/1893914.scad;3;1;320;0.095238095;0.951219512;Minecraft tools: bow+arrow, bow, shovel, axe
+1250755/1949486.scad;2;1;60;0.095238095;0.658536585;Openscad Parametric Flying Wing Test ---NACA Airfoil
+1525669/2362681.scad;6;0;128;1;0.75;Raspberrypi 3 / 3B+ case
+1570351/2431873.scad;2;2;400;0.009070295;0.997621879;Half donut
+1646494/2551779.scad;2;2;400;9.07E-03;0.978596908;MaKey MaKey Holder
+1657673/2572088.scad;3;2;1200;0.009070295;0.975029727;BLTouch mounting adapter for remixed Micromake effector
+1894053/2960460.scad;4;0;352;1;0.909090909;Customizable Ammo and bullets

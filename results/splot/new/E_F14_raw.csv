@@ -1,0 +1,99 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+JRip;Combinatorial[0];Car PL;88;56;0;16240;0.611;1.000;0.759
+PART;Combinatorial[0];Car PL;88;44;0;16252;0.667;1.000;0.800
+JRip;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+PART;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+JRip;Combinatorial[0];WB;640;32;0;15712;0.952;1.000;0.976
+PART;Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+JRip;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+PART;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+JRip;Combinatorial[0];Carro Model;12;12;18;16342;0.500;0.400;0.444
+PART;Combinatorial[0];Carro Model;18;18;12;16336;0.500;0.600;0.545
+JRip;Combinatorial[0];CTOS MODEL;18;12;0;16354;0.600;1.000;0.750
+PART;Combinatorial[0];CTOS MODEL;18;12;0;16354;0.600;1.000;0.750
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];ELPS - ISE;448;0;14;15922;1.000;0.970;0.985
+PART;Combinatorial[0];ELPS - ISE;462;462;0;15460;0.500;1.000;0.667
+JRip;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+PART;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;144;56;0;16184;0.720;1.000;0.837
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;96;72;48;16168;0.571;0.667;0.615
+JRip;Combinatorial[0];Car demo;48;0;0;16336;1.000;1.000;1.000
+PART;Combinatorial[0];Car demo;48;48;0;16288;0.500;1.000;0.667
+JRip;Combinatorial[0];Simple Drawing Tools;1905;15;0;14464;0.992;1.000;0.996
+PART;Combinatorial[0];Simple Drawing Tools;1905;0;0;14479;1.000;1.000;1.000
+JRip;Combinatorial[0];pruebapalabras;68;10;4;16302;0.872;0.944;0.907
+PART;Combinatorial[0];pruebapalabras;72;48;0;16264;0.600;1.000;0.750
+JRip;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+JRip;Combinatorial[0];JhotDrawn;1027;9;1;15347;0.991;0.999;0.995
+PART;Combinatorial[0];JhotDrawn;1028;546;0;14810;0.653;1.000;0.790
+JRip;Combinatorial[0];Mobile Media;6;6;0;16372;0.500;1.000;0.667
+PART;Combinatorial[0];Mobile Media;6;6;0;16372;0.500;1.000;0.667
+JRip;Combinatorial[0];User Model;144;6;0;16234;0.960;1.000;0.980
+PART;Combinatorial[0];User Model;144;36;0;16204;0.800;1.000;0.889
+JRip;Combinatorial[0];Buzzard Radio play DB;448;0;0;15936;1.000;1.000;1.000
+PART;Combinatorial[0];Buzzard Radio play DB;448;0;0;15936;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone Software;52;24;0;16308;0.684;1.000;0.813
+PART;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Celular;96;36;0;16252;0.727;1.000;0.842
+PART;Combinatorial[0];Celular;96;0;0;16288;1.000;1.000;1.000
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;1;1;0;16382;0.500;1.000;0.667
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+PART;Combinatorial[0];AGORA;120;60;0;16204;0.667;1.000;0.800
+JRip;Combinatorial[0];SHIFT QAs;16;8;8;16352;0.667;0.667;0.667
+PART;Combinatorial[0];SHIFT QAs;12;12;12;16348;0.500;0.500;0.500
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+JRip;Combinatorial[0];Scenario Application;37;17;19;16311;0.685;0.661;0.673
+PART;Combinatorial[0];Scenario Application;28;28;28;16300;0.500;0.500;0.500
+JRip;Combinatorial[0];Simplified Smart Hotel;232;128;0;16024;0.644;1.000;0.784
+PART;Combinatorial[0];Simplified Smart Hotel;232;64;0;16088;0.784;1.000;0.879
+JRip;Combinatorial[0];Content Store;37;17;19;16311;0.685;0.661;0.673
+PART;Combinatorial[0];Content Store;28;28;28;16300;0.500;0.500;0.500
+JRip;Combinatorial[0];Urna Gleidson;9;7;0;16368;0.563;1.000;0.720
+PART;Combinatorial[0];Urna Gleidson;9;1;0;16374;0.900;1.000;0.947
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;24;16;0;16344;0.600;1.000;0.750
+PART;Combinatorial[0];LeSE - Learning Software Engineering;24;24;0;16336;0.500;1.000;0.667
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);16;16;0;16352;0.500;1.000;0.667
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Clinica Medica;11;7;1;16365;0.611;0.917;0.733
+PART;Combinatorial[0];Clinica Medica;12;6;0;16366;0.667;1.000;0.800
+JRip;Combinatorial[0];Celulares;404;0;0;15980;1.000;1.000;1.000
+PART;Combinatorial[0];Celulares;404;192;0;15788;0.678;1.000;0.808
+JRip;Combinatorial[0];video on demand;32;16;0;16336;0.667;1.000;0.800
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+JRip;Combinatorial[0];Pizza;98;30;98;16158;0.766;0.500;0.605
+PART;Combinatorial[0];Pizza;196;0;0;16188;1.000;1.000;1.000
+JRip;Combinatorial[0];SA;172;28;4;16180;0.860;0.977;0.915
+PART;Combinatorial[0];SA;176;88;0;16120;0.667;1.000;0.800
+JRip;Combinatorial[0];Smartwatch;64;0;0;16320;1.000;1.000;1.000
+PART;Combinatorial[0];Smartwatch;64;0;0;16320;1.000;1.000;1.000
+JRip;Combinatorial[0];TVSmart;10;6;0;16368;0.625;1.000;0.769
+PART;Combinatorial[0];TVSmart;10;4;0;16370;0.714;1.000;0.833
+JRip;Combinatorial[0];catalogo;6;6;0;16372;0.500;1.000;0.667
+PART;Combinatorial[0];catalogo;6;6;0;16372;0.500;1.000;0.667
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;1;1;0;16382;0.500;1.000;0.667
+JRip;Combinatorial[0];Virtual_Office_of_the_Future;48;48;0;16288;0.500;1.000;0.667
+PART;Combinatorial[0];Virtual_Office_of_the_Future;48;48;0;16288;0.500;1.000;0.667
+JRip;Combinatorial[0];Search_Engine_PL;126;30;0;16228;0.808;1.000;0.894
+PART;Combinatorial[0];Search_Engine_PL;126;72;0;16186;0.636;1.000;0.778
+JRip;Combinatorial[0];JPlug;72;36;8;16268;0.667;0.900;0.766
+PART;Combinatorial[0];JPlug;40;40;40;16264;0.500;0.500;0.500
+JRip;Combinatorial[0];James;68;2;0;16314;0.971;1.000;0.986
+PART;Combinatorial[0];James;68;68;0;16248;0.500;1.000;0.667

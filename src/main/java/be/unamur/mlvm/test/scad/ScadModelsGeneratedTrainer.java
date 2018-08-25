@@ -33,7 +33,7 @@ public class ScadModelsGeneratedTrainer {
     private static final int RANGE_PARTITION = 20;
     private static final int RANGE_PARTITION1 = 21;
 
-    private static final String OUTPUT_NAME = "test_SCAD";
+    private static final String OUTPUT_NAME = "test_SCAD_all_2";
 
 
     public static void main(String[] args) throws IOException, FeatureModelException {
@@ -48,29 +48,17 @@ public class ScadModelsGeneratedTrainer {
 
         System.out.println("Loaded models: " + models.size());
         models.removeIf(x -> estimateDomainSize(x, RANGE_PARTITION) >= 2000000);
-        System.out.println("Loaded models: " + models.size());
-        models.removeIf(x -> !isModelComplete(x, sampleGenerator1));
-        models.removeIf(x -> !isModelComplete(x, sampleGenerator2));
+        System.out.println("Loaded models 2: " + models.size());
 
-        System.out.println("Remaining models: " + models.size());
+        models.removeIf(x -> !isModelCached(x, sampleGenerator1, sampleGenerator2));
+        System.out.println("Cached models: " + models.size());
 
+//        models.removeIf(x -> !isModelComplete(x, sampleGenerator1, sampleGenerator2));
+//        System.out.println("Remaining models: " + models.size());
+//System.exit(0);
 
         List<ClassifierFactory> classifiers = Arrays.asList(
-                Classifiers.SVM_RBF(5),
-                Classifiers.SVM_Poly(3, 2, 0.5),
-                Classifiers.SVM_Poly(3, 2, 7),
-                Classifiers.SVM_Poly(7, 2, 0),
-                Classifiers.RandomForest(),
-                Classifiers.SVM_Puk(1, 0.1),
-                Classifiers.RandomCommittee(),
-//                Classifiers.REPTree(),
-//                Classifiers.LogisticModelTree(),
-                Classifiers.StochasticGradientDescend(),
-                Classifiers.NaiveBayes(),
-                Classifiers.HoeffdingTree(),
-                Classifiers.LogisticRegression(),
-                Classifiers.MultilayerPerceptron(),
-                Classifiers.J48()
+                Classifiers.SVM_RBF(5)
         );
 
 
@@ -106,19 +94,43 @@ public class ScadModelsGeneratedTrainer {
         try (PrintStream out = new PrintStream("./results/" + OUTPUT_NAME + "_stats.csv")) {
             results.displayStats(out);
         }
-        try (PrintStream out = new PrintStream("./results/" + OUTPUT_NAME + "_cross.csv")) {
-            results.displayScoreVsConstraints(out);
-        }
         try (PrintStream out = new PrintStream("./results/" + OUTPUT_NAME + "_raw.csv")) {
             results.displayRawResults(out);
         }
     }
 
-    private static boolean isModelComplete(VariabilityModel model, CombinatorialSampleGenerator c) {
+    static boolean isModelComplete(VariabilityModel model, CombinatorialSampleGenerator c1, CombinatorialSampleGenerator c2) {
+        ScadConfigurationEvaluator ev = new ScadConfigurationEvaluator(OPENSCAD_PATH, SLIC3R_PATH, SCAD_FILES_ROOT.resolve(model.getName()), model, -1);
+
+            boolean has[] = new boolean[2];
+            c1.generateSamples(model, x -> {
+                has[ev.isValid(x) ? 0 : 1] = true;
+            });
+            c2.generateSamples(model, x -> {
+                has[ev.isValid(x) ? 0 : 1] = true;
+            });
+            return has[0] && has[1];
+    }
+
+    static double getCachedProportion(VariabilityModel model, CombinatorialSampleGenerator c) {
+        ScadConfigurationEvaluator ev = new ScadConfigurationEvaluator(OPENSCAD_PATH, SLIC3R_PATH, SCAD_FILES_ROOT.resolve(model.getName()), model, -1);
+        int counts[] = new int[2];
+        c.generateSamples(model, x -> {
+            if (ev.isCached(x))counts[0]++;
+            counts[1]++;
+        });
+        return counts[0] * 1.0 / counts[1];
+    }
+
+    static boolean isModelCached(VariabilityModel model, CombinatorialSampleGenerator c1, CombinatorialSampleGenerator c2) {
         ScadConfigurationEvaluator ev = new ScadConfigurationEvaluator(OPENSCAD_PATH, SLIC3R_PATH, SCAD_FILES_ROOT.resolve(model.getName()), model, -1);
 
         try {
-            c.generateSamples(model, x -> {
+            c1.generateSamples(model, x -> {
+                if (!ev.isCached(x))
+                    throw new RuntimeException("BREAK");
+            });
+            c2.generateSamples(model, x -> {
                 if (!ev.isCached(x))
                     throw new RuntimeException("BREAK");
             });

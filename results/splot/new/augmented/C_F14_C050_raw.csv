@@ -1,0 +1,925 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;0;20;16354;1.000;0.333;0.500
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;0;20;16354;1.000;0.333;0.500
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+JRip;Combinatorial[0];Carro Model;10;2;20;16352;0.833;0.333;0.476
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+PART;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];CTOS MODEL;6;6;12;16360;0.500;0.333;0.400
+Logistic;Combinatorial[0];CTOS MODEL;6;6;12;16360;0.500;0.333;0.400
+Logistic;Combinatorial[0];CTOS MODEL;6;0;12;16366;1.000;0.333;0.500
+Logistic;Combinatorial[0];CTOS MODEL;6;6;12;16360;0.500;0.333;0.400
+Logistic;Combinatorial[0];CTOS MODEL;6;0;12;16366;1.000;0.333;0.500
+Logistic;Combinatorial[0];CTOS MODEL;6;0;12;16366;1.000;0.333;0.500
+Logistic;Combinatorial[0];CTOS MODEL;6;6;12;16360;0.500;0.333;0.400
+Logistic;Combinatorial[0];CTOS MODEL;6;0;12;16366;1.000;0.333;0.500
+Logistic;Combinatorial[0];CTOS MODEL;6;6;12;16360;0.500;0.333;0.400
+Logistic;Combinatorial[0];CTOS MODEL;6;0;12;16366;1.000;0.333;0.500
+Logistic;Combinatorial[0];CTOS MODEL;6;6;12;16360;0.500;0.333;0.400
+JRip;Combinatorial[0];CTOS MODEL;14;4;4;16362;0.778;0.778;0.778
+JRip;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+JRip;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+JRip;Combinatorial[0];CTOS MODEL;14;4;4;16362;0.778;0.778;0.778
+JRip;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+JRip;Combinatorial[0];CTOS MODEL;14;4;4;16362;0.778;0.778;0.778
+JRip;Combinatorial[0];CTOS MODEL;14;4;4;16362;0.778;0.778;0.778
+JRip;Combinatorial[0];CTOS MODEL;14;4;4;16362;0.778;0.778;0.778
+JRip;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+JRip;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+JRip;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+PART;Combinatorial[0];CTOS MODEL;14;8;4;16358;0.636;0.778;0.700
+PART;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+PART;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+PART;Combinatorial[0];CTOS MODEL;14;8;4;16358;0.636;0.778;0.700
+PART;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+PART;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+PART;Combinatorial[0];CTOS MODEL;14;8;4;16358;0.636;0.778;0.700
+PART;Combinatorial[0];CTOS MODEL;14;8;4;16358;0.636;0.778;0.700
+PART;Combinatorial[0];CTOS MODEL;14;0;4;16366;1.000;0.778;0.875
+PART;Combinatorial[0];CTOS MODEL;14;8;4;16358;0.636;0.778;0.700
+PART;Combinatorial[0];CTOS MODEL;14;8;4;16358;0.636;0.778;0.700
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;12;144;16228;0.000;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;12;144;16228;0.000;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;12;144;16228;0.000;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;12;144;16228;0.000;0.000;NaN
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+JRip;Combinatorial[0];Linha de produtos - SimulES e PnP;63;0;81;16240;1.000;0.438;0.609
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;16;88;16224;0.778;0.389;0.519
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;16;88;16224;0.778;0.389;0.519
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;0;88;16240;1.000;0.389;0.560
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;0;88;16240;1.000;0.389;0.560
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;32;88;16208;0.636;0.389;0.483
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;16;88;16224;0.778;0.389;0.519
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;0;88;16240;1.000;0.389;0.560
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;32;88;16208;0.636;0.389;0.483
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;32;88;16208;0.636;0.389;0.483
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;0;88;16240;1.000;0.389;0.560
+PART;Combinatorial[0];Linha de produtos - SimulES e PnP;56;16;88;16224;0.778;0.389;0.519
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+JRip;Combinatorial[0];pruebapalabras;57;0;15;16312;1.000;0.792;0.884
+JRip;Combinatorial[0];pruebapalabras;57;7;15;16305;0.891;0.792;0.838
+JRip;Combinatorial[0];pruebapalabras;57;0;15;16312;1.000;0.792;0.884
+JRip;Combinatorial[0];pruebapalabras;57;0;15;16312;1.000;0.792;0.884
+JRip;Combinatorial[0];pruebapalabras;57;0;15;16312;1.000;0.792;0.884
+JRip;Combinatorial[0];pruebapalabras;57;0;15;16312;1.000;0.792;0.884
+JRip;Combinatorial[0];pruebapalabras;57;7;15;16305;0.891;0.792;0.838
+JRip;Combinatorial[0];pruebapalabras;57;7;15;16305;0.891;0.792;0.838
+JRip;Combinatorial[0];pruebapalabras;57;7;15;16305;0.891;0.792;0.838
+JRip;Combinatorial[0];pruebapalabras;57;0;15;16312;1.000;0.792;0.884
+JRip;Combinatorial[0];pruebapalabras;57;7;15;16305;0.891;0.792;0.838
+PART;Combinatorial[0];pruebapalabras;24;6;48;16306;0.800;0.333;0.471
+PART;Combinatorial[0];pruebapalabras;24;6;48;16306;0.800;0.333;0.471
+PART;Combinatorial[0];pruebapalabras;24;0;48;16312;1.000;0.333;0.500
+PART;Combinatorial[0];pruebapalabras;24;6;48;16306;0.800;0.333;0.471
+PART;Combinatorial[0];pruebapalabras;24;0;48;16312;1.000;0.333;0.500
+PART;Combinatorial[0];pruebapalabras;24;6;48;16306;0.800;0.333;0.471
+PART;Combinatorial[0];pruebapalabras;24;6;48;16306;0.800;0.333;0.471
+PART;Combinatorial[0];pruebapalabras;24;0;48;16312;1.000;0.333;0.500
+PART;Combinatorial[0];pruebapalabras;24;0;48;16312;1.000;0.333;0.500
+PART;Combinatorial[0];pruebapalabras;24;0;48;16312;1.000;0.333;0.500
+PART;Combinatorial[0];pruebapalabras;24;6;48;16306;0.800;0.333;0.471
+Logistic;Combinatorial[0];PhysEval;16;4;38;16326;0.800;0.296;0.432
+Logistic;Combinatorial[0];PhysEval;16;0;38;16330;1.000;0.296;0.457
+Logistic;Combinatorial[0];PhysEval;16;4;38;16326;0.800;0.296;0.432
+Logistic;Combinatorial[0];PhysEval;16;2;38;16328;0.889;0.296;0.444
+Logistic;Combinatorial[0];PhysEval;16;2;38;16328;0.889;0.296;0.444
+Logistic;Combinatorial[0];PhysEval;16;4;38;16326;0.800;0.296;0.432
+Logistic;Combinatorial[0];PhysEval;16;2;38;16328;0.889;0.296;0.444
+Logistic;Combinatorial[0];PhysEval;16;0;38;16330;1.000;0.296;0.457
+Logistic;Combinatorial[0];PhysEval;16;4;38;16326;0.800;0.296;0.432
+Logistic;Combinatorial[0];PhysEval;16;4;38;16326;0.800;0.296;0.432
+Logistic;Combinatorial[0];PhysEval;16;4;38;16326;0.800;0.296;0.432
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+JRip;Combinatorial[0];PhysEval;52;0;2;16330;1.000;0.963;0.981
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+PART;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Media JULIO;16;0;8;16360;1.000;0.667;0.800
+Logistic;Combinatorial[0];Mobile Media JULIO;16;4;8;16356;0.800;0.667;0.727
+Logistic;Combinatorial[0];Mobile Media JULIO;16;0;8;16360;1.000;0.667;0.800
+Logistic;Combinatorial[0];Mobile Media JULIO;16;0;8;16360;1.000;0.667;0.800
+Logistic;Combinatorial[0];Mobile Media JULIO;16;0;8;16360;1.000;0.667;0.800
+Logistic;Combinatorial[0];Mobile Media JULIO;16;4;8;16356;0.800;0.667;0.727
+Logistic;Combinatorial[0];Mobile Media JULIO;16;4;8;16356;0.800;0.667;0.727
+Logistic;Combinatorial[0];Mobile Media JULIO;16;4;8;16356;0.800;0.667;0.727
+Logistic;Combinatorial[0];Mobile Media JULIO;16;0;8;16360;1.000;0.667;0.800
+Logistic;Combinatorial[0];Mobile Media JULIO;16;0;8;16360;1.000;0.667;0.800
+Logistic;Combinatorial[0];Mobile Media JULIO;16;4;8;16356;0.800;0.667;0.727
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+JRip;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+PART;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+JRip;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+PART;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+JRip;Combinatorial[0];Mobile media v4;2;0;2;16380;1.000;0.500;0.667
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+PART;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Mobile Phone Software;20;0;32;16332;1.000;0.385;0.556
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Mobile Phone Software;20;0;32;16332;1.000;0.385;0.556
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Mobile Phone Software;20;0;32;16332;1.000;0.385;0.556
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+JRip;Combinatorial[0];Mobile Phone Software;20;4;32;16328;0.833;0.385;0.526
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;0;36;16332;1.000;0.308;0.471
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;8;36;16324;0.667;0.308;0.421
+PART;Combinatorial[0];Mobile Phone Software;16;0;36;16332;1.000;0.308;0.471
+PART;Combinatorial[0];Mobile Phone Software;16;0;36;16332;1.000;0.308;0.471
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Pip;0;0;1;16383;NaN;0.000;NaN
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;0;52;16264;1.000;0.567;0.723
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;0;52;16264;1.000;0.567;0.723
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+JRip;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+PART;Combinatorial[0];AGORA;60;0;60;16264;1.000;0.500;0.667
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+JRip;Combinatorial[0];SHIFT QAs;6;0;18;16360;1.000;0.250;0.400
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+JRip;Combinatorial[0];Smart-phone;8;0;0;16376;1.000;1.000;1.000
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+PART;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Urna Gleidson;9;1;0;16374;0.900;1.000;0.947
+Logistic;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+Logistic;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+Logistic;Combinatorial[0];Urna Gleidson;9;2;0;16373;0.818;1.000;0.900
+Logistic;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+Logistic;Combinatorial[0];Urna Gleidson;9;2;0;16373;0.818;1.000;0.900
+Logistic;Combinatorial[0];Urna Gleidson;9;1;0;16374;0.900;1.000;0.947
+Logistic;Combinatorial[0];Urna Gleidson;9;1;0;16374;0.900;1.000;0.947
+Logistic;Combinatorial[0];Urna Gleidson;9;2;0;16373;0.818;1.000;0.900
+Logistic;Combinatorial[0];Urna Gleidson;9;1;0;16374;0.900;1.000;0.947
+Logistic;Combinatorial[0];Urna Gleidson;9;2;0;16373;0.818;1.000;0.900
+JRip;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+JRip;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+JRip;Combinatorial[0];Urna Gleidson;9;3;0;16372;0.750;1.000;0.857
+JRip;Combinatorial[0];Urna Gleidson;9;3;0;16372;0.750;1.000;0.857
+JRip;Combinatorial[0];Urna Gleidson;9;3;0;16372;0.750;1.000;0.857
+JRip;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+JRip;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+JRip;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+JRip;Combinatorial[0];Urna Gleidson;9;3;0;16372;0.750;1.000;0.857
+JRip;Combinatorial[0];Urna Gleidson;9;3;0;16372;0.750;1.000;0.857
+JRip;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+PART;Combinatorial[0];Urna Gleidson;7;0;2;16375;1.000;0.778;0.875
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+JRip;Combinatorial[0];LeSE - Learning Software Engineering;4;0;20;16360;1.000;0.167;0.286
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+JRip;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+PART;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+JRip;Combinatorial[0];Clinica Medica;11;7;1;16365;0.611;0.917;0.733
+JRip;Combinatorial[0];Clinica Medica;11;3;1;16369;0.786;0.917;0.846
+JRip;Combinatorial[0];Clinica Medica;11;0;1;16372;1.000;0.917;0.957
+JRip;Combinatorial[0];Clinica Medica;11;3;1;16369;0.786;0.917;0.846
+JRip;Combinatorial[0];Clinica Medica;11;3;1;16369;0.786;0.917;0.846
+JRip;Combinatorial[0];Clinica Medica;11;0;1;16372;1.000;0.917;0.957
+JRip;Combinatorial[0];Clinica Medica;11;0;1;16372;1.000;0.917;0.957
+JRip;Combinatorial[0];Clinica Medica;11;7;1;16365;0.611;0.917;0.733
+JRip;Combinatorial[0];Clinica Medica;11;7;1;16365;0.611;0.917;0.733
+JRip;Combinatorial[0];Clinica Medica;11;3;1;16369;0.786;0.917;0.846
+JRip;Combinatorial[0];Clinica Medica;11;3;1;16369;0.786;0.917;0.846
+PART;Combinatorial[0];Clinica Medica;12;3;0;16369;0.800;1.000;0.889
+PART;Combinatorial[0];Clinica Medica;12;3;0;16369;0.800;1.000;0.889
+PART;Combinatorial[0];Clinica Medica;12;6;0;16366;0.667;1.000;0.800
+PART;Combinatorial[0];Clinica Medica;12;3;0;16369;0.800;1.000;0.889
+PART;Combinatorial[0];Clinica Medica;12;0;0;16372;1.000;1.000;1.000
+PART;Combinatorial[0];Clinica Medica;12;6;0;16366;0.667;1.000;0.800
+PART;Combinatorial[0];Clinica Medica;12;6;0;16366;0.667;1.000;0.800
+PART;Combinatorial[0];Clinica Medica;12;6;0;16366;0.667;1.000;0.800
+PART;Combinatorial[0];Clinica Medica;12;6;0;16366;0.667;1.000;0.800
+PART;Combinatorial[0];Clinica Medica;12;3;0;16369;0.800;1.000;0.889
+PART;Combinatorial[0];Clinica Medica;12;3;0;16369;0.800;1.000;0.889
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+JRip;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+PART;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+JRip;Combinatorial[0];TVSmart;4;0;6;16374;1.000;0.400;0.571
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+PART;Combinatorial[0];TVSmart;6;0;4;16374;1.000;0.600;0.750
+Logistic;Combinatorial[0];catalogo;2;0;4;16378;1.000;0.333;0.500
+Logistic;Combinatorial[0];catalogo;2;2;4;16376;0.500;0.333;0.400
+Logistic;Combinatorial[0];catalogo;2;2;4;16376;0.500;0.333;0.400
+Logistic;Combinatorial[0];catalogo;2;2;4;16376;0.500;0.333;0.400
+Logistic;Combinatorial[0];catalogo;2;0;4;16378;1.000;0.333;0.500
+Logistic;Combinatorial[0];catalogo;2;2;4;16376;0.500;0.333;0.400
+Logistic;Combinatorial[0];catalogo;2;0;4;16378;1.000;0.333;0.500
+Logistic;Combinatorial[0];catalogo;2;2;4;16376;0.500;0.333;0.400
+Logistic;Combinatorial[0];catalogo;2;0;4;16378;1.000;0.333;0.500
+Logistic;Combinatorial[0];catalogo;2;0;4;16378;1.000;0.333;0.500
+Logistic;Combinatorial[0];catalogo;2;2;4;16376;0.500;0.333;0.400
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+JRip;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+PART;Combinatorial[0];catalogo;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+JRip;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+PART;Combinatorial[0];Farnaz koohestani;0;0;1;16383;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+JRip;Combinatorial[0];JPlug;40;0;40;16304;1.000;0.500;0.667
+JRip;Combinatorial[0];JPlug;40;8;40;16296;0.833;0.500;0.625
+JRip;Combinatorial[0];JPlug;40;0;40;16304;1.000;0.500;0.667
+JRip;Combinatorial[0];JPlug;40;8;40;16296;0.833;0.500;0.625
+JRip;Combinatorial[0];JPlug;40;8;40;16296;0.833;0.500;0.625
+JRip;Combinatorial[0];JPlug;40;8;40;16296;0.833;0.500;0.625
+JRip;Combinatorial[0];JPlug;40;8;40;16296;0.833;0.500;0.625
+JRip;Combinatorial[0];JPlug;40;0;40;16304;1.000;0.500;0.667
+JRip;Combinatorial[0];JPlug;40;0;40;16304;1.000;0.500;0.667
+JRip;Combinatorial[0];JPlug;40;0;40;16304;1.000;0.500;0.667
+JRip;Combinatorial[0];JPlug;40;0;40;16304;1.000;0.500;0.667
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+PART;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];James;8;0;60;16316;1.000;0.118;0.211
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
+Logistic;Combinatorial[0];James;8;0;60;16316;1.000;0.118;0.211
+Logistic;Combinatorial[0];James;8;0;60;16316;1.000;0.118;0.211
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
+Logistic;Combinatorial[0];James;8;0;60;16316;1.000;0.118;0.211
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
+JRip;Combinatorial[0];James;68;6;0;16310;0.919;1.000;0.958
+JRip;Combinatorial[0];James;68;6;0;16310;0.919;1.000;0.958
+JRip;Combinatorial[0];James;68;6;0;16310;0.919;1.000;0.958
+JRip;Combinatorial[0];James;68;8;0;16308;0.895;1.000;0.944
+JRip;Combinatorial[0];James;68;16;0;16300;0.810;1.000;0.895
+JRip;Combinatorial[0];James;68;16;0;16300;0.810;1.000;0.895
+JRip;Combinatorial[0];James;68;16;0;16300;0.810;1.000;0.895
+JRip;Combinatorial[0];James;68;16;0;16300;0.810;1.000;0.895
+JRip;Combinatorial[0];James;68;6;0;16310;0.919;1.000;0.958
+JRip;Combinatorial[0];James;68;16;0;16300;0.810;1.000;0.895
+JRip;Combinatorial[0];James;68;8;0;16308;0.895;1.000;0.944
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN
+PART;Combinatorial[0];James;0;0;68;16316;NaN;0.000;NaN

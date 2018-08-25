@@ -1,0 +1,288 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+RandomCommittee;Combinatorial[0];SAL;4;4;8;1008;0.500;0.333;0.400
+RandomCommittee;Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];VODPlayer;48;16;0;960;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];AvionFEatures;12;0;0;1012;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Ökonomische Merkmale;24;0;0;1000;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MyFM;11;0;8;1005;1.000;0.579;0.733
+RandomCommittee;Combinatorial[0];rtrt;20;0;0;1004;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FeatureModel1;16;0;0;1008;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Example Mobile Phone;10;0;4;1010;1.000;0.714;0.833
+RandomCommittee;Combinatorial[0];testISA2012;10;0;4;1010;1.000;0.714;0.833
+RandomCommittee;Combinatorial[0];Mobile-Phone;10;0;4;1010;1.000;0.714;0.833
+RandomCommittee;Combinatorial[0];Mobile phone (lenita);10;0;4;1010;1.000;0.714;0.833
+RandomCommittee;Combinatorial[0];Mobile Phone GF;14;0;0;1010;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Example Product Line Course Using SPLOT;10;0;4;1010;1.000;0.714;0.833
+RandomCommittee;Combinatorial[0];Guad gmocht!;20;0;0;1004;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MobileMedia;28;0;0;996;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Simnumero;8;0;0;1016;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];isolation;3;0;0;1021;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];AllSports Feature Model;24;0;0;1000;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];MobileMedia;30;10;0;984;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];WebApp;160;0;0;864;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];abcdefg;6;2;0;1016;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Disenio;4;0;0;1020;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];sasgd;20;0;0;1004;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];anlisis II;28;0;0;996;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];disenio II;30;0;0;994;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];AA;16;0;0;1008;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Modelo;0;0;4;1020;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];TEST_NAme;36;0;0;988;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Test;16;0;0;1008;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];UPT_RM_MOBILE;12;0;2;1010;1.000;0.857;0.923
+RandomCommittee;Combinatorial[0];acarlos_trab2_mobile;14;0;0;1010;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Prontuário Eletrônico de Pacientes;10;0;0;1014;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];test gv;32;0;0;992;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Dental Surgery;2;0;0;1022;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Cell-Phone-SPL-2014-without;0;0;48;976;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Computer Selection;2;0;0;1022;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Rotary_Element;8;0;4;1012;1.000;0.667;0.800
+RandomCommittee;Combinatorial[0];E-Shop, magister2014;18;18;0;988;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];eshop;9;0;0;1015;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Nudelsalat;12;2;0;1010;0.857;1.000;0.923
+RandomCommittee;Combinatorial[0];MK Andes;4;0;0;1020;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SPL Studies;2;2;60;960;0.500;0.032;0.061
+RandomCommittee;Combinatorial[0];Telefono;3;0;4;1017;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Mobile Phone;14;0;0;1010;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];jjjjj;18;6;0;1000;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];celular;11;0;0;1013;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Bandymas;18;0;0;1006;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];test 3;32;0;0;992;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Feature Tree Example;8;0;0;1016;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sample;32;32;0;960;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Mobile Tourist Planner;28;28;0;968;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];votacao eletronica;7;0;0;1017;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Car;24;24;0;976;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Mobile Phone;12;0;2;1010;1.000;0.857;0.923
+RandomCommittee;Combinatorial[0];Test1;0;0;8;1016;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Maquina de Cae;36;12;0;976;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Autosoft;122;0;0;902;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Minimalistic PC Feature Model;0;0;4;1020;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Match engine;16;0;0;1008;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Phone UPT;14;0;0;1010;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Phone UPT - 18413;14;0;0;1010;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Manuel;9;0;0;1015;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Telefonia Celular;36;0;0;988;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-SHOP;8;2;0;1014;0.800;1.000;0.889
+RandomCommittee;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Hello World;35;0;0;989;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];hhhhhhh;4;4;0;1016;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];drupal sawsen;8;0;0;1016;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile phone;10;0;0;1014;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];mobile phone;26;14;0;984;0.650;1.000;0.788
+RandomCommittee;Combinatorial[0];E-portal;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Asghar;32;0;0;2016;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Test;1;0;6;2041;1.000;0.143;0.250
+RandomCommittee;Combinatorial[0];ordem;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];desordem;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];UPL;18;0;0;2030;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Loja Virtual;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Ubuntu;0;0;12;2036;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Implementacion;4;0;3;2041;1.000;0.571;0.727
+RandomCommittee;Combinatorial[0];Imolementacion II;3;1;0;2044;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Basic Car;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];CarExample;1;0;2;2045;1.000;0.333;0.500
+RandomCommittee;Combinatorial[0];mo;60;0;0;1988;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];JDFM;4;1;16;2027;0.800;0.200;0.320
+RandomCommittee;Combinatorial[0];Analisis;6;2;0;2040;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Matrix chain multiplication;3;0;12;2033;1.000;0.200;0.333
+RandomCommittee;Combinatorial[0];Observatorio;0;0;8;2040;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];collapse_view_example;1;0;30;2017;1.000;0.032;0.063
+RandomCommittee;Combinatorial[0];Match de foot;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Xor Example;40;0;0;2008;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Xor Example 2;72;0;0;1976;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ROOT;96;0;0;1952;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];NovoSiga;20;0;0;2028;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];asdsfa ewtwwe;12;4;0;2032;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Website;64;0;0;1984;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];1;14;0;0;2034;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];erewr;24;0;0;2024;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Webshop_SPLE2014_Chalmers;8;0;0;2040;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];poker spl;21;7;0;2020;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];r;0;0;84;1964;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];E-shop;29;0;0;2019;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];PC model;18;8;0;2022;0.692;1.000;0.818
+RandomCommittee;Combinatorial[0];testing;255;0;0;1793;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ubuntu;18;6;0;2024;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Jogo;4;0;0;2044;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Assistente de Compras;8;8;16;2016;0.500;0.333;0.400
+RandomCommittee;Combinatorial[0];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Autosoft;112;112;0;1824;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Rotation1;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SPL_e_commerce;56;56;0;1936;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];ESCA Embeeded System;0;0;10;2038;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];27-5-207 test;44;44;0;1960;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ZMUConcernExample;8;0;0;2040;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SimpleModel;0;0;24;2024;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Car;12;0;0;2036;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Weather Station;28;28;16;1976;0.500;0.636;0.560
+RandomCommittee;Combinatorial[0];Cellphone;5;4;9;2030;0.556;0.357;0.435
+RandomCommittee;Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Eshop-ufrj;48;48;0;4000;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Dummy Car;3;0;6;4087;1.000;0.333;0.500
+RandomCommittee;Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];a;42;0;0;4054;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];aaaaaa;32;0;0;4064;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Address Book;72;0;0;4024;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sisgeo;257;0;0;3839;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Multiplicador de n matrices;0;0;18;4078;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Movil;20;0;8;4068;1.000;0.714;0.833
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];gs;0;0;168;3928;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];MyDental;42;0;0;4054;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Content;91;0;0;4005;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Attempt of mine;132;0;0;3964;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Content;45;0;0;4051;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Content model;91;0;0;4005;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];eLearning ways;397;0;0;3699;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Topology;0;0;16;4080;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];This is a test;132;44;0;3920;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Congress Assistant;48;0;0;4048;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];JCS;96;32;0;3968;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Ooredoo;12;1;6;4077;0.923;0.667;0.774
+RandomCommittee;Combinatorial[0];M-learning Requirements Catalog;140;0;0;3956;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Online Shop Feature Model;0;0;42;4054;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];ABMS;246;0;0;3850;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];search engine;32;32;0;4032;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Reservation;9;0;0;4087;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];tab;0;0;16;4080;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];HDMR-Paper;7;0;0;4089;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Aircraft PL;315;105;0;7772;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Tata Cars;24;8;0;8160;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Parking lot Manager;4;4;12;8172;0.500;0.250;0.333
+RandomCommittee;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Car;42;42;0;8108;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Homepage based on wiki;28;0;0;8164;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Toyota Feature Model;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];NCV_Simulation;18;18;0;8156;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];i18n;0;0;18;8174;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];MiniRPG;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Media;10;4;14;8164;0.714;0.417;0.526
+RandomCommittee;Combinatorial[0];Analisis;2;0;6;8184;1.000;0.250;0.400
+RandomCommittee;Combinatorial[0];Alarm System;12;12;30;8138;0.500;0.286;0.364
+RandomCommittee;Combinatorial[0];LMF;2;0;0;8190;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Wewq;1;0;0;8191;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Video On Demand SPL FM;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Video On Demand FM;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MyHolidays;0;0;112;8080;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];PortafolioLopez;84;28;0;8080;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Phone;76;0;0;8116;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];cell phones SPL;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FMConfig;89;5;46;8052;0.947;0.659;0.777
+RandomCommittee;Combinatorial[0];Cell-Phone-SPL-2014;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Cell-Phone-SPL-2014-Part2;10;8;20;8154;0.556;0.333;0.417
+RandomCommittee;Combinatorial[0];Cell-Phone-SPL-2014-Mined;13;8;18;8153;0.619;0.419;0.500
+RandomCommittee;Combinatorial[0];Magister 2014-ROLOG;96;32;0;8064;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];MarketPlace-Sample;3;0;0;8189;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];teste;0;0;12;8180;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];SPL Studies;15;0;30;8147;1.000;0.333;0.500
+RandomCommittee;Combinatorial[0];Content;231;0;0;7961;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Stamppy;28;0;0;8164;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];search-engine;66;12;42;8072;0.846;0.611;0.710
+RandomCommittee;Combinatorial[0];Javed Test 2;448;0;0;7744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MoviesApp;18;18;36;8120;0.500;0.333;0.400
+RandomCommittee;Combinatorial[0];Movie System;0;0;24;8168;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];SmartHotel;102;18;0;8072;0.850;1.000;0.919
+RandomCommittee;Combinatorial[0];Smart Queue;4;0;0;8188;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Online shopping software;2;2;0;8188;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];2 - Eleição de um prefeito e um Vereador;49;0;0;8143;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Visit Indonesia Apps;84;84;0;8024;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Priscilinha;0;0;2;8190;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Home;124;29;0;8039;0.810;1.000;0.895
+RandomCommittee;Combinatorial[0];Windows .NET;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];HADAS-security;9;1;0;8182;0.900;1.000;0.947
+RandomCommittee;Combinatorial[0];Ligne de produits de Eshop;18;2;2;8170;0.900;0.900;0.900
+RandomCommittee;Combinatorial[0];MobilePhone;16;0;0;8176;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];smartPhone;93;0;0;8099;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MPES2016-2.Reuso2;0;0;6;8186;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Tripeo;12;0;0;8180;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];search-engine;68;48;8;8068;0.586;0.895;0.708
+RandomCommittee;Combinatorial[0];depresija;127;0;0;8065;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MoviesApp PL;0;0;24;8168;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Car PL;88;4;0;16292;0.957;1.000;0.978
+RandomCommittee;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Carro Model;6;6;24;16348;0.500;0.200;0.286
+RandomCommittee;Combinatorial[0];CTOS MODEL;18;6;0;16360;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];ELPS - ISE;462;462;0;15460;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Linha de produtos - SimulES e PnP;144;48;0;16192;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Car demo;48;48;0;16288;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Simple Drawing Tools;1905;0;0;14479;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];pruebapalabras;39;0;33;16312;1.000;0.542;0.703
+RandomCommittee;Combinatorial[0];PhysEval;54;0;0;16330;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];JhotDrawn;1028;0;0;15356;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Media;2;2;4;16376;0.500;0.333;0.400
+RandomCommittee;Combinatorial[0];User Model;144;0;0;16240;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Buzzard Radio play DB;448;0;0;15936;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Mobile Media JULIO;24;0;0;16360;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Mobile Phone Software;32;0;20;16332;1.000;0.615;0.762
+RandomCommittee;Combinatorial[0];Celular;72;0;24;16288;1.000;0.750;0.857
+RandomCommittee;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];AGORA;120;0;0;16264;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Scenario Application;0;0;56;16328;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Simplified Smart Hotel;232;0;0;16152;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Content Store;0;0;56;16328;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Urna Gleidson;9;0;0;16375;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Clinica Medica;12;0;0;16372;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Celulares;404;0;0;15980;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];video on demand;32;0;0;16352;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Pizza;196;0;0;16188;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];SA;176;0;0;16208;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Smartwatch;64;0;0;16320;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TVSmart;10;0;0;16374;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];catalogo;6;6;0;16372;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Virtual_Office_of_the_Future;16;16;32;16320;0.500;0.333;0.400
+RandomCommittee;Combinatorial[0];Search_Engine_PL;126;4;0;16254;0.969;1.000;0.984
+RandomCommittee;Combinatorial[0];JPlug;80;0;0;16304;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];James;68;68;0;16248;0.500;1.000;0.667

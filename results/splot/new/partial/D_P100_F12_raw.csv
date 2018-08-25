@@ -1,0 +1,47 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+RandomCommittee;Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Eshop-ufrj;48;48;0;4000;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Dummy Car;3;0;6;4087;1.000;0.333;0.500
+RandomCommittee;Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];a;42;0;0;4054;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];aaaaaa;32;0;0;4064;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Pruebas;3;0;4;4089;1.000;0.429;0.600
+RandomCommittee;Combinatorial[0];Address Book;72;0;0;4024;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sisgeo;257;0;0;3839;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Multiplicador de n matrices;0;0;18;4078;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];Movil;20;0;8;4068;1.000;0.714;0.833
+RandomCommittee;Combinatorial[0];ID;1;0;0;4095;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];gs;0;0;168;3928;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];MyDental;42;0;0;4054;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FM with optional XOR;21;0;0;4075;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Final model;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Sylvain Example;11;0;0;4085;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];E-commerce system1;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];FeatureModelName;8;8;0;4080;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Content;91;0;0;4005;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Attempt of mine;132;0;0;3964;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Content;45;0;0;4051;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Content model;91;0;0;4005;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];eLearning ways;397;0;0;3699;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Topology;0;0;16;4080;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];This is a test;132;44;0;3920;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Congress Assistant;48;0;0;4048;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];JCS;96;32;0;3968;0.750;1.000;0.857
+RandomCommittee;Combinatorial[0];Ooredoo;12;1;6;4077;0.923;0.667;0.774
+RandomCommittee;Combinatorial[0];M-learning Requirements Catalog;140;0;0;3956;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];TW SPL Hard Choices;4;0;0;4092;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Jogo;2;0;0;4094;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];rotation;3;0;0;4093;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Online Shop Feature Model;0;0;42;4054;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];ABMS;246;0;0;3850;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];search engine;32;32;0;4032;0.500;1.000;0.667
+RandomCommittee;Combinatorial[0];Reservation;9;0;0;4087;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];tab;0;0;16;4080;NaN;0.000;NaN
+RandomCommittee;Combinatorial[0];HDMR-Paper;7;0;0;4089;1.000;1.000;1.000
+RandomCommittee;Combinatorial[0];Telecommunication_System;11;2;7;4076;0.846;0.611;0.710

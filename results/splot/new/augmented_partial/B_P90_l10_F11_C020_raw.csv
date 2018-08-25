@@ -1,0 +1,61 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+LogisticModelTree;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+MultilayerPerceptron[a];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+MultilayerPerceptron[a];Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+KStar;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Random[0.9];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_RBF[5.0];Random[0.9];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Random[0.9];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+SVM_Puk[1.0, 0.1];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+LogisticModelTree;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+LogisticModelTree;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+MultilayerPerceptron[a];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+MultilayerPerceptron[a];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+MultilayerPerceptron[a];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+MultilayerPerceptron[a];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+MultilayerPerceptron[a];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+MultilayerPerceptron[a];Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+KStar;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Random[0.9];Test;0;0;7;2041;NaN;0.000;NaN

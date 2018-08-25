@@ -1,0 +1,78 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+LWL;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Game;0;0;135;889;NaN;0.000;NaN
+LWL;Combinatorial[0];VODPlayer;0;0;48;976;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];AvionFEatures;0;0;12;1012;NaN;0.000;NaN
+LWL;Combinatorial[0];Phone sple;0;0;27;997;NaN;0.000;NaN
+LWL;Combinatorial[0];Phone;0;0;46;978;NaN;0.000;NaN
+LWL;Combinatorial[0];Ökonomische Merkmale;0;0;24;1000;NaN;0.000;NaN
+LWL;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+LWL;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+LWL;Combinatorial[0];rtrt;0;0;20;1004;NaN;0.000;NaN
+LWL;Combinatorial[0];FeatureModel1;0;0;16;1008;NaN;0.000;NaN
+LWL;Combinatorial[0];Example Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];testISA2012;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile-Phone;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile phone (lenita);0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Phone GF;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Example Product Line Course Using SPLOT;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Guad gmocht!;0;0;20;1004;NaN;0.000;NaN
+LWL;Combinatorial[0];MobileMedia;0;0;28;996;NaN;0.000;NaN
+LWL;Combinatorial[0];Simnumero;0;0;8;1016;NaN;0.000;NaN
+LWL;Combinatorial[0];isolation;0;0;3;1021;NaN;0.000;NaN
+LWL;Combinatorial[0];AllSports Feature Model;0;0;24;1000;NaN;0.000;NaN
+LWL;Combinatorial[0];Bicis_Feature_Model;0;0;6;1018;NaN;0.000;NaN
+LWL;Combinatorial[0];MobileMedia;0;0;30;994;NaN;0.000;NaN
+LWL;Combinatorial[0];WebApp;0;0;160;864;NaN;0.000;NaN
+LWL;Combinatorial[0];abcdefg;0;0;6;1018;NaN;0.000;NaN
+LWL;Combinatorial[0];Disenio;0;0;4;1020;NaN;0.000;NaN
+LWL;Combinatorial[0];sasgd;0;0;20;1004;NaN;0.000;NaN
+LWL;Combinatorial[0];anlisis II;0;0;28;996;NaN;0.000;NaN
+LWL;Combinatorial[0];disenio II;0;0;30;994;NaN;0.000;NaN
+LWL;Combinatorial[0];AA;0;0;16;1008;NaN;0.000;NaN
+LWL;Combinatorial[0];Modelo;0;0;4;1020;NaN;0.000;NaN
+LWL;Combinatorial[0];TEST_NAme;0;0;36;988;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;16;1008;NaN;0.000;NaN
+LWL;Combinatorial[0];UPT_RM_MOBILE;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];acarlos_trab2_mobile;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Prontuário Eletrônico de Pacientes;0;0;10;1014;NaN;0.000;NaN
+LWL;Combinatorial[0];test gv;0;0;32;992;NaN;0.000;NaN
+LWL;Combinatorial[0];Dental Surgery;0;0;2;1022;NaN;0.000;NaN
+LWL;Combinatorial[0];Cell-Phone-SPL-2014-without;0;0;48;976;NaN;0.000;NaN
+LWL;Combinatorial[0];Computer Selection;0;0;2;1022;NaN;0.000;NaN
+LWL;Combinatorial[0];Rotary_Element;0;0;12;1012;NaN;0.000;NaN
+LWL;Combinatorial[0];E-Shop, magister2014;0;0;18;1006;NaN;0.000;NaN
+LWL;Combinatorial[0];eshop;0;0;9;1015;NaN;0.000;NaN
+LWL;Combinatorial[0];Nudelsalat;0;0;12;1012;NaN;0.000;NaN
+LWL;Combinatorial[0];MK Andes;0;0;4;1020;NaN;0.000;NaN
+LWL;Combinatorial[0];SPL Studies;0;0;62;962;NaN;0.000;NaN
+LWL;Combinatorial[0];Telefono;0;0;7;1017;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];jjjjj;0;0;18;1006;NaN;0.000;NaN
+LWL;Combinatorial[0];celular;0;0;11;1013;NaN;0.000;NaN
+LWL;Combinatorial[0];Bandymas;0;0;18;1006;NaN;0.000;NaN
+LWL;Combinatorial[0];test 3;0;0;32;992;NaN;0.000;NaN
+LWL;Combinatorial[0];LXEP;0;0;2;1022;NaN;0.000;NaN
+LWL;Combinatorial[0];Feature Tree Example;0;0;8;1016;NaN;0.000;NaN
+LWL;Combinatorial[0];Sample;0;0;32;992;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Tourist Planner;0;0;28;996;NaN;0.000;NaN
+LWL;Combinatorial[0];votacao eletronica;0;0;7;1017;NaN;0.000;NaN
+LWL;Combinatorial[0];Car;0;0;24;1000;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Phone;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Test1;0;0;8;1016;NaN;0.000;NaN
+LWL;Combinatorial[0];Maquina de Cae;0;0;36;988;NaN;0.000;NaN
+LWL;Combinatorial[0];Autosoft;0;0;122;902;NaN;0.000;NaN
+LWL;Combinatorial[0];Minimalistic PC Feature Model;0;0;4;1020;NaN;0.000;NaN
+LWL;Combinatorial[0];Match engine;0;0;16;1008;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Phone UPT;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Phone UPT - 18413;0;0;14;1010;NaN;0.000;NaN
+LWL;Combinatorial[0];Manuel;0;0;9;1015;NaN;0.000;NaN
+LWL;Combinatorial[0];Telefonia Celular;0;0;36;988;NaN;0.000;NaN
+LWL;Combinatorial[0];E-SHOP;0;0;8;1016;NaN;0.000;NaN
+LWL;Combinatorial[0];Eval_board;0;0;2;1022;NaN;0.000;NaN
+LWL;Combinatorial[0];Hello World;0;0;35;989;NaN;0.000;NaN
+LWL;Combinatorial[0];hhhhhhh;0;0;4;1020;NaN;0.000;NaN
+LWL;Combinatorial[0];drupal sawsen;0;0;8;1016;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile phone;0;0;10;1014;NaN;0.000;NaN
+LWL;Combinatorial[0];mobile phone;0;0;26;998;NaN;0.000;NaN

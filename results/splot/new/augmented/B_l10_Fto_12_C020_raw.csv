@@ -1,0 +1,331 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;15;0;1008;0.063;1.000;0.118
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;26;0;997;0.037;1.000;0.071
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;19;0;1004;0.050;1.000;0.095
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;19;0;1004;0.050;1.000;0.095
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;19;0;1004;0.050;1.000;0.095
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;15;0;1008;0.063;1.000;0.118
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;26;0;997;0.037;1.000;0.071
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;24;0;999;0.040;1.000;0.077
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;15;0;1008;0.063;1.000;0.118
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;26;0;997;0.037;1.000;0.071
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;11;0;1012;0.083;1.000;0.154
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;2;2;2044;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;6;2;2040;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;3;2;2043;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;7;2;2039;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;2;2;2044;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;7;2;2039;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;7;2;2039;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;7;2;2039;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;7;2;2039;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;4;2;2042;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;0;7;2;2039;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;8;11;4077;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;24;11;4061;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;12;11;4073;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;12;11;4073;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;12;11;4073;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;24;11;4061;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;12;11;4073;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;8;11;4077;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;8;11;4077;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;24;11;4061;0.000;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Text Editor;0;16;11;4069;0.000;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN

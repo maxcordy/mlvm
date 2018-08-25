@@ -1,0 +1,201 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+NaiveBayesUpdateable;Random[1.0];E-portal;0;0;16;2032;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];E-portal;0;0;16;2032;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];E-portal;0;0;16;2032;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];E-portal;0;0;16;2032;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];E-portal;0;0;16;2032;NaN;0.000;NaN
+IBk;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+IBk;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+IBk;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+IBk;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+IBk;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+JRip;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+JRip;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+JRip;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+JRip;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+JRip;Random[1.0];E-portal;16;0;0;2032;1.000;1.000;1.000
+PART;Random[1.0];E-portal;16;8;0;2024;0.667;1.000;0.800
+PART;Random[1.0];E-portal;16;8;0;2024;0.667;1.000;0.800
+PART;Random[1.0];E-portal;16;8;0;2024;0.667;1.000;0.800
+PART;Random[1.0];E-portal;16;8;0;2024;0.667;1.000;0.800
+PART;Random[1.0];E-portal;16;8;0;2024;0.667;1.000;0.800
+NaiveBayesUpdateable;Random[1.0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+IBk;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+JRip;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+JRip;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+JRip;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+JRip;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+JRip;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+PART;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+PART;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+PART;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+PART;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+PART;Random[1.0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];Asghar;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Asghar;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Asghar;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Asghar;0;0;32;2016;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Asghar;0;0;32;2016;NaN;0.000;NaN
+IBk;Random[1.0];Asghar;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];Asghar;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];Asghar;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];Asghar;32;0;0;2016;1.000;1.000;1.000
+IBk;Random[1.0];Asghar;32;0;0;2016;1.000;1.000;1.000
+JRip;Random[1.0];Asghar;31;5;1;2011;0.861;0.969;0.912
+JRip;Random[1.0];Asghar;31;5;1;2011;0.861;0.969;0.912
+JRip;Random[1.0];Asghar;31;5;1;2011;0.861;0.969;0.912
+JRip;Random[1.0];Asghar;31;5;1;2011;0.861;0.969;0.912
+JRip;Random[1.0];Asghar;31;5;1;2011;0.861;0.969;0.912
+PART;Random[1.0];Asghar;16;0;16;2016;1.000;0.500;0.667
+PART;Random[1.0];Asghar;16;0;16;2016;1.000;0.500;0.667
+PART;Random[1.0];Asghar;16;0;16;2016;1.000;0.500;0.667
+PART;Random[1.0];Asghar;16;0;16;2016;1.000;0.500;0.667
+PART;Random[1.0];Asghar;16;0;16;2016;1.000;0.500;0.667
+NaiveBayesUpdateable;Random[1.0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+IBk;Random[1.0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+IBk;Random[1.0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+IBk;Random[1.0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+IBk;Random[1.0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+IBk;Random[1.0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+JRip;Random[1.0];MyFeatureModel;35;13;0;2000;0.729;1.000;0.843
+JRip;Random[1.0];MyFeatureModel;35;13;0;2000;0.729;1.000;0.843
+JRip;Random[1.0];MyFeatureModel;35;13;0;2000;0.729;1.000;0.843
+JRip;Random[1.0];MyFeatureModel;35;13;0;2000;0.729;1.000;0.843
+JRip;Random[1.0];MyFeatureModel;35;13;0;2000;0.729;1.000;0.843
+PART;Random[1.0];MyFeatureModel;19;0;16;2013;1.000;0.543;0.704
+PART;Random[1.0];MyFeatureModel;19;0;16;2013;1.000;0.543;0.704
+PART;Random[1.0];MyFeatureModel;19;0;16;2013;1.000;0.543;0.704
+PART;Random[1.0];MyFeatureModel;19;0;16;2013;1.000;0.543;0.704
+PART;Random[1.0];MyFeatureModel;19;0;16;2013;1.000;0.543;0.704
+NaiveBayesUpdateable;Random[1.0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+IBk;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+IBk;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+JRip;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+JRip;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+JRip;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+JRip;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+JRip;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+PART;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+PART;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+PART;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+PART;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+PART;Random[1.0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+IBk;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+IBk;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+IBk;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+IBk;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+IBk;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+JRip;Random[1.0];ETRobocon;120;8;0;1920;0.938;1.000;0.968
+JRip;Random[1.0];ETRobocon;120;8;0;1920;0.938;1.000;0.968
+JRip;Random[1.0];ETRobocon;120;8;0;1920;0.938;1.000;0.968
+JRip;Random[1.0];ETRobocon;120;8;0;1920;0.938;1.000;0.968
+JRip;Random[1.0];ETRobocon;120;8;0;1920;0.938;1.000;0.968
+PART;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+PART;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+PART;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+PART;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+PART;Random[1.0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+IBk;Random[1.0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Random[1.0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Random[1.0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Random[1.0];Test;7;0;0;2041;1.000;1.000;1.000
+IBk;Random[1.0];Test;7;0;0;2041;1.000;1.000;1.000
+JRip;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+JRip;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+JRip;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+JRip;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+JRip;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+PART;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+PART;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+PART;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+PART;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+PART;Random[1.0];Test;0;0;7;2041;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];ordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];ordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];ordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];ordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];ordem;4;0;52;1992;1.000;0.071;0.133
+IBk;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+JRip;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+JRip;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+JRip;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+JRip;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+JRip;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];ordem;56;0;0;1992;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];desordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];desordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];desordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];desordem;4;0;52;1992;1.000;0.071;0.133
+NaiveBayesUpdateable;Random[1.0];desordem;4;0;52;1992;1.000;0.071;0.133
+IBk;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+IBk;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+JRip;Random[1.0];desordem;56;4;0;1988;0.933;1.000;0.966
+JRip;Random[1.0];desordem;56;4;0;1988;0.933;1.000;0.966
+JRip;Random[1.0];desordem;56;4;0;1988;0.933;1.000;0.966
+JRip;Random[1.0];desordem;56;4;0;1988;0.933;1.000;0.966
+JRip;Random[1.0];desordem;56;4;0;1988;0.933;1.000;0.966
+PART;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+PART;Random[1.0];desordem;56;0;0;1992;1.000;1.000;1.000
+NaiveBayesUpdateable;Random[1.0];UPL;0;0;18;2030;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];UPL;0;0;18;2030;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];UPL;0;0;18;2030;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];UPL;0;0;18;2030;NaN;0.000;NaN
+NaiveBayesUpdateable;Random[1.0];UPL;0;0;18;2030;NaN;0.000;NaN
+IBk;Random[1.0];UPL;18;0;0;2030;1.000;1.000;1.000
+IBk;Random[1.0];UPL;18;0;0;2030;1.000;1.000;1.000
+IBk;Random[1.0];UPL;18;0;0;2030;1.000;1.000;1.000
+IBk;Random[1.0];UPL;18;0;0;2030;1.000;1.000;1.000
+IBk;Random[1.0];UPL;18;0;0;2030;1.000;1.000;1.000
+JRip;Random[1.0];UPL;14;2;4;2028;0.875;0.778;0.824
+JRip;Random[1.0];UPL;14;2;4;2028;0.875;0.778;0.824
+JRip;Random[1.0];UPL;14;2;4;2028;0.875;0.778;0.824
+JRip;Random[1.0];UPL;14;2;4;2028;0.875;0.778;0.824
+JRip;Random[1.0];UPL;14;2;4;2028;0.875;0.778;0.824
+PART;Random[1.0];UPL;14;0;4;2030;1.000;0.778;0.875
+PART;Random[1.0];UPL;14;0;4;2030;1.000;0.778;0.875
+PART;Random[1.0];UPL;14;0;4;2030;1.000;0.778;0.875
+PART;Random[1.0];UPL;14;0;4;2030;1.000;0.778;0.875
+PART;Random[1.0];UPL;14;0;4;2030;1.000;0.778;0.875

@@ -21,14 +21,21 @@ public class ScadConfigurationEvaluator implements VariabilityModel {
     private final File cachedResultsFile;
     private final Map<String, Boolean> cache = new HashMap<>();
     private long timeout;
+    private double MIN_VOLUME;
+    private double MIN_SIZE;
+
 
     public ScadConfigurationEvaluator(Path openScadPath, Path slic3rPath, Path scadFilePath, VariabilityModel model, long timeout) {
+        this(openScadPath, slic3rPath, scadFilePath, model, timeout, "results", 0.1, 1);
+    }
+
+    public ScadConfigurationEvaluator(Path openScadPath, Path slic3rPath, Path scadFilePath, VariabilityModel model, long timeout, String resultFileName, double minSize, double minVolume) {
         this.openScadPath = openScadPath;
         this.slic3rPath = slic3rPath;
         this.scadFilePath = scadFilePath;
         this.model = model;
         this.timeout = timeout;
-        this.cachedResultsFile = getCachePath("results", ".txt");
+        this.cachedResultsFile = getCachePath(resultFileName, ".txt");
         if (this.cachedResultsFile.exists()) {
             try (BufferedReader reader = new BufferedReader(new FileReader(this.cachedResultsFile))) {
                 String line;
@@ -47,11 +54,11 @@ public class ScadConfigurationEvaluator implements VariabilityModel {
     }
 
     private boolean isVolumeValid(double volume) {
-        return volume >= 1;
+        return volume >= MIN_VOLUME;
     }
 
     private boolean isSizeValid(double x, double y, double z) {
-        return x >= 0.1 & y >= 0.1 && z >= 0.1;
+        return x >= MIN_SIZE & y >= MIN_SIZE&& z >= MIN_SIZE;
     }
 
     @Override

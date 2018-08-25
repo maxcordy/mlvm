@@ -1,0 +1,451 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+SVM_RBF[5.0];Combinatorial[0];SAL;12;0;0;1012;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];SAL;4;0;8;1012;1.000;0.333;0.500
+SVM_Sigmoid[0.1];Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];SAL;12;0;0;1012;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+IBk;Combinatorial[0];SAL;12;0;0;1012;1.000;1.000;1.000
+KStar;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+LWL;Combinatorial[0];SAL;0;0;12;1012;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Mobile Game;75;5;60;884;0.938;0.556;0.698
+SVM_Linear;Combinatorial[0];Mobile Game;109;23;26;866;0.826;0.807;0.816
+SVM_Puk[1.0, 0.1];Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Mobile Game;75;5;60;884;0.938;0.556;0.698
+IBk;Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+KStar;Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+LWL;Combinatorial[0];Mobile Game;135;0;0;889;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];VODPlayer;48;0;0;976;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];VODPlayer;48;0;0;976;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];VODPlayer;0;0;48;976;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];VODPlayer;48;16;0;960;0.750;1.000;0.857
+SVM_Puk[1.0, 0.1];Combinatorial[0];VODPlayer;48;0;0;976;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];VODPlayer;0;16;48;960;0.000;0.000;NaN
+IBk;Combinatorial[0];VODPlayer;48;0;0;976;1.000;1.000;1.000
+KStar;Combinatorial[0];VODPlayer;48;0;0;976;1.000;1.000;1.000
+LWL;Combinatorial[0];VODPlayer;48;0;0;976;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+IBk;Combinatorial[0];CIMS PL;1;0;0;1023;1.000;1.000;1.000
+KStar;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+LWL;Combinatorial[0];CIMS PL;0;0;1;1023;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];AvionFEatures;12;0;0;1012;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];AvionFEatures;10;0;2;1012;1.000;0.833;0.909
+SVM_Sigmoid[0.1];Combinatorial[0];AvionFEatures;0;0;12;1012;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];AvionFEatures;0;0;12;1012;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];AvionFEatures;12;0;0;1012;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];AvionFEatures;0;0;12;1012;NaN;0.000;NaN
+IBk;Combinatorial[0];AvionFEatures;12;0;0;1012;1.000;1.000;1.000
+KStar;Combinatorial[0];AvionFEatures;5;0;7;1012;1.000;0.417;0.588
+LWL;Combinatorial[0];AvionFEatures;5;0;7;1012;1.000;0.417;0.588
+SVM_RBF[5.0];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Phone sple;25;0;2;997;1.000;0.926;0.962
+SVM_Sigmoid[0.1];Combinatorial[0];Phone sple;0;0;27;997;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Phone sple;0;0;27;997;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Phone sple;0;0;27;997;NaN;0.000;NaN
+IBk;Combinatorial[0];Phone sple;27;0;0;997;1.000;1.000;1.000
+KStar;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+LWL;Combinatorial[0];Phone sple;22;0;5;997;1.000;0.815;0.898
+SVM_RBF[5.0];Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Phone;0;0;46;978;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Phone;34;6;12;972;0.850;0.739;0.791
+SVM_Puk[1.0, 0.1];Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Phone;12;0;34;978;1.000;0.261;0.414
+IBk;Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+KStar;Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+LWL;Combinatorial[0];Phone;46;0;0;978;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Ökonomische Merkmale;24;0;0;1000;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Ökonomische Merkmale;22;0;2;1000;1.000;0.917;0.957
+SVM_Sigmoid[0.1];Combinatorial[0];Ökonomische Merkmale;0;0;24;1000;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Ökonomische Merkmale;11;1;13;999;0.917;0.458;0.611
+SVM_Puk[1.0, 0.1];Combinatorial[0];Ökonomische Merkmale;24;0;0;1000;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Ökonomische Merkmale;7;1;17;999;0.875;0.292;0.438
+IBk;Combinatorial[0];Ökonomische Merkmale;24;0;0;1000;1.000;1.000;1.000
+KStar;Combinatorial[0];Ökonomische Merkmale;21;0;3;1000;1.000;0.875;0.933
+LWL;Combinatorial[0];Ökonomische Merkmale;21;0;3;1000;1.000;0.875;0.933
+SVM_RBF[5.0];Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+IBk;Combinatorial[0];carpl;2;0;0;1022;1.000;1.000;1.000
+KStar;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+LWL;Combinatorial[0];carpl;0;0;2;1022;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];MyFM;19;0;0;1005;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];MyFM;19;0;0;1005;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+IBk;Combinatorial[0];MyFM;19;0;0;1005;1.000;1.000;1.000
+KStar;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+LWL;Combinatorial[0];MyFM;0;0;19;1005;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];E-portal;16;0;0;2032;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];E-portal;16;0;0;2032;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];E-portal;0;0;16;2032;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];E-portal;12;4;4;2028;0.750;0.750;0.750
+SVM_Puk[1.0, 0.1];Combinatorial[0];E-portal;16;0;0;2032;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];E-portal;0;0;16;2032;NaN;0.000;NaN
+IBk;Combinatorial[0];E-portal;16;0;0;2032;1.000;1.000;1.000
+KStar;Combinatorial[0];E-portal;4;0;12;2032;1.000;0.250;0.400
+LWL;Combinatorial[0];E-portal;4;0;12;2032;1.000;0.250;0.400
+SVM_RBF[5.0];Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];VOD feature model;0;0;32;2016;NaN;0.000;NaN
+IBk;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+KStar;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+LWL;Combinatorial[0];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Asghar;32;0;0;2016;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Asghar;29;0;3;2016;1.000;0.906;0.951
+SVM_Sigmoid[0.1];Combinatorial[0];Asghar;0;0;32;2016;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Asghar;0;0;32;2016;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Asghar;32;0;0;2016;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Asghar;0;0;32;2016;NaN;0.000;NaN
+IBk;Combinatorial[0];Asghar;32;0;0;2016;1.000;1.000;1.000
+KStar;Combinatorial[0];Asghar;15;0;17;2016;1.000;0.469;0.638
+LWL;Combinatorial[0];Asghar;15;0;17;2016;1.000;0.469;0.638
+SVM_RBF[5.0];Combinatorial[0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];MyFeatureModel;0;0;35;2013;NaN;0.000;NaN
+IBk;Combinatorial[0];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+KStar;Combinatorial[0];MyFeatureModel;15;0;20;2013;1.000;0.429;0.600
+LWL;Combinatorial[0];MyFeatureModel;15;0;20;2013;1.000;0.429;0.600
+SVM_RBF[5.0];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+IBk;Combinatorial[0];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+KStar;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+LWL;Combinatorial[0];SmartHome_vConejero_r1;0;0;2;2046;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];ETRobocon;112;8;8;1920;0.933;0.933;0.933
+SVM_Linear;Combinatorial[0];ETRobocon;120;8;0;1920;0.938;1.000;0.968
+SVM_Puk[1.0, 0.1];Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+IBk;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+KStar;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+LWL;Combinatorial[0];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+IBk;Combinatorial[0];Test;7;0;0;2041;1.000;1.000;1.000
+KStar;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+LWL;Combinatorial[0];Test;0;0;7;2041;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];ordem;56;0;0;1992;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];ordem;56;0;0;1992;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];ordem;0;0;56;1992;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];ordem;0;0;56;1992;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];ordem;56;0;0;1992;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];ordem;0;0;56;1992;NaN;0.000;NaN
+IBk;Combinatorial[0];ordem;56;0;0;1992;1.000;1.000;1.000
+KStar;Combinatorial[0];ordem;48;0;8;1992;1.000;0.857;0.923
+LWL;Combinatorial[0];ordem;48;0;8;1992;1.000;0.857;0.923
+SVM_RBF[5.0];Combinatorial[0];desordem;56;0;0;1992;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];desordem;56;0;0;1992;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];desordem;0;0;56;1992;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];desordem;0;0;56;1992;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];desordem;56;0;0;1992;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];desordem;0;0;56;1992;NaN;0.000;NaN
+IBk;Combinatorial[0];desordem;56;0;0;1992;1.000;1.000;1.000
+KStar;Combinatorial[0];desordem;48;0;8;1992;1.000;0.857;0.923
+LWL;Combinatorial[0];desordem;48;0;8;1992;1.000;0.857;0.923
+SVM_RBF[5.0];Combinatorial[0];UPL;18;0;0;2030;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];UPL;14;0;4;2030;1.000;0.778;0.875
+SVM_Sigmoid[0.1];Combinatorial[0];UPL;0;0;18;2030;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];UPL;14;2;4;2028;0.875;0.778;0.824
+SVM_Puk[1.0, 0.1];Combinatorial[0];UPL;18;0;0;2030;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];UPL;0;0;18;2030;NaN;0.000;NaN
+IBk;Combinatorial[0];UPL;18;0;0;2030;1.000;1.000;1.000
+KStar;Combinatorial[0];UPL;8;0;10;2030;1.000;0.444;0.615
+LWL;Combinatorial[0];UPL;8;0;10;2030;1.000;0.444;0.615
+SVM_RBF[5.0];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];IntelligentTutoringSystem;0;0;84;4012;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];IntelligentTutoringSystem;66;8;18;4004;0.892;0.786;0.835
+SVM_Puk[1.0, 0.1];Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];IntelligentTutoringSystem;60;2410;24;1602;0.024;0.714;0.047
+IBk;Combinatorial[0];IntelligentTutoringSystem;84;0;0;4012;1.000;1.000;1.000
+KStar;Combinatorial[0];IntelligentTutoringSystem;72;0;12;4012;1.000;0.857;0.923
+LWL;Combinatorial[0];IntelligentTutoringSystem;72;0;12;4012;1.000;0.857;0.923
+SVM_RBF[5.0];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+IBk;Combinatorial[0];test_fm;8;0;0;4088;1.000;1.000;1.000
+KStar;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+LWL;Combinatorial[0];test_fm;0;0;8;4088;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Eshop-ufrj;44;0;4;4048;1.000;0.917;0.957
+SVM_Sigmoid[0.1];Combinatorial[0];Eshop-ufrj;0;0;48;4048;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Eshop-ufrj;0;0;48;4048;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Eshop-ufrj;0;2048;48;2000;0.000;0.000;NaN
+IBk;Combinatorial[0];Eshop-ufrj;48;0;0;4048;1.000;1.000;1.000
+KStar;Combinatorial[0];Eshop-ufrj;8;0;40;4048;1.000;0.167;0.286
+LWL;Combinatorial[0];Eshop-ufrj;8;0;40;4048;1.000;0.167;0.286
+SVM_RBF[5.0];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Doorlopende reisverzekering;0;0;64;4032;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Doorlopende reisverzekering;64;2656;0;1376;0.024;1.000;0.046
+IBk;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+KStar;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+LWL;Combinatorial[0];Doorlopende reisverzekering;64;0;0;4032;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Dummy Car;0;2048;9;2039;0.000;0.000;NaN
+IBk;Combinatorial[0];Dummy Car;9;0;0;4087;1.000;1.000;1.000
+KStar;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+LWL;Combinatorial[0];Dummy Car;0;0;9;4087;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];WB2;0;0;200;3896;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];WB2;98;30;102;3866;0.766;0.490;0.598
+SVM_Puk[1.0, 0.1];Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];WB2;128;2336;72;1560;0.052;0.640;0.096
+IBk;Combinatorial[0];WB2;200;0;0;3896;1.000;1.000;1.000
+KStar;Combinatorial[0];WB2;158;0;42;3896;1.000;0.790;0.883
+LWL;Combinatorial[0];WB2;158;0;42;3896;1.000;0.790;0.883
+SVM_RBF[5.0];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Text Editor;4;0;7;4085;1.000;0.364;0.533
+SVM_Sigmoid[0.1];Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Text Editor;0;2048;11;2037;0.000;0.000;NaN
+IBk;Combinatorial[0];Text Editor;11;0;0;4085;1.000;1.000;1.000
+KStar;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+LWL;Combinatorial[0];Text Editor;0;0;11;4085;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Adams Car;0;2048;28;2020;0.000;0.000;NaN
+IBk;Combinatorial[0];Adams Car;28;0;0;4068;1.000;1.000;1.000
+KStar;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+LWL;Combinatorial[0];Adams Car;0;0;28;4068;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];CCCMS;235;16;5;3840;0.936;0.979;0.957
+SVM_Linear;Combinatorial[0];CCCMS;240;16;0;3840;0.938;1.000;0.968
+SVM_Puk[1.0, 0.1];Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];CCCMS;240;2060;0;1796;0.104;1.000;0.189
+IBk;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+KStar;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+LWL;Combinatorial[0];CCCMS;240;0;0;3856;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];mon model;0;2048;24;2024;0.000;0.000;NaN
+IBk;Combinatorial[0];mon model;24;0;0;4072;1.000;1.000;1.000
+KStar;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+LWL;Combinatorial[0];mon model;0;0;24;4072;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Aircraft PL;315;0;0;7877;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Aircraft PL;315;0;0;7877;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Aircraft PL;0;36;315;7841;0.000;0.000;NaN
+SVM_Linear;Combinatorial[0];Aircraft PL;0;0;315;7877;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Aircraft PL;315;0;0;7877;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Aircraft PL;0;4096;315;3781;0.000;0.000;NaN
+IBk;Combinatorial[0];Aircraft PL;315;0;0;7877;1.000;1.000;1.000
+KStar;Combinatorial[0];Aircraft PL;279;0;36;7877;1.000;0.886;0.939
+LWL;Combinatorial[0];Aircraft PL;279;0;36;7877;1.000;0.886;0.939
+SVM_RBF[5.0];Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];CFDP Library;15;0;304;7873;1.000;0.047;0.090
+SVM_Linear;Combinatorial[0];CFDP Library;175;69;144;7804;0.717;0.549;0.622
+SVM_Puk[1.0, 0.1];Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];CFDP Library;238;6281;81;1592;0.037;0.746;0.070
+IBk;Combinatorial[0];CFDP Library;319;0;0;7873;1.000;1.000;1.000
+KStar;Combinatorial[0];CFDP Library;273;0;46;7873;1.000;0.856;0.922
+LWL;Combinatorial[0];CFDP Library;273;0;46;7873;1.000;0.856;0.922
+SVM_RBF[5.0];Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];CFDP Library;187;211;437;7357;0.470;0.300;0.366
+SVM_Linear;Combinatorial[0];CFDP Library;338;61;286;7507;0.847;0.542;0.661
+SVM_Puk[1.0, 0.1];Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];CFDP Library;437;5028;187;2540;0.080;0.700;0.144
+IBk;Combinatorial[0];CFDP Library;624;0;0;7568;1.000;1.000;1.000
+KStar;Combinatorial[0];CFDP Library;612;0;12;7568;1.000;0.981;0.990
+LWL;Combinatorial[0];CFDP Library;612;0;12;7568;1.000;0.981;0.990
+SVM_RBF[5.0];Combinatorial[0];Tata Cars;24;0;0;8168;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Tata Cars;18;0;6;8168;1.000;0.750;0.857
+SVM_Sigmoid[0.1];Combinatorial[0];Tata Cars;0;0;24;8168;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Tata Cars;0;0;24;8168;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Tata Cars;24;0;0;8168;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Tata Cars;0;4096;24;4072;0.000;0.000;NaN
+IBk;Combinatorial[0];Tata Cars;24;0;0;8168;1.000;1.000;1.000
+KStar;Combinatorial[0];Tata Cars;0;0;24;8168;NaN;0.000;NaN
+LWL;Combinatorial[0];Tata Cars;0;0;24;8168;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];KIModel;0;0;12;8180;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];KIModel;0;0;12;8180;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];KIModel;0;4096;12;4084;0.000;0.000;NaN
+IBk;Combinatorial[0];KIModel;12;0;0;8180;1.000;1.000;1.000
+KStar;Combinatorial[0];KIModel;0;0;12;8180;NaN;0.000;NaN
+LWL;Combinatorial[0];KIModel;0;0;12;8180;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];G10-music player;0;0;63;8129;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];G10-music player;63;1;0;8128;0.984;1.000;0.992
+SVM_Puk[1.0, 0.1];Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];G10-music player;7;0;56;8129;1.000;0.111;0.200
+IBk;Combinatorial[0];G10-music player;63;0;0;8129;1.000;1.000;1.000
+KStar;Combinatorial[0];G10-music player;57;0;6;8129;1.000;0.905;0.950
+LWL;Combinatorial[0];G10-music player;57;0;6;8129;1.000;0.905;0.950
+SVM_RBF[5.0];Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];RE;0;0;96;8096;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];RE;96;6176;0;1920;0.015;1.000;0.030
+IBk;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+KStar;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+LWL;Combinatorial[0];RE;96;0;0;8096;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+SVM_Sigmoid[0.1];Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+HoeffdingTree;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+IBk;Combinatorial[0];FM1;1;0;0;8191;1.000;1.000;1.000
+KStar;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+LWL;Combinatorial[0];FM1;0;0;1;8191;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Parking lot Manager;16;0;0;8176;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Parking lot Manager;10;0;6;8176;1.000;0.625;0.769
+SVM_Sigmoid[0.1];Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Parking lot Manager;16;0;0;8176;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Parking lot Manager;0;4096;16;4080;0.000;0.000;NaN
+IBk;Combinatorial[0];Parking lot Manager;16;0;0;8176;1.000;1.000;1.000
+KStar;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+LWL;Combinatorial[0];Parking lot Manager;0;0;16;8176;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Veículo;80;0;0;8112;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Veículo;80;0;0;8112;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Veículo;80;0;0;8112;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Veículo;0;4096;80;4016;0.000;0.000;NaN
+IBk;Combinatorial[0];Veículo;80;0;0;8112;1.000;1.000;1.000
+KStar;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+LWL;Combinatorial[0];Veículo;0;0;80;8112;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Car PL;16;10224;72;6072;0.002;0.182;0.003
+IBk;Combinatorial[0];Car PL;88;0;0;16296;1.000;1.000;1.000
+KStar;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+LWL;Combinatorial[0];Car PL;0;0;88;16296;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];IDE4OCL;64;12224;0;4096;0.005;1.000;0.010
+IBk;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+KStar;Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+LWL;Combinatorial[0];IDE4OCL;0;0;64;16320;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];WB;5;160;635;15584;0.030;0.008;0.012
+SVM_Linear;Combinatorial[0];WB;392;120;248;15624;0.766;0.613;0.681
+SVM_Puk[1.0, 0.1];Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];WB;544;8336;96;7408;0.061;0.850;0.114
+IBk;Combinatorial[0];WB;640;0;0;15744;1.000;1.000;1.000
+KStar;Combinatorial[0];WB;552;0;88;15744;1.000;0.863;0.926
+LWL;Combinatorial[0];WB;552;0;88;15744;1.000;0.863;0.926
+SVM_RBF[5.0];Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];MiniTV;5;4;243;16132;0.556;0.020;0.039
+SVM_Linear;Combinatorial[0];MiniTV;248;8;0;16128;0.969;1.000;0.984
+SVM_Puk[1.0, 0.1];Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];MiniTV;248;11016;0;5120;0.022;1.000;0.043
+IBk;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+KStar;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+LWL;Combinatorial[0];MiniTV;248;0;0;16136;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Carro Model;30;0;0;16354;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Carro Model;16;0;14;16354;1.000;0.533;0.696
+SVM_Sigmoid[0.1];Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Carro Model;30;0;0;16354;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Carro Model;0;8192;30;8162;0.000;0.000;NaN
+IBk;Combinatorial[0];Carro Model;30;0;0;16354;1.000;1.000;1.000
+KStar;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+LWL;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];CTOS MODEL;0;8192;18;8174;0.000;0.000;NaN
+IBk;Combinatorial[0];CTOS MODEL;18;0;0;16366;1.000;1.000;1.000
+KStar;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+LWL;Combinatorial[0];CTOS MODEL;0;0;18;16366;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+SVM_Linear;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+IBk;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+KStar;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+LWL;Combinatorial[0];Mobile Phone, until relase 5;0;0;16;16368;NaN;0.000;NaN
+SVM_RBF[5.0];Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];ELPS - ISE;0;43;462;15879;0.000;0.000;NaN
+SVM_Linear;Combinatorial[0];ELPS - ISE;0;0;462;15922;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];ELPS - ISE;0;8192;462;7730;0.000;0.000;NaN
+IBk;Combinatorial[0];ELPS - ISE;462;0;0;15922;1.000;1.000;1.000
+KStar;Combinatorial[0];ELPS - ISE;448;0;14;15922;1.000;0.970;0.985
+LWL;Combinatorial[0];ELPS - ISE;448;0;14;15922;1.000;0.970;0.985
+SVM_RBF[5.0];Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];UML-IDE-TOOL;1255;265;281;14583;0.826;0.817;0.821
+SVM_Linear;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_Puk[1.0, 0.1];Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];UML-IDE-TOOL;1536;14848;0;0;0.094;1.000;0.171
+IBk;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+KStar;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+LWL;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+SVM_RBF[5.0];Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+SVM_RBF[2.0];Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+SVM_Sigmoid[0.1];Combinatorial[0];Linha de produtos - SimulES e PnP;0;1;144;16239;0.000;0.000;NaN
+SVM_Linear;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+SVM_Puk[1.0, 0.1];Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+HoeffdingTree;Combinatorial[0];Linha de produtos - SimulES e PnP;0;8192;144;8048;0.000;0.000;NaN
+IBk;Combinatorial[0];Linha de produtos - SimulES e PnP;144;0;0;16240;1.000;1.000;1.000
+KStar;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN
+LWL;Combinatorial[0];Linha de produtos - SimulES e PnP;0;0;144;16240;NaN;0.000;NaN

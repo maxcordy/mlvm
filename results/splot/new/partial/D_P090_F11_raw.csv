@@ -1,0 +1,286 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+RandomCommittee;Random[0.9];E-portal;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];E-portal;15;0;1;2032;1.000;0.938;0.968
+RandomCommittee;Random[0.9];E-portal;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];E-portal;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];E-portal;15;1;1;2031;0.938;0.938;0.938
+RandomCommittee;Random[0.9];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+RandomCommittee;Random[0.9];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+RandomCommittee;Random[0.9];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+RandomCommittee;Random[0.9];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+RandomCommittee;Random[0.9];VOD feature model;32;0;0;2016;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Asghar;32;1;0;2015;0.970;1.000;0.985
+RandomCommittee;Random[0.9];Asghar;30;0;2;2016;1.000;0.938;0.968
+RandomCommittee;Random[0.9];Asghar;31;0;1;2016;1.000;0.969;0.984
+RandomCommittee;Random[0.9];Asghar;32;2;0;2014;0.941;1.000;0.970
+RandomCommittee;Random[0.9];Asghar;32;1;0;2015;0.970;1.000;0.985
+RandomCommittee;Random[0.9];MyFeatureModel;33;0;2;2013;1.000;0.943;0.971
+RandomCommittee;Random[0.9];MyFeatureModel;35;1;0;2012;0.972;1.000;0.986
+RandomCommittee;Random[0.9];MyFeatureModel;34;1;1;2012;0.971;0.971;0.971
+RandomCommittee;Random[0.9];MyFeatureModel;31;1;4;2012;0.969;0.886;0.925
+RandomCommittee;Random[0.9];MyFeatureModel;35;0;0;2013;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome_vConejero_r1;1;0;1;2046;1.000;0.500;0.667
+RandomCommittee;Random[0.9];SmartHome_vConejero_r1;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ETRobocon;120;0;0;1928;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Test;7;2;0;2039;0.778;1.000;0.875
+RandomCommittee;Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+RandomCommittee;Random[0.9];Test;6;0;1;2041;1.000;0.857;0.923
+RandomCommittee;Random[0.9];Test;7;0;0;2041;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Test;5;0;2;2041;1.000;0.714;0.833
+RandomCommittee;Random[0.9];ordem;56;1;0;1991;0.982;1.000;0.991
+RandomCommittee;Random[0.9];ordem;54;0;2;1992;1.000;0.964;0.982
+RandomCommittee;Random[0.9];ordem;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ordem;52;1;4;1991;0.981;0.929;0.954
+RandomCommittee;Random[0.9];ordem;55;0;1;1992;1.000;0.982;0.991
+RandomCommittee;Random[0.9];desordem;55;0;1;1992;1.000;0.982;0.991
+RandomCommittee;Random[0.9];desordem;53;0;3;1992;1.000;0.946;0.972
+RandomCommittee;Random[0.9];desordem;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Random[0.9];desordem;53;0;3;1992;1.000;0.946;0.972
+RandomCommittee;Random[0.9];desordem;54;0;2;1992;1.000;0.964;0.982
+RandomCommittee;Random[0.9];UPL;18;0;0;2030;1.000;1.000;1.000
+RandomCommittee;Random[0.9];UPL;18;0;0;2030;1.000;1.000;1.000
+RandomCommittee;Random[0.9];UPL;18;0;0;2030;1.000;1.000;1.000
+RandomCommittee;Random[0.9];UPL;17;0;1;2030;1.000;0.944;0.971
+RandomCommittee;Random[0.9];UPL;18;0;0;2030;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mauricio Alférez;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Loja Virtual;55;0;1;1992;1.000;0.982;0.991
+RandomCommittee;Random[0.9];Loja Virtual;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Loja Virtual;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Loja Virtual;55;0;1;1992;1.000;0.982;0.991
+RandomCommittee;Random[0.9];Loja Virtual;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome- Simplified Sample;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SmartHome- Simplified Sample;10;1;0;2037;0.909;1.000;0.952
+RandomCommittee;Random[0.9];Ubuntu;11;2;1;2034;0.846;0.917;0.880
+RandomCommittee;Random[0.9];Ubuntu;11;1;1;2035;0.917;0.917;0.917
+RandomCommittee;Random[0.9];Ubuntu;9;1;3;2035;0.900;0.750;0.818
+RandomCommittee;Random[0.9];Ubuntu;11;0;1;2036;1.000;0.917;0.957
+RandomCommittee;Random[0.9];Ubuntu;12;1;0;2035;0.923;1.000;0.960
+RandomCommittee;Random[0.9];Implementacion;6;0;1;2041;1.000;0.857;0.923
+RandomCommittee;Random[0.9];Implementacion;6;0;1;2041;1.000;0.857;0.923
+RandomCommittee;Random[0.9];Implementacion;5;0;2;2041;1.000;0.714;0.833
+RandomCommittee;Random[0.9];Implementacion;7;2;0;2039;0.778;1.000;0.875
+RandomCommittee;Random[0.9];Implementacion;6;0;1;2041;1.000;0.857;0.923
+RandomCommittee;Random[0.9];Imolementacion II;2;0;1;2045;1.000;0.667;0.800
+RandomCommittee;Random[0.9];Imolementacion II;3;0;0;2045;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Imolementacion II;2;0;1;2045;1.000;0.667;0.800
+RandomCommittee;Random[0.9];Imolementacion II;0;0;3;2045;NaN;0.000;NaN
+RandomCommittee;Random[0.9];Imolementacion II;2;1;1;2044;0.667;0.667;0.667
+RandomCommittee;Random[0.9];Basic Car;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Basic Car;15;0;1;2032;1.000;0.938;0.968
+RandomCommittee;Random[0.9];Basic Car;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Basic Car;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Basic Car;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];CarExample;3;0;0;2045;1.000;1.000;1.000
+RandomCommittee;Random[0.9];CarExample;3;0;0;2045;1.000;1.000;1.000
+RandomCommittee;Random[0.9];CarExample;3;0;0;2045;1.000;1.000;1.000
+RandomCommittee;Random[0.9];CarExample;3;0;0;2045;1.000;1.000;1.000
+RandomCommittee;Random[0.9];CarExample;3;0;0;2045;1.000;1.000;1.000
+RandomCommittee;Random[0.9];mo;60;0;0;1988;1.000;1.000;1.000
+RandomCommittee;Random[0.9];mo;60;0;0;1988;1.000;1.000;1.000
+RandomCommittee;Random[0.9];mo;60;0;0;1988;1.000;1.000;1.000
+RandomCommittee;Random[0.9];mo;60;0;0;1988;1.000;1.000;1.000
+RandomCommittee;Random[0.9];mo;60;0;0;1988;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mobile Media v3;1;0;1;2046;1.000;0.500;0.667
+RandomCommittee;Random[0.9];Mobile Media v3;1;0;1;2046;1.000;0.500;0.667
+RandomCommittee;Random[0.9];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Mobile Media v3;2;0;0;2046;1.000;1.000;1.000
+RandomCommittee;Random[0.9];JDFM;17;1;3;2027;0.944;0.850;0.895
+RandomCommittee;Random[0.9];JDFM;20;2;0;2026;0.909;1.000;0.952
+RandomCommittee;Random[0.9];JDFM;19;0;1;2028;1.000;0.950;0.974
+RandomCommittee;Random[0.9];JDFM;16;0;4;2028;1.000;0.800;0.889
+RandomCommittee;Random[0.9];JDFM;19;3;1;2025;0.864;0.950;0.905
+RandomCommittee;Random[0.9];Analisis;5;0;1;2042;1.000;0.833;0.909
+RandomCommittee;Random[0.9];Analisis;5;0;1;2042;1.000;0.833;0.909
+RandomCommittee;Random[0.9];Analisis;5;0;1;2042;1.000;0.833;0.909
+RandomCommittee;Random[0.9];Analisis;6;0;0;2042;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Analisis;4;0;2;2042;1.000;0.667;0.800
+RandomCommittee;Random[0.9];Matrix chain multiplication;11;2;4;2031;0.846;0.733;0.786
+RandomCommittee;Random[0.9];Matrix chain multiplication;13;0;2;2033;1.000;0.867;0.929
+RandomCommittee;Random[0.9];Matrix chain multiplication;15;1;0;2032;0.938;1.000;0.968
+RandomCommittee;Random[0.9];Matrix chain multiplication;15;0;0;2033;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Matrix chain multiplication;11;1;4;2032;0.917;0.733;0.815
+RandomCommittee;Random[0.9];Observatorio;7;0;1;2040;1.000;0.875;0.933
+RandomCommittee;Random[0.9];Observatorio;5;0;3;2040;1.000;0.625;0.769
+RandomCommittee;Random[0.9];Observatorio;7;0;1;2040;1.000;0.875;0.933
+RandomCommittee;Random[0.9];Observatorio;8;1;0;2039;0.889;1.000;0.941
+RandomCommittee;Random[0.9];Observatorio;8;0;0;2040;1.000;1.000;1.000
+RandomCommittee;Random[0.9];collapse_view_example;31;0;0;2017;1.000;1.000;1.000
+RandomCommittee;Random[0.9];collapse_view_example;29;0;2;2017;1.000;0.935;0.967
+RandomCommittee;Random[0.9];collapse_view_example;31;0;0;2017;1.000;1.000;1.000
+RandomCommittee;Random[0.9];collapse_view_example;30;1;1;2016;0.968;0.968;0.968
+RandomCommittee;Random[0.9];collapse_view_example;26;0;5;2017;1.000;0.839;0.912
+RandomCommittee;Random[0.9];Match de foot;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Match de foot;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Match de foot;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Match de foot;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Match de foot;16;0;0;2032;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example;40;0;0;2008;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example;40;0;0;2008;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example;40;0;0;2008;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example;40;0;0;2008;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example;40;0;0;2008;1.000;1.000;1.000
+RandomCommittee;Random[0.9];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+RandomCommittee;Random[0.9];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+RandomCommittee;Random[0.9];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+RandomCommittee;Random[0.9];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+RandomCommittee;Random[0.9];XOR NEW;88;0;0;1960;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example 2;72;0;0;1976;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example 2;72;0;0;1976;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example 2;71;0;1;1976;1.000;0.986;0.993
+RandomCommittee;Random[0.9];Xor Example 2;72;0;0;1976;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Xor Example 2;72;0;0;1976;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Sylvain Example;9;0;1;2038;1.000;0.900;0.947
+RandomCommittee;Random[0.9];Sylvain Example;9;1;1;2037;0.900;0.900;0.900
+RandomCommittee;Random[0.9];Sylvain Example;9;1;1;2037;0.900;0.900;0.900
+RandomCommittee;Random[0.9];Sylvain Example;10;1;0;2037;0.909;1.000;0.952
+RandomCommittee;Random[0.9];Sylvain Example;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ROOT;96;0;0;1952;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ROOT;96;0;0;1952;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ROOT;96;0;0;1952;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ROOT;96;0;0;1952;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ROOT;96;0;0;1952;1.000;1.000;1.000
+RandomCommittee;Random[0.9];NovoSiga;20;0;0;2028;1.000;1.000;1.000
+RandomCommittee;Random[0.9];NovoSiga;20;0;0;2028;1.000;1.000;1.000
+RandomCommittee;Random[0.9];NovoSiga;20;0;0;2028;1.000;1.000;1.000
+RandomCommittee;Random[0.9];NovoSiga;20;0;0;2028;1.000;1.000;1.000
+RandomCommittee;Random[0.9];NovoSiga;20;0;0;2028;1.000;1.000;1.000
+RandomCommittee;Random[0.9];asdsfa ewtwwe;9;0;3;2036;1.000;0.750;0.857
+RandomCommittee;Random[0.9];asdsfa ewtwwe;12;0;0;2036;1.000;1.000;1.000
+RandomCommittee;Random[0.9];asdsfa ewtwwe;12;0;0;2036;1.000;1.000;1.000
+RandomCommittee;Random[0.9];asdsfa ewtwwe;12;0;0;2036;1.000;1.000;1.000
+RandomCommittee;Random[0.9];asdsfa ewtwwe;11;0;1;2036;1.000;0.917;0.957
+RandomCommittee;Random[0.9];Website;64;0;0;1984;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Website;64;0;0;1984;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Website;64;0;0;1984;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Website;64;0;0;1984;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Website;64;0;0;1984;1.000;1.000;1.000
+RandomCommittee;Random[0.9];1;13;0;1;2034;1.000;0.929;0.963
+RandomCommittee;Random[0.9];1;14;0;0;2034;1.000;1.000;1.000
+RandomCommittee;Random[0.9];1;14;0;0;2034;1.000;1.000;1.000
+RandomCommittee;Random[0.9];1;14;0;0;2034;1.000;1.000;1.000
+RandomCommittee;Random[0.9];1;14;0;0;2034;1.000;1.000;1.000
+RandomCommittee;Random[0.9];erewr;24;0;0;2024;1.000;1.000;1.000
+RandomCommittee;Random[0.9];erewr;24;1;0;2023;0.960;1.000;0.980
+RandomCommittee;Random[0.9];erewr;22;0;2;2024;1.000;0.917;0.957
+RandomCommittee;Random[0.9];erewr;23;0;1;2024;1.000;0.958;0.979
+RandomCommittee;Random[0.9];erewr;24;0;0;2024;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Webshop_SPLE2014_Chalmers;7;0;1;2040;1.000;0.875;0.933
+RandomCommittee;Random[0.9];Webshop_SPLE2014_Chalmers;8;0;0;2040;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Webshop_SPLE2014_Chalmers;7;0;1;2040;1.000;0.875;0.933
+RandomCommittee;Random[0.9];Webshop_SPLE2014_Chalmers;8;0;0;2040;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Webshop_SPLE2014_Chalmers;7;1;1;2039;0.875;0.875;0.875
+RandomCommittee;Random[0.9];poker spl;21;0;0;2027;1.000;1.000;1.000
+RandomCommittee;Random[0.9];poker spl;18;0;3;2027;1.000;0.857;0.923
+RandomCommittee;Random[0.9];poker spl;21;0;0;2027;1.000;1.000;1.000
+RandomCommittee;Random[0.9];poker spl;18;0;3;2027;1.000;0.857;0.923
+RandomCommittee;Random[0.9];poker spl;21;3;0;2024;0.875;1.000;0.933
+RandomCommittee;Random[0.9];r;79;0;5;1964;1.000;0.940;0.969
+RandomCommittee;Random[0.9];r;79;1;5;1963;0.988;0.940;0.963
+RandomCommittee;Random[0.9];r;84;0;0;1964;1.000;1.000;1.000
+RandomCommittee;Random[0.9];r;80;3;4;1961;0.964;0.952;0.958
+RandomCommittee;Random[0.9];r;78;1;6;1963;0.987;0.929;0.957
+RandomCommittee;Random[0.9];E-shop;28;1;1;2018;0.966;0.966;0.966
+RandomCommittee;Random[0.9];E-shop;29;0;0;2019;1.000;1.000;1.000
+RandomCommittee;Random[0.9];E-shop;29;0;0;2019;1.000;1.000;1.000
+RandomCommittee;Random[0.9];E-shop;29;0;0;2019;1.000;1.000;1.000
+RandomCommittee;Random[0.9];E-shop;28;0;1;2019;1.000;0.966;0.982
+RandomCommittee;Random[0.9];PC model;15;0;3;2030;1.000;0.833;0.909
+RandomCommittee;Random[0.9];PC model;17;0;1;2030;1.000;0.944;0.971
+RandomCommittee;Random[0.9];PC model;18;0;0;2030;1.000;1.000;1.000
+RandomCommittee;Random[0.9];PC model;17;1;1;2029;0.944;0.944;0.944
+RandomCommittee;Random[0.9];PC model;17;0;1;2030;1.000;0.944;0.971
+RandomCommittee;Random[0.9];testing;255;1;0;1792;0.996;1.000;0.998
+RandomCommittee;Random[0.9];testing;255;1;0;1792;0.996;1.000;0.998
+RandomCommittee;Random[0.9];testing;255;1;0;1792;0.996;1.000;0.998
+RandomCommittee;Random[0.9];testing;255;0;0;1793;1.000;1.000;1.000
+RandomCommittee;Random[0.9];testing;255;0;0;1793;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ubuntu;17;1;1;2029;0.944;0.944;0.944
+RandomCommittee;Random[0.9];ubuntu;17;0;1;2030;1.000;0.944;0.971
+RandomCommittee;Random[0.9];ubuntu;18;0;0;2030;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ubuntu;16;0;2;2030;1.000;0.889;0.941
+RandomCommittee;Random[0.9];ubuntu;16;2;2;2028;0.889;0.889;0.889
+RandomCommittee;Random[0.9];Jogo;3;0;1;2044;1.000;0.750;0.857
+RandomCommittee;Random[0.9];Jogo;4;0;0;2044;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Jogo;4;0;0;2044;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Jogo;4;0;0;2044;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Jogo;4;0;0;2044;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Assistente de Compras;23;1;1;2023;0.958;0.958;0.958
+RandomCommittee;Random[0.9];Assistente de Compras;24;1;0;2023;0.960;1.000;0.980
+RandomCommittee;Random[0.9];Assistente de Compras;22;0;2;2024;1.000;0.917;0.957
+RandomCommittee;Random[0.9];Assistente de Compras;22;0;2;2024;1.000;0.917;0.957
+RandomCommittee;Random[0.9];Assistente de Compras;20;2;4;2022;0.909;0.833;0.870
+RandomCommittee;Random[0.9];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+RandomCommittee;Random[0.9];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+RandomCommittee;Random[0.9];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+RandomCommittee;Random[0.9];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+RandomCommittee;Random[0.9];HandlingSystem;1;0;0;2047;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Autosoft;108;3;4;1933;0.973;0.964;0.969
+RandomCommittee;Random[0.9];Autosoft;109;1;3;1935;0.991;0.973;0.982
+RandomCommittee;Random[0.9];Autosoft;112;1;0;1935;0.991;1.000;0.996
+RandomCommittee;Random[0.9];Autosoft;111;4;1;1932;0.965;0.991;0.978
+RandomCommittee;Random[0.9];Autosoft;112;0;0;1936;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Rotation1;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Rotation1;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Rotation1;9;0;1;2038;1.000;0.900;0.947
+RandomCommittee;Random[0.9];Rotation1;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Rotation1;10;0;0;2038;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SPL_e_commerce;54;0;2;1992;1.000;0.964;0.982
+RandomCommittee;Random[0.9];SPL_e_commerce;56;0;0;1992;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SPL_e_commerce;52;1;4;1991;0.981;0.929;0.954
+RandomCommittee;Random[0.9];SPL_e_commerce;52;1;4;1991;0.981;0.929;0.954
+RandomCommittee;Random[0.9];SPL_e_commerce;56;3;0;1989;0.949;1.000;0.974
+RandomCommittee;Random[0.9];ESCA Embeeded System;6;0;4;2038;1.000;0.600;0.750
+RandomCommittee;Random[0.9];ESCA Embeeded System;10;1;0;2037;0.909;1.000;0.952
+RandomCommittee;Random[0.9];ESCA Embeeded System;9;2;1;2036;0.818;0.900;0.857
+RandomCommittee;Random[0.9];ESCA Embeeded System;10;1;0;2037;0.909;1.000;0.952
+RandomCommittee;Random[0.9];ESCA Embeeded System;9;3;1;2035;0.750;0.900;0.818
+RandomCommittee;Random[0.9];27-5-207 test;39;1;5;2003;0.975;0.886;0.929
+RandomCommittee;Random[0.9];27-5-207 test;44;1;0;2003;0.978;1.000;0.989
+RandomCommittee;Random[0.9];27-5-207 test;44;2;0;2002;0.957;1.000;0.978
+RandomCommittee;Random[0.9];27-5-207 test;44;0;0;2004;1.000;1.000;1.000
+RandomCommittee;Random[0.9];27-5-207 test;44;0;0;2004;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Modelo de Característica para Entidades Urbanas;512;0;0;1536;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ZMUConcernExample;8;0;0;2040;1.000;1.000;1.000
+RandomCommittee;Random[0.9];ZMUConcernExample;8;1;0;2039;0.889;1.000;0.941
+RandomCommittee;Random[0.9];ZMUConcernExample;7;1;1;2039;0.875;0.875;0.875
+RandomCommittee;Random[0.9];ZMUConcernExample;8;1;0;2039;0.889;1.000;0.941
+RandomCommittee;Random[0.9];ZMUConcernExample;8;0;0;2040;1.000;1.000;1.000
+RandomCommittee;Random[0.9];SimpleModel;23;1;1;2023;0.958;0.958;0.958
+RandomCommittee;Random[0.9];SimpleModel;21;1;3;2023;0.955;0.875;0.913
+RandomCommittee;Random[0.9];SimpleModel;24;2;0;2022;0.923;1.000;0.960
+RandomCommittee;Random[0.9];SimpleModel;22;0;2;2024;1.000;0.917;0.957
+RandomCommittee;Random[0.9];SimpleModel;22;0;2;2024;1.000;0.917;0.957
+RandomCommittee;Random[0.9];Car;12;1;0;2035;0.923;1.000;0.960
+RandomCommittee;Random[0.9];Car;12;0;0;2036;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Car;11;1;1;2035;0.917;0.917;0.917
+RandomCommittee;Random[0.9];Car;12;0;0;2036;1.000;1.000;1.000
+RandomCommittee;Random[0.9];Car;11;0;1;2036;1.000;0.917;0.957
+RandomCommittee;Random[0.9];Weather Station;44;2;0;2002;0.957;1.000;0.978
+RandomCommittee;Random[0.9];Weather Station;41;1;3;2003;0.976;0.932;0.953
+RandomCommittee;Random[0.9];Weather Station;41;4;3;2000;0.911;0.932;0.921
+RandomCommittee;Random[0.9];Weather Station;43;1;1;2003;0.977;0.977;0.977
+RandomCommittee;Random[0.9];Weather Station;40;1;4;2003;0.976;0.909;0.941
+RandomCommittee;Random[0.9];Cellphone;12;1;2;2033;0.923;0.857;0.889
+RandomCommittee;Random[0.9];Cellphone;13;2;1;2032;0.867;0.929;0.897
+RandomCommittee;Random[0.9];Cellphone;13;0;1;2034;1.000;0.929;0.963
+RandomCommittee;Random[0.9];Cellphone;11;0;3;2034;1.000;0.786;0.880
+RandomCommittee;Random[0.9];Cellphone;13;2;1;2032;0.867;0.929;0.897

@@ -1,0 +1,50 @@
+CLASSIFIER;SAMPLING;MODEL;TP;FP;FN;TN;PRECISION;RECALL;F-SCORE
+Logistic;Combinatorial[0];Car PL;0;8;88;16288;0.000;0.000;NaN
+Logistic;Combinatorial[0];IDE4OCL;64;0;0;16320;1.000;1.000;1.000
+Logistic;Combinatorial[0];WB;344;104;296;15640;0.768;0.538;0.632
+Logistic;Combinatorial[0];MiniTV;248;8;0;16128;0.969;1.000;0.984
+Logistic;Combinatorial[0];Carro Model;0;0;30;16354;NaN;0.000;NaN
+Logistic;Combinatorial[0];CTOS MODEL;6;6;12;16360;0.500;0.333;0.400
+Logistic;Combinatorial[0];Mobile Phone, until relase 5;16;0;0;16368;1.000;1.000;1.000
+Logistic;Combinatorial[0];ELPS - ISE;160;160;302;15762;0.500;0.346;0.409
+Logistic;Combinatorial[0];UML-IDE-TOOL;1536;0;0;14848;1.000;1.000;1.000
+Logistic;Combinatorial[0];Linha de produtos - SimulES e PnP;0;16;144;16224;0.000;0.000;NaN
+Logistic;Combinatorial[0];Car demo;16;16;32;16320;0.500;0.333;0.400
+Logistic;Combinatorial[0];Simple Drawing Tools;1905;16;0;14463;0.992;1.000;0.996
+Logistic;Combinatorial[0];pruebapalabras;0;0;72;16312;NaN;0.000;NaN
+Logistic;Combinatorial[0];PhysEval;16;4;38;16326;0.800;0.296;0.432
+Logistic;Combinatorial[0];JhotDrawn;744;280;284;15076;0.727;0.724;0.725
+Logistic;Combinatorial[0];Mobile Media;0;0;6;16378;NaN;0.000;NaN
+Logistic;Combinatorial[0];User Model;28;36;116;16204;0.438;0.194;0.269
+Logistic;Combinatorial[0];Buzzard Radio play DB;352;40;96;15896;0.898;0.786;0.838
+Logistic;Combinatorial[0];RE Process;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];Mobile Media JULIO;16;4;8;16356;0.800;0.667;0.727
+Logistic;Combinatorial[0];matrices;0;0;20;16364;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile media v4;0;0;4;16380;NaN;0.000;NaN
+Logistic;Combinatorial[0];Mobile Phone Software;0;0;52;16332;NaN;0.000;NaN
+Logistic;Combinatorial[0];Celular;4;12;92;16276;0.250;0.042;0.071
+Logistic;Combinatorial[0];Pip;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];AGORA;68;28;52;16236;0.708;0.567;0.630
+Logistic;Combinatorial[0];SHIFT QAs;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];BSS_CS5702_G3;8;0;0;16376;1.000;1.000;1.000
+Logistic;Combinatorial[0];Smart-phone;0;0;8;16376;NaN;0.000;NaN
+Logistic;Combinatorial[0];Scenario Application;0;16;56;16312;0.000;0.000;NaN
+Logistic;Combinatorial[0];Simplified Smart Hotel;0;64;232;16088;0.000;0.000;NaN
+Logistic;Combinatorial[0];Content Store;0;16;56;16312;0.000;0.000;NaN
+Logistic;Combinatorial[0];Urna Gleidson;9;2;0;16373;0.818;1.000;0.900
+Logistic;Combinatorial[0];Eleição de um prefeito e um vereador;0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering;0;0;24;16360;NaN;0.000;NaN
+Logistic;Combinatorial[0];LeSE - Learning Software Engineering (Aprendendo Engenharia de Software);0;0;16;16368;NaN;0.000;NaN
+Logistic;Combinatorial[0];Clinica Medica;6;0;6;16372;1.000;0.500;0.667
+Logistic;Combinatorial[0];Celulares;248;112;156;15868;0.689;0.614;0.649
+Logistic;Combinatorial[0];video on demand;0;0;32;16352;NaN;0.000;NaN
+Logistic;Combinatorial[0];Pizza;43;47;153;16141;0.478;0.219;0.301
+Logistic;Combinatorial[0];SA;42;14;134;16194;0.750;0.239;0.362
+Logistic;Combinatorial[0];Smartwatch;64;0;0;16320;1.000;1.000;1.000
+Logistic;Combinatorial[0];TVSmart;0;0;10;16374;NaN;0.000;NaN
+Logistic;Combinatorial[0];catalogo;2;2;4;16376;0.500;0.333;0.400
+Logistic;Combinatorial[0];Farnaz koohestani;1;0;0;16383;1.000;1.000;1.000
+Logistic;Combinatorial[0];Virtual_Office_of_the_Future;0;0;48;16336;NaN;0.000;NaN
+Logistic;Combinatorial[0];Search_Engine_PL;0;38;126;16220;0.000;0.000;NaN
+Logistic;Combinatorial[0];JPlug;0;0;80;16304;NaN;0.000;NaN
+Logistic;Combinatorial[0];James;8;8;60;16308;0.500;0.118;0.190
